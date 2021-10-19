@@ -39,9 +39,10 @@ Here is some text
 
 Check out this image:
 ![Figure: From URL](https://www.ssw.com.au/ssw/Company/Images/Offices/ssw-brisbane-team.jpg)
+:::bad:::
 Also have a look at this one:
 
-:::good
+:::good:::
 ![](SuccessfulProjects_ManagingExpectations.jpg)
 
 
