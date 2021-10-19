@@ -37,6 +37,7 @@ Here is some text
 3. third
 
 
+
 Check out this image:
 
 ![Figure: From URL](https://www.ssw.com.au/ssw/Company/Images/Offices/ssw-brisbane-team.jpg)
@@ -46,6 +47,5 @@ Also have a look at this one:
 :::good
 ![](SuccessfulProjects_ManagingExpectations.jpg)
 :::
-
 
 
