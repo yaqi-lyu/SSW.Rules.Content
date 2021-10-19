@@ -35,18 +35,18 @@ Here is some text
 1. first
 2. second
 3. third
-
+Figure: From URL
 
 
 Check out this image:
-
+:::good
 ![](https://www.ssw.com.au/ssw/Company/Images/Offices/ssw-brisbane-team.jpg)
-
+:::
 Also have a look at this one:
 
 :::good
 ![](SuccessfulProjects_ManagingExpectations.jpg)
-:::
+
 
 
 
