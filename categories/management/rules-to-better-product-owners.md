@@ -40,7 +40,7 @@ Here is some text
 
 Check out this image:
 
-![Figure: From URL](teamssw.jpg)
+![Figure: From URL](http://localhost:8000/assets/teamssw.jpg)
 
 Also have a look at this one:
 
