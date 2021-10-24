@@ -40,12 +40,10 @@ Here is some text
 
 Check out this image:
 
-![Figure: From URL](http://localhost:8000/assets/teamssw.jpg)
+![Figure: From URL](https://www.ssw.com.au/ssw/Company/Images/Offices/ssw-brisbane-team.jpg)
 
 Also have a look at this one:
 
 :::good
 ![](SuccessfulProjects_ManagingExpectations.jpg)
 :::
-
-
