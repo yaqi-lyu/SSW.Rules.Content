@@ -45,5 +45,5 @@ Check out this image:
 Also have a look at this one:
 
 :::good
-![](./SuccessfulProjects_ManagingExpectations.jpg)
+![](/SuccessfulProjects_ManagingExpectations.jpg)
 :::
