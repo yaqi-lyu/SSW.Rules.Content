@@ -1,11 +1,11 @@
 ---
 type: rule
-title: Test Rule 4
-uri: test-rule-44
-guid: 55a5b403-8b89-4437-9833-253fadc5572b
+title: Test Rul2
+uri: test-2
+guid: 55a5b403-8b89-4437-9833-253fadc5072b
 authors:
-  - title: Piers Sinclair
-created: 2021-04-14T02:43:02.825Z
+  - title: Jack Pettit
+created: 2021-10-25T02:43:02.825Z
 ---
 Markdown shown in the blurb.
 <!--endintro-->
