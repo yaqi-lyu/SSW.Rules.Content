@@ -44,8 +44,11 @@ Check out this image:
 
 Also have a look at this one:
 
-:::good
-![](SuccessfulProjects_ManagingExpectations.jpg)
+::: good
+![Figure: Good Test](SuccessfulProjects_ManagingExpectations.jpg)
 :::
 
+::: good  
+![Figure: Good figure](https://images.unsplash.com/photo-1491472253230-a044054ca35f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80)
+:::
 
