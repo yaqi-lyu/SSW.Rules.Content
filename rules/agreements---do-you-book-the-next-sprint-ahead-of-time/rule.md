@@ -25,8 +25,17 @@ related:
 ###### [Heading 6](ssw.com.au/rules)
 
 ::: good
-![Figure: Testing this image](/techdebt-backlog.png)
+![Figure: Testing this image](techdebt-backlog.png)
 :::
+
+::: bad
+![Figure: Testing this image](adam-long-signature.jpg)
+:::
+
+::: bad
+![Figure: Testing this image](pxl_20211014_235412634.jpg)
+:::
+
 
 - Check framing as per: [ssw.com.au/rules/production-do-you-know-the-correct-way-to-frame-your-subject](https://www.ssw.com.au/rules/production-do-you-know-the-correct-way-to-frame-your-subject) 
 - Check lighting as per: [ssw.com.au/rules/have-good-lighting-on-your-home-office](https://www.ssw.com.au/rules/have-good-lighting-on-your-home-office)
