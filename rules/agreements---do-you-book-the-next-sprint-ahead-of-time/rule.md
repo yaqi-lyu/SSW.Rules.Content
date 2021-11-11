@@ -25,7 +25,7 @@ related:
 ###### [Heading 6](ssw.com.au/rules)
 
 ::: good
-![Figure: Testing this image](techdebt-backlog.png)
+![Figure: Testing this image](/techdebt-backlog.png)
 :::
 
 ::: bad
