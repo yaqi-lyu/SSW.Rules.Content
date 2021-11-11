@@ -25,15 +25,15 @@ related:
 ###### [Heading 6](ssw.com.au/rules)
 
 ::: good
-![Figure: Testing this image](/techdebt-backlog.png)
+![Figure: Testing this image](techdebt-backlog.png)
 :::
 
 ::: bad
-![Figure: Bad Image stretch](/pxl_20211014_235412634.jpg)
+![Figure: Bad Image stretch](pxl_20211014_235412634.jpg)
 :::
 
 ::: bad
-![Figure: Bad Image Stretch 2](/adam-long-signature.jpg)
+![Figure: Bad Image Stretch 2](adam-long-signature.jpg)
 :::
 
 - Check framing as per: [ssw.com.au/rules/production-do-you-know-the-correct-way-to-frame-your-subject](https://www.ssw.com.au/rules/production-do-you-know-the-correct-way-to-frame-your-subject) 
