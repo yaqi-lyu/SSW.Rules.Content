@@ -48,6 +48,8 @@ This means that after creating the asset in the system, it generally gets a uniq
 ![Figure: Good Example - A professional label printed with the important asset info e.g. ID, name and serial number](pxl_20211014_235412634.jpg)
 :::
 
+But what if we put this here instead?
+
 ::: info
 A good system that does all this is [SnipeIT](https://snipeitapp.com/). SnipeIT has a nice interface, easy to use, maintain and upgrade. It generates labels for you, has an API for you to integrate with your current systems and is free if you host it yourself!
 :::
