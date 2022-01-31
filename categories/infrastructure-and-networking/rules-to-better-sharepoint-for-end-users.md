@@ -11,6 +11,7 @@ index:
 - do-you-know-how-to-view-changes-made-to-a-sharepoint-page
 - do-you-know-the-keyboard-shortcuts
 - do-you-know-why-you-should-use-open-with-explorer-over-onedrive
+- rule
 
 ---
 Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
