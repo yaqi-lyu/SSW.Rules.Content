@@ -82,7 +82,6 @@ index:
 - do-you-carry-more-than-just-the-microsoft-tool-box
 - do-you-do-monthly-peer-evaluations
 - do-you-manage-your-email
-- rule
 
 ---
 `youtube: https://www.youtube.com/embed/atVkEY8v1CU`
