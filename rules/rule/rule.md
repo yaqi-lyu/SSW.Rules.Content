@@ -13,7 +13,10 @@ authors:
 - title: Tiago Araujo
   url: https://ssw.com.au/people/tiago-araujo
 related:
-
+  - do-you-know-how-to-add-or-remove-someone-from-the-conversation
+  - agreements---do-you-use-1-or-2-week-sprints
+  - agreements---do-you-know-who-pays-for-bugs
+  - agreements---do-you-join-the-team-as-a-tester
 ---
 
 This is an example rule to show you what is possible for a rule. 
