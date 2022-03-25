@@ -1,7 +1,7 @@
 ---
-archivedreason: This is too basic. Follow https://www.ssw.com.au/rules/rules-to-better-security-end-users instead.
 type: rule
 title: Passwords - Do you know to NEVER share your password?
+archivedreason: This is too basic. Follow https://www.ssw.com.au/rules/rules-to-better-security-end-users instead.
 uri: never-share-passwords
 authors:
   - title: Matt Goldman
