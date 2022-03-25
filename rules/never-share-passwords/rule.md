@@ -1,14 +1,13 @@
 ---
+archivedreason: This is too basic. Follow https://www.ssw.com.au/rules/rules-to-better-security-end-users instead.
 type: rule
 title: Passwords - Do you know to NEVER share your password?
-archivedreason: This is too basic. Follow https://www.ssw.com.au/rules/rules-to-better-security-end-users instead.
 uri: never-share-passwords
 authors:
   - title: Matt Goldman
 created: 2022-03-17T05:31:01.471Z
 guid: 207ef6d3-3fae-43ae-a2a3-ae55a27847bf
 ---
-
 You must NEVER give anyone else your password. Once someone else knows your password, it is not secure, and you should change it immediately. Even if you trust the person you told your password too, they may inadvertently leak it, even by accident. There’s a well-known quote from Benjamin Franklin:
 
 ![Figure: Password advice from Benjamin Franklin](bf-quote.jpg)
