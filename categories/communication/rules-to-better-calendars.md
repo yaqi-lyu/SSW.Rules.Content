@@ -26,6 +26,8 @@ index:
 - calendar---does-your-website-make-it-easy-for-your-users-to-add-an-event-to-their-calendar
 - metrics---do-you-track-your-initial-meetings
 - calendar---does-your-calendar-always-accurately-show-where-you-are
+redirects:
+ - test-redirect
 
 ---
 It's important to use your calendar correctly as it's your main organizational tool and how others view your time.
