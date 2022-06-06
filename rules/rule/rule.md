@@ -204,6 +204,10 @@ Check out this video - it's responsive!
 
 ![Figure: Relative image](1.png)
 
+::: no-border
+![Figure: Image with no border](1.png)
+:::
+
 # Horizontal Rules
 ---
 ***
@@ -246,5 +250,7 @@ Some text to show that the reference links can follow later.
 [arbitrary case-insensitive reference text]: https://www.mozilla.org  
 [1]: http://slashdot.org  
 [link text itself]: http://www.reddit.com
+
+
 
 
