@@ -8,7 +8,7 @@ created: 2021-01-20T05:06:33.0000000Z
 authors:
   - title: Christian Morford-Waite
     url: https://ssw.com.au/people/christian-morford-waite
-    noimg: true
+    noimage: true
   - title: Sebastien-Boissiere
     url: https://ssw.com.au/people/sebastien-boissiere
   - title: Tiago Araujo
