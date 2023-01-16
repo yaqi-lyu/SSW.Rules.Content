@@ -2,7 +2,6 @@
 type: category
 title: Rules to Better Control4
 guid: bf36d1b3-7139-4a48-9338-859890ce431f
-archivedreason: testing archived category
 uid: rules-to-better-control4
 index:
 - do-you-use-the-control4-app
