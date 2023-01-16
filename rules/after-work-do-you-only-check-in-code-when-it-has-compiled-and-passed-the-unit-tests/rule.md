@@ -1,6 +1,6 @@
 ---
 type: rule
-archivedreason: 
+archivedreason: testing url https://ssw.com.au/rules
 title: (After work) Do you only check-in code when it has compiled and passed the unit tests?
 guid: 628ea729-95f9-4f55-8985-6ffe130b5a70
 uri: after-work-do-you-only-check-in-code-when-it-has-compiled-and-passed-the-unit-tests
