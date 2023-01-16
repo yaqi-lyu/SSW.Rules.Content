@@ -2,6 +2,7 @@
 type: rule
 title: Do you know how to recognize phishing URLs?
 uri: recognizing-phishing-urls
+archivedreason: testing archived category
 authors:
   - title: Matt Goldman
     url: https://www.ssw.com.au/people/matt-goldman
