@@ -2,7 +2,6 @@
 type: top-category
 title: Management
 uri: management
-archivedreason: testing archived category
 index:
 - rules-to-successful-projects
 - rules-to-successful-sales-and-account-management
