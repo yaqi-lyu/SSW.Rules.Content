@@ -29,10 +29,3 @@ You might think a favorite sentence from a book might be better, given that it�
 ::: bad
 Bad example – it is a word that other people know
 :::
- 
-::: greybox
-**4yearicecreamcat**
-:::
-::: good
-Good example – it is 16 characters, composed of 5 words, is not a phrase that is known by anyone else, and is easy (for you) to remember
-:::
