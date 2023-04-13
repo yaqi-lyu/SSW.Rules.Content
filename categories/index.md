@@ -1,6 +1,7 @@
 ---
 type: main
 index:
+- products
 - management
 - communication
 - software-development
@@ -8,7 +9,6 @@ index:
 - design-and-presentation
 - infrastructure-and-networking
 - application-lifecycle-management-alm
-- products
 - marketing-and-video
 - reporting-solutions
 - others
