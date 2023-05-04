@@ -31,5 +31,5 @@ Of course, we update the course with every version, but it's still amazing becau
 * [Little Book of Angular](Little-Book-Angular.pdf)
 * **[Little Book of Angular](Little-Book-Angular.pdf)**
 * [Little Book of Angular](/Little-Book-Angular.pdf)
-* **[Little Book of Angular](/Little-Book-Angular.pdf)**
+* **[Test Relative Link PDF](./Little-Book-Angular.pdf)**
 * **[Little Book of Angular](https://github.com/SSWConsulting/SSW.Rules.Content/blob/5767b4cfde1db0030404931054318c3d01fa7f85/rules/the-best-learning-resources-for-angular/Little-Book-Angular.pdf)**
