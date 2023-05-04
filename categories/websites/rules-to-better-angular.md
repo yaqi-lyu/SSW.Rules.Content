@@ -28,8 +28,5 @@ Angular and React have been the 2 dominant front-end technologies for the last f
 Of course, we update the course with every version, but it's still amazing because JavaScript frameworks have a reputation for being transitory. But these 2 frameworks have become entrenched in enterprises everywhere.
 
 
-* [Little Book of Angular](Little-Book-Angular.pdf)
 * **[Little Book of Angular](Little-Book-Angular.pdf)**
-* [Little Book of Angular](/Little-Book-Angular.pdf)
-* **[Test Relative Link PDF](./Little-Book-Angular.pdf)**
 * **[Little Book of Angular](https://github.com/SSWConsulting/SSW.Rules.Content/blob/5767b4cfde1db0030404931054318c3d01fa7f85/rules/the-best-learning-resources-for-angular/Little-Book-Angular.pdf)**
