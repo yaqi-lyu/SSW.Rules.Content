@@ -1,10 +1,9 @@
 ---
 type: category
 title: Rules to Better Proposals
-archivedreason: testing archived category
 guid: 7fb824ed-22ff-4da5-bd91-2bf3bbd1c47d
 uid: rules-to-better-proposals
-experts: https://www.ssw.com.au/people/?skill=Rust&skill=Blazor
+experts: https://www.ssw.com.au/people/?skill=Blazor
 consulting: https://www.ssw.com.au/consulting/blazor
 index:
 - do-you-have-a-cover-page-with-clients-photo
