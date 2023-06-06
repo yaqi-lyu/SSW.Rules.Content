@@ -292,5 +292,5 @@ Don't surprise users! Use icons next to links to show different types of links/f
 | **Email (mailto:)**                                               | [This link will send an email](mailto:example@mail.com)                          | ...                     |
 | **Normal link**                                                   | [This is a normal link](/rules)                                                  | ...                     |
 | **External link ([see rule](/do-you-make-external-links-clear))** | [This is an external link](https://www.microsoft.com/)                           | ...                     |
-| **Google Maps link** | [open Google Maps](https://www.google.com/maps/place/SSW+Brisbane+-+Enterprise+Software+Development/@-27.462939,153.03212,15z/data=!4m5!3m4!1s0x0:0xd087bdb9527dfca5!8m2!3d-27.462939!4d153.03212/)                           | ![](map-icon.png)                    |
+| **Google Maps link** | [Open Google Maps](https://www.google.com/maps/place/SSW+Brisbane+-+Enterprise+Software+Development/@-27.462939,153.03212,15z/data=!4m5!3m4!1s0x0:0xd087bdb9527dfca5!8m2!3d-27.462939!4d153.03212/)                           | ![](map-icon.png)                    |
 :::
