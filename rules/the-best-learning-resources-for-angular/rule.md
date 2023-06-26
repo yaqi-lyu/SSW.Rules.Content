@@ -54,5 +54,5 @@ Here are the best collection of resources for Angular.
 
 
 ::: info
-**Tip:** You can have different theme options, like SSW's [dark](dark-ssw-wallpaper.png) or [test](./dark-ssw-wallpaper.png) background images.
+**Tip:** You can have different theme options, like SSW's [dark](dark-ssw-wallpaper.png) or [test](./dark-ssw-wallpaper.png) or [![img link](dark-ssw-wallpaper.png)](dark-ssw-wallpaper.png)background images.
 :::
