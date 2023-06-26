@@ -51,3 +51,8 @@ Here are the best collection of resources for Angular.
 
 * **[Angular Hack Day](https://angularhackday.com)**
 * **Your local JavaScript or Angular User Group** - [Find on Meetup](https://www.meetup.com)
+
+
+::: info
+**Tip:** You can have different theme options, like SSW's [dark](dark-ssw-wallpaper.png) background images.
+:::
