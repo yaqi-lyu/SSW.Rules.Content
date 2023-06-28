@@ -18,6 +18,8 @@ redirects:
 created: 2016-02-19T14:02:35.000Z
 archivedreason: null
 guid: 43488c4e-11ba-4b7a-8882-d64a8cf9cd04
+image_link:
+  - dark-ssw-wallpaper.png
 ---
 Here are the best collection of resources for Angular.
 
