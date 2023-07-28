@@ -17,9 +17,11 @@ guid: 09d05330-27de-41b1-803c-0dfc67b752ff
 
 ---
 
-There are a few styles of documentation:
+You should always try and reply to emails and IM messages within a timely period, but this is not always possible.
 
-<!--endintro--> 
+Sometimes people see a 6-month old task/question, and just delete/ignore thinking it's "too old"... or because "the customer will think we're a joke taking this long to do something!" No matter how long it takes to do some tasks, it's always better to get it done.
+
+<!--endintro-->
 
 Of course, there are tasks that can be irrelevant with the passage of time. You should still reply and state that you don't believe it is needed anymore.
 
