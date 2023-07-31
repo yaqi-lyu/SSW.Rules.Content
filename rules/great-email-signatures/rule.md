@@ -23,7 +23,9 @@ redirects:
 created: 2015-11-02T20:01:33.000Z
 archivedreason: null
 guid: 9ba16834-8789-41b1-b64c-7c10e8ffb837
+
 ---
+
 Email signatures are a great way of adding some advertising and branding. You should **always use a nice email signature for external emails**. Internally, you may use a short one (just your name or initials).
 
 `youtube: https://www.youtube.com/embed/qwG8RA-cWy0`
@@ -32,13 +34,14 @@ Email signatures are a great way of adding some advertising and branding. You sh
 
 Full email signatures are great when they have:
 
-* A little **branding** and advertising (can be a tagline or company news), so people know instantly who it is from
-* Your **phone number** (in international format - it's important to add the country code so people from all around the world can easily add you to their contacts - as per [Do you know the right format to show phone numbers?](/do-you-know-the-right-format-to-show-your-phone-number))
-* Your company **website link** (e.g. www.ssw.com.au/)
-* Your **social media** and **blog** link
-* Your **IM** link (E.g. [Teams](https://www.msoutlook.info/question/teams-chat-link-in-email-signature) or [Facebook Messenger](https://medium.com/@michael_at_message/getting-a-facebook-messenger-link-and-messenger-code-dc27ee70a172))
-* Your **position**
-* Your **location** (city/country) where you are based
+* **Branding** - Logo and tagline
+* A little **advertising** - Company news and/or achievements
+* **Phone number** in [international format (add the country code)](//right-format-to-show-phone-numbers) - So people from all around the world can easily add you to their contacts
+* Company's **website** link
+* **Social media** and **blog** links
+* **IM** link (e.g. [Teams](https://www.msoutlook.info/question/teams-chat-link-in-email-signature) or [Facebook Messenger](https://medium.com/@michael_at_message/getting-a-facebook-messenger-link-and-messenger-code-dc27ee70a172))
+* **Position** - Role in the company
+* **Location** - City/country where you are based
 
 ::: info
 **Note:** You [can't add hyperlinks to signatures if you are using the Outlook App](https://answers.microsoft.com/en-us/outlook_com/forum/all/add-hyperlink-to-outlook-signature-on-iphone-and/56edcf68-a1ba-43c1-80cc-49b3248b25e8) – what a shame.
@@ -102,7 +105,7 @@ CodeTwo (and Exclaimer) give:
   ![Figure: With CodeTwo the correct signature is auto selected](codetwo-adam.png)
 
 ::: info 
-Note the plugin currently does not work for Appointments due to a limitation in Outlook. Rules must be manually changed in Exchange Online to include appointments in the server-side version of CodeTwo. Once this has been configured do not manually copy your signature into an appointment or you will get 2 signatures. 
+**Note:** The plugin currently does not work for Appointments due to a limitation in Outlook. Rules must be manually changed in Exchange Online to include appointments in the server-side version of CodeTwo. Once this has been configured do not manually copy your signature into an appointment or you will get 2 signatures. 
 :::
 
 ### Option 2: Set it up manually (Free)
