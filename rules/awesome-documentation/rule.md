@@ -37,7 +37,7 @@ guid: d9a17cdf-0f7c-43dc-91a1-7b8fcc29467d
 
 There are a few styles of documentation:
 
-<!--endintro-->
+<!--endintro--> 
 
 ### ❌ Bad example – Old School
 
