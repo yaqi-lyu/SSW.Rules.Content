@@ -1,6 +1,6 @@
 ---
 type: rule
-title: Quality - Do you know how to request a "test please"?
+title: Quality - Do you know how to request a "Test Please"?
 uri: request-a-test-please
 authors:
   - title: Adam Cogan
