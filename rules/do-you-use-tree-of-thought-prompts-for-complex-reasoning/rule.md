@@ -1,73 +1,65 @@
 ---
 type: rule
-title: Do you use Tree of Thought prompts for complex reasoning
-uri: tree-of-thought-prompts-for-complex-reasoning
+title: Do you know the 3 steps to completing a PBI?
+uri: 3-steps-to-a-pbi
 authors:
-  - title: Ulysses Maclaren
-    url: https://ssw.com.au/people/ulysses-maclaren
+  - title: Adam Cogan
+    url: https://ssw.com.au/people/adam-cogan
+  - title: Matt Wicks
+    url: https://ssw.com.au/people/matt-wicks
+  - title: Piers Sinclair
+    url: https://ssw.com.au/people/piers-sinclair
 related: []
 redirects:
-  - do-you-know-tree-of-thought-prompts
-  - do-you-know-prompts-for-complex-reasoning
+  - do-you-know-the-3-steps-to-completing-a-pbi
+  - do-you-know-the-3-steps-to-a-pbi
+created: 2013-08-30T06:33:21.000Z
+archivedreason: null
+guid: 1de9df77-9b69-4242-b648-e08e5980e9a6
 
 ---
 
-Imagine you're using ChatGPT and you find that the model's answers lack depth or reasoning. You're not alone. Many users experience this, especially when asking complex questions. 
+A PBI (Product Backlog Item) is a term commonly used in Agile project management and software development to represent a unit of work or an item in the Product Backlog, which is a prioritized list of features, enhancements, or fixes to be addressed in a project. 
 
-Tree of Thought (ToT) prompting can be a game-changer in such scenarios.
+From a developer's viewpoint, the lifecycle of a PBI can be broken down into 3 steps:
 
 <!--endintro-->
 
-### What is Tree of Thought Prompting?
+### Before it's ready
 
-Tree of Thought Prompting is a technique that enhances the reasoning abilities of Large Language Models like ChatGPT. It allows the model to explore multiple branches of reasoning and self-correct as it goes along.
+Got an email with tasks or bugs? [Add them to the Product Backlog as PBIs]((/turn-emails-into-pbis) as soon as possible!
 
-Think of ToT prompting as a brainstorming session among experts. Each expert represents a branch of reasoning. They share their thoughts, evaluate each other's reasoning, and reach a consensus.
+Next, check the PBI against the [Definition of Ready](/have-a-definition-of-ready).
 
-### Why is it Useful?
+### 1. PBI is Ready
 
-- **Enhanced Reasoning**: ToT prompting improves the model's ability to answer complex questions.
-- **Self-Correction**: The model can identify and rectify its errors autonomously.
-- **Single Prompt**: Unlike other methods such as Reflexion, ToT can be implemented in a single sentence prompt.
+You have a backlog of PBIs (tasks, features, and fixes) which are already prioritized and approved by the [Product Owner](/rules-to-better-product-owners)
 
-Use ToT prompting when you need more reasoned and nuanced answers from ChatGPT, especially for complex queries.
+1. Take the next PBI in the list by assigning it to yourself
+2. Break down that PBI into clear and actionable tasks
 
-### How to Implement a Simple ToT Prompt
+![Figure: "Testing Task" added to a PBI. This is the board the team will use for 90% of the Sprint, so that testing is visible to everyone](Testing-task.png)
 
-The basic structure of a ToT prompt involves asking the model to imagine multiple experts debating the question. Each expert shares one step of their reasoning before moving on to the next.
+### 2. Time to Code
 
-::: greybox
-“Imagine 3-6 different experts are answering this question. {{ YOUR QUESTION }}
+This step depends on the complexity and nature of the task, especially if the PBI involves intricate coding or extensive testing to meet the defined [Acceptance Criteria](/acceptance-criteria).
 
-All experts will write down 1 step of their thinking, then share it with the group. Then all experts will go on to the next step, etc. If any expert realizes they're wrong at any point, then they leave.
+1. From the PBI, create a new branch (so that your work is automatically tagged to the PBI)
+2. On the Kanban Board, move your Task into "In Progress"
+3. Checkout your new branch and code, code, code... (remember to [Red, Green, Refactor](/reply-done-plus-added-a-unit-test))
+4. Open a Pull Request and get another engineer in your team to do an "over the shoulder" check of the code
+5. Record a [Done Video](/record-a-quick-and-dirty-done-video) so you get your ducks in a row for the explanation to the Product Owner, and so they give you earlier feedback.
+6. Make changes based on feedback (and then get more feedback)
+7. Check your [Definition of Done](/definition-of-done) and complete the Pull Request!
 
-Continue this process until we have a definitive answer.”
-:::
+### 3. Done
 
-::: good Figure: Good Example
-This structure allows the model to explore multiple reasoning paths and self-correct.
-:::
+This should be easiest part!
 
-### Examples
+1. Close off the PBI by replying 'Done' inside the PBI and also in the email thread
 
-::: greybox
-“Should I vote yes or no on The Voice?”
-:::
+Congrats, your PBI is now ready to be demonstrated during your Sprint Review!
 
-::: bad Figure: Bad Example
-This is a nuanced question and this simple prompt is unlikely to fully explore the options.
-:::
-
-::: greybox
-“Read https://voice.gov.au 
-
-Imagine three different experts are answering this question: "Should we vote yes or no on The Voice.". 
-
-All experts will write down 1 step of their thinking, then share it with the group. Then all experts will go on to the next step, etc. If any expert realizes they're wrong at any point, then they leave.
-
-Continue this process, until you have a definitive yes or no answer.”
-:::
-
-::: good Figure: Good Example
-This is a complex question that benefits from ToT prompting.
+::: good
+![Figure: The important steps in a PBI lifecycle. Print this "SSW 3 Steps to a PBI pdf" and put it on your 'War Room' wall](3StepsToAPBI.jpg)
 :::
