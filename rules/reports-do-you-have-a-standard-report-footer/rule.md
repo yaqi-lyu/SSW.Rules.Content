@@ -50,32 +50,9 @@ Use these handy report expressions to show the above information.
 
 | Footer Item | Expression | Sample Output |
 | --- | --- | --- |
-| Date and Time Printed / User ID | ="Printed by " + User!UserID + " on " + 
-                            Globals!ExecutionTime.ToString() | Printed by SSW2000\JatinValabjee on 3/1/2006 3:16:30 PM |
-| Execution Time |                             ="Execution Time: " +
-
-                            IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).TotalSeconds &lt; 1, "0 
-                            seconds",
-                            
-
-                            (
-
-                            IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Hours &gt; 0, (Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Hours & " hour(s), ", "") +
-
-                            IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Minutes &gt; 0, (Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Minutes & " minute(s), ", 
-                            "") +
-
-                            IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Seconds &gt; 0, (Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Seconds & " second(s)", ""))
-
-                            )
-                         | Execution time: 1 minute, 10 seconds |
-| Page x of y
-                         |                             ="Page " + Globals!PageNumber.ToString() + " of " + 
-                            Globals!TotalPages.ToString() |                             Page 3 of 10 |
-
-
-
-
+| Date and Time Printed / User ID | ="Printed by " + User!UserID + " on " + Globals!ExecutionTime.ToString() | Printed by SSW2000\JatinValabjee on 3/1/2006 3:16:30 PM |
+| Execution Time | ="Execution Time: " + IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).TotalSeconds &lt; 1, "0 seconds", (IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Hours &gt; 0 (Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Hours & " hour(s), ", "") + IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Minutes &gt; 0, (Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Minutes & " minute(s), ", "") + IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Seconds &gt; 0, (Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Seconds & " second(s)", ""))) | Execution time: 1 minute, 10 seconds |
+| Page x of y | ="Page " + Globals!PageNumber.ToString() + " of " + Globals!TotalPages.ToString() | Page 3 of 10 |
 
 ![](footerInDesigner.gif)
 
@@ -92,31 +69,14 @@ When you try to add the User your data-driven subscriptions will fail with the f
 'The '/GroupHealth' report has user profile dependencies and cannot be run unattended. (rsHasUserProfileDependencies)'.     
 A quick workaround is to add a user function to fallback the error to a nice message, like: "SYSTEM",
 
-
-::: greybox
-
-:::
-
- Public Function UserName()
-
-
-> Try
-> 
-> 
-> > Return Report.User!UserID
-> 
-> 
-> Catch
-> 
-> 
-> 
-> > Return "System"
-> 
-> 
-> End Try
-
-
-End Function 
-   
+```vb
+Public Function UserName()
+ Try
+   Return Report.User!UserID
+ Catch
+   Return "System"
+ End Try
+End Function
+```
 
 Use above function to replace your reference to Report.User!UserID will allow the subscription to work correctly.
