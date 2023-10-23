@@ -152,19 +152,4 @@ flowchart
  
  SingleApp -->|"Yes"| IdentityServer
  SingleApp -->|"No"| NETCORE(["ASP.NET Core Identity"])
-
- style Hosting fill:#c9c9c9,stroke:#5e0000
- style IdentityServer fill:#fc9a9a
- style NETCORE fill:#fc9a9a
- style Start fill:#fc9a9a
- style CustomLogic fill:#c9c9c9,stroke:#5e0000
- style OtherIDP fill:#fc9a9a
- style Auth0 fill:#fc9a9a
- style Azure fill:#fc9a9a
- style OnPremAD fill:#fc9a9a
- style Ecosystem fill:#c9c9c9,stroke:#5e0000
- style KerberosHosting fill:#c9c9c9,stroke:#5e0000
- style SingleApp fill:#c9c9c9,stroke:#5e0000
- style Kerberos fill:#c9c9c9,stroke:#5e0000
- style AppType fill:#c9c9c9,stroke:#5e0000
 ```
