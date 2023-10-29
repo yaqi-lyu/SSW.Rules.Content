@@ -123,10 +123,6 @@ quadrantChart
 ```
 
 ```mermaid
----
-type: diagram
-title: "Authentication Selection"
----
 flowchart
 
  Start(["Start"]) --> CustomLogic{"Need Custom/\nComplex Logic?"}
