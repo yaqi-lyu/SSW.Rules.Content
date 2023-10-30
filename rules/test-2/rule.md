@@ -9,7 +9,7 @@ created: 2021-04-14T02:43:02.825Z
 ---
 Markdown shown in the blurb.
 
-```mermaid
+```mermaid-svg
 graph TD;
     A-->B;
     A-->C;
@@ -21,7 +21,7 @@ graph TD;
 
 Markdown not shown in the blurb
 
-```mermaid
+```mermaid-svg
 graph TD;
     A-->B;
     A-->C;
@@ -29,7 +29,7 @@ graph TD;
     C-->D;
 ```
 
-```mermaid
+```mermaid-svg
 sequenceDiagram
     participant Alice
     participant Bob
@@ -43,7 +43,7 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
-```mermaid
+```mermaid-svg
 gantt
 dateFormat  YYYY-MM-DD
 title Adding GANTT diagram to mermaid
@@ -56,7 +56,7 @@ Future task               :         des3, after des2, 5d
 Future task2               :         des4, after des3, 5d
 ```
 
-```mermaid
+```mermaid-svg
 classDiagram
 Class01 <|-- AveryLongClass : Cool
 Class03 *-- Class04
@@ -73,7 +73,7 @@ Class01 : int gorilla
 Class08 <--> C2: Cool label
 ```
 
-```mermaid
+```mermaid-svg
 gitGraph
        commit
        commit
@@ -86,14 +86,14 @@ gitGraph
        commit
 ```
 
-```mermaid
+```mermaid-svg
 erDiagram
     CUSTOMER ||--o{ ORDER : places
     ORDER ||--|{ LINE-ITEM : contains
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 ```
 
-```mermaid
+```mermaid-svg
 journey
     title My working day
     section Go to work
@@ -105,7 +105,7 @@ journey
       Sit down: 5: Me
 ```
 
-```mermaid
+```mermaid-svg
 quadrantChart
     title Reach and engagement of campaigns
     x-axis Low Reach --> High Reach
@@ -122,7 +122,7 @@ quadrantChart
     Campaign F: [0.35, 0.78]
 ```
 
-```mermaid
+```mermaid-svg
 flowchart
 
  Start(["Start"]) --> CustomLogic{"Need Custom/\nComplex Logic?"}
