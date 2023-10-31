@@ -13,9 +13,7 @@ authors:
     url: https://ssw.com.au/people/eric-phan
   - title: Edgar Rocha
     url: https://ssw.com.au/people/edgar-rocha
-related: []
 redirects:
-  - spec-do-you-conduct-a-specification-review-(ask-for-a-coffee-not-a-marriage)
   - spec-do-you-conduct-a-specification-review-ask-for-a-coffee-not-a-marriage
 created: 2009-03-03T05:04:02.000Z
 archivedreason: null
