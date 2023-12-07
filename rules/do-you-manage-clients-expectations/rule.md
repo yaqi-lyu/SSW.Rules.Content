@@ -21,8 +21,6 @@ But what is so interesting is that at least **7 of the 10 most common signs of p
 
 Projects often fail because clients think suppliers under-deliver and over-charge. The client and the supplier have different expectations about the goals of the project. This difference of opinion often leads to a project's absolute failure.
 
-![](fail-image.png)
-
 <!--endintro-->
 
 ### Tip #1: Don't give ranges
@@ -52,11 +50,3 @@ Send invoices for time and material projects every week. This way the client is 
 ### Tip #5: Be transparent about rates and resourcing
 
 Defining the hourly rates and resources that will be available to clients ensures they are not surprised later. Additionally, explaining the differences between resources makes it clear why specific resources are grouped together and what kind of services they provide. You should have [clear definitions for all of your roles](https://github.com/SSWConsulting/SSW.Roles) so that clients understand the part their resources play.
-
-## Related Rules
-
-**A.** You've already committed to work for this Sprint, so don't take on more than you can do: <https://www.ssw.com.au/rules/triaging-do-you-correctly-triage-additional-item-requests>
-
-**B.** Update the client before you hit the deadline: <https://www.ssw.com.au/rules/do-you-keep-your-client-informed-of-progress> and [https://www.ssw.com.au/rules/do-you-email-clients-as-soon-as-you-realise-you-will-overrun-your-original-estimate](https://www.ssw.com.au/rules/do-you-email-clients-as-soon-as-you-realise-you-will-overrun-your-original-estimate)  
-
-**C.** Never make people chase you for a deliverable: <https://www.ssw.com.au/rules/professional-integrity>
