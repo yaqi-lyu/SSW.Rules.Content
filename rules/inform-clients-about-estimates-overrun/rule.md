@@ -12,8 +12,7 @@ authors:
   - title: Justin King
     url: https://ssw.com.au/people/justin-king
 related: []
-redirects:
-  - do-you-email-clients-as-soon-as-you-realise-you-will-overrun-your-original-estimate
+redirects: []
 created: 2009-08-19T23:56:41.000Z
 archivedreason: null
 guid: d69f0dce-c758-4314-8c9a-cff7fd8c6790
