@@ -27,6 +27,7 @@ Dim Buttons As Integer = MessageBoxButtons.YesNo
 Beep()
 result = MessageBox.Show( Me, Message, Caption, Buttons)
 ```
+
 ::: bad
 Figure: Bad example - The sound on the button is hardcoded in this code snippet
 :::
@@ -37,6 +38,7 @@ Dim Caption As String = "No Server Name Specified"
 Dim Buttons As Integer = MessageBoxButtons.YesNo
 result = MessageBox.Show( Me, Message, Caption, Buttons)
 ```
+
 ::: good
 Figure: Good example - The code is not present in this example as it is automatically done
 :::
