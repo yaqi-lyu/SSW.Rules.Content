@@ -8,7 +8,7 @@ index:
 - title-bar-do-you-put-your-company-url-in-the-title-bar
 - menu-do-you-use-icons-in-menu
 - sound-do-you-realize-the-importance-of-sounds-to-user-interface
-- sound-did-you-know-that-a-message-box-automatically-plays-a-beep
+- sound-message-box
 - long-process-do-you-know-how-to-make-long-running-processes-user-friendly
 - long-process-do-you-show-the-status-of-progress-bar-on-winforms-title
 - long-process-do-you-know-that-long-running-processes-should-allow-to-skip-the-processing-when-appropriate
@@ -25,9 +25,8 @@ index:
 - menu-do-you-have-your-help-user-guide-online
 - menu-do-you-include-a-tools-validate-data
 - menu-do-you-know-the-8-items-every-help-menu-needs
-
 ---
+
 Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
 
 If you still need help, visit [Website Design and User Experience](http&#58;//www.ssw.com.au/ssw/Consulting/WebsiteDesignAndUserExperience.aspx) and book in a consultant.
-
