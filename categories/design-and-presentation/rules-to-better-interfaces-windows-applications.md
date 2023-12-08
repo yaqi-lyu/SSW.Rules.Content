@@ -25,6 +25,7 @@ index:
 - menu-do-you-have-your-help-user-guide-online
 - menu-do-you-include-a-tools-validate-data
 - menu-do-you-know-the-8-items-every-help-menu-needs
+
 ---
 
 Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
