@@ -21,6 +21,8 @@ A message box automatically provides this functionality so there is no need to m
 ![Figure: Good example - Windows message boxes plays a sound... which cannot be captured in screenshot form.](../../assets/Win7SoundError.png)  
 :::
 
+::: bad
+
 ```csharp
 string message = "You did not enter a server name. Cancel this operation?";
 string caption = "No Server Name Specified";
@@ -29,9 +31,10 @@ System.Media.SystemSounds.Beep.Play();
 DialogResult result = MessageBox.Show(this, message, caption, buttons);
 ```
 
-::: bad
-Figure: Bad example - The sound on the button is hardcoded in this code snippet
+**Figure: Bad example - The sound on the button is hardcoded in this code snippet**
 :::
+
+::: good
 
 ```csharp
 string message = "You did not enter a server name. Cancel this operation?";
@@ -40,6 +43,5 @@ MessageBoxButtons buttons = MessageBoxButtons.YesNo;
 DialogResult result = MessageBox.Show(this, message, caption, buttons);
 ```
 
-::: good
-Figure: Good example - The code is not present in this example as it is automatically done
+**Figure: Good example - The code is not present in this example as it is automatically done**
 :::
