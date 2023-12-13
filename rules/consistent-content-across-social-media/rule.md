@@ -16,6 +16,7 @@ related:
   - know-how-to-take-great-photos-for-your-socials
   - image-standard-sizes-on-social-media
   - type-of-content-marketing-you-should-post
+  - post-using-social-media-management-tools
 redirects:
   - do-you-keep-your-content-consistent-across-your-different-social-media-platforms
 created: 2020-04-02T01:36:58.000Z
@@ -33,6 +34,14 @@ guid: f571c3c6-ce13-4623-a54f-ece4df91cd6c
 Across all platforms, you will find that they have some limitations and recommendations regarding character limits. See them in [this blog post from HootSuite](https://blog.hootsuite.com/ideal-social-media-post-length/).
 
 Also, Sprout Social has an interesting [social media character counter](https://sproutsocial.com/insights/social-media-character-counter/) that you can test your content before putting your post out.
+
+::: bad
+![Figure: Inconsistent content across different platforms can lead to brand confusion and potential loss of audience engagement](Inconsistent.png) 
+:::
+
+::: good
+![Figure: Posting consistent content across different platforms enforces your content strategy and brand consistency](Consistent.png)
+:::
 
 Some tips:
 
