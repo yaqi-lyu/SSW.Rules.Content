@@ -24,11 +24,11 @@ There are a number of reasons you may lose an opportunity: The project may be ca
 If you want to report on lost opportunities, the first step is to make sure Sales have the opportunity to do so. Make sure you provide a field with enough options when closing an opportunity:
 
 ::: bad
-![Figure: Only giving a couple options is not enough](lostoppobad.jpg)
+![Figure: Only giving a couple options is not enough](/rules/crm-opportunities-more-visible//rules/crm-opportunities-more-visible/lostoppobad.jpg)
 :::
 
 ::: good
-![Figure: Give at least 4 options](lostoppobad.jpg)
+![Figure: Give at least 4 options](/rules/crm-opportunities-more-visible//rules/crm-opportunities-more-visible/lostoppobad.jpg)
 :::
 
 Once the information is stored in CRM, you can then easily report on it, e.g. using PowerBI or any other reporting tool. This provides great insights to make educated business decisions (i.e. "should we hire more?")

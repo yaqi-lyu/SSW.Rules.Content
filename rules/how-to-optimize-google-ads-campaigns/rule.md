@@ -34,7 +34,7 @@ This means that you won't pay more than the amount you have set for your ad, **a
 
 If your Max CPC is too low compared to competitor ads you may be missing out on reaching the first page of the google search. Ads should be adjusted to ensure that they are able to be seen by the market, this can be accomplished by  **setting your Max CPC at a level that will ensure it is on the first page.**
 
-![Figure: Maximum Cost per Click can be set at the campaign, ad group or ad level](2016-02-25\_8-16-05.jpg)  
+![Figure: Maximum Cost per Click can be set at the campaign, ad group or ad level](/rules/how-to-optimize-google-ads-campaigns/2016-02-25_8-16-05.jpg)  
 
 **Set Unrelated Search Terms into Negative Keywords**
 
@@ -44,7 +44,7 @@ Google Ads has a solution to prevent this in the form of 'Negative Keywords'.
 
 Negative Keywords are able to be added to your campaign or ad group and tell Google Ads that you don't want your ad to be shown in any search containing these terms. This will help to minimize both cost and bounce rate for your ads.
 
-![Figure: Negative Keywords ensure your ad is not shown in unrelated searches](2016-02-25\_8-18-14.jpg)  
+![Figure: Negative Keywords ensure your ad is not shown in unrelated searches](/rules/how-to-optimize-google-ads-campaigns/2016-02-25_8-18-14.jpg)  
 
 Learn more on this rule:[Do you have a negative keyword list on your campaigns?](/how-to-create-a-negative-keyword-list)
 
@@ -53,3 +53,4 @@ Learn more on this rule:[Do you have a negative keyword list on your campaigns?]
 As with any advertisement, it is important to test multiple ads to determine which performs best. Once ads have been running for a period of time they should be assessed and those which are underperforming should be switched off, whilst the highest performers should be copied and then tweaked and continued to run. This can be continued over the lifetime of an ad, as each ad has a certain period of effectiveness.
 
 Although ideally this should be done and adjusted daily, this is not always possible. In this case, when there are multiple campaigns the main priority is to be focused, try not to spread yourself thin working on optimizing and adjusting multiple campaigns, rather select one or two campaigns and focus your attention on these. This will provide the best use of your time, and after this campaign has been adjusted you can focus your attention on the remaining.
+

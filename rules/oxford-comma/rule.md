@@ -12,7 +12,7 @@ guid: 0bc2f5a6-31ab-41fd-9951-5af483824b46
 ---
 The "Oxford comma" (so-called because the Oxford University Press style guidelines require it) has the distinction of being one of the most hotly debated elements of the English language.
 
-![Figure: Some people love Oxford commas, some hate them](oxford-comma-debate.jpg)
+![Figure: Some people love Oxford commas, some hate them](/rules/oxford-comma/oxford-comma-debate.jpg)
 
 K﻿nowing when to use the Oxford comma helps to create more consistent and easier to read documentation. 
 
@@ -20,7 +20,7 @@ Also referred to as a series comma or serial comma, an Oxford comma is placed in
 
 <!--endintro-->
 
-![Figure: A sentence with quite different meaning depending on whether an Oxford comma is used or not](oxford-comma.jpg)
+![Figure: A sentence with quite different meaning depending on whether an Oxford comma is used or not](/rules/oxford-comma/oxford-comma.jpg)
 
 ### The rule is that a comma should only be used between the last two items of a list if it removes potential ambiguity, otherwise no comma is required.
 

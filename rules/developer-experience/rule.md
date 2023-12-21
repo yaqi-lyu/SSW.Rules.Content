@@ -24,27 +24,28 @@ It's amazing how often you can't simply Clone a repository (aka "Get Latest") an
 
 A good developer makes it clear how to get a new project, compile it and run it.
 
-![Figure: In Visual Studio the project setup experience starts with the F5 key!](f5-key.jpg)  
+![Figure: In Visual Studio the project setup experience starts with the F5 key!](/rules/developer-experience/f5-key.jpg)  
 
 <!--endintro-->
 
 ### Sometimes the experience is more CLI based
 
 
-![Figure: Some consider this rule (Do you get latest and compile) to be more a “git clone” and then “dotnet run”](dotnet-run.png)  
+![Figure: Some consider this rule (Do you get latest and compile) to be more a “git clone” and then “dotnet run”](/rules/developer-experience/dotnet-run.png)  
 
 ### Sometimes the experience is more Mac-based
 
 
-![Figure: On a MacBook, if you hold down the Fn key, the touch bar will show F buttons](mac-f5-key.jpg)  
+![Figure: On a MacBook, if you hold down the Fn key, the touch bar will show F buttons](mac-/rules/developer-experience/f5-key.jpg)  
 
-![Figure: On a MacBook, VSCode has a run button to launch the debugger (similar to F5)](macbook-vscode-run-button.png)  
+![Figure: On a MacBook, VSCode has a run button to launch the debugger (similar to F5)](/rules/developer-experience/macbook-vscode-run-button.png)  
 
-![Figure: On a MacBook, Visual Studio for Mac is similar to VSCode but less obvious, since it looks more like XCode](macbook-visualstudio-run-button.png)
+![Figure: On a MacBook, Visual Studio for Mac is similar to VSCode but less obvious, since it looks more like XCode](/rules/developer-experience/macbook-visualstudio-run-button.png)
 
 ### Project Setup - What you need to know?
 There are tonnes of important things to get right with project setup. Including:
 * [Making the project setup as easy as possible](/project-setup)
 * [Containerizing your dev environment](/dev-containers)
+
 
 

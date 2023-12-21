@@ -33,5 +33,6 @@ In an open source project the easy way to ensure that all developers share and a
 
 
 ::: good  
-![Figure: Good Example - Adding an ENGINEERING-GUIDELINES.md to your project clearly defines the engineering practices and guidelines that must be required for contributors pull requests to be accepted](guidelines-opensource.png)  
+![Figure: Good Example - Adding an ENGINEERING-GUIDELINES.md to your project clearly defines the engineering practices and guidelines that must be required for contributors pull requests to be accepted](/rules/tell-the-coding-standards-you-expect/guidelines-opensource.png)  
 :::
+

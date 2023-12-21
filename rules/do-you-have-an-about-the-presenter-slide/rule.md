@@ -25,5 +25,6 @@ Don't be shy, tell them:
 * What makes you qualified to speak on this topic?
 
 ::: good
-![Figure: Talk about yourself after you know the audience a little](aboutadam.png)
+![Figure: Talk about yourself after you know the audience a little](/rules/do-you-have-an-about-the-presenter-slide/aboutadam.png)
 :::
+

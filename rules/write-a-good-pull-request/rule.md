@@ -176,9 +176,10 @@ E.g. A [screenshot](/screenshots-avoid-walls-of-text) to show text/UI changes, o
 A: If you're using a GUI editor for your PRs, you may need to go to the PR afterward and update the description to include the context
 
 ::: bad
-![Figure: Bad example - An automatically generated description doesn't give any context to reviewers](cms-bad-example.png)
+![Figure: Bad example - An automatically generated description doesn't give any context to reviewers](/rules/write-a-good-pull-request/cms-bad-example.png)
 :::
 
 ::: good
-![Figure: Good example - Updating the PR description to follow the repository standard helps you provide context to reviewers](cms-good-example.png)
+![Figure: Good example - Updating the PR description to follow the repository standard helps you provide context to reviewers](/rules/write-a-good-pull-request/cms-good-example.png)
 :::
+

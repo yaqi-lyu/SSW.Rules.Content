@@ -29,13 +29,13 @@ They show the dependencies between classes and assemblies in your projects. You 
 
 <!--endintro-->
 
-![Figure: Visual Studio lets you generate a dependency graph for your solution](ArchitectureToolsVS11.png)  
+![Figure: Visual Studio lets you generate a dependency graph for your solution](/rules/do-you-look-at-the-architecture/ArchitectureToolsVS11.png)  
 
-![Figure: The dependency graph in Visual Studio shows you some interesting information about how projects relate to each other](DependencyDiagramInVS11.png)  
+![Figure: The dependency graph in Visual Studio shows you some interesting information about how projects relate to each other](/rules/do-you-look-at-the-architecture/DependencyDiagramInVS11.png)  
 
 nDepend has a similar diagram that is a little messier, but the latest version also includes a "Queries + Rules Explorer" which is another code analysis tool.
 
-![Figure: nDepend Dependency Graph. Issues are highlighted in red for easy discovery](nDependDependencyGraph.png)  
+![Figure: nDepend Dependency Graph. Issues are highlighted in red for easy discovery](/rules/do-you-look-at-the-architecture/nDependDependencyGraph.png)  
 
 Read more about nDepend: [ndepend.com](http://www.ndepend.com/).
 
@@ -43,3 +43,4 @@ Read more about nDepend: [ndepend.com](http://www.ndepend.com/).
 
 
 * [Do you look at the architecture of JavaScript projects?](/look-at-the-architecture-of-javascript-projects)
+

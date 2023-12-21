@@ -18,7 +18,7 @@ Accounting data is highly aggregated and there is only one source of truth. When
 
 Systems generate bugs, and humans can make mistakes. An error-free system does not exist. When accountants work together, it sometimes feels like two pilots operating the same plane. The captain and co-pilot keep notifying and monitoring each other’s activities.
 
-![Figure: Captain and the co-pilot work closely and information are well informed and monitored between each other](building-github-copilot-app-nocdn.png)
+![Figure: Captain and the co-pilot work closely and information are well informed and monitored between each other](/rules/do-you-involve-cross-checks-in-your-procedures/building-github-copilot-app-nocdn.png)
 
 A small error can cause fatal crash, that is why every major and essential system will have one or more backup systems in case the primary system fails. A small error may not bring the business down, however it is important for accountants to have cross-checks to minimize human error during their daily work.  When two people independently verify each other's work, it reduces the chance of errors. Cross-checking also promotes accountability and a sense of shared responsibility for the quality of the work being performed.
 
@@ -27,3 +27,4 @@ A small error can cause fatal crash, that is why every major and essential syste
 A football player should not take on the role of the referee. The issue here is not with trust, but rather with ensuring that you have good systems that minimize risks.
 
 When an accountant applies for a leave request, a reimbursement, a salary sacrifice or has a pay rise (congratulations), the best option is always to have another accountant make those changes. The best practice always involves at least 2 individuals – 1 person requesting the change and a 2nd person processing the change.
+

@@ -51,5 +51,6 @@ Figure: Bad example - timestamped comments add noise to the code
 
 
 ::: good
-![Figure: Good example - we can tell who added the comment using annotations](comment annotations.png)
+![Figure: Good example - we can tell who added the comment using annotations](/rules/comment-when-your-code-is-updated/comment annotations.png)
 :::
+

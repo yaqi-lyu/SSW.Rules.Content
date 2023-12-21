@@ -49,9 +49,10 @@ Here are a few key checkpoints where these issues should be flagged:
 Ideally, you want to flag the missing information early, but it is better late than never.
 
 ::: bad
-![Bad example - The PBI has no information beyond a title](r1rmwbe9ak.png)
+![Bad example - The PBI has no information beyond a title](/rules/defining-pbis/r1rmwbe9ak.png)
 :::
 
 ::: good
-![Good example - The PBI has a description, acceptance criteria, and more](xlwwtinlrk.png)
+![Good example - The PBI has a description, acceptance criteria, and more](/rules/defining-pbis/xlwwtinlrk.png)
 :::
+

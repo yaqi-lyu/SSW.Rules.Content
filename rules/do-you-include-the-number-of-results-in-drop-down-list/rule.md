@@ -19,10 +19,11 @@ When designing your website, it's a good idea to help your users where possible.
 
 
 ::: bad  
-![Figure: Bad Example - You can't tell the number of results](drop-list-bad.jpg)  
+![Figure: Bad Example - You can't tell the number of results](/rules/do-you-include-the-number-of-results-in-drop-down-list/drop-list-bad.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example - The number of results is clearly displayed](drop-list-good.jpg)  
+![Figure: Good Example - The number of results is clearly displayed](/rules/do-you-include-the-number-of-results-in-drop-down-list/drop-list-good.jpg)  
 :::
+

@@ -15,7 +15,7 @@ TikTok is a great way to engage with your audience via social media. TikTok is a
 
 However, to effectively engage with your audience, it is important to format and edit your videos following editing best practices that are optimised for TikTok.  Doing this will ensure your videos are noticed exactly by whom and how you intended them to be seen.
 
-![Figure: TikTok Logo](tiktok-logo.png)
+![Figure: TikTok Logo](/rules/edit-your-videos-for-tiktok/tiktok-logo.png)
 
 ## TikTok video length
 
@@ -30,7 +30,7 @@ While creators are able to make longer video the optimum length would appear to 
 
 Source: https://danslee.co.uk/2020/01/21/clipped-i-watched-the-100-best-tiktok-videos-to-find-the-optimum-length-of-a-clip/
 
-![Figure: Most watched video lengths on TikTok](tiktok-pie-chart.png)
+![Figure: Most watched video lengths on TikTok](/rules/edit-your-videos-for-tiktok/tiktok-pie-chart.png)
 
 ## Can I add music to my TikTok Video?
 
@@ -48,7 +48,7 @@ Your safest bet would be to only use sounds and music that is already on TikTok,
 
 Fun Fact, here are the most used music genres for TikTok videos
 
-![Figure: Music Genres used in TikTok Videos for 2020](tiktok-songs-chart.png)
+![Figure: Music Genres used in TikTok Videos for 2020](/rules/edit-your-videos-for-tiktok/tiktok-songs-chart.png)
 
 ## Why use captions for TikTok videos?
 
@@ -70,7 +70,7 @@ Captions are an excellent way to open your TikTok videos to a broader audience. 
 
 When you allow captions for every video you make, the sound no longer becomes a necessity for the video to give value.
 
-![Figure: Adding captions to a video for SSW TikTok](adam-tiktok.png)
+![Figure: Adding captions to a video for SSW TikTok](/rules/edit-your-videos-for-tiktok/adam-tiktok.png)
 
 ## TikTok reference guidelines when editing
 
@@ -78,10 +78,10 @@ The best standard for recording is vertical. However, you can also record horizo
 
 SSW TV uses an overlay reference guide when editing our TikTok videos. This allows us to ensure our videos are formatted correctly keeping in mind TikTok’s User Interface. Once ready to export our video, we turn off the guideline layer. See below images:
 
-![Figure: TikTok Reference ](tiktok-reference.png)
+![Figure: TikTok Reference ](/rules/edit-your-videos-for-tiktok/tiktok-reference.png)
 
-![Figure: TikTok guide for editing](tiktok-reference-guide.png)
+![Figure: TikTok guide for editing](/rules/edit-your-videos-for-tiktok/tiktok-reference-guide.png)
 
-![Figure: TikTok guide overlayed on video](overlay-guide.png)
+![Figure: TikTok guide overlayed on video](/rules/edit-your-videos-for-tiktok/overlay-guide.png)
 
-![Figure: TikTok reference guide turned off](guide-turned-off.png)
+![Figure: TikTok reference guide turned off](/rules/edit-your-videos-for-tiktok/guide-turned-off.png)

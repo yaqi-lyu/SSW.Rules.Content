@@ -20,19 +20,21 @@ It is common to have a Contact Detail table to store your contact information su
 
 
 ::: bad  
-![Figure: Bad Example - A too specific Contact Detail table](ContactDetailTable\_bad.png)  
+![Figure: Bad Example - A too specific Contact Detail table](/rules/have-a-general-contact-detail-table/ContactDetailTable_bad.png)  
 :::
 
 We normally have a general Contact Detail table that includes all the different categories of phone numbers, whether it is shared or primary plus emails all in the same table.
 
 
 ::: good  
-![Figure: Good Example - A general Contact Detail table](ContactDetailTable\_good.png)  
+![Figure: Good Example - A general Contact Detail table](/rules/have-a-general-contact-detail-table/ContactDetailTable_good.png)  
 :::
 
 We use a Contact Detail Category table to store these categories.
 
 
 ::: good  
-![Figure: Good Example - Details of Contact Detail Category table](ContactDetailCategoryTable.png)  
+![Figure: Good Example - Details of Contact Detail Category table](/rules/have-a-general-contact-detail-table/ContactDetailCategoryTable.png)  
 :::
+
+

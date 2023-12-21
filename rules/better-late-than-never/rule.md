@@ -28,11 +28,11 @@ Of course, there are tasks that can be irrelevant with the passage of time. You 
 Always reply to emails and IM messages regardless of how long it takes to respond. It shows you value the sender's input and they'll know their ideas and suggestions are not ignored.
 
 ::: bad
-![Figure: Bad example - Hitting the 'Delete' button without replying](delete-outlook-message-button.png)
+![Figure: Bad example - Hitting the 'Delete' button without replying](/rules/better-late-than-never/delete-outlook-message-button.png)
 :::
 
 ::: bad
-![Figure: Bad example - A chat with no answer](no-reply.jpg)
+![Figure: Bad example - A chat with no answer](/rules/better-late-than-never/no-reply.jpg)
 :::
 
 ::: greybox
@@ -76,3 +76,4 @@ Checked and this task was already done a few months ago
 ::: good
 Figure: Good example - Informing a task was already done
 :::
+

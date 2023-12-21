@@ -24,4 +24,5 @@ Search for the client photo in Google Images or Facebook:
 * "Tom Northwind" Facebook
 
 
-![Figure: Remember to add a photo of the client](Proposals\_ClientPhoto.jpg)
+![Figure: Remember to add a photo of the client](/rules/have-a-cover-page/Proposals_ClientPhoto.jpg)
+

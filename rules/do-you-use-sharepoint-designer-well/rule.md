@@ -28,4 +28,5 @@ But there are things that it doesn't do naturally, or it does really badly.  Her
 <!--endintro-->
 
 
-![Uncheck Auto indent](SPIndent.gif)
+![Uncheck Auto indent](/rules/do-you-use-sharepoint-designer-well/SPIndent.gif)
+

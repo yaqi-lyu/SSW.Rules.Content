@@ -15,8 +15,8 @@ TFS uses Team Project to manage sources code, Work Items and other project relat
 TFS Team Project should be considered from a project management point of view instead of technical point of view, you should use a Team Project to manage all resources in your project, including source code, documentations and reports etc. If you are separating the related source code into different Team Project, you will find it's difficult for you to decide the location of your other resources should be going to, like your release plan, project update etc.\
 <!--endintro-->
 
-![Figure: Bad Example - Multiple Team Projects for the same product](bad-multiple-projects.gif)
+![Figure: Bad Example - Multiple Team Projects for the same product](/rules/avoid-creating-multiple-team-projects-for-the-same-project/bad-multiple-projects.gif)
 
 
 
-![Figure: Good Example - Multiple solution folders in the same Team Project](good-multiple-folders.gif)
+![Figure: Good Example - Multiple solution folders in the same Team Project](/rules/avoid-creating-multiple-team-projects-for-the-same-project/good-multiple-folders.gif)

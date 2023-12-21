@@ -29,11 +29,11 @@ Basic rules to follow include:
 8. If there is only one person in the frame (or if two people are looking the same direction), place them on the opposite side to the direction they're looking for. That is if they're looking left to right, place them on the left side of the frame. If this is not followed, your subject will be pressed up against the edge of the frame and this can create an uncomfortable feeling for the audience.
 
 ::: bad
-![Figure: Bad example – too much dead space, the characters are unevenly placed, there is an uninteresting background, it's side on and the framing is too far out](video-fram-bad-example.jpg)
+![Figure: Bad example – too much dead space, the characters are unevenly placed, there is an uninteresting background, it's side on and the framing is too far out](/rules/production-do-you-know-the-correct-way-to-frame-your-subject/video-fram-bad-example.jpg)
 :::
 
 ::: good
-![Figure: Good example – the rule of thirds followed, mid-shot, interesting background, no dead space, fairly face on, subject placed on the right side because he's looking from right to left (leading room)](video-fram-good-example.jpg)
+![Figure: Good example – the rule of thirds followed, mid-shot, interesting background, no dead space, fairly face on, subject placed on the right side because he's looking from right to left (leading room)](/rules/production-do-you-know-the-correct-way-to-frame-your-subject/video-fram-good-example.jpg)
 :::
 
 When positioning your subjects it is important to remember several factors:
@@ -44,27 +44,28 @@ When positioning your subjects it is important to remember several factors:
 4. The best way to position your subjects is at 90° to each other and at 45° to the camera:
 
 ::: bad
-![Figure: Bad example - Interviewee (left) is facing toward the interviewer (right) too much and the interviewer is faced towards the camera too much](bad-interview-positions.jpg)
+![Figure: Bad example - Interviewee (left) is facing toward the interviewer (right) too much and the interviewer is faced towards the camera too much](/rules/production-do-you-know-the-correct-way-to-frame-your-subject/bad-interview-positions.jpg)
 :::
 
 ::: good
-![Figure: Good example - position your subjects properly to create an unbiased interview](interview positions.jpg)
+![Figure: Good example - position your subjects properly to create an unbiased interview](/rules/production-do-you-know-the-correct-way-to-frame-your-subject/interview positions.jpg)
 :::
 
 When doing an over the shoulder shot (OTS) for a corporate video, it is generally best to stay at a level height with the subject. Looking up or down at them can create unnecessary meaning in the shot. It is also a good idea to avoid using the wide-angle setting on your camera as it makes the subject seem distant and small in comparison to the person whose shoulder we can see.
 
 ::: bad
-![Figure: Bad example – looking down at the subject with a wide-angle lens setting](bad OTS example.jpg)
+![Figure: Bad example – looking down at the subject with a wide-angle lens setting](/rules/production-do-you-know-the-correct-way-to-frame-your-subject/bad OTS example.jpg)
 :::
 
 ::: good
-![Figure: Good example – level height, zoom level not set to wide-angle](Good OTS example.jpg)
+![Figure: Good example – level height, zoom level not set to wide-angle](/rules/production-do-you-know-the-correct-way-to-frame-your-subject/Good OTS example.jpg)
 :::
 
 ::: bad
-![Figure: Bad example – head not close enough to the top and hand gestures not visible](framing-bad.jpg)
+![Figure: Bad example – head not close enough to the top and hand gestures not visible](/rules/production-do-you-know-the-correct-way-to-frame-your-subject/framing-bad.jpg)
 :::
 
 ::: good
-![Figure: Good example – head close to the top and hand gestures visible](framing-good.jpg)
+![Figure: Good example – head close to the top and hand gestures visible](/rules/production-do-you-know-the-correct-way-to-frame-your-subject/framing-good.jpg)
 :::
+

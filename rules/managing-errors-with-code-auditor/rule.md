@@ -24,5 +24,6 @@ The PBI should contain a version number at the top which gets incremented by +1 
 
 :::good
 
-![Figure: PBI to track Code Auditor errors](screenshot-2023-06-12-at-07.45.16.png)
+![Figure: PBI to track Code Auditor errors](/rules/managing-errors-with-code-auditor/screenshot-2023-06-12-at-07.45.16.png)
 :::
+

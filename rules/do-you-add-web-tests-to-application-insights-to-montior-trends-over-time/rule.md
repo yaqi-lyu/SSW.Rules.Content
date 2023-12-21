@@ -24,12 +24,13 @@ Setting up a Web Test will allow you to query and see how the performance of you
 
 
 ::: good  
-![Good Example - You can clearly see the point where we deployed a fix to production to improve the initial page load.](App-Insights-Web-Test.png)  
+![Good Example - You can clearly see the point where we deployed a fix to production to improve the initial page load.](/rules/do-you-add-web-tests-to-application-insights-to-montior-trends-over-time/App-Insights-Web-Test.png)  
 :::
 
 You have the ability to drill down into web test results, to get an overview of the response time of the resources on a page. This can help discover if certain resources are slowing the response time.
 
 
 ::: good  
-![Good Example - Reviewing the Web test results, provides vital information .](App-Insights-Web-Test-drilldown.png)  
+![Good Example - Reviewing the Web test results, provides vital information .](/rules/do-you-add-web-tests-to-application-insights-to-montior-trends-over-time/App-Insights-Web-Test-drilldown.png)  
 :::
+

@@ -35,13 +35,14 @@ Make your GitHub issue templates follow the format of the rules on [Sprint Forec
 Give your Sprint issues a special "Sprint" tag so they can be identified in the backlog. Alternatively, you could store them in a separate repo which keeps them apart from your others issues and lets you keep the Sprint emails private if you don't want them in your public repo.
 
 ::: bad
-![Figure: Bad example - Sprint emails can easily become inconsistent and lost in your inbox](sprintemailtimepro.png)
+![Figure: Bad example - Sprint emails can easily become inconsistent and lost in your inbox](/rules/github-sprint-templates/sprintemailtimepro.png)
 :::
 
 ::: good
-![Figure: Good example - With GitHub issues it's easy to spin up a Sprint Review or Forecast template](sprinttemplateissues.png)
+![Figure: Good example - With GitHub issues it's easy to spin up a Sprint Review or Forecast template](/rules/github-sprint-templates/sprinttemplateissues.png)
 :::
 
 ::: good
-![Figure: Good example - Editing a Sprint Forecast or Review/Retro is super simple and enabled with Markdown!](editsprintforecast.png)
+![Figure: Good example - Editing a Sprint Forecast or Review/Retro is super simple and enabled with Markdown!](/rules/github-sprint-templates/editsprintforecast.png)
 :::
+

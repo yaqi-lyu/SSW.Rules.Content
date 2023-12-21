@@ -25,5 +25,6 @@ The emails exchanged within your company are more than just communication tools;
 Emails should follow a set of [email rules](/rules-to-better-email) that make communication consistent and structured. When emails have standard format and content, data analysis is possible.  
 
 ::: good
-![Figure: Good example - Visual representation in Power BI highlighting the insights of 'Checked by' emails](eagleeyepbireport.jpg)
+![Figure: Good example - Visual representation in Power BI highlighting the insights of 'Checked by' emails](/rules/generate-insightful-reports-via-company-emails/eagleeyepbireport.jpg)
 :::
+

@@ -38,7 +38,7 @@ Consider the scenario where we need to retrieve a secret from Azure Key Vault (t
 ```
 
 ::: bad
-![Figure: Bad example - The secret is exposed in the GitHub logs](secret-without-add-mask.png)
+![Figure: Bad example - The secret is exposed in the GitHub logs](/rules/mask-secrets-in-github-actions/secret-without-add-mask.png)
 :::
 
 ```yaml
@@ -55,9 +55,10 @@ Consider the scenario where we need to retrieve a secret from Azure Key Vault (t
 ```
 
 ::: good
-![Figure: Good example - The secret is masked in the GitHub logs](secret-with-add-mask.png)
+![Figure: Good example - The secret is masked in the GitHub logs](/rules/mask-secrets-in-github-actions/secret-with-add-mask.png)
 :::
 
 For further details on masking secrets in logs, refer to the [GitHub documentation](https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#masking-a-value-in-a-log).
 
 This method ensures that while you can still use the secret within your workflow, it remains masked in the logs, mitigating the risk of accidental secret exposure.
+

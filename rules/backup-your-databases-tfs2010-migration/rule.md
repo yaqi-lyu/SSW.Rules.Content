@@ -31,4 +31,5 @@ g. TfsWorkItemTrackingAttachments
 **Figure: If you can’t see the physical .bak file for all these, chase up your DBA**
 
 2. Create a backup of the TFS2008 databases by running your Daily Backup maintenance plan on TFS2008 
-![Figure: Before starting, kick off the daily backups](RunDailyBackup.png)
+![Figure: Before starting, kick off the daily backups](/rules/backup-your-databases-tfs2010-migration/RunDailyBackup.png)
+

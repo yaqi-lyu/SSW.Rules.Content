@@ -30,7 +30,7 @@ No project was found. Change the current working directory or use the --project 
 
 Then you could ask ChatGPT and it would give you the solution!
 
-![Figure: ChatGPT helps you with an EF Core error message](ChatGPTFixesEFCoreError.png)
+![Figure: ChatGPT helps you with an EF Core error message](/rules/chatgpt-can-fix-errors/ChatGPTFixesEFCoreError.png)
 
 ### Try it yourself, copy and paste this into [ChatGPT](https://chat.openai.com/)
 
@@ -38,3 +38,4 @@ Then you could ask ChatGPT and it would give you the solution!
 What is this error in EF Core?
 No project was found. Change the current working directory or use the --project option.
 ```
+

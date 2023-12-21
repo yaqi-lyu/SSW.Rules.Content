@@ -26,7 +26,7 @@ You should provide the following report to clients:
 
 * Project Progress Report: This report helps clients to review the current project progress, check the status of the project and whether they are over or under estimates.
 
-![](rulestobetterprojectprogress2.png)
+![](/rules/do-you-provide-a-high-level-project-progress-report-for-clients/rulestobetterprojectprogress2.png)
 :::good
 
 Figure: Project Progress Report

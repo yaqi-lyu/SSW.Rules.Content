@@ -18,14 +18,15 @@ When updating a version of a video (especially in a corporate environment), it's
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example - the version number is too large, too dark and too obvious](bad-version-example.jpg)
+![Figure: Bad example - the version number is too large, too dark and too obvious](/rules/post-production-do-you-use-a-version-number-on-your-videos/bad-version-example.jpg)
 :::
 
 ::: good
-![Figure: Good example - the text is small, barely visible and would only be noticeable if you're looking for it](Version Example.png)
+![Figure: Good example - the text is small, barely visible and would only be noticeable if you're looking for it](/rules/post-production-do-you-use-a-version-number-on-your-videos/Version Example.png)
 :::
 
 The best way to label the version is as follows:
 
 * When a team member creates a new version, they should change the minor (i.e. the number after the decimal point).
 * When the Product Owner affirms a new version, the major changes (i.e. the number before the decimal point).
+

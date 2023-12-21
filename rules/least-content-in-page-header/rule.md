@@ -19,9 +19,10 @@ redirects: []
 Things in page header repeat on every page. To avoid duplicate and save paper when printing, we put content as less as possible in page header.
 
 ::: bad  
-![Figure: Bad example - Too many things in page header](RS_PageHeader_Bad.gif)  
+![Figure: Bad example - Too many things in page header](/rules/least-content-in-page-header/RS_PageHeader_Bad.gif)  
 :::
 
 ::: good  
-![Figure: Good example - Little in page header](RS_PageHeader_Good.gif)
+![Figure: Good example - Little in page header](/rules/least-content-in-page-header/RS_PageHeader_Good.gif)
 :::
+

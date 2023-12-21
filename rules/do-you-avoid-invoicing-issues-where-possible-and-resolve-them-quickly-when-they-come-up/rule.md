@@ -22,5 +22,6 @@ If someone else needs to be consulted for approval (e.g. the boss) get them on t
 
 
 ::: good  
-![Figure: Use the conference button](../../assets/confrn.jpg)  
+![Figure: Use the conference button](/rules/do-you-avoid-invoicing-issues-where-possible-and-resolve-them-quickly-when-they-come-up/confrn.jpg)  
 :::
+

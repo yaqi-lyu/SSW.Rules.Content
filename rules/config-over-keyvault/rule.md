@@ -22,5 +22,6 @@ A feature of Azure AppService is the ability to [use secrets from Key Vault as C
 So now rather than developers having to think about if a value is a secret or configurations, it's always configuration. It just might have its value stored securely in Key Vault.
 
 ::: good
-![Figure: Good Example - Developers don't need to know anything about Key Vault](goodkeyvault.png)
+![Figure: Good Example - Developers don't need to know anything about Key Vault](/rules/config-over-keyvault/goodkeyvault.png)
 :::
+

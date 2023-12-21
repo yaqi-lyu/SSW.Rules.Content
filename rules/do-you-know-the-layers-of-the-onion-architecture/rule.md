@@ -16,7 +16,7 @@ related: []
 redirects: []
 
 ---
-![Onion Architecture](Onion-Architecture.jpg)
+![Onion Architecture](/rules/do-you-know-the-layers-of-the-onion-architecture/Onion-Architecture.jpg)
 <br>
 Figure: The layers of the [onion architecture](https://github.com/SSWConsulting/SSW.Rules.Content/raw/main/rules/do-you-know-the-layers-of-the-onion-architecture/Onion-Architecture.pdf)
 <!--endintro-->
@@ -79,3 +79,4 @@ To help make this process pain free, we've developed the [SSW Data Onion](http:/
 
 
 **Further Reading:** [Do You Use a Dependency Injection Centric Architecture?](/do-you-use-a-dependency-injection-centric-architecture)
+

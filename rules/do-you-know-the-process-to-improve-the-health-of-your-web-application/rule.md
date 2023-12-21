@@ -23,20 +23,21 @@ Application Insights can provide an overwhelming amount of errors in your web ap
 
 The goal is to each morning check your web application's dashboard and find zero errors. However, what happens if there are multiple errors? Don't panic, follow this process to improve your application's health.
 
-![Figure: Every morning developers check Application Insights for errors](App-Insights-Failures.png)  
+![Figure: Every morning developers check Application Insights for errors](/rules/do-you-know-the-process-to-improve-the-health-of-your-web-application/App-Insights-Failures.png)  
 
 Once you have found an exception you can drill down into it to discover more context around what was happening. You can find out the user's browser details, what page they tried to access, as well as the stack trace (Tip: make sure you follow the rule on [How to set up Application Insights](/how-to-set-up-application-insights) to enhance the stack trace).
 
-![Figure: Drilling down into an exception to discover more.](App-Insights-Failures-drilldown.png)  
+![Figure: Drilling down into an exception to discover more.](/rules/do-you-know-the-process-to-improve-the-health-of-your-web-application/App-Insights-Failures-drilldown.png)  
 
 It's easy to be overwhelmed by all these issues, so don't create a bug for each issue or even the top 5 issues. Simply create one bug for the most critical issue. Reproduce, fix and close the bug then you can move onto the next one and repeat. This is just-in-time bug processing and will move your application towards better health one step at a time.
 
 
 ::: bad  
-![Figure: Bad example - creating all the bugs](20-08-2014-12-04-31-PM-compressor.png)  
+![Figure: Bad example - creating all the bugs](/rules/do-you-know-the-process-to-improve-the-health-of-your-web-application/20-08-2014-12-04-31-PM-compressor.png)  
 :::
 
 
 ::: good  
-![Figure: Good example - create the first bug (unfortunately bug has to be created manually)](20-08-2014-12-06-16-PM-compressor.png)  
+![Figure: Good example - create the first bug (unfortunately bug has to be created manually)](/rules/do-you-know-the-process-to-improve-the-health-of-your-web-application/20-08-2014-12-06-16-PM-compressor.png)  
 :::
+

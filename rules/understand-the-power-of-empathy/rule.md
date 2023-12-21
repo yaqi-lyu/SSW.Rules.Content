@@ -16,7 +16,7 @@ Empathy is the ability to put yourself in someone else’s shoes and understand 
 
 <!--endintro-->
 
-![Figure: Empathy is key to likability](likability-chart.png)
+![Figure: Empathy is key to likability](/rules/understand-the-power-of-empathy/likability-chart.png)
 
 
 ### Empathy for your clients or managers
@@ -31,3 +31,4 @@ The key understanding required to make people prioritise helping their co-worker
 
 Taking some time to understand the challenges that your team members may be facing is key to becoming an effective servant-leader. Subordinates that work purely to avoid your disappointment will only do enough to avoid being in trouble. People who feel respected and heard are much more likely to go above and beyond. 
 The other great benefit of understanding your team members is that you can identify how each person is motivated. One may thrive with words of encouragement, one may need help to get past a sticking point, and one may need space to get into the zone. 
+

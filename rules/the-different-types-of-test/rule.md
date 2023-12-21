@@ -71,10 +71,11 @@ Subcutaneous (as in just benath the skin) are a type of integration/functional t
 
 ### The Testing Pyramid
 
-![Figure: the testing pyramid](TestPyramid.png)
+![Figure: the testing pyramid](/rules/the-different-types-of-test/TestPyramid.png)
 
 The concept of a testing pyramid was introduced by Mike Cohn.
 
 It's a metaphor that gives a guideline on how many tests we should write in each area.
 
 At the bottom of the pyramid are small, isolated unit tests. These should be simple, easy to write and fast to execute. Our projects should aim to have many of these tests. As you move up the pyramid, complexity (such as the number of involved services) increases. So these tests become progressively harder to wite and slower to run. You should aim to write fewer tests as you move up the pyramid.
+

@@ -16,7 +16,7 @@ If you do a search and no matches are found, display a message indicating zero r
 
 
 ::: bad  
-![Figure: Bad Example - No matches found on searching is not an "Error"](../../assets/InappropriateError.gif)  
+![Figure: Bad Example - No matches found on searching is not an "Error"](/rules/messages-do-you-avoid-giving-an-error-message-for-validation-purposes/InappropriateError.gif)  
 :::
 
 <!--endintro-->
@@ -33,5 +33,6 @@ Instead, use the term "Information" when validation is required.
 
 
 ::: good  
-![Figure: Good Example - Only use "Error" when appropriate](../../assets/AppropriateMessage.gif)  
+![Figure: Good Example - Only use "Error" when appropriate](/rules/messages-do-you-avoid-giving-an-error-message-for-validation-purposes/AppropriateMessage.gif)  
 :::
+

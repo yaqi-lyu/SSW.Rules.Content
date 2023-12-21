@@ -19,11 +19,12 @@ To maximize reusability and minimize costs, it’s best to avoid including dates
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - Dates shown as text in graphics (creates extra work to change every time)](events-dates-bad.png)  
+![Figure: Bad example - Dates shown as text in graphics (creates extra work to change every time)](/rules/avoid-dates-text-in-graphics-for-events/events-dates-bad.png)  
 :::
 
 ::: good  
-![Figure: Good example - No dates shown as text in graphics (can be re-used without editing)](events-dates-good.png)  
+![Figure: Good example - No dates shown as text in graphics (can be re-used without editing)](/rules/avoid-dates-text-in-graphics-for-events/events-dates-good.png)  
 :::
 
 If there is some particular value/purpose in including dates there may be exceptions to this rule.
+

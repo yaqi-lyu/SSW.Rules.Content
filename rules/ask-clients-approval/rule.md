@@ -26,7 +26,7 @@ It provides tangible evidence of receipt and agreement, especially beneficial fo
 <!--endintro-->
 
 ::: img-medium 
-![Figure: The iconic M.J. signature method](MJ-signature-mockup.jpg)
+![Figure: The iconic M.J. signature method](/rules/ask-clients-approval/MJ-signature-mockup.jpg)
 :::
 
 `youtube: https://www.youtube.com/embed/cyi4lXFmztI`
@@ -68,8 +68,10 @@ _"This is not a legal document but a good practice to do before we start coding.
 
 Training clients to review the work carefully leads to better quality projects.
 
-![Figure: Getting the client's signature ensures more accurate requirements](/MJ-rule-UI-mockup.jpg)
+![Figure: Getting the client's signature ensures more accurate requirements](/rules/ask-clients-approval/MJ-rule-UI-mockup.jpg)
 
 ::: img-medium 
-![Figure: A signature from Michael Jackson is very valuable but hard to obtain](SuccessfulProjects\_Signature.jpg)  
+![Figure: A signature from Michael Jackson is very valuable but hard to obtain](/rules/ask-clients-approval/SuccessfulProjects_Signature.jpg)  
 :::
+
+

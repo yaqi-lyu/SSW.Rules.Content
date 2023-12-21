@@ -64,7 +64,7 @@ Salary sacrificing has many awesome benefits:
 Bob is earning $111k per annum (salary package inclusive of $11k Super). He wants to buy a $5,500 laptop.\
 Let's look at how he saves **$2,500** on the new laptop.
 
-![Figure: Without Salary Sacrificing vs Salary Sacrificing](salary-sacrafice-rules-graphic-v2-1.png)
+![Figure: Without Salary Sacrificing vs Salary Sacrificing](/rules/salary-sacrifice-electronic-devices/salary-sacrafice-rules-graphic-v2-1.png)
 
 |                                   | ❌ Without Salary Sacrificing | ✅ With Salary Sacrificing |
 | --------------------------------- | ---------------------------- | ------------------------- |
@@ -78,3 +78,4 @@ Let's look at how he saves **$2,500** on the new laptop.
 | **Take-home pay**                 | **$ 68.5k**                  | **$ 71k**                 |
 
 **Figure: Bob saved $2,500 on take-home pay with salary sacrificing**
+

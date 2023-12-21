@@ -18,5 +18,6 @@ The widths of the fields indicate to a user the data that goes in it. Do not use
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - The 'Data Retention Days' field should be reduced](/field-width.jpg)  
+![Figure: Bad example - The 'Data Retention Days' field should be reduced](/rules/consistent-fields-and-data/field-width.jpg)  
 :::
+

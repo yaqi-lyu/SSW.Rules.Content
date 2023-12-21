@@ -24,7 +24,7 @@ You have worked hard on the coding, got a "Test Pass" from the testers. Great! N
 If you are using Entity Framework Code First migrations this can be handled within your pipeline. 
 
 ::: good
-![Figure: Using EF Migrations within your pipeline to apply these changes automatically](efmigrations.png) 
+![Figure: Using EF Migrations within your pipeline to apply these changes automatically](/rules/do-you-know-deploying-is-so-easy/efmigrations.png) 
 :::
 
 ### Legacy Projects
@@ -37,7 +37,7 @@ With Visual Studio, deployment becomes easier and easier, you can choose differe
 OR
 * Right-click "Create Package"  
 
-![Figure: For a web app it is just one click](PublishWeb.jpg)
+![Figure: For a web app it is just one click](/rules/do-you-know-deploying-is-so-easy/PublishWeb.jpg)
 
 **Rich Clients**
 
@@ -45,10 +45,11 @@ OR
 OR
 * Right-click "Create Setup" (Suggestion to Microsoft as menu doesn't exist)
 
-![Figure: For a Windows clients it is also just one click](PublishRichClient.jpg)
+![Figure: For a Windows clients it is also just one click](/rules/do-you-know-deploying-is-so-easy/PublishRichClient.jpg)
 
 **Database**
             
-![Figure: For the Database it is... well one click is what you need to aim for](PublishDatabase.jpg)
+![Figure: For the Database it is... well one click is what you need to aim for](/rules/do-you-know-deploying-is-so-easy/PublishDatabase.jpg)
 
 Now all this works beautifully first time, when there is no existing database... and no existing data to worry about. Now you have a reason to read the rest of the rules :-)
+

@@ -21,4 +21,5 @@ It's good to catch any mistakes early, so that you know the requirements early o
 
 Do whatever you have to do e.g. drive to your boss' house to get this done! It can save you days of work down the track.
 
-![Figure: Weekly ledger](General Ledger.jpg)
+![Figure: Weekly ledger](/rules/do-you-print-out-your-general-ledger-for-the-week-and-ask-your-boss-to-initial/General Ledger.jpg)
+

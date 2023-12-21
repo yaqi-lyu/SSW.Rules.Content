@@ -18,11 +18,11 @@ Everyone in your organisation should be able to see meetings that are relevant t
 
 1. Navigate to Microsoft Teams | Calendar | New Meeting
 
-![Figure: Navigate to Microsoft Teams | Calendar | New Meeting](Microsoft-Teams-New-Meeting.png)
+![Figure: Navigate to Microsoft Teams | Calendar | New Meeting](/rules/create-recurring-teams-meetings-for-a-channel/Microsoft-Teams-New-Meeting.png)
 
 2. Enter the details of the meeting, make sure to add a channel to associate with it!
 
-![Figure: Enter the details of the meeting, make sure to add a channel to associate with it!](Microsoft-Teams-New-Meeting-Setup.png)
+![Figure: Enter the details of the meeting, make sure to add a channel to associate with it!](/rules/create-recurring-teams-meetings-for-a-channel/Microsoft-Teams-New-Meeting-Setup.png)
 
 3. Hit save and you are done, your meeting is all setup.
 

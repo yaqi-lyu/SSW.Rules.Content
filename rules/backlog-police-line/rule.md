@@ -23,5 +23,5 @@ To help focus your Product Owner and team on the core Product Backlog Items (PBI
 Then when deciding if a feature is vital or not, simply drag it above or below this line.
 
 ::: good
-![Figure: Good example – Police Line added to help the team prioritize](backlog-police-line.png)
+![Figure: Good example – Police Line added to help the team prioritize](/rules/backlog-police-line/backlog-police-line.png)
 :::

@@ -18,7 +18,7 @@ Although many have differing opinions on this matter, Windows applications have 
 
 The following grid shows where application files should be placed:
 
-![](store-files.jpg)  
+![](/rules/where-to-store-your-applications-files/store-files.jpg)  
 
 <!--endintro-->
 
@@ -32,3 +32,4 @@ The following grid shows where application files should be placed:
 
 
 Microsoft's write-up on this subject can be found at [Microsoft API and reference catalog](https://www.ssw.com.au/ssw/Redirect/Microsoft/MSDNFileSystem.htm).
+

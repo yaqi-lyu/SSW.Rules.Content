@@ -26,7 +26,7 @@ To set up Control4 notifications in Slack, follow these steps:
 5. Copy the generated webhook URL. This will be used to send Control4 notifications to Slack 
 
 ::: good
-![Figure: Good example - Slack Integration window](slackintegration.jpg)
+![Figure: Good example - Slack Integration window](/rules/do-you-send-control4-notifications-to-a-slack-channel/slackintegration.jpg)
 :::
 
 1. In your Control4 system, navigate to the Composer software and open your project
@@ -38,13 +38,14 @@ To set up Control4 notifications in Slack, follow these steps:
 3. Save the TCP command settings and test it out by triggering a Control4 event that will execute the TCP command 🚨
 
 ::: good
-![Figure: Good example - Setting up a Generic TCP Command in Composer](composerintegration.jpg)
+![Figure: Good example - Setting up a Generic TCP Command in Composer](/rules/do-you-send-control4-notifications-to-a-slack-channel/composerintegration.jpg)
 :::
 
 That's it! Now you'll be able to send Control4 notifications to Slack using the generic TCP command in Control4 Composer. 🙌
 
 ::: good
-![Figure: Good example - You can send any kinds of notifications to Slack](slacknotification.jpg)
+![Figure: Good example - You can send any kinds of notifications to Slack](/rules/do-you-send-control4-notifications-to-a-slack-channel/slacknotification.jpg)
 :::
 
 Remember, using the "Incoming Webhook" integration in Slack and the generic TCP command in Control4 Composer is a powerful combination for seamless notification integration. It keeps everyone in the loop and makes collaboration a breeze! 🤝
+

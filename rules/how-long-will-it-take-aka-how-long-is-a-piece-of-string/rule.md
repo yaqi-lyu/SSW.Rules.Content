@@ -18,10 +18,11 @@ Judging how long a project will take is a difficult task as there are many facto
 
 <!--endintro-->
 
-![Figure: Estimating how long a project will take is like asking how long a piece of string is](how-long-1.jpg)
+![Figure: Estimating how long a project will take is like asking how long a piece of string is](/rules/how-long-will-it-take-aka-how-long-is-a-piece-of-string/how-long-1.jpg)
 
 Thankfully Project Server 2013 or 2010 allows us to stay on top of the project with live updates with TFS and the project gantt chart to track progress and delays.
 
-![Figure: Get the right figures at a glance with Project Server 2010](how-long-2.jpg)
+![Figure: Get the right figures at a glance with Project Server 2010](/rules/how-long-will-it-take-aka-how-long-is-a-piece-of-string/how-long-2.jpg)
 
-![Figure: Tracking project blowouts with Project Server 2010](how-long-3.jpg)
+![Figure: Tracking project blowouts with Project Server 2010](/rules/how-long-will-it-take-aka-how-long-is-a-piece-of-string/how-long-3.jpg)
+

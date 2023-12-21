@@ -25,7 +25,7 @@ All good Scrum teams have a backlog. The backlog is built by taking a conversati
 
 You should [create PBIs during or straight after the conversation](/report-bugs-and-suggestions), rather than using emails that may never be entered into the backlog.
 
-![Figure: Get typing during a conversation to make the meeting tangible](Typing.jpg)
+![Figure: Get typing during a conversation to make the meeting tangible](/rules/build-the-backlog/Typing.jpg)
 
 The Product Owner is responsible for owning the Product Backlog. See the video on ["Do you know how to be a good Product Owner?"](/do-you-know-the-how-to-be-a-good-product-owner)
 
@@ -36,22 +36,23 @@ Although these requirements come from the Product Owner, it is often the develop
 #### 1. Emails
 
 ::: bad
-![Figure: Bad example - This is a poor way to add a PBI/Issue as you can’t order emails by the business priority](EmailBadExample.png)
+![Figure: Bad example - This is a poor way to add a PBI/Issue as you can’t order emails by the business priority](/rules/build-the-backlog/EmailBadExample.png)
 :::
 
 #### GitHub Issues (Recommended)
 
 ::: good
-![Figure: Good example - Github Issues](GitHubIssues.png)
+![Figure: Good example - Github Issues](/rules/build-the-backlog/GitHubIssues.png)
 :::
 
 #### 3. Azure DevOps - E.g. https://ssw.visualstudio.com
 
 ::: good
-![Figure: Good example - Azure DevOps allows you to enter an item into the backlog, in any priority order](AzureDevOpsBacklog.png)
+![Figure: Good example - Azure DevOps allows you to enter an item into the backlog, in any priority order](/rules/build-the-backlog/AzureDevOpsBacklog.png)
 :::
 
 **What's next?**
 
 * [Discuss the backlog](/discuss-the-backlog)
 * [What to do when it's done?](/dones-do-you-know-how-to-do-a-perfect-done-replying-to-a-bug)
+

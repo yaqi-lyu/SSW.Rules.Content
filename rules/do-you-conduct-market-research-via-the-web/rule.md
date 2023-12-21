@@ -12,7 +12,7 @@ archivedreason: null
 guid: 4aeab3ae-12a5-4b28-b4f0-04e3f184d523
 ---
 
-![](1_0xkyi7o93asbnj8zkex_7a.png)
+![](/rules/do-you-conduct-market-research-via-the-web/1_0xkyi7o93asbnj8zkex_7a.png)
 
 In every industry Market Research is conducted before a product is developed. Why is IT any different? 
 
@@ -50,3 +50,4 @@ The main points:
 2. Ask for feedback
 3. Keep the followers updated with changes 
 4. And most importantly, listen to your users!
+

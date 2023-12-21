@@ -29,7 +29,7 @@ It is not enough to just use hashes in your URLs (e.g., example&#46;com/index.ht
 
 If you do not pre-render HTML you may still get good enough SEO as Google Bots are getting better at crawling JavaScript but you cannot be certain it will work. You can use [Google Fetch](https://www.google.com/webmasters/tools/googlebot-fetch) to test how your web pages look to a Google bot.
 
-![Figure: How to configure your site to pre-render HTML for Google bots.](seo_for_angular-diagram.png)  
+![Figure: How to configure your site to pre-render HTML for Google bots.](/rules/do-you-consider-seo-in-your-angularjs-application/seo_for_angular-diagram.png)  
 
 Besides pre-rendering HTML to get your AngularJS Single Page Application (SPA) SEO friendly you can apply the following practices:
 
@@ -47,3 +47,4 @@ This step ensures your search results are represented in a meaningful and predic
 :::
 
 **Source:** https://developers.google.com/search/blog/2014/05/understanding-web-pages-better
+

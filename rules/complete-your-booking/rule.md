@@ -50,4 +50,5 @@ The major benefits of the good example (working full days for the client) is tha
 
 There will of course be exceptions, such as emergencies or urgent work coming up, but 90% of the time, full days should be billed to 1 client.
 
-![Figure: Your timesheets for next week should end up looking a lot like your original bookings (in our case this is shown in the CRM service calendar)](service-calendar.png)
+![Figure: Your timesheets for next week should end up looking a lot like your original bookings (in our case this is shown in the CRM service calendar)](/rules/complete-your-booking/service-calendar.png)
+

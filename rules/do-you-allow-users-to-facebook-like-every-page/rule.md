@@ -15,14 +15,15 @@ redirects: []
 
 Facebook recommendations are a great way to publicize your pages without blatant advertising.  
 <!--endintro-->
-![](Facebook_Recommend01.jpg) 
+![](/rules/do-you-allow-users-to-facebook-like-every-page/Facebook_Recommend01.jpg) 
  **Figure: A user clicks recommend. 
 ** 
-![](Facebook_Recommend02.jpg)
+![](/rules/do-you-allow-users-to-facebook-like-every-page/Facebook_Recommend02.jpg)
  **Figure: His friends can see this activity on the homepage (provided that the plugin is installed.)** 
 
-![](Facebook_Recommend03.jpg)
+![](/rules/do-you-allow-users-to-facebook-like-every-page/Facebook_Recommend03.jpg)
  **Figure: It appears on your Facebook page.** 
 
-![](Facebook_Recommend04.jpg)
+![](/rules/do-you-allow-users-to-facebook-like-every-page/Facebook_Recommend04.jpg)
  **Figure: Your friends also see it on your Facebook page.**
+

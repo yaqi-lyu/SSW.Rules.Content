@@ -26,4 +26,5 @@ Of course, there are also times when you may want to be more explicit – you ma
 
 The rest of the time, rely on TypeScript to infer the type for you.
 
-![Figure: Except for the input parameter, TypeScript can infer all the types for this function](describe.png)
+![Figure: Except for the input parameter, TypeScript can infer all the types for this function](/rules/describe-types-sparsely/describe.png)
+

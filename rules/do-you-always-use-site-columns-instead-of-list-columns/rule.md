@@ -30,17 +30,17 @@ You should always try to use Site Columns instead of List Columns
 
 
 ::: bad  
-![Figure: Create column - Bad Example](ListColumn.png)  
+![Figure: Create column - Bad Example](/rules/do-you-always-use-site-columns-instead-of-list-columns/ListColumn.png)  
 :::
 
 
 ::: good  
-![Figure: Add from existing site columns - Good Example](SiteColumn.png)  
+![Figure: Add from existing site columns - Good Example](/rules/do-you-always-use-site-columns-instead-of-list-columns/SiteColumn.png)  
 :::
 
 
 ::: good  
-![Figure: Site Columns - Good Example](SSWColumns\_small.jpg)  
+![Figure: Site Columns - Good Example](/rules/do-you-always-use-site-columns-instead-of-list-columns/SSWColumns_small.jpg)  
 :::
 
 
@@ -50,3 +50,5 @@ You should always try to use Site Columns instead of List Columns
 Sometimes you still may want to use a List Column.
 
 * You are Mary and want to create a simple list to track supplies, but you do not have site permissions to create site columns
+
+

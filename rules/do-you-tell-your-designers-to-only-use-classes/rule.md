@@ -17,7 +17,7 @@ In Sitefinity you can alter the appearance and content areas on your webpage usi
 
 <!--endintro-->
 
-![Figure: You have the ability to assign a Class to a Div only. No other customisations can be made](sitefinity-class-only.jpg)  
+![Figure: You have the ability to assign a Class to a Div only. No other customisations can be made](/rules/do-you-tell-your-designers-to-only-use-classes/sitefinity-class-only.jpg)  
 
 Additionally, Sitefinity will hard code the widths of the layout and there is no way to stop it.
  The hack work around is to manually remove the widths via JQuery:
@@ -28,3 +28,4 @@ Additionally, Sitefinity will hard code the widths of the layout and there is no
 $(".sf\_colsOut").css("width", "");
 
 :::
+

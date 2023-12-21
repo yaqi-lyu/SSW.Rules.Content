@@ -20,8 +20,9 @@ Keep the scripts in a separate directory to any other scripts or files. This way
 
 <!--endintro-->
 
-![Figure: A list of change SQL scripts, each file name is in the correct format](SQLChangeScripts.jpg)  
+![Figure: A list of change SQL scripts, each file name is in the correct format](/rules/script-out-all-changes/SQLChangeScripts.jpg)  
 
 The script file format should be: &lt;version&gt;\_&lt;description&gt;.sql
 
 The &lt;version&gt; should be a number which is padded with leading zeros (0) on the right to firm 3 or 4 digits (however long we need).
+

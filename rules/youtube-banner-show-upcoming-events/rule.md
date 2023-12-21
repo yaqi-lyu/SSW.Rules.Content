@@ -30,9 +30,10 @@ Note: If your event is next in line, use the new banner as soon as it's ready.
 
 
 ::: bad
-![Bad example: This banner could be 10 years old...there is no way to know.](bad-banner.png)
+![Bad example: This banner could be 10 years old...there is no way to know.](/rules/youtube-banner-show-upcoming-events/bad-banner.png)
 :::
 
 ::: good
-![Good example: The people running this channel must be excited, and the audience should be too!](good-banner.png)
+![Good example: The people running this channel must be excited, and the audience should be too!](/rules/youtube-banner-show-upcoming-events/good-banner.png)
 :::
+

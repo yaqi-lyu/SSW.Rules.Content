@@ -13,12 +13,12 @@ Outlook (and other Microsoft 365 apps) has a great feature that shows users' Lin
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example - LinkedIn profile is not connected to a Microsoft account](linkedin-bad.png)
+![Figure: Bad example - LinkedIn profile is not connected to a Microsoft account](/rules/linkedin-connect-your-microsoft-account/linkedin-bad.png)
 :::
 
 ::: good
 
-![Figure: Good example - LinkedIn profile is connected to a Microsoft account](linkedin-good.png)
+![Figure: Good example - LinkedIn profile is connected to a Microsoft account](/rules/linkedin-connect-your-microsoft-account/linkedin-good.png)
 
 :::
 
@@ -26,11 +26,11 @@ Outlook (and other Microsoft 365 apps) has a great feature that shows users' Lin
 
 1. In Outlook, hover over your name (for example, in an email to you) and click on the LinkedIn logo
 
-  ![Figure: Click the blue LinkedIn logo](linkedin-hover.png)
+  ![Figure: Click the blue LinkedIn logo](/rules/linkedin-connect-your-microsoft-account/linkedin-hover.png)
 
 2. On the LinkedIn page that appears, click "Yes, let's go"
 
-  ![Figure: Sign in to LinkedIn](linkedin-signin.png)
+  ![Figure: Sign in to LinkedIn](/rules/linkedin-connect-your-microsoft-account/linkedin-signin.png)
 
 ::: greybox
 **Note:** If your Microsoft account is already connected, you'll see your LinkedIn profile here instead.
@@ -41,10 +41,11 @@ Outlook (and other Microsoft 365 apps) has a great feature that shows users' Lin
 
 You can also check this within LinkedIn. go to **LinkedIn | Settings | Account Preferences | Account Management | [Microsoft](https://www.linkedin.com/psettings/microsoft-accounts)**, and view your account connection.
 
-  ![Figure: Microsoft account connected](linkedin-linked.png)
+  ![Figure: Microsoft account connected](/rules/linkedin-connect-your-microsoft-account/linkedin-linked.png)
 
 - - -
 
 ### Links
 
 See also: [Microsoft's Support page on this topic](https://support.microsoft.com/en-us/office/connect-your-linkedin-and-personal-accounts-658686da-b158-44c9-bf0f-56b23b70ef5f)
+

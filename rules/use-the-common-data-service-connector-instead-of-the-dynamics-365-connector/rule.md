@@ -30,10 +30,11 @@ Common Data Services (Current Environment) is only available if the Flow being d
 
 
 ::: bad  
-![Bad Example: Using the deprecated Dynamics 365 connector](bad-connector-use.png)  
+![Bad Example: Using the deprecated Dynamics 365 connector](/rules/use-the-common-data-service-connector-instead-of-the-dynamics-365-connector/bad-connector-use.png)  
 :::
 
 
 ::: good  
-![Good Example: Using the Common Data Service connector](good-connector-use.png)  
+![Good Example: Using the Common Data Service connector](/rules/use-the-common-data-service-connector-instead-of-the-dynamics-365-connector/good-connector-use.png)  
 :::
+

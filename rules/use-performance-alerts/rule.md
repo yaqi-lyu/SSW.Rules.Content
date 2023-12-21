@@ -32,8 +32,9 @@ To configure an alert to trigger an application, perform the following steps:
 8. Click OK.
 
 
-![](performanceAlert.gif)  
+![](/rules/use-performance-alerts/performanceAlert.gif)  
 You have just configured an application to run in response to an alert. Unfortunately, because the program doesn't interact with the desktop, it runs in the background, visible only in Task Manager. To enable the program to run interactively, perform the following steps:
 1. Start the MMC Services snap-in (Start, Programs, Administrative Tools, Services).
 2. Right-click Performance Logs and Alerts, and select Properties.
 3. On the Log On tab, specify the "Local System account" and select the "Allow service to interact with desktop" checkbox.
+

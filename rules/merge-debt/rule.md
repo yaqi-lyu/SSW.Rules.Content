@@ -38,5 +38,6 @@ Merge debt can be avoided by:
 :::
 
 ::: good
-![Figure: Good example - Devs reviewing a PR on a call - no merge debt!](over-the-shoulder-pr.png)
+![Figure: Good example - Devs reviewing a PR on a call - no merge debt!](/rules/merge-debt/over-the-shoulder-pr.png)
 :::
+

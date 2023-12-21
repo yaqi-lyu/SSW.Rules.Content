@@ -24,7 +24,7 @@ Don't waste time evaluating which Web UI libraries to use. Most of the commonly 
 
 It's the most popular available framework today, which means more people involved in the project, more tutorials and articles from the community, more real-world examples/websites, more third-party extensions, and better integration with other web development products
 
-![Figure: Leader among frameworks today, Bootstrap toolkit is recommended to build successful websites](bootstrap.png)  
+![Figure: Leader among frameworks today, Bootstrap toolkit is recommended to build successful websites](/rules/do-you-use-the-best-web-ui-libraries/bootstrap.png)  
 
 ### The 3 things a developer need to know to get up and running quickly with ASP.NET MVC
 
@@ -40,3 +40,4 @@ Now that you saved a lot of UI development time by using Bootstrap, you can play
 
 * **[KendoUI](http://www.kendoui.com/)** for enhanced HTML and jQuery controls
 * **[SignalR](http://signalr.net/)** for real-time web functionality
+

@@ -36,7 +36,7 @@ Do the following:
 1. Go to PIM at <https://portal.azure.com/#view/Microsoft_Azure_PIMCommon/ResourceMenuBlade/~/MyActions/resourceId//resourceType/tenant/provider/aadroles>
 2. Go to Assignments | Add Assignment:
 
-   ![✅Figure: Good Example - Assigning roles in PIM](pim1.jpg)
+   ![✅Figure: Good Example - Assigning roles in PIM](/rules/azure-ad-pim/pim1.jpg)
 3. Select Role | Select members | Next
 4. Here, you have 2 options: Eligible or Active.
 
@@ -44,7 +44,7 @@ Do the following:
    2. Active: The member has the permissions **active**, forever or for a set period of time. They don't need to perform any manual steps to activate anything.
 5. Select the correct one | Add a justification | Assign:
 
-   ![✅Figure: Good Example - Having the option of Eligible and Active makes PIM flexible](pim2.jpg)
+   ![✅Figure: Good Example - Having the option of Eligible and Active makes PIM flexible](/rules/azure-ad-pim/pim2.jpg)
 
    You are now assigned roles in PIM.
 
@@ -54,7 +54,7 @@ If you are eligible for assignments, you can activate them by doing the followin
 
 1. Go to <https://portal.azure.com/#view/Microsoft_Azure_PIMCommon/ResourceMenuBlade/~/MyActions/resourceId//resourceType/tenant/provider/aadroles>
 2. Click on My Roles | Role | Activate: 
-   ![Figure: Good Example - Activate just-in-time roles only when you need it](how-to-activate-pim.png)
+   ![Figure: Good Example - Activate just-in-time roles only when you need it](/rules/azure-ad-pim/how-to-activate-pim.png)
 3. Go through the steps to add a justification and time you need that access for.
 
 You now have that role active for you, for up to 8 hours.
@@ -63,4 +63,4 @@ You now have that role active for you, for up to 8 hours.
 
 PIM has built-in alerts that will send an email when assignments are activated, together with its justification, who activated it, the role activated, and extra information:
 
-![✅Figure: Good Example - PIM emails you when assignments and roles are activated, you can see straight away if something's wrong!](pimalert.jpg)
+![✅Figure: Good Example - PIM emails you when assignments and roles are activated, you can see straight away if something's wrong!](/rules/azure-ad-pim/pimalert.jpg)

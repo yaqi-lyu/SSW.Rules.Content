@@ -38,5 +38,6 @@ Figure: Good example for titles - Only conjunctions and prepositions (both havin
 It's best to only do this on main titles, and leave subtitles in normal sentence form - only capitalize the first word and proper nouns. Basically, it saves hassles... English is a confusing language, and there are too many variations that cause too many arguments.
 
 ::: good
-![Figure: Good example - The main title has capitalization and the subtitles don't](rules-to-better-technical-documentation-example.png)
+![Figure: Good example - The main title has capitalization and the subtitles don't](/rules/how-to-capitalize-titles/rules-to-better-technical-documentation-example.png)
 :::
+

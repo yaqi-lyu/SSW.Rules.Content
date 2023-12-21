@@ -22,11 +22,11 @@ There are 2 steps to getting objective data about forms.
 
 The best way to measure value is simply to ask your users. Put a question at the bottom of your form and ask them to give it a rating out of 5. 
 
-![Figure: Add a question asking your users for the value of the form (make sure the question is always the same)](askthevalueofyourform.png)
+![Figure: Add a question asking your users for the value of the form (make sure the question is always the same)](/rules/forms-value/askthevalueofyourform.png)
 
 For reporting, word this question the same way each time so that you can easily consolidate the results in a reporting platform like Power BI.
 
-![Figure: Using Power BI you can check what value you are getting out of your forms](measurethevalueofyourformblurred.png)
+![Figure: Using Power BI you can check what value you are getting out of your forms](/rules/forms-value/measurethevalueofyourformblurred.png)
 
 ### 2 - Educate the users
 

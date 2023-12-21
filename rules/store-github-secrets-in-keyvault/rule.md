@@ -21,7 +21,7 @@ Solution: Store them in Azure KeyVault.
 3. Add 1 KeyVault for each environment you will deploy to - These are to store any values that are specific to the development environment (i.e. dev, staging, prod)
 
 ::: good
-![Figure: Resource Group with 4 Azure KeyVaults ready to go](sharedconfigurationkeyvaults.png)
+![Figure: Resource Group with 4 Azure KeyVaults ready to go](/rules/store-github-secrets-in-keyvault/sharedconfigurationkeyvaults.png)
 :::
 
 ### Use the KeyVaults in your CICD pipeline
@@ -68,3 +68,4 @@ module azuredeployment 'environment-keyvault.bicep' ={
 Get-AzKeyVaultSecret -VaultName "$environmentName-kvconfig" -Name myAppInsightsKey -AsPlainText
 ```
 **Figure: Retrieve KeyVault Secrets using PowerShell**
+

@@ -43,7 +43,7 @@ There are a few styles of documentation:
 ### ❌ Bad example – Old School
 
 ::: bad  
-![Figure: Bad example - The dinosaur’s method of documentation](old-documentation.png)  
+![Figure: Bad example - The dinosaur’s method of documentation](/rules/awesome-documentation/old-documentation.png)  
 :::
 
 The old school way is document first – lots of planning and lots of heavy documentation created upfront before even a single line of code is written.
@@ -61,11 +61,11 @@ This is a well-established way to do documentation, but it has several problems:
 * Needs a business analyst
 
 ::: bad  
-![Figure: Bad example - Documentation can take the form of Sequence Diagrams](enterprisearchitect1.jpg)  
+![Figure: Bad example - Documentation can take the form of Sequence Diagrams](/rules/awesome-documentation/enterprisearchitect1.jpg)  
 :::
 
 ::: bad  
-![Figure: Bad example - Use Case Diagrams are even worse!](EnterpriseArchitectUseCases.jpg)  
+![Figure: Bad example - Use Case Diagrams are even worse!](/rules/awesome-documentation/EnterpriseArchitectUseCases.jpg)  
 :::
 
 There may be exceptions – some situations benefit from this kind of documentation; for example, it may be necessary to support a business case – although a well-defined spec is a better document to support a business case.
@@ -131,36 +131,36 @@ GitHub wiki options:
 **Tip:** All of your documents (in your Wiki and your repository) should be [written in Markdown](/using-github-and-markdown-to-store-you-content).
 
 ::: bad  
-![Figure: Bad example - Github project without any documentation or instructions](documentation__level2__bad-example-gh.png)  
+![Figure: Bad example - Github project without any documentation or instructions](/rules/awesome-documentation/documentation__level2__bad-example-gh.png)  
 :::
 
 ::: bad  
-![Figure: Bad example - Azure DevOps project without any documentation or instructions](azuredevops-bad.png)  
+![Figure: Bad example - Azure DevOps project without any documentation or instructions](/rules/awesome-documentation/azuredevops-bad.png)  
 :::
 
-![Figure: OK example - Github project with README instructions on how to compile and run the project (but still has a TODO)](documentation__level2__good-example-1-gh.png)  
+![Figure: OK example - Github project with README instructions on how to compile and run the project (but still has a TODO)](/rules/awesome-documentation/documentation__level2__good-example-1-gh.png)  
 
 ::: good  
-![Figure: Good example - Azure DevOps project with README instructions on how to compile and run the project](azuredevops-good.png)  
-:::
-
-::: good  
-![Figure: Good example - Github project with Wiki instructions for Product Owners, stakeholders, or public consumption (Source: https://github.com/christoment/Northwind/wiki)](documentation__level2__good-example-2-gh.png)  
+![Figure: Good example - Azure DevOps project with README instructions on how to compile and run the project](/rules/awesome-documentation/azuredevops-good.png)  
 :::
 
 ::: good  
-![Figure: Good example - Azure DevOps project with Wiki instructions for Product Owners, stakeholders, or public consumption](azuredevops-wiki-good.png)  
+![Figure: Good example - Github project with Wiki instructions for Product Owners, stakeholders, or public consumption (Source: https://github.com/christoment/Northwind/wiki)](/rules/awesome-documentation/documentation__level2__good-example-2-gh.png)  
+:::
+
+::: good  
+![Figure: Good example - Azure DevOps project with Wiki instructions for Product Owners, stakeholders, or public consumption](/rules/awesome-documentation/azuredevops-wiki-good.png)  
 :::
 
 **Tip:** Use your documentation for onboarding developers
 
 
 ::: bad  
-![Figure: Bad example - No documentation, go and sit with another developer](sit-dev-bad.png)  
+![Figure: Bad example - No documentation, go and sit with another developer](/rules/awesome-documentation/sit-dev-bad.png)  
 :::
 
 ::: good  
-![Figure: Good example - Developer onboarding can be self-guided by good documentation, and offers a structure for feedback and improvement if the developer hits any issues](documentation\_\_level2\_\_onboarding-pbi-3.png)  
+![Figure: Good example - Developer onboarding can be self-guided by good documentation, and offers a structure for feedback and improvement if the developer hits any issues](/rules/awesome-documentation/documentation__level2__onboarding-pbi-3.png)  
 :::
 
 **Tip:** Keep your documentation as minimal as possible - automate the F5 experience and deployment process (documents 2 and 3) using PowerShell scripts. Then your documents can just say "run these scripts"
@@ -185,7 +185,7 @@ This should be added to the [Definition of Done](/definition-of-done).
 
 **What's "Technical Debt"?**
 
-![Technical Debt](Debt.jpg)
+![Technical Debt](/rules/awesome-documentation/Debt.jpg)
 
 During a project, when you add functionality, you have a choice:
 
@@ -200,3 +200,5 @@ We can choose to continue paying the interest, or we can pay the debt in full by
 The same principle is true with documentation. Using the 'old school' method will leave you with a build-up of documentation that you will need to keep up to date as the project evolves.
 
 **Warning:** If you want to follow Scrum and have zero technical debt, then you must throw away all documentation at the end of each Sprint. If you do want to keep it, make sure you add it to your [definition of done](/definition-of-done) to keep it updated.
+
+

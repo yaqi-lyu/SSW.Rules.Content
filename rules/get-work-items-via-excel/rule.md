@@ -13,25 +13,25 @@ Initializing the Project - See how to get the work items into Azure DevOps via E
 <!--endintro-->
 
 * Open SSW Priorities Estimate Template in Excel
-  ![Figure: Find SSW Template - 'New | My templates... | SSW_Proposal-Project | SSWPrioritiesEstimateTemplate.xltx''](ExcelSSWTemplate.jpeg)
+  ![Figure: Find SSW Template - 'New | My templates... | SSW_Proposal-Project | SSWPrioritiesEstimateTemplate.xltx''](/rules/get-work-items-via-excel/ExcelSSWTemplate.jpeg)
 
 * Add the tasks and additional tasks into Release_XX sheet
-  ![Figure: Copy work items to Release_XX sheet](ExcelReleaseSheet.jpeg)
+  ![Figure: Copy work items to Release_XX sheet](/rules/get-work-items-via-excel/ExcelReleaseSheet.jpeg)
 
 **Note:** The Project Management tasks will be calculated based on your tasks
 
 * Create a new sheet and go to Team tab
 * Click "New List" and choose your project
-  ![Figure: Find your project in the list](ExcelFindProject.jpeg)
+  ![Figure: Find your project in the list](/rules/get-work-items-via-excel/ExcelFindProject.jpeg)
 
-  ![Figure: Choose 'Input list' to download the empty template](ExcelInputList.jpeg)
+  ![Figure: Choose 'Input list' to download the empty template](/rules/get-work-items-via-excel/ExcelInputList.jpeg)
   
 * Add the other useful columns e.g. Baseline Work, Remaining Work, Completed Work into Excel
-  ![Figure: Click 'Choose columns'](ExcelChooseColumnsButton.jpeg)
+  ![Figure: Click 'Choose columns'](/rules/get-work-items-via-excel/ExcelChooseColumnsButton.jpeg)
 
-  ![Figure: Select columns in the left list](ExcelChooseColumnsList.jpeg)
+  ![Figure: Select columns in the left list](/rules/get-work-items-via-excel/ExcelChooseColumnsList.jpeg)
   
 * Copy work items (including the Project Management tasks) from Release_XX to the new sheet
-  ![Figure: Copy work items from Release_XX](ExcelWorkItems.jpeg)
+  ![Figure: Copy work items from Release_XX](/rules/get-work-items-via-excel/ExcelWorkItems.jpeg)
 
 * Click "Publish" button to upload the work items to TFS

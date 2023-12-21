@@ -20,7 +20,7 @@ If you think the task you have been given is going to take more than 2 hours, st
 
 If you can, don't wait until two hours is up before checking - check as soon as you realise it is likely to take more than two hours.
 
-![](ManinthePeatBog.jpg)
+![](/rules/do-you-double-check-the-importance-of-a-task-when-you-realise-its-going-to-take-more-than-2-hours/ManinthePeatBog.jpg)
 
 
 ::: bad
@@ -28,9 +28,10 @@ Figure: bad example: Don't keep working on a task until it's too late!
 :::
 
 
-![](bush_on_the_phone.jpg)
+![](/rules/do-you-double-check-the-importance-of-a-task-when-you-realise-its-going-to-take-more-than-2-hours/bush_on_the_phone.jpg)
 
 
 ::: good
 Figure: Good example: Calling the customer to tell them that "changing that function hyperlink is going to take more than 2 hours. Actually more like 2 days, do you want me to go ahead?"  
 :::
+

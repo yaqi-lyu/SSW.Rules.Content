@@ -36,7 +36,7 @@ QR codes give a smooth transition from offline to online content, which simplifi
 ⚠️ Note: You should never have to create an account to download a basic QR code. Many websites will try to fool you into making one. Don't fall for it!
 :::
 
-![Figure: The URL on the left, and customization options on the right](qr-code-generator.png)
+![Figure: The URL on the left, and customization options on the right](/rules/make-a-qr-code/qr-code-generator.png)
 
 ### Tracking QR Code data through Google Analytics (GA)
 
@@ -52,3 +52,4 @@ If you want to track data through Google Analytics, it's very easy.
 ::: good
 Figure: Good example - The link you use to make the QR code will have a '?utm_source' ending
 :::
+

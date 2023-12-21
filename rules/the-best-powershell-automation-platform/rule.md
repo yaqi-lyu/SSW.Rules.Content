@@ -31,14 +31,15 @@ For example, SSW uses PowerShell Universal Dashboards to automate repeating SysA
 
 
 ::: good  
-![Figure: Good Example - Dashboard to automate employee's leaving standard](automated-standard.png)  
+![Figure: Good Example - Dashboard to automate employee's leaving standard](/rules/the-best-powershell-automation-platform/automated-standard.png)  
 :::
 
 Running commands directly in the PowerShell CLI without data, schedule or a nice UI is a thing of the past, and you should be using the capabilities of PowerShell Universal to keep your scripts well maintained.
 
 
 ::: bad  
-![Figure: Bad Example - Running commands by hand directly](running-commands-hand.png)  
+![Figure: Bad Example - Running commands by hand directly](/rules/the-best-powershell-automation-platform/running-commands-hand.png)  
 :::
 
 You can read its full documentation at [https://docs.ironmansoftware.com](https://docs.ironmansoftware.com/).
+

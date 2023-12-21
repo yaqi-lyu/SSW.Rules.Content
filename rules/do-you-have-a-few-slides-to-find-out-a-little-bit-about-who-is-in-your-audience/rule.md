@@ -22,6 +22,7 @@ It is best to confirm who you are speaking to via a few slides. Then you can mak
 * Interesting to them
 * Relevant to them
 
-![Figure: Ask "How many are developers here?"](developers.jpg)
+![Figure: Ask "How many are developers here?"](/rules/do-you-have-a-few-slides-to-find-out-a-little-bit-about-who-is-in-your-audience/developers.jpg)
 
-![Figure: Ask "How many are managers here?"](managers.jpg)
+![Figure: Ask "How many are managers here?"](/rules/do-you-have-a-few-slides-to-find-out-a-little-bit-about-who-is-in-your-audience/managers.jpg)
+

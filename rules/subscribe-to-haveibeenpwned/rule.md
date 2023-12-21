@@ -19,4 +19,5 @@ You can enter your username (usually an email address) and it will tell you if y
 
 You can also subscribe to haveibeenpwned, so that if in the future your email address shows up in a breach, you can be notified straight away.
 
-![Figure: Subscribe to haveibeenpwned to know as soon as possible if your password has been compromised](haveibeenpwned.png)
+![Figure: Subscribe to haveibeenpwned to know as soon as possible if your password has been compromised](/rules/subscribe-to-haveibeenpwned/haveibeenpwned.png)
+

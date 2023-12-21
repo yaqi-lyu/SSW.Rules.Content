@@ -22,28 +22,29 @@ Xero Payroll allows for the employee to access their payroll details on web. The
 
 Xero has released a mobile app version of Xero Payroll called "Xero Me" which has a majority of the same function as the web version. Similarly, employees would be able to access their usual information as per the web version except for salary and bank account. 
 
-![Figure: Xero Me app available on iOS and Android](578347254_1280x720.jpg)
+![Figure: Xero Me app available on iOS and Android](/rules/do-you-use-a-mobile-app-to-check-your-personal-payroll/578347254_1280x720.jpg)
 
 As such, the app makes for a great handy tool for employees to check their information, submit timesheets and request leave on the go. 
 
 ::: img-medium
-![Figure: Xero Me homepage - complete timesheets, request leave and check payslips on the go](abc.png)
+![Figure: Xero Me homepage - complete timesheets, request leave and check payslips on the go](/rules/do-you-use-a-mobile-app-to-check-your-personal-payroll/abc.png)
 :::
 
 Requesting leave is simple with the app and can be approved just as quickly by the relevant approver with all systems updated simultaneously. 
 
 ::: img-medium
-![Figure: Xero Me Leave Main Page](MicrosoftTeams-image10.png)
+![Figure: Xero Me Leave Main Page](/rules/do-you-use-a-mobile-app-to-check-your-personal-payroll/MicrosoftTeams-image10.png)
 :::
 
 Simply click the plus symbol to add a new leave request and put in the basic information (type of leave, approver, days or hours taken and description). The approver will then get a notification and can easily approve or reject the request.
 
 ::: img-medium
-![Figure: Leave request page](MicrosoftTeams-image11.png)
+![Figure: Leave request page](/rules/do-you-use-a-mobile-app-to-check-your-personal-payroll/MicrosoftTeams-image11.png)
 :::
 
 ::: img-medium
-![Figure: Approver's leave request page](MicrosoftTeams-image12.png)
+![Figure: Approver's leave request page](/rules/do-you-use-a-mobile-app-to-check-your-personal-payroll/MicrosoftTeams-image12.png)
 :::
 
 The app is free and as versatile as the web version with an added function of convenience. We highly recommend the use of a Xero mobile app to manage your personal payroll.
+

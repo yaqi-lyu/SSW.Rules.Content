@@ -17,5 +17,6 @@ You should always avoid forcing users to click to another page if possible. Addi
 
 
 ::: good  
-![Figure: Good example - Information is shown on hover, not an additional link](../../assets/Clickingthrough.jpg)  
+![Figure: Good example - Information is shown on hover, not an additional link](/rules/do-you-save-clicking-through/Clickingthrough.jpg)  
 :::
+

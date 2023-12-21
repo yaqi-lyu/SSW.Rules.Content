@@ -29,11 +29,11 @@ In today's fast-paced work environment, efficient communication and collaboratio
 Now, imagine a solution that eliminates these pain points, making every meeting a hassle-free and productive experience. Microsoft Teams Rooms offers user-friendly options to transform your meetings into smooth and efficient interactions. You can also check out more information on Microsoft's website at [Microsoft Teams Rooms](https://www.microsoft.com/en-au/microsoft-teams/microsoft-teams-rooms).
 
 ::: bad  
-![Figure: Bad Example - Cable adapter Hell](bad-example-too-many-cables.png)  
+![Figure: Bad Example - Cable adapter Hell](/rules/use-microsoft-teams-room/bad-example-too-many-cables.png)  
 :::
 
 ::: good  
-![Figure: Good Example - Using Microsoft Teams Room setup | Photo Credit: https://proav.pl/logitech-nowe-rozwiazania-do-pracy-zdalnej/](Logitech-Rally-Bar-Switch-Tab.png)  
+![Figure: Good Example - Using Microsoft Teams Room setup | Photo Credit: https://proav.pl/logitech-nowe-rozwiazania-do-pracy-zdalnej/](/rules/use-microsoft-teams-room/Logitech-Rally-Bar-Switch-Tab.png)  
 :::
 
 ## The Hardware
@@ -88,5 +88,6 @@ Logitech is the recommended partner for getting your hardware from, as they have
 4. Your screen will be shared directly on the TV
 
 ::: good
-![Figure: Good example - Using the Logitech Swytch to easily connect your laptop and go beyond Teams](logitechswytch.png)
+![Figure: Good example - Using the Logitech Swytch to easily connect your laptop and go beyond Teams](/rules/use-microsoft-teams-room/logitechswytch.png)
 :::
+

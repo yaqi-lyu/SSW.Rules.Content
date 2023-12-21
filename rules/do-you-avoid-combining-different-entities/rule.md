@@ -18,10 +18,11 @@ If the form controls are different entities, they usually have different  data a
 
 
 ::: bad  
-![Figure: Bad Example - Different entities are combined](../../assets/AvoidCombiningBad.gif)  
+![Figure: Bad Example - Different entities are combined](/rules/do-you-avoid-combining-different-entities/AvoidCombiningBad.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Different entities are separated](../../assets/AvoidCombiningGood.gif)  
+![Figure: Good Example - Different entities are separated](/rules/do-you-avoid-combining-different-entities/AvoidCombiningGood.gif)  
 :::
+

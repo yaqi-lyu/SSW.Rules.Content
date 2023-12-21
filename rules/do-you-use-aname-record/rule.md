@@ -23,5 +23,6 @@ Configuring ANAME is as easy as configuring CNAME.
 
 Let's have a look at DNS records for **adamcogan.com.au**, DNS records contains apex record for **adamcogan.com.au** and **www.adamcogan.com.au**. The apex record uses ANAME, while CNAME for **www.adamcogan.au** - now we will never have to worry about updating these records, they will follow the DNS records of **adamcogan.com** . 
 
-![Figure: Example DNS entry from Azure DNS](2018-08-01_14-41-32.jpg)
+![Figure: Example DNS entry from Azure DNS](/rules/do-you-use-aname-record/2018-08-01_14-41-32.jpg)
+
 

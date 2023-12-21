@@ -18,4 +18,5 @@ An image tells a thousand words. Using screenshots and pictures can help selling
 
 <!--endintro-->
 
-![Figure: Add a screenshot of a related project](Proposals\_Screeshot.jpg)
+![Figure: Add a screenshot of a related project](/rules/use-screenshots-in-your-proposals/Proposals_Screeshot.jpg)
+

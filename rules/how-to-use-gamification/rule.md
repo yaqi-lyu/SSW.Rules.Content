@@ -26,25 +26,26 @@ This concept is being utilized even in
 
 
 ::: good  
-![Figure: Good Example – Microsoft Rewards gives points when you search on Bing.com and buy things from the Microsoft Store online and in Windows 10](microsoft-rewards.jpg)  
+![Figure: Good Example – Microsoft Rewards gives points when you search on Bing.com and buy things from the Microsoft Store online and in Windows 10](/rules/how-to-use-gamification/microsoft-rewards.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example – Stack Overflow uses reputation points, awarded by how useful your answer to other user submitted questions were](stack-overflow-reputation.jpg)  
+![Figure: Good Example – Stack Overflow uses reputation points, awarded by how useful your answer to other user submitted questions were](/rules/how-to-use-gamification/stack-overflow-reputation.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example – TimePro uses gamification to encourage users to do their timesheets on time](gamification-timepro.png)  
+![Figure: Good Example – TimePro uses gamification to encourage users to do their timesheets on time](/rules/how-to-use-gamification/gamification-timepro.png)  
 :::
 
 
 ::: good  
-![Figure: Good Example – SugarLearning Leaderboard is another good example](sugarlearning-leaderboard.png)  
+![Figure: Good Example – SugarLearning Leaderboard is another good example](/rules/how-to-use-gamification/sugarlearning-leaderboard.png)  
 :::
 
 
 ::: good  
-![Figure: Good Example – Dropbox rewards its users with extra storage space instead of imaginary points. This is more interesting](gamification-dropbox.png)  
+![Figure: Good Example – Dropbox rewards its users with extra storage space instead of imaginary points. This is more interesting](/rules/how-to-use-gamification/gamification-dropbox.png)  
 :::
+

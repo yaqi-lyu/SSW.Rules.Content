@@ -24,7 +24,7 @@ As you might appreciate, it is not realistic to understand the complexity of you
 
 <!--endintro-->
 
-![Figure: Remember... a batter aims to hit the ball way out of the ballpark. Don't set an indefensible boundary too early by estimating too small](ProjectManagement\_BallPark\_Catch.jpg)  
+![Figure: Remember... a batter aims to hit the ball way out of the ballpark. Don't set an indefensible boundary too early by estimating too small](/rules/spec-do-you-create-an-initial-release-plan-and-ballpark/ProjectManagement_BallPark_Catch.jpg)  
 
 The deliverables for the Specification Review depend upon how large the application is and the time we have spent on the review. You should have the following:
 
@@ -52,3 +52,4 @@ The deliverables for the Specification Review depend upon how large the applicat
 With the Specification Review, the client can see whether the consultant understands their business and the requirements for their software development project.
 
 The ballpark estimate allows them to decide whether the project is feasible for their budget and time-frame.
+

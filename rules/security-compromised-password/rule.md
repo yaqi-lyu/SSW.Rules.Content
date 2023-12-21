@@ -30,5 +30,6 @@ Why? If your Gmail has been hacked this can have implications for the company.
 Once you have informed your Systems Administrator of a potential breach send an ["As Per My Conversation" email](/as-per-our-conversation-emails).
 
 ::: good
-![Figure: Good example - Inform the SysAdmins of a potential breach](SugarLearning-Email-Passwords.png)
+![Figure: Good example - Inform the SysAdmins of a potential breach](/rules/security-compromised-password/SugarLearning-Email-Passwords.png)
 :::
+

@@ -38,9 +38,9 @@ Both DocuSign and Adobe Sign are leading eSignature platforms, but they have dis
 * **Security** - Ensures encrypted digital signatures, making it more secure than physical signatures
 * **Accessibility** - Sign documents from anywhere at any time using any device
 
-![❌ Figure: Bad example - Handwritten signatures cause delays and inefficiencies](how-to-digitize-your-signature-so-youre-ready-for-online-document-signing.jpg)
+![❌ Figure: Bad example - Handwritten signatures cause delays and inefficiencies](/rules/use-esignature-solutions/how-to-digitize-your-signature-so-youre-ready-for-online-document-signing.jpg)
 
-![✅ Figure: Good example - eSignatures are efficient and easy](signature_gump.png.img.png)
+![✅ Figure: Good example - eSignatures are efficient and easy](/rules/use-esignature-solutions/signature_gump.png.img.png)
 
 ## Implementation Process
 
@@ -54,3 +54,4 @@ When implementing an eSignature solution:
    **Note:** Do not share sensitive documents on a shared email account without ensuring data confidentiality
 6. **Integration** - Integrate the solution with your existing software and tools for seamless operation (E.g. Microsoft Teams and Dynamics 365)
 7. **Internal Documentation** - Create detailed internal documents or guides on how to use the app. This ensures consistency in usage and helps new users get onboarded quickly
+

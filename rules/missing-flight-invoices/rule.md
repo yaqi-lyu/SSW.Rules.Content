@@ -20,7 +20,7 @@ In most cases, the tax invoices of the flights that booked by company were sent 
 The traditional way of retrieving the invoice is for the person who took the flight to send through the invoice directly. However, sometimes the person who needs to send through the invoice is too busy and unable to action this task for a long time or they may even forget to do it entirely.
 
 ::: bad
-![Figure: Bad example - Ask the individual for the tax invoice of a flight](2023-02-24_15-40-04.png)
+![Figure: Bad example - Ask the individual for the tax invoice of a flight](/rules/missing-flight-invoices/2023-02-24_15-40-04.png)
 :::
 
 Luckily, most airlines offers a convenient portal for managing bookings where you can retrieve this information for all company flights, e.g. [Qantas Business Rewards](https://www.qantas.com/au/en/business-rewards/qbr/myaccount) or [Virgin Australia Business Flyer](https://www.virginaustralia.com/au/en/fly-for-business/business-flyer/)
@@ -37,14 +37,14 @@ If an invoice is missing, you can access the document by:
 3. Choose "Manage booking".
 
 ::: good 
-![Figure: Good example - Retrieve the invoice from Qantas Business Reward in 30 seconds.](qantas-tax-invoice-v2.png)
+![Figure: Good example - Retrieve the invoice from Qantas Business Reward in 30 seconds.](/rules/missing-flight-invoices/qantas-tax-invoice-v2.png)
 :::
 
 **Note:** You can also access to this page as a guest via [Qantas Manage booking](https://www.qantas.com/au/en/manage-booking.html) without Qantas Business, but a booking reference is required.
 
 4. Select "Resend tax invoice"
 
-![Figure: Resend the tax invoice on manage booking.](qantas-tax-invoice-2.png)
+![Figure: Resend the tax invoice on manage booking.](/rules/missing-flight-invoices/qantas-tax-invoice-2.png)
 
 5. Put the email that you wish the tax invoice to be received. The tax invoice should be resent in a few seconds. 
 
@@ -53,3 +53,4 @@ Simply retrieve the missed invoices from that portal and you can skip the middle
 ::: greybox
 **Note:** Only bookings with company name and ABN can be managed through Qantas Business Rewards.
 :::
+

@@ -31,4 +31,5 @@ It is surprising how many IT staff create backup plans and then leave it at that
  This can be found under  **Management | Maintenance Plans** within the database tee in SQL Server.
 
 
-![Figure: SQL Server - A Complete Weekly Maintenance Plan](SqlMaintenancePlan.png)
+![Figure: SQL Server - A Complete Weekly Maintenance Plan](/rules/setup-a-complete-maintenance-plan/SqlMaintenancePlan.png)
+

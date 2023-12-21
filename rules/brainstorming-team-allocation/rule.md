@@ -38,11 +38,11 @@ Ensure everyone has completed the voting form before allocating teams.
 
 Typically, the form responses exported to Excel will be in a format like this.
 
-![Figure: Data from the form responses](raw-data-format.png)
+![Figure: Data from the form responses](/rules/brainstorming-team-allocation/raw-data-format.png)
 
 This data format makes it hard to assign teams, you can use ChatGPT Advanced Data Analysis to transform data into a better format.
 
-![Figure: Transformed data makes it easy to allocate teams](transformed-voting-data.png)
+![Figure: Transformed data makes it easy to allocate teams](/rules/brainstorming-team-allocation/transformed-voting-data.png)
 
 Upload the Excel file to ChatGPT and use this prompt
 
@@ -81,3 +81,4 @@ Putting the team allocations in a Discussion allows updates if attendees change 
 ![Figure: GitHub Discussion - Team allocations](https://github.com/SSWConsulting/SSW.Rules.Content/assets/38869720/5c7a9a8f-24d8-4129-8060-c34f2cd3afb2)
 
 **Tip:** For extra visibility, also pin it on the repo.
+

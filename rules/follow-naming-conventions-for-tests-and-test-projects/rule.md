@@ -40,7 +40,7 @@ Test projects can be located either:
 * Directly next to the project under test – which makes them easy to find, or
 * In a separate "tests" location – which makes it easier to deploy the application without tests included
 
-![Figure: In the above project the tests are clearly placed in a separate location, making it easy to deploy to production without them. It’s easy to tell which project is under test and what style of tests will be found in each test project](clean-architecture-naming-2.png)
+![Figure: In the above project the tests are clearly placed in a separate location, making it easy to deploy to production without them. It’s easy to tell which project is under test and what style of tests will be found in each test project](/rules/follow-naming-conventions-for-tests-and-test-projects/clean-architecture-naming-2.png)
 
 Source: [github.com/SSWConsulting/SSW.CleanArchitecture](https://github.com/SSWConsulting/SSW.CleanArchitecture)
 
@@ -59,7 +59,7 @@ Remember that descriptive names are useful – but the choice of name is not the
 * The point of a naming convention is to make code more readable, not less - so use your judgement and call in others to verify your readability
 
 ::: bad
-![Figure: Bad example - From the Test Explorer view you cannot tell what a test is meant to test just from its name](bad-naming.png)
+![Figure: Bad example - From the Test Explorer view you cannot tell what a test is meant to test just from its name](/rules/follow-naming-conventions-for-tests-and-test-projects/bad-naming.png)
 :::
 
 ## Option 1: \[Method/Class]\_\[Condition]\_[ExpectedResult] (Recommended)
@@ -117,3 +117,4 @@ Remember, pick what naming method works for your team & organisation's way of wo
 For more reading, the read the [Microsoft guidance on Unit testing best practices](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices)
 
 A list of other suggested conventions can be found here: [7 Popular Unit Test Naming Conventions](https://dzone.com/articles/7-popular-unit-test-naming).
+

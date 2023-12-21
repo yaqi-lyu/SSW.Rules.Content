@@ -22,15 +22,16 @@ Building, bundling and compiling Angular applications can get complicated. You n
 
 
 ::: bad  
-![Figure: Bad Example - Gulp requires hundreds of lines of config to build and bundle Angular applications](gulp.png)  
+![Figure: Bad Example - Gulp requires hundreds of lines of config to build and bundle Angular applications](/rules/the-best-build-tool/gulp.png)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Webpack is an open-source JavaScript module bundler that can be used to build your application (and lots more as well). Teams with advanced build requirements use Webpack. The downside of Webpack is that it requires a large investment in learning Webpack - if it isn't required, the Angular CLI is a better choice](webpack.png)  
+![Figure: Good Example - Webpack is an open-source JavaScript module bundler that can be used to build your application (and lots more as well). Teams with advanced build requirements use Webpack. The downside of Webpack is that it requires a large investment in learning Webpack - if it isn't required, the Angular CLI is a better choice](/rules/the-best-build-tool/webpack.png)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Use the Angular CLI on all new projects that don't require custom Webpack builds. The Angular CLI generates components, routes, services, and pipes, follows best practices as well as building applications for production. The Angular CLI build includes best practices including Tree Shaking and Ahead of Time (AoT) compilation out of the box! The Angular CLI uses Webpack under the covers](cli.png)  
+![Figure: Good Example - Use the Angular CLI on all new projects that don't require custom Webpack builds. The Angular CLI generates components, routes, services, and pipes, follows best practices as well as building applications for production. The Angular CLI build includes best practices including Tree Shaking and Ahead of Time (AoT) compilation out of the box! The Angular CLI uses Webpack under the covers](/rules/the-best-build-tool/cli.png)  
 :::
+

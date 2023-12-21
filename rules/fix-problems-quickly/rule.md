@@ -37,7 +37,7 @@ When someone brings to your attention that they are not happy with something, it
 > 
 > **Adam Cogan, SSW**
 
-![Figure: Miscommunications happen when people look at things from different angles, what looks like a 6 to some, looks like a 9 to others!](Miscommunication6and9.png)
+![Figure: Miscommunications happen when people look at things from different angles, what looks like a 6 to some, looks like a 9 to others!](/rules/fix-problems-quickly/Miscommunication6and9.png)
 
 ## Scenario - Missing a deadline
 
@@ -78,11 +78,11 @@ If you are getting warning signs such as the above, you need to escalate to your
 If a conflict was unpleasant, it's often a good idea to offer an olive branch after... by sending a quick message later on to clear the air. Emojis (e.g. 🫒🌿) are a great way to lighten the mood, you could even indicate you're giving them an olive branch.
 
 ::: good
-![Figure: Good example - An olive branch](GoodOliveBranch.jpg)
+![Figure: Good example - An olive branch](/rules/fix-problems-quickly/GoodOliveBranch.jpg)
 :::
 
 ::: good
-![Figure: Great example - An olive branch with a solution](GreatOliveBranch.jpg)
+![Figure: Great example - An olive branch with a solution](/rules/fix-problems-quickly/GreatOliveBranch.jpg)
 :::
 
 ## When to push back
@@ -97,3 +97,4 @@ You can work to resolve any conflict afterwards.
 * Recurring tasks - However, if it's something you're being asked to do repeatedly, and you're unhappy with it, still do that task right away, but make sure you clearly communicate your concerns later on, when the pressure's off
 
 **Note:** If after raising the problem, you are still not happy, consider sending a "[For the record email](/for-the-record)"
+

@@ -38,11 +38,12 @@ The gold standard ⭐ is to automatically run subcutaneous tests inside your Dev
 Every test should reset the database so you always know your resources are in a consistent state.
 
 ::: good
-![Figure: Good example - Define your workflows in yml files and containerize your testing](githubactionyml.png)
+![Figure: Good example - Define your workflows in yml files and containerize your testing](/rules/subcutaneous-tests/githubactionyml.png)
 :::
 
 ::: good
-![Figure: Good example - Your tests can then run in your DevOps pipelines](githubpipeline.png)
+![Figure: Good example - Your tests can then run in your DevOps pipelines](/rules/subcutaneous-tests/githubpipeline.png)
 :::
 
 Jason Taylor has a fantastic example of Subcutaneous testing in his [Clean Architecture template](https://github.com/jasontaylordev/CleanArchitecture/tree/main/tests).
+

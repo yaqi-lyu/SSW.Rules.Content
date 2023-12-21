@@ -22,12 +22,13 @@ You can add the version number to the name of the reporting server by:
 
 2. Add 2005 or 2008 to the name
 
-![Figure: Reporting Service version](ReportingServiceVersion.png)
+![Figure: Reporting Service version](/rules/reporting-services-version/ReportingServiceVersion.png)
 
 ::: bad  
-![Figure: Bad example - You can't tell what version of reporting services you are running](VersionBad.png)  
+![Figure: Bad example - You can't tell what version of reporting services you are running](/rules/reporting-services-version/VersionBad.png)  
 :::
 
 ::: good  
-![Figure: Good example - We can clearly see that this is running Reporting Services 2005](VersionGood.png)
+![Figure: Good example - We can clearly see that this is running Reporting Services 2005](/rules/reporting-services-version/VersionGood.png)
 :::
+

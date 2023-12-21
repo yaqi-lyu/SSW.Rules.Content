@@ -22,7 +22,7 @@ There are different ways to align your form labels and each has its own pros and
 
 ### Top aligned
 
-![](label-top-aligned.png)  
+![](/rules/how-to-align-your-form-labels/label-top-aligned.png)  
 
 
 ::: good
@@ -50,7 +50,7 @@ Cons:
 ### Left aligned
 
 
-![](label-left-aligned.png)  
+![](/rules/how-to-align-your-form-labels/label-left-aligned.png)  
 
 
 ::: good
@@ -76,7 +76,7 @@ Cons
 
 ### Right aligned
 
-![](label-right-aligned.png)  
+![](/rules/how-to-align-your-form-labels/label-right-aligned.png)  
 
 
 ::: good
@@ -104,7 +104,7 @@ Cons
 Alternatively, we can use Material labeling which places them inside the form and slides up on focus.
 
 
-![](label-material-labeling.png)  
+![](/rules/how-to-align-your-form-labels/label-material-labeling.png)  
 
 
 ::: good
@@ -127,3 +127,4 @@ Cons
 
 * Extremely time-consuming to implement. Need to consider the cost/benefit.
 * Not necessarily available on 3rd party platforms, like Wufoo or Microsoft Forms.
+

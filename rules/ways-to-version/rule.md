@@ -28,7 +28,7 @@ If the Microsoft Office user also wants the hairy details, Microsoft also gives 
 
 Use this on websites and applications, it is generally found in the **Help | About** area. It is especially great on custom client projects where the whole project is all built together and a build is deployed. This is a quick and easy reference for your users.
 
-![Figure: Microsoft Word uses Simple Versioning](wordversion.png)
+![Figure: Microsoft Word uses Simple Versioning](/rules/ways-to-version/wordversion.png)
 
 ## Semantic Versioning
 
@@ -39,4 +39,5 @@ Semantic Versioning has a multi part version (e.g. 2.1.0). Changes in each of th
 Use Semantic Versioning if you are producing libraries or APIs where it's important to easily convey whether a **consumer might expect breaking changes**.   
 Read more about [Semantic Versioning](/semantic-versioning).
 
-![Figure: Nuget packages use Semantic Versioning (as do APIs)](semanticversion.png)
+![Figure: Nuget packages use Semantic Versioning (as do APIs)](/rules/ways-to-version/semanticversion.png)
+

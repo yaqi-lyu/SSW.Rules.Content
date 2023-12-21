@@ -42,7 +42,7 @@ Lock the developers into a room and shove some pizza under the door... and don't
 * This is not a realistic approach for most enterprise applications.
 
 ::: ok  
-![Figure: OK example - big bang migration](big-bang.png)
+![Figure: OK example - big bang migration](/rules/modernize-your-app/big-bang.png)
 :::
 
 ## Evolutionary
@@ -62,7 +62,7 @@ The idea is to take the existing application and incrementally update it to a mo
 * At some point you'll hit a point where there needs to be a Big Bang change to get it over the line - this is not a realistic approach for most applications.
 
 ::: ok  
-![Figure: OK example - evolutionary migration (fitting a square peg in a round hole)](evolutionary.png)
+![Figure: OK example - evolutionary migration (fitting a square peg in a round hole)](/rules/modernize-your-app/evolutionary.png)
 :::
 
 ## Strangler fig pattern (recommended)
@@ -70,7 +70,7 @@ The idea is to take the existing application and incrementally update it to a mo
 [Strangler Fig pattern was first described by Martin Fowler in 2004](https://martinfowler.com/bliki/StranglerFigApplication.html). The strangler fig is a type of tree that grows around other trees and slowly kills them by strangling them. This is exactly what this pattern does.
 
 ::: no-border
-![Figure: an actual strangler fig strangling a tree](strangler-fig.jpg)
+![Figure: an actual strangler fig strangling a tree](/rules/modernize-your-app/strangler-fig.jpg)
 :::
 
 The idea is to create a "new" application (with a modern architecture) that acts as a facade to the existing application - then port features bit by bit to the new/modern architecture. Once slices of functionality have been ported and are ready - re-point the facade to execute the new code. You can trigger this through feature flags and this also allows you to rollback to the old code if something goes wrong.
@@ -98,7 +98,7 @@ It works for AWS too - [Strangler Fig Application](https://docs.aws.amazon.com/p
 * Not for smaller/non-complex systems.
 
 ::: good  
-![Figure: Good example - strangler fig pattern in action during a migration](strangler-fig-pattern.png)
+![Figure: Good example - strangler fig pattern in action during a migration](/rules/modernize-your-app/strangler-fig-pattern.png)
 :::
 
 ::: info  
@@ -111,3 +111,4 @@ Campion was able to move from a monolithic application to microservices whilst s
 
 `youtube: https://youtu.be/TNTqd0vhalY?t=1679`
 **Figure: Education in the Cloud – Campion's Digital Journey with Alexander Candy-Levy (1:07:46)**
+

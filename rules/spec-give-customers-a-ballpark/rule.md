@@ -43,9 +43,9 @@ Here are the 8 steps:
 
 Open the [Estimates Calculator](estimates-calculator.xlsx) and do the following:
 
-![Figure: Set the types and numbers of resources who will be working on the project](resource-tab.png)
+![Figure: Set the types and numbers of resources who will be working on the project](/rules/spec-give-customers-a-ballpark/resource-tab.png)
 
-![Figure: Enter your PBIs and estimates](estimates-tab.png)
+![Figure: Enter your PBIs and estimates](/rules/spec-give-customers-a-ballpark/estimates-tab.png)
 
 ### Why Microsoft Project isn't recommended
 
@@ -54,3 +54,4 @@ Microsoft Project is sophisticated waterfall planning software that has powerful
 * In MS Project, tasks are auto scheduled based on dependency and resource allocation (who is assigned to it). This generates an estimated completion date which is never accurate, due to annual leave, public holidays and general shuffling of people in the team
 * It gets the summing wrong (the totals don't seem to update and no way to trigger it)
 * It's hard to synchronize with timesheets (as it doesn't connect to 3rd party timesheet systems out of the box – however, it does have its own time sheeting system... that is missing billing information!)
+

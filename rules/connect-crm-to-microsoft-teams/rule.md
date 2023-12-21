@@ -42,7 +42,7 @@ Once you have this set up, it is likely that you want to have a link between you
 
 In the video, Adam Cogan describes how they connect Dynamics 365 and Teams with an extra field. They change the Account table to add a custom column 'Teams-URL'.
 
-![Figure: CRM | Company/Account Form – added Teams URL field](dynamics-and-teams.png)
+![Figure: CRM | Company/Account Form – added Teams URL field](/rules/connect-crm-to-microsoft-teams/dynamics-and-teams.png)
 
 :::greybox
 **Note:** Each client should have its own Team. You might have two associated clients - e.g. Northwind Australia and Northwind USA - but if they are separate legal entities and have separate accounts in CRM, they should have separate Teams.
@@ -52,7 +52,7 @@ In the video, Adam Cogan describes how they connect Dynamics 365 and Teams with 
 
 To get that URL, simply click the ellipsis next to your Team name and click "Get link to Team".
 
-![Figure: Get the Teams URL](get-teams-url.jpg)
+![Figure: Get the Teams URL](/rules/connect-crm-to-microsoft-teams/get-teams-url.jpg)
 
 ### Level 2: Automatic (Basic)
 
@@ -66,7 +66,7 @@ or
 
 * [Ribbon Workbench](https://www.develop1.net/public/rwb/ribbonworkbench.aspx) (old approach -  using the ribbon workbench)
 
-![Figure: Use the Ribbon](account_createteamssite.png)
+![Figure: Use the Ribbon](/rules/connect-crm-to-microsoft-teams/account_createteamssite.png)
 
 ### Level 3: Automatic (Advanced - best UX)
 
@@ -74,10 +74,11 @@ Using a PCF control you can add a button directly into the form that can do ever
 
 Click on this section on your CRM Dynamics to have a Team created:
 
-![Figure: PCF control allows you to add a button to create a Team](click-to-create.png)
+![Figure: PCF control allows you to add a button to create a Team](/rules/connect-crm-to-microsoft-teams/click-to-create.png)
 
 **Note #1:** Alternatively, this process can even be automated using Azure functions and Graph API to provision a new Team every time a new client is created in CRM. This has the disadvantage that every single Account would get a Team...and that could create a real mess of unused Teams.
 
 **Note #2:** The Team's name can get out of sync if the Dynamics client name is changed, therefore you need one extra flow that is called when the client name is changed to keep them in sync.
 
 See [how the PCF can make UI's shine](/customize-dynamics-user-experience).
+

@@ -18,4 +18,5 @@ SSW has its contact details in the top navigation, which is found on all pages a
 
 <!--endintro-->
 
-![Figure: SSW's contact details on the website](../../assets/MarketingContactBar.gif)
+![Figure: SSW's contact details on the website](/rules/ensure-that-your-contact-details-are-easy-to-find/MarketingContactBar.gif)
+

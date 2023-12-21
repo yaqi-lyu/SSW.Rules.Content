@@ -17,6 +17,7 @@ Note when you do a customization it gives it a prefix with the schema name - in 
 
 <!--endintro-->
 
-![Figure: Set your schema-name prefix to use for custom entities and attributes](CRM\_PrefixSetting.jpg)  
+![Figure: Set your schema-name prefix to use for custom entities and attributes](/rules/customization-do-you-set-the-schema-name-prefix/CRM_PrefixSetting.jpg)  
 
-![Figure: customized attributes with the prefix](CRM\_Prefix.jpg)
+![Figure: customized attributes with the prefix](/rules/customization-do-you-set-the-schema-name-prefix/CRM_Prefix.jpg)
+

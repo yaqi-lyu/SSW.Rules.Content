@@ -17,6 +17,6 @@ In the end, the 'Summary' slide should be identical, and summarize what you just
 
 <!--endintro-->
 
-![Figure: Slide for agenda](goodagenda.jpg)
+![Figure: Slide for agenda](/rules/do-you-use-the-same-agenda-and-summary-slide/goodagenda.jpg)
 
-![Figure: Slide for summary (is the same as agenda)](goodsummary.jpg)
+![Figure: Slide for summary (is the same as agenda)](/rules/do-you-use-the-same-agenda-and-summary-slide/goodsummary.jpg)

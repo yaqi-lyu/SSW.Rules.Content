@@ -29,16 +29,17 @@ However, at the moment there is a limitation that it doesn't read inline attachm
 
 <!--endintro-->
 
-![Figure: Power Automate | Connectors | Github](email-to-github-issue2.png)  
+![Figure: Power Automate | Connectors | Github](/rules/turn-emails-into-a-github-issue/email-to-github-issue2.png)  
 
-![Figure: Configure Flow connectors to create a new Github Issue from Outlook](email-to-github-issue1.png)  
+![Figure: Configure Flow connectors to create a new Github Issue from Outlook](/rules/turn-emails-into-a-github-issue/email-to-github-issue1.png)  
 
 🔥 Warning: This Flow connector does not suport inline images.
 
 ::: good  
-![Figure: Good Example - Github issue created from Outlook using Flow connectors](email-to-github-issue3.png)  
+![Figure: Good Example - Github issue created from Outlook using Flow connectors](/rules/turn-emails-into-a-github-issue/email-to-github-issue3.png)  
 :::
 
 ::: bad  
-![Figure: Bad Example - Github issue created using Flow - inline attachment shows up as junk characters](email-to-github-issue.png)  
+![Figure: Bad Example - Github issue created using Flow - inline attachment shows up as junk characters](/rules/turn-emails-into-a-github-issue/email-to-github-issue.png)  
 :::
+

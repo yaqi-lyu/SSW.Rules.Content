@@ -20,12 +20,13 @@ LinkedIn is the main business and employment-oriented social networking service 
 
 A featured section will allow you to highlight services in your profile. To achieve that, follow the instructions from LinkedIn: [Add Sections to Your Profile | LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/a540837/add-sections-to-your-profile)
 
-![Figure: In the Featured section, use the "+" and then "Links" buttons to include the URLs for the main services your provide](linkedin-services-bad-example.png)
+![Figure: In the Featured section, use the "+" and then "Links" buttons to include the URLs for the main services your provide](/rules/have-urls-to-your-main-services-on-linkedin/linkedin-services-bad-example.png)
 
 ::: bad
-![Figure: Bad example - Profile with no links](linkedin-bad-example.png)
+![Figure: Bad example - Profile with no links](/rules/have-urls-to-your-main-services-on-linkedin/linkedin-bad-example.png)
 :::
 
 ::: good
-![Figure: Good example - Profile with links to main services provided](linkedin-gert-good-example-featured-links.png)
+![Figure: Good example - Profile with links to main services provided](/rules/have-urls-to-your-main-services-on-linkedin/linkedin-gert-good-example-featured-links.png)
 :::
+

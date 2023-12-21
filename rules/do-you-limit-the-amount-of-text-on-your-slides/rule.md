@@ -16,9 +16,9 @@ Your audience cannot listen to you and read the slides at the same time. Therefo
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example - Too much text/content on this slide](badtext.jpg)
+![Figure: Bad example - Too much text/content on this slide](/rules/do-you-limit-the-amount-of-text-on-your-slides/badtext.jpg)
 :::
 
 ::: good
-![Figure: Good example - Less is more](goodtext.jpg)
+![Figure: Good example - Less is more](/rules/do-you-limit-the-amount-of-text-on-your-slides/goodtext.jpg)
 :::

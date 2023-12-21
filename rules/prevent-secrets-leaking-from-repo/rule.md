@@ -43,10 +43,11 @@ Follow the steps on [GitHub - Configuring secret scanning for your repositories]
 
 As a bonus, you can shift this left a bit and block developers from pushing code to the repo if GitHub finds a secret in the push. This has the benefit of not requiring secret rotation (as no one else was able to pull the branch). See [GitHub - Protecting pushes with secret scanning](https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/protecting-pushes-with-secret-scanning).
 
-![Figure: GitHub found an AWS secret on this push and blocked it](secret-scanning-push-protection-with-link.png)
+![Figure: GitHub found an AWS secret on this push and blocked it](/rules/prevent-secrets-leaking-from-repo/secret-scanning-push-protection-with-link.png)
 
-![Figure: Sometimes there are false positives or test data, developers aren't blocked from doing their work. They just need to go out of their way to make sure it isn't a real secret.](secret-scanning-unblock-form.png)
+![Figure: Sometimes there are false positives or test data, developers aren't blocked from doing their work. They just need to go out of their way to make sure it isn't a real secret.](/rules/prevent-secrets-leaking-from-repo/secret-scanning-unblock-form.png)
 
 ::: info
 If you have secrets patterns that aren't natively supported - you can use regexes to define these custom patterns for GitHub to look out for. See [GitHub - Define custom patterns](https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/defining-custom-patterns-for-secret-scanning)
 :::
+

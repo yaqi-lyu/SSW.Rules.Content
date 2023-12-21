@@ -48,7 +48,7 @@ etc...
 :::
 
 ::: good
-![Figure: Good example - A nice link in your LinkedIn profile for easy bookings](linkedinlink.png)
+![Figure: Good example - A nice link in your LinkedIn profile for easy bookings](/rules/meeting-bookings/linkedinlink.png)
 :::
 
 You can create an individual booking page ("Bookings with me") or a shared booking page, for a team ("Microsoft Bookings").
@@ -64,7 +64,7 @@ You can create an individual booking page ("Bookings with me") or a shared booki
 7. Choose who can book appointments - anyone with the link, people in your organization only, or no self service
 8. Save your changes and share the booking page link with external parties
 9. Now, they can easily book a meeting with you by selecting a suitable time slot from the available options 📅
-   ![Figure: Setup - Setting up a new Service in Microsoft Bookings](microsoftbookings.jpg)
+   ![Figure: Setup - Setting up a new Service in Microsoft Bookings](/rules/meeting-bookings/microsoftbookings.jpg)
 
 ### Create a Bookings with me page for individual bookings
 
@@ -80,7 +80,7 @@ Now that you created your booking calendar, one of the best places to use it is 
 
 1. Turn on "Creator Mode" first - you can't have a link in your profile without it turned on
 
-   ![Figure: Setup - Turn on Creator Mode in LinkedIn](creatormode.png)
+   ![Figure: Setup - Turn on Creator Mode in LinkedIn](/rules/meeting-bookings/creatormode.png)
 
 3. Now login to LinkedIn | Click on “Me” | “View Profile”
 4. Click on the Edit profile button
@@ -90,3 +90,4 @@ Now that you created your booking calendar, one of the best places to use it is 
 That's it! You're all set to let externals book meetings with you hassle-free using Microsoft Bookings! 🎉✨
 
 Remember, it's important to keep your booking pages up to date and regularly check for new bookings. Also, make sure to follow up with any additional instructions or confirmations after a booking is made.
+

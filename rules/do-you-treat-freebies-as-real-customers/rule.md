@@ -71,5 +71,6 @@ Figure: Good Example - Asking for feedback
 When entering timesheets for free work, set your rate to $0.
 
 ::: good  
-![Figure: It is a good idea to set your rate to $0 and show it on the invoice](zero-timesheet.png)  
+![Figure: It is a good idea to set your rate to $0 and show it on the invoice](/rules/do-you-treat-freebies-as-real-customers/zero-timesheet.png)  
 :::
+

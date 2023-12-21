@@ -14,11 +14,11 @@ guid: f51bec68-b02b-4fe3-b3f4-c95088b02007
 You should avoid any extra style tags in your heading text, because it is unnecessary and generates inconsistency. 
 
 ::: bad
-![Figure: Bad example – bold tags being used within header tags.](heading-with-bold-tags.png)
+![Figure: Bad example – bold tags being used within header tags.](/rules/do-you-know-not-to-use-bold-tags-inside-headings/heading-with-bold-tags.png)
 :::
 
 ::: good
-![Figure: Good example – all styling is being done through CSS.](heading-styled-with-css.png)
+![Figure: Good example – all styling is being done through CSS.](/rules/do-you-know-not-to-use-bold-tags-inside-headings/heading-styled-with-css.png)
 :::
 
 <!--endintro-->

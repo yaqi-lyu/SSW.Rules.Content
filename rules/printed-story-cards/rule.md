@@ -18,4 +18,5 @@ When doing a Spec Review, always bring printed pdf file [SSW Story Cards](SSWSto
 * Write the Story ID field on the card
 * Stick the cards on the project room wall maximizing visibility
 
-![Figure: SSW Story Card](sswstorycard.jpeg)
+![Figure: SSW Story Card](/rules/printed-story-cards/sswstorycard.jpeg)
+

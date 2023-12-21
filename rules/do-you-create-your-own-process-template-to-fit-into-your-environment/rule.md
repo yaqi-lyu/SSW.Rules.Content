@@ -20,20 +20,21 @@ The built-in Process Templates in TFS will not always fit into your environment,
 <!--endintro-->
 
 ::: good  
-![Figure: Good example - The "Baseline work (hours)" field was added to keep the original estimate](SSWAgile-Baseline-1.jpg)  
+![Figure: Good example - The "Baseline work (hours)" field was added to keep the original estimate](/rules/do-you-create-your-own-process-template-to-fit-into-your-environment/SSWAgile-Baseline-1.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - "Additional Task" was added to track scope creep](SSWAgile-Additional.jpg)  
+![Figure: Good example - "Additional Task" was added to track scope creep](/rules/do-you-create-your-own-process-template-to-fit-into-your-environment/SSWAgile-Additional.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - The "URL" field has been added to allow reverse view from the web page](SSWAgile-URL.jpg)  
+![Figure: Good example - The "URL" field has been added to allow reverse view from the web page](/rules/do-you-create-your-own-process-template-to-fit-into-your-environment/SSWAgile-URL.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - Rich text has been enabled in the "Description" field to allow users to enter better text for the requirement](SSWAgile-RichText.jpg)  
+![Figure: Good example - Rich text has been enabled in the "Description" field to allow users to enter better text for the requirement](/rules/do-you-create-your-own-process-template-to-fit-into-your-environment/SSWAgile-RichText.jpg)  
 :::
 
 **Note:** The URL field is used in the [SSW Smashing Barrier](https://smashingbarrier.com).
+
 

@@ -41,21 +41,21 @@ By cropping empty spaces in screenshots, you can make things easier to read and 
 It's like zooming in on the important bits, making them bigger and friendlier for the users.
 
 ::: bad
-![Figure: Bad example – Unnecessary blank space makes screenshots hard to read](screenshot-blank-bad.png)
+![Figure: Bad example – Unnecessary blank space makes screenshots hard to read](/rules/screenshots-avoid-walls-of-text/screenshot-blank-bad.png)
 :::
 
 ::: good
-![Figure: Good example – Focus on what matters makes screenshots clear](screenshot-blank-good.png)
+![Figure: Good example – Focus on what matters makes screenshots clear](/rules/screenshots-avoid-walls-of-text/screenshot-blank-good.png)
 :::
 
 ### Tip #2: Add a balloon when you need to point at a specific area of your screenshot
 
 ::: bad
-![Figure: Bad example – The email is using a screenshot so that is good, but you need to read the text and relate it to the image](BalloonBadExample.jpg)
+![Figure: Bad example – The email is using a screenshot so that is good, but you need to read the text and relate it to the image](/rules/screenshots-avoid-walls-of-text/BalloonBadExample.jpg)
 :::
 
 ::: good
-![Figure: Good example – The balloon with text on the screenshot, makes it quicker to understand](BalloonGoodExample.jpg)
+![Figure: Good example – The balloon with text on the screenshot, makes it quicker to understand](/rules/screenshots-avoid-walls-of-text/BalloonGoodExample.jpg)
 :::
 
 ::: info
@@ -65,15 +65,15 @@ See more details on [how to configure balloons' branding in Fullshot and Snagit]
 ### Tip #3: Be aware not to overuse balloons
 
 ::: bad
-![Figure: Bad example – Balloon overload](balloon-overload.jpg)
+![Figure: Bad example – Balloon overload](/rules/screenshots-avoid-walls-of-text/balloon-overload.jpg)
 :::
 
 ::: good
-![Figure: Good example – See 3 balloons were not needed](balloon-not-needed.JPG)
+![Figure: Good example – See 3 balloons were not needed](/rules/screenshots-avoid-walls-of-text/balloon-not-needed.JPG)
 :::
 
 ::: good
-![Figure: Good Example - Sometimes an arrow is all that is needed](arrow_example.png)
+![Figure: Good Example - Sometimes an arrow is all that is needed](/rules/screenshots-avoid-walls-of-text/arrow_example.png)
 :::
 
 In other words, you can use:
@@ -95,3 +95,4 @@ Follow the rule [Do you add branding to screenshots?](/screenshots-add-branding)
 ## Do you know the best tools?
 
 Follow the rule [Screenshots - Do you know the best tools?](/screenshots-tools)
+

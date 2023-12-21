@@ -17,15 +17,16 @@ Graphs are a great way to display data in an easy to follow visual format. Some 
 
 
 ::: good  
-![Figure: Good Example - Are your graphs simple to understand?](../../assets/Graph.jpg)  
+![Figure: Good Example - Are your graphs simple to understand?](/rules/charts-do-you-make-graphs-easy-to-digest/Graph.jpg)  
 :::
 
 
 ::: bad  
-![Figure: Bad Example - When there's more than four preceptual units, a graph becomes hard to digest](../../assets/badGraph.jpg)  
+![Figure: Bad Example - When there's more than four preceptual units, a graph becomes hard to digest](/rules/charts-do-you-make-graphs-easy-to-digest/badGraph.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example - You can split your graphs to make them easer to understand](../../assets/GoodGraph.jpg)  
+![Figure: Good Example - You can split your graphs to make them easer to understand](/rules/charts-do-you-make-graphs-easy-to-digest/GoodGraph.jpg)  
 :::
+

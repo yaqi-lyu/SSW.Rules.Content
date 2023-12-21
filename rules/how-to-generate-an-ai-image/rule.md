@@ -44,9 +44,10 @@ The exact process will vary depending on the generator you're using, but general
 3. Generate the image: The tool will create an image based on your specifications.
 
 ::: good
-![Figure: Good example – Writing a prompt into an AI image generator](prompt-figure.png)
+![Figure: Good example – Writing a prompt into an AI image generator](/rules/how-to-generate-an-ai-image/prompt-figure.png)
 :::
 
 ### Practice makes perfect
 
 The more you experiment, the better you'll understand how different inputs affect your results. Try new things and make mistakes – it's all part of the learning process!
+

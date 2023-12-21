@@ -56,7 +56,7 @@ We should have the following color variation when we creating a logo:
 3. All White (in a dark background)
 
 ::: good
-![Figure: Good Example - SSW logo design has three different color set](ssw logo sample.png)
+![Figure: Good Example - SSW logo design has three different color set](/rules/do-you-know-which-formats-to-create-for-a-logo/ssw logo sample.png)
 :::
 
 ### 6. Source file: Illustrator/Sketch
@@ -66,3 +66,4 @@ Always keep a copy of the source file in Illustrator/Sketch for designers.
 #### Example
 
 * [SSW Logo Index](https://www.ssw.com.au/ssw/logo/)
+

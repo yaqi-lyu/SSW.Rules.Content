@@ -65,7 +65,7 @@ Besides following the size of the images on Facebook Ads, you should also have l
 * Stories (Instagram, Facebook and Messenger)
 
 ::: good
-![Figure: Good example – Images for ads on Facebook and Instagram consistent with company's branding guidelines and also with the traning sub-branding](jason2.png)
+![Figure: Good example – Images for ads on Facebook and Instagram consistent with company's branding guidelines and also with the traning sub-branding](/rules/image-standard-sizes-on-social-media/jason2.png)
 :::
 
 ### LinkedIn
@@ -93,3 +93,4 @@ On **[TikTok](https://www.tiktok.com)** they have the following variations for 
 
 * Profile photo size: 20 x 20 pixels (minimum size to upload)
 * Cover photo for your TikTok video (ideal ratio is 1:1 or 9:16)
+

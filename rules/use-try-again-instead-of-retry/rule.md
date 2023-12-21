@@ -19,5 +19,6 @@ They are similar but "Retry" is a more like computer jargon, whereas "Try again"
 <!--endintro-->
 
 ::: good
-![Figure: Good example - Internet Explorer uses "Try Again" instead of "Retry"](try-again-not-retry.gif)
+![Figure: Good example - Internet Explorer uses "Try Again" instead of "Retry"](/rules/use-try-again-instead-of-retry/try-again-not-retry.gif)
 :::
+

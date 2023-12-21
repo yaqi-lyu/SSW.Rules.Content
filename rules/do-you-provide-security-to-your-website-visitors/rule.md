@@ -23,7 +23,7 @@ Previously you have had to pay for this service, but there is now a free CA call
 
 
 <!--endintro-->
-![](tomato.jpg)
+![](/rules/do-you-provide-security-to-your-website-visitors/tomato.jpg)
 
 ::: bad
 Figure: Bad example – As you can see, your web-browser will let you know if the website you’re accessing is not secure
@@ -36,3 +36,4 @@ Figure: Bad example – As you can see, your web-browser will let you know if th
 Figure: Good example – SSW’s website is secure and does not share your information
 
 :::
+

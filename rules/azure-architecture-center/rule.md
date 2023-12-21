@@ -27,7 +27,7 @@ It is a one stop shop for all things Azure Architecture. It’s got a library of
 
 ## Reference Architectures
 
-![Figure: Use Browse Architectures to find a reference architecture that matches your application](referencearchitectures.png)
+![Figure: Use Browse Architectures to find a reference architecture that matches your application](/rules/azure-architecture-center/referencearchitectures.png)
 
 The architectures presented fit into 2 broad categories:
 
@@ -38,6 +38,7 @@ Each architecture comes with comprehensive documentation providing all the infor
 
 ## Best Practices
 
-![Figure: Use Explore Best Practices to find information on particular best practice](bestpractices.png)
+![Figure: Use Explore Best Practices to find information on particular best practice](/rules/azure-architecture-center/bestpractices.png)
 
 The Best Practices is a very broad set of documentation from things like performance tuning all the way through to designing for resiliency and some of the more common types of applications and their requirements. Because of this there is almost always something useful, no matter what stage your application is at. Many teams will add a Sprint goal of looking at one best practise per Sprint or at regular intervals. The Product Owner would then help prioritise which areas should be focussed on first.
+

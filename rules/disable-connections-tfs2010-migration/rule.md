@@ -31,8 +31,9 @@ Once you are ready to start you need to make sure that no one can access the exi
         2. Start IIS
         3. Right click Team Foundation Server | Stop
 
-![Figure: You need to stop anyone checking in files](StopTFSServices.png)
+![Figure: You need to stop anyone checking in files](/rules/disable-connections-tfs2010-migration/StopTFSServices.png)
 
 4. Confirm you can no longer get latest on the team project
+
 
 

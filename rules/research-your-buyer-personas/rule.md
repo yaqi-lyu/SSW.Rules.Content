@@ -22,4 +22,5 @@ A buyer persona is, according to HubSpot, a semi-fictional representation of you
 
 When creating your buyer persona, you should include customer demographics, behaviour patterns, motivations, and goals. The more specific you can be, the better. Variations of your buyer persona would also help understand and shape strategy and communication to sell your service/product, for example: "Can only men purchase my product? Or women too? Or maybe children eventually? How old can they be? Are they only local? Can I consider selling it to other states?"
 
-![Figure: Example of questions you need to answer in order to identify your buyer persona](buyer-persona-example.png)
+![Figure: Example of questions you need to answer in order to identify your buyer persona](/rules/research-your-buyer-personas/buyer-persona-example.png)
+

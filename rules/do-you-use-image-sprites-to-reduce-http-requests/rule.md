@@ -26,10 +26,11 @@ Ensure that the file size of your master image isn't greater than the sum of its
 
 
 ::: bad  
-![Figure: Bad Example - four images, one for each icon](ImageSprites\_bad.gif)  
+![Figure: Bad Example - four images, one for each icon](/rules/do-you-use-image-sprites-to-reduce-http-requests/ImageSprites_bad.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - one image contains all the icons and CSS selectors make the browser display only the part you need](ImageSprites\_good.gif)  
+![Figure: Good Example - one image contains all the icons and CSS selectors make the browser display only the part you need](/rules/do-you-use-image-sprites-to-reduce-http-requests/ImageSprites_good.gif)  
 :::
+

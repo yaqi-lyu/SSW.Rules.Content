@@ -19,4 +19,5 @@ You can still create immediate brand recognition even when it's not applicable t
 
 For example, the SSW has 4 little coloured square as motifs within the logo, and these squares can be used without the rest of the logo text.
 
-![Figure: SSW logo motif](4square.png)
+![Figure: SSW logo motif](/rules/do-you-use-identifying-company-logo-motifs/4square.png)
+

@@ -22,7 +22,7 @@ Developing mobile apps presents unique challenges compared to web or desktop dev
 
 
 ::: bad  
-![Figure: Bad Example - rebuilding your app every time to see small UI changes](hot-reload-bad.png)  
+![Figure: Bad Example - rebuilding your app every time to see small UI changes](/rules/use-hot-reload/hot-reload-bad.png)  
 :::
 
 This problem is partially solved by Design Time Data (see rule: [Do you use design time data?](/use-design-time-data)), but this still doesn't show you how things change as you interact with them.
@@ -31,7 +31,8 @@ To get around this problem use Hot Reload. This lets you make changes to your XA
 
 
 ::: good  
-![Figure: Good example - hot reload enable screenshot Windows](hot-reload-good.png)  
+![Figure: Good example - hot reload enable screenshot Windows](/rules/use-hot-reload/hot-reload-good.png)  
 :::
 
 **Tip:** This works on the iOS simulator, the Android emulator, and physical iOS and Android devices.
+

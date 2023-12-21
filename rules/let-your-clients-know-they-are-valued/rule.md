@@ -28,7 +28,7 @@ Things to consider:
 * Give it to the main contact of the company, as it’s more personal
 * If you don’t know a customer very well, you can give them something more generic like a foodie hamper, a wine or champagne, but try to make it something they can share around the office
 
-![](champagnes.png)
+![](/rules/let-your-clients-know-they-are-valued/champagnes.png)
 
 
 ::: bad
@@ -41,3 +41,4 @@ Figure - Bad example: A Bad Client Gift – Alcohol is easy, but very impersonal
 ::: good
 Figure - Good Example: Give your clients a personalised Hot Ballooning experience that you know they’ve wanted to do for years!  
 :::
+

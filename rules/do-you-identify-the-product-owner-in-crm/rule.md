@@ -18,6 +18,7 @@ To make them easily identifiable, the Product Owner of a Company/Account should 
 <!--endintro-->
 
 ::: bad  
-![Figure: Good Example - A CRM 2013 user can easily determine who is the Product Owner of the Company/Contact](BetterCRMDataGoodExam.jpg)  
+![Figure: Good Example - A CRM 2013 user can easily determine who is the Product Owner of the Company/Contact](/rules/do-you-identify-the-product-owner-in-crm/BetterCRMDataGoodExam.jpg)  
 :::
                         
+

@@ -40,4 +40,5 @@ To enable these policies:
 2. Select the check-in policies above
 3. Click  **OK**
 
-![Chose check in policy](SC_TFSCI.jpg) Figure: Chose check-in policies in TFS
+![Chose check in policy](/rules/do-you-know-which-check-in-policies-to-enable/SC_TFSCI.jpg) Figure: Chose check-in policies in TFS
+

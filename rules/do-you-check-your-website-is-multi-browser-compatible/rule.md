@@ -31,10 +31,11 @@ You must test your website on the major browsers, though, because that there wil
 
 You should be able to fix all formatting and layout bugs by editing the CSS file.
 
-![Figure: Browsers statistics in 2020 – Know more in W3C Browser Stats](BrowserUsageStats2020.png)  
+![Figure: Browsers statistics in 2020 – Know more in W3C Browser Stats](/rules/do-you-check-your-website-is-multi-browser-compatible/BrowserUsageStats2020.png)  
 
 ::: greybox
 **Note:** If a browser represents less than 2% of your website views in Analytics, then you shouldn't bother. 
 
 E.g. Google archived this link - https://code.google.com/archive/p/html5-js/ - which was used as an HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries. Since IE represents a small percentage of views it can be removed instead of updated to a new working shim. 
 :::
+

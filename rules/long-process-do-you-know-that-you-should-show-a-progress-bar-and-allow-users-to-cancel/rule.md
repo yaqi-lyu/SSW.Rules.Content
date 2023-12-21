@@ -27,12 +27,13 @@ Instead, keep users happy with your application by:
 
 
 ::: good  
-![Figure: Good Example - Progress Bar with description and Cancel Button](../../assets/AllowCancelAndShowProgressForLongRunningProcesses.gif)  
+![Figure: Good Example - Progress Bar with description and Cancel Button](/rules/long-process-do-you-know-that-you-should-show-a-progress-bar-and-allow-users-to-cancel/AllowCancelAndShowProgressForLongRunningProcesses.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Progress Bar with description and status, and Cancel Button](../../assets/AllowCancelAndShowProgressForLongRunningProcesses2.jpg)  
+![Figure: Good Example - Progress Bar with description and status, and Cancel Button](/rules/long-process-do-you-know-that-you-should-show-a-progress-bar-and-allow-users-to-cancel/AllowCancelAndShowProgressForLongRunningProcesses2.jpg)  
 :::
 
 We have a product called [SSW .NET Toolkit](http://www.ssw.com.au/ssw/NETToolKit/) which includes these controls. [SSW .NET Toolkit - Using Progress bars/Status forms.](http://www.ssw.com.au/ssw/NETToolKit/08ProgressbarsStatusforms.aspx)
+

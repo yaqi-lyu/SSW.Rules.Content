@@ -34,13 +34,14 @@ If the group will be used in the "Cc" field of an email, then try to end it with
 To make sure distribution groups are always up-to-date it is also important to have a regular script that runs to check for empty distribution groups that need updates.
 
 ::: bad
-![Figure: Bad example - Someone is directly addressed](badexamplepiersaddresseddirectlyredbox.png)
+![Figure: Bad example - Someone is directly addressed](/rules/template-distribution-groups/badexamplepiersaddresseddirectlyredbox.png)
 :::
 
 ::: ok
-![Figure: OK example - A moniker is used](okayexampleproductchampionmonikerusedredbox.png)
+![Figure: OK example - A moniker is used](/rules/template-distribution-groups/okayexampleproductchampionmonikerusedredbox.png)
 :::
 
 ::: good
-![Figure: Good example - A distribution group is used](goodexampleproductchampiondistributiongroupusedredbox.png)
+![Figure: Good example - A distribution group is used](/rules/template-distribution-groups/goodexampleproductchampiondistributiongroupusedredbox.png)
 :::
+

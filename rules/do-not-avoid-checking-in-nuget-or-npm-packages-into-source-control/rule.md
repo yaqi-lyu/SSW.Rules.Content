@@ -19,7 +19,7 @@ Reasons for avoiding checking Nuget or Npm packages
 
 <!--endintro-->
 
-![](nugetpackages.png)
+![](/rules/do-not-avoid-checking-in-nuget-or-npm-packages-into-source-control/nugetpackages.png)
 
 
 ::: bad
@@ -32,3 +32,4 @@ Figure:  Do not have a folder called "packages" or "Node\_Modules"
 Read more about how to [omit NuGet packages in source control system](https://docs.microsoft.com/en-us/nuget/consume-packages/packages-and-source-control)
 
 For better package management , may consider using the [Package Management](https://docs.microsoft.com/en-us/vsts/package/overview?view=tfs-2018) tool in TFS
+

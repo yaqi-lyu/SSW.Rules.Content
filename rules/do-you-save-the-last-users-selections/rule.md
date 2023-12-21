@@ -17,10 +17,11 @@ Below is a report screen that is fairly common that developers create,  they wil
 
 
 ::: bad  
-![Figure: Bad Example - This is suitable for first view, but not for a return view](../../assets/SampleSelect.jpg)  
+![Figure: Bad Example - This is suitable for first view, but not for a return view](/rules/do-you-save-the-last-users-selections/SampleSelect.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Instead, save the users last selection](../../assets/SampleSelect2.jpg)  
+![Figure: Good Example - Instead, save the users last selection](/rules/do-you-save-the-last-users-selections/SampleSelect2.jpg)  
 :::
+

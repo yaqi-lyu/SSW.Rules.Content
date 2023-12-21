@@ -22,10 +22,11 @@ A brief introduction will give some idea about what will happen on this  process
 
 
 ::: bad  
-![Figure: Bad Example - This screen has no product introduction... The user is thinking ‘What is this going to do?’](../../assets/IntroScreenBad.gif)  
+![Figure: Bad Example - This screen has no product introduction... The user is thinking ‘What is this going to do?’](/rules/do-you-add-an-useful-introduction-screen-with-an-image-of-where-it-is-going-prior-to-settings/IntroScreenBad.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - This screen has product information before the settings... With a screen capture of where it ends up](../../assets/IntroScreenGood.gif)  
+![Figure: Good Example - This screen has product information before the settings... With a screen capture of where it ends up](/rules/do-you-add-an-useful-introduction-screen-with-an-image-of-where-it-is-going-prior-to-settings/IntroScreenGood.gif)  
 :::
+

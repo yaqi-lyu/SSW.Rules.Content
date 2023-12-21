@@ -25,4 +25,5 @@ This is a simple rule - if someone goes beyond the call of duty, you thank them.
 
 **Tip:** Elaborate your text and avoid adding URLs as it may look like spam.
 
-![Figure: Show appreciation when you've got help](GoodJob.jpg)
+![Figure: Show appreciation when you've got help](/rules/do-you-offer-positive-feedback-to-your-team/GoodJob.jpg)
+

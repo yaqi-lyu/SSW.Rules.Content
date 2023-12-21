@@ -23,7 +23,7 @@ Azure has the Tag feature, which allows you to apply different Tag Names and val
 
 <!--endintro-->
 
-![Figure: Little example of Tags in Resource Groups](tags-in-resources-group.png)  
+![Figure: Little example of Tags in Resource Groups](/rules/apply-tags-to-your-azure-resource-groups/tags-in-resources-group.png)  
 
 You can leverage this feature to organize your resources in a logical way, not relying in the names only. E.g.
 
@@ -31,3 +31,4 @@ You can leverage this feature to organize your resources in a logical way, not r
 * **Environment tag:** You can specify which environment that resource is in
 
 **Tip:** Do not forget to have a strong naming convention document stating how those tags and resources should be named. You can use this Microsoft guide as a starter point: [Recommended naming and tagging conventions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging).
+

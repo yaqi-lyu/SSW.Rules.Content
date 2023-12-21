@@ -33,15 +33,16 @@ It is important to keep your machine up-to-date, but Windows Update Automatic in
 3. Set **Update Notifications** to **On.**
 
 ::: bad  
-![Figure: Bad example – Install updates automatically](WindowsUpdateBadExample.jpg)  
+![Figure: Bad example – Install updates automatically](/rules/do-you-disable-automatic-windows-update-installations/WindowsUpdateBadExample.jpg)  
 :::
 
 ::: good  
-![Figure: Good example – Download updates but let user choose whether to install them](Windows Update Good Example.jpg)  
+![Figure: Good example – Download updates but let user choose whether to install them](/rules/do-you-disable-automatic-windows-update-installations/Windows Update Good Example.jpg)  
 :::
 
 If you have a system administrator who manages your organization’s infrastructure, it's recommended to get you system administrator to push this setting via group policy.
 
 ::: good  
-![Figure: Better example – Windows Updates setting is pushed to \*ALL\* users via group policy](win-update-3.jpg)  
+![Figure: Better example – Windows Updates setting is pushed to \*ALL\* users via group policy](/rules/do-you-disable-automatic-windows-update-installations/win-update-3.jpg)  
 :::
+

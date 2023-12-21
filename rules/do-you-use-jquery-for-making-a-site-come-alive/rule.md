@@ -17,11 +17,11 @@ To please customers every business knows they need to keep their services and of
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example – there is no response when mouse is over the image](OldFashionSite.jpg)  
+![Figure: Bad example – there is no response when mouse is over the image](/rules/do-you-use-jquery-for-making-a-site-come-alive/OldFashionSite.jpg)  
 :::
 
 ::: good  
-![Figure: Good example – apply the different style when mouse is over](NewFashionSite.jpg)  
+![Figure: Good example – apply the different style when mouse is over](/rules/do-you-use-jquery-for-making-a-site-come-alive/NewFashionSite.jpg)  
 :::
 
 
@@ -37,3 +37,4 @@ $("p").hover(function () {
         });
 ```
 **Figure: Mouse hover code sample**
+

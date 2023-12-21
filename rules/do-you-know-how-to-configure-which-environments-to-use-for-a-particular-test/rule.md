@@ -17,8 +17,8 @@ In Azure Test Plans, each test case has configurations defined against it and th
 
 To define the configuration for a test case, select the Test Plan and go to the Define tab, then choose the "Assign Configuration" option from the appropriate test case:
 
-![Figure: Click on "Assign Configuration" from the appropriate test case](assign-configurations.jpg)
+![Figure: Click on "Assign Configuration" from the appropriate test case](/rules/do-you-know-how-to-configure-which-environments-to-use-for-a-particular-test/assign-configurations.jpg)
 
 Select the required configurations for this test case and click "Save":
 
-![Figure: Choose from the available configurations, then click the "Save" button](assign-configurations-save.jpg)
+![Figure: Choose from the available configurations, then click the "Save" button](/rules/do-you-know-how-to-configure-which-environments-to-use-for-a-particular-test/assign-configurations-save.jpg)

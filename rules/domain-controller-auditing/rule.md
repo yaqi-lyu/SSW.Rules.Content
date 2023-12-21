@@ -52,7 +52,7 @@ adsecurity.org has great recommendations for what you should be auditing on your
 
 :::good
 
-![Figure: Recommended auditing enabled](adv-audit-gpo.png)
+![Figure: Recommended auditing enabled](/rules/domain-controller-auditing/adv-audit-gpo.png)
 
 :::
 

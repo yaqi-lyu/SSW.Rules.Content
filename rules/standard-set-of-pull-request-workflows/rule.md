@@ -26,7 +26,7 @@ Below are a few standard workflows that you can use in your repositories.
 
 This workflow uses the [microsoft/PR-Metrics](https://github.com/microsoft/PR-Metrics) action to update each pull request with information that helps ensure engineers keep PRs to an appropriate size with appropriate test coverage, while informing reviewers of the expected time commitment for a thorough review of the code.
 
-![Figure: PR Metrics gives warnings with suggested actions](pr-metrics.jpg)
+![Figure: PR Metrics gives warnings with suggested actions](/rules/standard-set-of-pull-request-workflows/pr-metrics.jpg)
 
 You can find the workflow at [SSWConsulting/SSW.GitHub.Template/.github/workflows/pr-metrics.yml](https://github.com/SSWConsulting/SSW.GitHub.Template/blob/main/.github/workflows/pr-metrics.yml)
 
@@ -34,10 +34,11 @@ You can find the workflow at [SSWConsulting/SSW.GitHub.Template/.github/workflow
 
 This workflow creates adds labels to pull requests as they age.
 
-![Figure: It's easy to see at a glance when PRs have been around for a while](pr-age-labels.jpg)
+![Figure: It's easy to see at a glance when PRs have been around for a while](/rules/standard-set-of-pull-request-workflows/pr-age-labels.jpg)
 
 The workflow will also ping the author of the pull request after around 36 hours and remind them about [merge debt](/merge-debt/)
 
-![Figure: A gentle reminder helps remind developers the next day that their pull request needs attention](pr-merge-debt-reminder.jpg)
+![Figure: A gentle reminder helps remind developers the next day that their pull request needs attention](/rules/standard-set-of-pull-request-workflows/pr-merge-debt-reminder.jpg)
 
 You can find the workflow at [SSWConsulting/SSW.GitHub.Template/.github/workflows/pr-manage-stale.yml](https://github.com/SSWConsulting/SSW.GitHub.Template/blob/main/.github/workflows/pr-manage-stale.yml)
+

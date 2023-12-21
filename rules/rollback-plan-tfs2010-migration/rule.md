@@ -26,4 +26,5 @@ Always [plan for a catastrophic disaster](/disaster-recovery-plan), in the event
     1. Internal DNS Server
     2. External DNS Server
 
-![Figure: DNS Pointer for TFS can be easily changed](TFSDNS.png)
+![Figure: DNS Pointer for TFS can be easily changed](/rules/rollback-plan-tfs2010-migration/TFSDNS.png)
+

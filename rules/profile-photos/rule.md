@@ -32,9 +32,9 @@ More on [Do you know the maximum acceptable ISO value for your camera?
 2. Keep the subject a few steps in front of the background to avoid shadows (see lighting plan below)
 3. Ensure the subject is surrounded by the background to reduce the load for editing.
 
-![Figure: Bad example – Subject’s body goes beyond the edges of the white background.](2021-10-05_18-15-51.jpg)
+![Figure: Bad example – Subject’s body goes beyond the edges of the white background.](/rules/profile-photos/2021-10-05_18-15-51.jpg)
 
-![Figure: Good example – Subject has all sides within the white background & lit with 3-point lighting.](2021-10-05_18-29-19.jpg)
+![Figure: Good example – Subject has all sides within the white background & lit with 3-point lighting.](/rules/profile-photos/2021-10-05_18-29-19.jpg)
 
 ### Lighting
 
@@ -45,7 +45,7 @@ More on [Do you know the maximum acceptable ISO value for your camera?
    * Back light/ Hair light: Accent light source behind the subject to separate them from the background.
 
 ::: good
-![Figure: Good example - 3-point lighting plan](ssw-profile-photos-lighting-plan.png)
+![Figure: Good example - 3-point lighting plan](/rules/profile-photos/ssw-profile-photos-lighting-plan.png)
 :::
 
 ### Posing
@@ -64,7 +64,7 @@ Below are instructions to give to your subject to get them in the correct positi
 3. Point your chin towards the camera (this will elevate their head & reduce neck wrinkles)
 
 ::: good
-![Figure: Good example – A direct and professional look.](2021-10-05_18-00-22.jpg)
+![Figure: Good example – A direct and professional look.](/rules/profile-photos/2021-10-05_18-00-22.jpg)
 :::
 
 **¾ angle to camera**
@@ -74,5 +74,6 @@ Below are instructions to give to your subject to get them in the correct positi
 3. Look towards the camera (this should rotate their head to face into the camera)
 
 ::: good
-![Figure: Good example – a more dynamic and friendly (but still professional) look.](2021-10-05_18-17-26.jpg)
+![Figure: Good example – a more dynamic and friendly (but still professional) look.](/rules/profile-photos/2021-10-05_18-17-26.jpg)
 :::
+

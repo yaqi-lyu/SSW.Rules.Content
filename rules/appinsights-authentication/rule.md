@@ -33,7 +33,7 @@ This method also allows for more accurate Monitoring and Auditing because it all
 
 In summary, disabling local authentication and relying on Entra ID RBAC for telemetry ingestion in Azure Application Insights allows for more robust security measures, ensuring that only authorized entities can submit telemetry data.
 
-![Increase Security - Disable Local Authentication](appinsights-disable-local-auth.png)
+![Increase Security - Disable Local Authentication](/rules/appinsights-authentication/appinsights-disable-local-auth.png)
 
 ## Pros and Cons 
 
@@ -151,7 +151,7 @@ resource monitoringMetricsPublisherRoleAssignment 'Microsoft.Authorization/roleA
 Figure: Assigning Monitoring Metrics Publisher role to AppService Managed Identity using Bicep
 :::
 
-![Figure: AppInsights shows the Monitoring Metrics Publisher role is assigned to AppService](appinsights-assigned-role.png)
+![Figure: AppInsights shows the Monitoring Metrics Publisher role is assigned to AppService](/rules/appinsights-authentication/appinsights-assigned-role.png)
 
 ### Authenticating with Application Insights
 
@@ -204,3 +204,4 @@ Figure: Using Managed Identities when authenticating with Application Insights
 Once the application starts up, authenticates with Application Insights, then you can start observing telemetry in the Application Insights resource or Application Dashboards.
 
 Happy monitoring!
+

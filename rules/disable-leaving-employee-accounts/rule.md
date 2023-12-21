@@ -26,11 +26,11 @@ You should create a list of instructions that are followed whenever an employee 
 
    a. Change the owner - Click on Edit | Under owner remove yourself | Add someone else who is eligible to own the flow  
 
-   ![Figure: Power Automate Flow - Change primary owner](2023-07-06_16-49-27.gif)
+   ![Figure: Power Automate Flow - Change primary owner](/rules/disable-leaving-employee-accounts/2023-07-06_16-49-27.gif)
 
    b. Share all the flows with System Administrators and any other groups - Click Share | Type in "Groups you want to share" under Owners | Click OK
     
-   ![Figure: Power Automate Flow - Share with SysAdmins](2023-07-06_16-44-36.gif)
+   ![Figure: Power Automate Flow - Share with SysAdmins](/rules/disable-leaving-employee-accounts/2023-07-06_16-44-36.gif)
 
     
 4. Backup data. Make sure you have a backup of the employee's work. This might include:
@@ -45,8 +45,9 @@ You should create a list of instructions that are followed whenever an employee 
   * Move their account to a "disabled users" OU
   * Don't delete their account, this can cause issues in the future!
   
-  ![Figure: Disabled User OU](disabled-ou.png)
+  ![Figure: Disabled User OU](/rules/disable-leaving-employee-accounts/disabled-ou.png)
 
 7. Forward their emails to another employee
 8. Make sure they return any IT equipment they have and delete their computer account/s from AD
 9. Remove any security/automation access
+

@@ -17,4 +17,5 @@ redirects:
 There are times when you can happily work your standard hours, but there are times when your whole team would appreciate some hard work. This should not be the standard, but extra work at certain times is a given in a professional industry.
 
 <!--endintro-->
-![](WorkingHard.jpg) **Figure: On occasion, everyone has to work extra hard**
+![](/rules/do-you-give-120-when-deadlines-are-tight/WorkingHard.jpg) **Figure: On occasion, everyone has to work extra hard**
+

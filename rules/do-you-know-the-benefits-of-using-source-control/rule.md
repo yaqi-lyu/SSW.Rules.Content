@@ -34,16 +34,17 @@ It also helps you to do root cause analysis by finding out who made the change. 
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 :::
 
-![Figure: Right-click a file and select Git | View History to see the changes in source control.](FileChanges.jpg)
+![Figure: Right-click a file and select Git | View History to see the changes in source control.](/rules/do-you-know-the-benefits-of-using-source-control/FileChanges.jpg)
 
-![Figure: We can select different changesets and compare the changes](CompareFileChanges.jpg)
+![Figure: We can select different changesets and compare the changes](Compare/rules/do-you-know-the-benefits-of-using-source-control/FileChanges.jpg)
 
-![Figure: We can select different changesets and compare the changes. Blue = modified, Green = addition, Red = deletion](Changesets.jpg)
+![Figure: We can select different changesets and compare the changes. Blue = modified, Green = addition, Red = deletion](/rules/do-you-know-the-benefits-of-using-source-control/Changesets.jpg)
    
-![Figure: Right click a file and select Git | Blame (Annotate) to view the history on a segment basis](Annotate.jpg)
+![Figure: Right click a file and select Git | Blame (Annotate) to view the history on a segment basis](/rules/do-you-know-the-benefits-of-using-source-control/Annotate.jpg)
 
-![Figure: Use annotate to understand (or find the guy) to understand his thoughts before deleting/changing someone elses code](AnnotatedFile.jpg)
+![Figure: Use annotate to understand (or find the guy) to understand his thoughts before deleting/changing someone elses code](/rules/do-you-know-the-benefits-of-using-source-control/AnnotatedFile.jpg)
 
-![Figure: Annotation is great, but it gets even better when clicking the commit code gives you its full details](AnnotateDetails.jpg)
+![Figure: Annotation is great, but it gets even better when clicking the commit code gives you its full details](/rules/do-you-know-the-benefits-of-using-source-control/AnnotateDetails.jpg)
+
 
 

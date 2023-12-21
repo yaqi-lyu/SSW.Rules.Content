@@ -21,7 +21,7 @@ There are various models to help with this, most stemming from Mike Cohn's simpl
 
 <!--endintro-->
 
-![Figure: Mike Cohn's automated testing pyramid (2009)](test-pyramid-cohn.jpg)
+![Figure: Mike Cohn's automated testing pyramid (2009)](/rules/different-levels-of-testing/test-pyramid-cohn.jpg)
 
 > "All models are wrong, but some are useful" 
 >       - George Box
@@ -66,7 +66,7 @@ Many different test pyramid models have been inspired by Cohn's simple original 
 
 An interesting take comes from [Noah Sussman](https://infiniteundo.com/post/158179632683/abandoning-the-pyramid-of-testing-in-favor-of-a) who re-imagined the test pyramid as a bug filter (turning the pyramid on its head in the process):
 
-![Figure: Noah Sussman's bug filter model (2017)](bug-filter.jpg)
+![Figure: Noah Sussman's bug filter model (2017)](/rules/different-levels-of-testing/bug-filter.jpg)
 
 Note that the area of the bug filter changes at each level. Unit tests focus solely on product code, but integration tests might include databases or external web services. End-to-end tests cover an even larger architecture. Bugs can appear from these new systems without having passed through a previous filter. 
 
@@ -80,3 +80,4 @@ Katrina Clokie (in her book [A Practical Guide to Testing in DevOps](https://lea
 
 * [A Test Pyramid Heresy](https://www.linkedin.com/pulse/test-pyramid-heresy-john-ferguson-smart) by John Ferguson-Smart
 * [Why I Still Like Pyramids](http://thatsthebuffettable.blogspot.com/2016/03/why-i-still-like-pyramids.html) by Marcel Gehlen
+

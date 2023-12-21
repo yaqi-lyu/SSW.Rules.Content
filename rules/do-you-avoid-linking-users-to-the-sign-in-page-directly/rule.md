@@ -23,10 +23,11 @@ But if you use the sign in page, the user has to sign in again though they're al
 
 
 ::: bad  
-![Figure: Bad Example - Linked to the login page.](../../assets/BadNoUseLogin.gif)  
+![Figure: Bad Example - Linked to the login page.](/rules/do-you-avoid-linking-users-to-the-sign-in-page-directly/BadNoUseLogin.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Linked to the default page.](../../assets/GoodNoUseLogin.gif)  
+![Figure: Good Example - Linked to the default page.](/rules/do-you-avoid-linking-users-to-the-sign-in-page-directly/GoodNoUseLogin.gif)  
 :::
+

@@ -25,7 +25,7 @@ The process for a project with a Gated Checkin build is:
 
 **Note:** This relies on the **Build Notifications** tool running, which may not be the case.  If it’s not running, the developer has to manually reconcile their workspace before they can effectively continue working.
 
-![Figure: The developer is notified if a gated check-in resulted in a commit](gated-checkin-1.jpg)  
+![Figure: The developer is notified if a gated check-in resulted in a commit](/rules/do-you-know-how-the-gated-checkin-process-works/gated-checkin-1.jpg)  
 
 If you don't have the **Build Notifications** tool running or you click **Ignore**, you will have to manually reconcile. There are a few ways to do this.
 
@@ -33,14 +33,14 @@ You can click **Check In** again. This will fail, but any files you’re trying 
 
 
 ::: bad  
-![Figure: Bad Example - Reconcile by clicking "Check In" again.  This will fail, but any files you're trying to check in will be reconciled.](gated-checkin-2.jpg)  
+![Figure: Bad Example - Reconcile by clicking "Check In" again.  This will fail, but any files you're trying to check in will be reconciled.](/rules/do-you-know-how-the-gated-checkin-process-works/gated-checkin-2.jpg)  
 :::
 
 Alternatively, you can open the queued build and choose **Actions | Reconcile Workspace...** to fix your workspace
 
 
 ::: good  
-![Figure: OK Example – Open the Build and choose Actions | Reconcile Workspace...](gated-checkin-3.jpg)  
+![Figure: OK Example – Open the Build and choose Actions | Reconcile Workspace...](/rules/do-you-know-how-the-gated-checkin-process-works/gated-checkin-3.jpg)  
 :::
 
 The best way is to click the link in the notification to open a specific build window with a **Reconcile Workspace** link included.
@@ -48,11 +48,12 @@ The best way is to click the link in the notification to open a specific build w
 
 
 ::: good  
-![Figure: Good Example #1 – Click the link in the notification after clicking Check In](gated-checkin-4.jpg)  
+![Figure: Good Example #1 – Click the link in the notification after clicking Check In](/rules/do-you-know-how-the-gated-checkin-process-works/gated-checkin-4.jpg)  
 :::
 
 ::: good  
-![Figure: Good Example #2 – Click on the link in the notification to open the build, then click Reconcile Workspace when the build finishes](gated-checkin-5.jpg)  
+![Figure: Good Example #2 – Click on the link in the notification to open the build, then click Reconcile Workspace when the build finishes](/rules/do-you-know-how-the-gated-checkin-process-works/gated-checkin-5.jpg)  
 :::
 
 Read our suggestion to Microsoft on how to [improve the Gated Checkin workflow](http://www.ssw.com.au/ssw/standards/BetterSoftwareSuggestions/TeamFoundationServer.aspx#improve-gated-checkin).
+

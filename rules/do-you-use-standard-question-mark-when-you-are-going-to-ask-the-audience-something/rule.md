@@ -16,4 +16,4 @@ In a similar fashion to the [Do you indicate 'demo' slides?](/do-you-know-the-ri
 
 <!--endintro-->
 
-![Figure: Use an "?" image to tell the presenter to ask a question](questiongood.jpg)
+![Figure: Use an "?" image to tell the presenter to ask a question](/rules/do-you-use-standard-question-mark-when-you-are-going-to-ask-the-audience-something/questiongood.jpg)

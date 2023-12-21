@@ -25,21 +25,22 @@ The reason for this is the Primary Field in a view displays as a hyperlink to th
 Some examples below:
 
 ::: bad
-![Figure: Bad example - A lookup field is the first column](bad-primary-field.png)
+![Figure: Bad example - A lookup field is the first column](/rules/make-sure-the-primary-field-is-always-the-first-column-in-a-view/bad-primary-field.png)
 :::
 
 In this example, **Account** is the first column in the view, the natural tendency is the click the first column, and seeing that it's a hyperlink further confirms to the user that this is something they can click on. Clicking the first column ("Northwind Traders") would navigate to the Northwind Traders **Account** form and not the **Opportunity** form for Northwind Traders.
 
 ::: bad
-![Figure: Bad example - A regular field is the first column](bad-primary-field-2.png)
+![Figure: Bad example - A regular field is the first column](/rules/make-sure-the-primary-field-is-always-the-first-column-in-a-view/bad-primary-field-2.png)
 :::
 
 In this example **Probability** is the first column in the view, again users tend to click the first column in the view. In this example, a single click would select the entire row (with tick box selected to the left of the grid), and a double click on the first column would navigate to the Opportunity record.
 
 ::: good
-![Figure: Good example - Primary Field is the first column](good-primary-field.png)
+![Figure: Good example - Primary Field is the first column](/rules/make-sure-the-primary-field-is-always-the-first-column-in-a-view/good-primary-field.png)
 :::
 
 In this example, the **Primary Field** is the first column of the view, and single-clicking the first column view navigates to the opportunity record as expected.
 
 Understanding column ordering in view is important and making sure the first column in a view is always the Primary Field will make it much easier for your users.
+

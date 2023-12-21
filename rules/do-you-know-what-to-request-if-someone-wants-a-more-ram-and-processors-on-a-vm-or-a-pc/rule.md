@@ -28,6 +28,7 @@ Then after you decide there is justification:
 
 **Note:** An ideal email subject prefix for more resources would be e.g. “Performance issue – “Machine name”
 
-![Figure: Use “Resource Monitor prior to allocating more RAM on a VM](resource_monitor.png)
+![Figure: Use “Resource Monitor prior to allocating more RAM on a VM](/rules/do-you-know-what-to-request-if-someone-wants-a-more-ram-and-processors-on-a-vm-or-a-pc/resource_monitor.png)
 
-![Figure: If you see something like this, pass their request :-)](highUtilisation.png)
+![Figure: If you see something like this, pass their request :-)](/rules/do-you-know-what-to-request-if-someone-wants-a-more-ram-and-processors-on-a-vm-or-a-pc/highUtilisation.png)
+

@@ -20,7 +20,7 @@ To change the behavior the user can use the checkbox Outlook | Settings | Additi
 
 <https://support.microsoft.com/en-us/office/i-m-not-receiving-a-copy-of-messages-i-send-to-a-group-in-my-inbox-07567cda-f5ce-4e52-b278-4c63dfdd6617>
 
-![Figure: Outlook web – Enable group settings ](outlook-web-enable-group-settings.jpg)
+![Figure: Outlook web – Enable group settings ](/rules/copy-of-your-email-into-your-inbox/outlook-web-enable-group-settings.jpg)
 
 Note: This can be enabled on the server side by doing a PowerShell script. This feature is turned on by default. Users can turn it off manually using the above steps to not receive a copy of a email sent to a Microsoft 365 group.
 
@@ -34,3 +34,4 @@ Get-Mailbox user@northwind.com | Get-MailboxMessageConfiguration | Select EchoGr
 # Enable the option to send a copy of the sent message to the sender's mailbox
 $mailbox = Get-Mailbox -Identity "user@northwind.com" | Set-MailboxMessageConfiguration -EchoGroupMessageBackToSubscribedSender $true
 ```
+

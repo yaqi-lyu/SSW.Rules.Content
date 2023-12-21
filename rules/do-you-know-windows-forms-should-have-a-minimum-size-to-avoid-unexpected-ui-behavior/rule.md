@@ -25,8 +25,9 @@ Figure: Bad Example - Unexpected window form
 <!--endintro-->
 
 Therefore, a standard has been built to ensure Windows forms have a minimum size.
-![Good window form](../../assets/Minisize.gif)
+![Good window form](/rules/do-you-know-windows-forms-should-have-a-minimum-size-to-avoid-unexpected-ui-behavior/Minisize.gif)
 
 ::: good
 Figure: Good Example - User friendly window form  
 :::
+

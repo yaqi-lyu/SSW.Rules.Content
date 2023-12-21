@@ -15,5 +15,5 @@ When designing your form, you should try to help your user whenever it's possibl
 <!--endintro-->
 
 ::: good
-![Figure: Good example – combo-box with multiple columns](multiplecolumns.png)
+![Figure: Good example – combo-box with multiple columns](/rules/forms-do-you-include-the-number-of-results-in-comboboxes/multiplecolumns.png)
 :::

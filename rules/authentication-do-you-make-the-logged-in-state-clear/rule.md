@@ -16,17 +16,18 @@ Remember to make the "logged in" state clear enough to help the user know the cu
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example on Web form - The user is logged in, but it isn't very clear](../../assets/weblogin_bad.gif)
+![Figure: Bad example on Web form - The user is logged in, but it isn't very clear](/rules/authentication-do-you-make-the-logged-in-state-clear/weblogin_bad.gif)
 :::
 
 ::: good
-![Figure: Good example on Web form - It's clear that the user is logged in](../../assets/weblogin_good.gif)
+![Figure: Good example on Web form - It's clear that the user is logged in](/rules/authentication-do-you-make-the-logged-in-state-clear/weblogin_good.gif)
 :::
 
 ::: good
-![Figure: Good example - TimePro use avatar to state user logged in](timepro-loggin.png)
+![Figure: Good example - TimePro use avatar to state user logged in](/rules/authentication-do-you-make-the-logged-in-state-clear/timepro-loggin.png)
 :::
 
 ::: good
-![Figure: Good example - SugarLearning use avatar to state user logged in](sugarlearning-loggin.png)
+![Figure: Good example - SugarLearning use avatar to state user logged in](/rules/authentication-do-you-make-the-logged-in-state-clear/sugarlearning-loggin.png)
 :::
+

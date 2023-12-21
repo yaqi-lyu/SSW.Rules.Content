@@ -21,15 +21,16 @@ Text boxes are often limited in size. When the user have a large ammount of text
 
 
 ::: bad  
-![Figure: Bad example - Can't see the whole query](textarea-small-bad.png)  
+![Figure: Bad example - Can't see the whole query](/rules/do-you-make-text-boxes-show-the-whole-query/textarea-small-bad.png)  
 :::
 
 
 ::: good  
-![Figure: Good example - Text area expands showing the entire message as it is typed](textarea-big-good.png)  
+![Figure: Good example - Text area expands showing the entire message as it is typed](/rules/do-you-make-text-boxes-show-the-whole-query/textarea-big-good.png)  
 :::
 
 More info:
 
 * http://blogs.sitepointstatic.com/examples/tech/textarea-expander/demo.html
 * http://www.sitepoint.com/build-auto-expanding-textarea-1/
+

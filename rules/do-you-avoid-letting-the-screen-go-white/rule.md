@@ -17,5 +17,6 @@ Use jQuery or Ajax controls whenever possible to send requests without  feedback
 
 
 ::: bad  
-![Figure: Bad example - An Ajax control which automatically disables the save button would make this message unnecessary.](../../assets/Bad-AjaxControls.jpg)  
+![Figure: Bad example - An Ajax control which automatically disables the save button would make this message unnecessary.](/rules/do-you-avoid-letting-the-screen-go-white/Bad-AjaxControls.jpg)  
 :::
+

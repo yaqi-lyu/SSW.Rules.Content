@@ -37,9 +37,9 @@ Here are some popular static site generators:
 
 <br>
 
-![Figure: Google trends for the above SSGs. In a substantial lead is NextJS, followed by Gatsby.](google-trends-nextjs.png)
+![Figure: Google trends for the above SSGs. In a substantial lead is NextJS, followed by Gatsby.](/rules/best-static-site-tech-stack/google-trends-nextjs.png)
 
-![Figure: NextJS and Gatsby are the major competitors that have been duking it out, lately Next.js has exploded in popularity](GatsbyVsNextjs.png)
+![Figure: NextJS and Gatsby are the major competitors that have been duking it out, lately Next.js has exploded in popularity](/rules/best-static-site-tech-stack/GatsbyVsNextjs.png)
 
 Two examples of static sites in action are [SSW People](https://www.ssw.com.au/people/) and [SSW Rules](https://www.ssw.com.au/rules/).
 

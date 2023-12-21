@@ -39,9 +39,10 @@ The way you present information to prospective clients determines its effectiven
 
 
 
-![Organize your product information](../../assets/ScreenCodeAuditor.jpg)
+![Organize your product information](/rules/do-you-organize-your-product-information-on-your-website-appropriately/ScreenCodeAuditor.jpg)
 
 ::: good
 Figure: How to organize your product information.
 
 :::
+

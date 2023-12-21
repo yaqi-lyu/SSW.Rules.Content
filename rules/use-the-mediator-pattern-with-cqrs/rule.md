@@ -34,11 +34,11 @@ MediatR is an open source .NET library by Jimmy Bogard that provides an elegant 
 
 For every command or query, you create a specific request class that explicitly defines the “input” required to invoke the operation.
 
-![Figure: (from mediatr MediatR docs) A Simple Request class](mediator-cqrs-1.png)  
+![Figure: (from mediatr MediatR docs) A Simple Request class](/rules/use-the-mediator-pattern-with-cqrs/mediator-cqrs-1.png)  
 
 Then the implementation of that command or query is implemented in a handler class. The handler class is instantiated by a Dependency Injection container – so can use any of the configured dependencies (Repoistories, Entity Framework, services etc)
 
-![Figure: A handler class](mediator-cqrs-2.png)  
+![Figure: A handler class](/rules/use-the-mediator-pattern-with-cqrs/mediator-cqrs-2.png)  
 
 This approach brings many benefits:
 
@@ -54,9 +54,10 @@ This approach brings many benefits:
 * For complex operations, it’s possible to compose from multiple smaller commands and queries. Each command or query is an atomic, potentially reusable operation. Such complexity should be adopted very carefully. The developer should be aware of two sometimes conflicting principles: DRY or Don't Repeat Yourself and SRP or the Single Responsibility Principle. In practice, any branching logic inside a handler to support use inside multiple contexts should be considered a violation of the Single Responsibility Principle and should be aggressively avoided
 
 ::: bad  
-![Figure: Bad example - Although this application clearly has repository and business logic layers, the logic that orchestrates these dependencies is in the ASP.NET Controller and is difficult to reuse](clean-architecture-bad.jpg)  
+![Figure: Bad example - Although this application clearly has repository and business logic layers, the logic that orchestrates these dependencies is in the ASP.NET Controller and is difficult to reuse](/rules/use-the-mediator-pattern-with-cqrs/clean-architecture-bad.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - MediatR simplifies the dependencies injected into the controller. The incoming web request is simply mapped directly to a MediatR request that orchestrates all the logic for this operation. The implementation and dependencies needed to complete “GetItemForEdit” are free to change without needing to change the controller class](clean-architecture-good.jpg)  
+![Figure: Good example - MediatR simplifies the dependencies injected into the controller. The incoming web request is simply mapped directly to a MediatR request that orchestrates all the logic for this operation. The implementation and dependencies needed to complete “GetItemForEdit” are free to change without needing to change the controller class](/rules/use-the-mediator-pattern-with-cqrs/clean-architecture-good.jpg)  
 :::
+

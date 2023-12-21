@@ -51,7 +51,7 @@ Here’s how that breaks down:
 By specifying the role, result, intent, context, and constraint in the prompt, you can guide ChatGPT to deliver a more relevant and targeted response, addressing your specific needs and expectations.
 
 ::: good
-![Figure: Another good example](new-prompt-engineering-only-prompt.png)
+![Figure: Another good example](/rules/fundamentals-of-prompt-engineering/new-prompt-engineering-only-prompt.png)
 :::
 
 ::: greybox
@@ -97,3 +97,4 @@ Execute Prompt.
 
 `youtube: https://www.youtube.com/embed/EYjG6i53-xk`
 **Video: This Will Make You Better than 99% ChatGPT Users (6 min)**
+

@@ -25,7 +25,7 @@ To do this, in Outlook, click File | CRM | Options | Synchronization, and click 
 
 
 
-![Figure: Contact Synchronization enabled in MS Outlook 2013](ContactSynchronizationEnabled.jpg)  
+![Figure: Contact Synchronization enabled in MS Outlook 2013](/rules/do-you-know-how-to-sync-your-outlook-contacts-to-crm/ContactSynchronizationEnabled.jpg)  
 
 In Outlook, you can also choose which of your personal contacts you want to sync to CRM by using the toolbar option "Track" and "Set Parent" (i.e. company).
 
@@ -38,3 +38,4 @@ If your Outlook syncs to your mobile device, and you have a very large number of
 
 
 Similar issues happen when you sync all your Facebook contacts. You have too many, duplicates, and a new problem to manage.
+

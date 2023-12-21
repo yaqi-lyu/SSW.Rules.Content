@@ -26,9 +26,10 @@ redirects:
 
 <!--endintro-->
 
-![Figure: Open options (select image in the bottom right) | Notifications](Teams\_1\_FindNotifications.jpg)  
+![Figure: Open options (select image in the bottom right) | Notifications](/rules/do-you-minimize-team-distractions/Teams_1_FindNotifications.jpg)  
 
-![Figure: Set settings to "Only show in feed" so distracting phone and email alerts aren't sent](Teams\_2\_SetNotifications.jpg)  
+![Figure: Set settings to "Only show in feed" so distracting phone and email alerts aren't sent](/rules/do-you-minimize-team-distractions/Teams_2_SetNotifications.jpg)  
 
-![Figure: In Microsoft Teams turn on "Auto-start application". Suggestion to Microsoft: Make this the default](Teams\_4\_ApplicationSettings.jpg)  
+![Figure: In Microsoft Teams turn on "Auto-start application". Suggestion to Microsoft: Make this the default](/rules/do-you-minimize-team-distractions/Teams_4_ApplicationSettings.jpg)  
+
 

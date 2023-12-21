@@ -20,7 +20,7 @@ You’ve built your Power App using all the best practices, have multiple soluti
 
 The solution, Power Platform Build Tools:
 
-![Figure: ALM for your Power Platform projects](almpowered.png)  
+![Figure: ALM for your Power Platform projects](/rules/use-power-platform-build-tools-to-automate-your-power-apps-deployments/almpowered.png)  
 
 ### What do I get with the Microsoft Power Platform Build Tools? 
 
@@ -45,3 +45,4 @@ What Power Platform Projects are supported?
 If it can be included in a solution, then it's supported.
 
 More Information here:     https://docs.microsoft.com/en-us/power-platform/alm/devops-build-tools
+

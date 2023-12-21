@@ -25,12 +25,13 @@ The five user experiences of Reporting Services are:
 
 <!--endintro-->
 
-![Figure: Vanilla user experience](ReportingServicesVanillaExample.jpg)
+![Figure: Vanilla user experience](/rules/do-you-know-the-5-user-experiences-of-reporting-services-vanilla-website-email-windows-and-sharepoint/ReportingServicesVanillaExample.jpg)
 
-![Figure: Website user experience](ReportingServicesWebsiteUExample.jpg)
+![Figure: Website user experience](/rules/do-you-know-the-5-user-experiences-of-reporting-services-vanilla-website-email-windows-and-sharepoint/ReportingServicesWebsiteUExample.jpg)
 
-![Figure: Email user experience](ReportingServicesEmailUExample.jpg)
+![Figure: Email user experience](/rules/do-you-know-the-5-user-experiences-of-reporting-services-vanilla-website-email-windows-and-sharepoint/ReportingServicesEmailUExample.jpg)
 
-![Figure: Windows user experience](ReportingServicesWindowsUExample.jpg)
+![Figure: Windows user experience](/rules/do-you-know-the-5-user-experiences-of-reporting-services-vanilla-website-email-windows-and-sharepoint/ReportingServicesWindowsUExample.jpg)
 
-![Figure: SharePoint user experience](ReportingServicesSharePointReportingUI.jpg) 
+![Figure: SharePoint user experience](/rules/do-you-know-the-5-user-experiences-of-reporting-services-vanilla-website-email-windows-and-sharepoint/ReportingServicesSharePointReportingUI.jpg) 
+

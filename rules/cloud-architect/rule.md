@@ -58,4 +58,5 @@ Problems that can happen without a Cloud Architect:
 
 Finally, at the end of a project, you should go through a "Go-Live Audit". The Cloud Architect should review and sign off that the project is good to go. They mostly check the 3 horsemen (load, security, and cost).
 
-![](MS Cloud Design Patterns Infographic SSW Edited.png)
+![](/rules/cloud-architect/MS Cloud Design Patterns Infographic SSW Edited.png)
+

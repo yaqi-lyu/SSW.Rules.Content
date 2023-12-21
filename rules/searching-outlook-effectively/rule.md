@@ -39,11 +39,11 @@ To get Bob's most recent emails the best thing to do, is to limit Outlook to onl
 * Search for: &nbsp;&nbsp; **from:Bob**
 
 **Note #1:** You can change the folder scoping to fit your specific needs.
-  ![Figure: There are several scoping options available](search-scope.png)
+  ![Figure: There are several scoping options available](/rules/searching-outlook-effectively/search-scope.png)
 
 **Note #2:** You can change the default to always be "Current Folder".
 
-  ![Figure: Outlook Options for Search, have been changed to “Current Folder”](outlook-search-options.png)
+  ![Figure: Outlook Options for Search, have been changed to “Current Folder”](/rules/searching-outlook-effectively/outlook-search-options.png)
 
 ### Tip #2: Focus on the person (i.e. to: from: cc: bcc:)
 
@@ -107,13 +107,13 @@ Note #1: You must enter dates in USA format #ouch
 
 If you know you found an email before, but you can’t seem to find it again, try clicking on Recent Searches to scroll through your latest searches.
 
-![Figure: Easily find your recent searches](outlook-recent-search.png)
+![Figure: Easily find your recent searches](/rules/searching-outlook-effectively/outlook-recent-search.png)
 
 ---
 
 **More Info:** 
 Outlook has a heap of other properties that you can filter on.
 
-![Figure: Outlook has a lot of meta data filtering options](email-metadata.png)
+![Figure: Outlook has a lot of meta data filtering options](/rules/searching-outlook-effectively/email-metadata.png)
 
 **Learn more:** [How to search in Outlook](https://support.microsoft.com/en-us/office/how-to-search-in-outlook-d824d1e9-a255-4c8a-8553-276fb895a8da).

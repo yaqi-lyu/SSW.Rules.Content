@@ -29,9 +29,10 @@ Keep in mind that:
 <!--endintro-->
 
 ::: good
-![Figure: Good example - Azure website using AzureSearch for what it can deliver today ](9c0754_Untitled2.png)
+![Figure: Good example - Azure website using AzureSearch for what it can deliver today ](/rules/do-you-consider-azuresearch-for-your-website/9c0754_Untitled2.png)
 :::
 
 ::: bad
-![Figure: Bad example - Azure website using ElasticSearch for a simple search that AzureSearch can do](Untitled.png)
+![Figure: Bad example - Azure website using ElasticSearch for a simple search that AzureSearch can do](/rules/do-you-consider-azuresearch-for-your-website/Untitled.png)
 :::
+

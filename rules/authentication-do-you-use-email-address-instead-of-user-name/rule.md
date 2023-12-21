@@ -23,10 +23,11 @@ It is easier for users to remember their frequently accessed email address more 
 
 
 ::: bad  
-![Figure: Bad example - users have to remember which username applies to this particular website](bad-username.jpg)  
+![Figure: Bad example - users have to remember which username applies to this particular website](/rules/authentication-do-you-use-email-address-instead-of-user-name/bad-username.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example - users will always remember their primary email address](good-email.jpg)  
+![Figure: Good example - users will always remember their primary email address](/rules/authentication-do-you-use-email-address-instead-of-user-name/good-email.jpg)  
 :::
+

@@ -18,12 +18,12 @@ Computer accounts in AD are similar to user accounts - they can be used to acces
 
 :::bad
 
-![Bad example: Disabled computers in AD](disabled-pcs.png)
+![Bad example: Disabled computers in AD](/rules/delete-computer-accounts-from-ad/disabled-pcs.png)
 
 :::
 
 :::good
 
-![Good example: Only enabled, current computers](enabled-pcs.png)
+![Good example: Only enabled, current computers](/rules/delete-computer-accounts-from-ad/enabled-pcs.png)
 
 :::

@@ -21,20 +21,21 @@ Also, predictive text boxes can be used with validation, or without. In instance
 
 
 ::: bad  
-![Figure: Bad Example - Using a Textbox and Combo to enter list data](PredTextBad.gif)  
+![Figure: Bad Example - Using a Textbox and Combo to enter list data](/rules/do-you-use-predictive-textboxes-instead-of-normal-combo-or-text-boxes/PredTextBad.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Predictive-Text combo with Type Ahead](TypeAhead.gif)  
+![Figure: Good Example - Predictive-Text combo with Type Ahead](/rules/do-you-use-predictive-textboxes-instead-of-normal-combo-or-text-boxes/TypeAhead.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Predictive-Text combo with and without validation](PredTextValidation.gif)  
+![Figure: Good Example - Predictive-Text combo with and without validation](/rules/do-you-use-predictive-textboxes-instead-of-normal-combo-or-text-boxes/PredTextValidation.gif)  
 :::
 
 
 ::: good  
-![Figure: Best Example - Google search](google-predictive-search.png)  
+![Figure: Best Example - Google search](/rules/do-you-use-predictive-textboxes-instead-of-normal-combo-or-text-boxes/google-predictive-search.png)  
 :::
+

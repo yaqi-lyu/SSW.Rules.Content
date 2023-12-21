@@ -25,7 +25,7 @@ Each Apple Pay / Google Pay will have a unique card number and will always show 
 
 For example, here are 3 purchases from the same vendor at the same time. By referring to the unique card number from the statement, it can be determined that 2 payments were made by different staff members, while 1 of them was paid with a physical credit card.
 
-![Figure: By implementing virtual cards, purchasers’ information can be taken from the bank statements](purchasers-info-virtual-cards.jpg)
+![Figure: By implementing virtual cards, purchasers’ information can be taken from the bank statements](/rules/apple-google-pay-for-expenses/purchasers-info-virtual-cards.jpg)
 
 Apple/Google Pay provides a centralized and easily accessible record of transactions. Each purchase generates a digital receipt, capturing important details such as the date, time, amount, and vendor information. This streamlined record-keeping simplifies expense tracking and reduces the administrative burden of manual expense reporting. Integrating Apple/Google Pay with expense management software allows for seamless synchronization of transaction data, providing real-time visibility into expenditure patterns
 
@@ -78,3 +78,4 @@ Virtual credit cards seamlessly integrate with various expense management system
 ### Keep Earning Rewards
 
 When using Apple/Google Pay, you still get the same benefits and rewards as you do with physical credit cards.
+

@@ -41,11 +41,12 @@ And the standard GitHub label to indicate it is a good Issue for developers new 
 * Good First Issue
 
 ::: bad
-![Figure: Bad Example - using Effort labels is not ideal for GitHub Issues](badlabels.png)
+![Figure: Bad Example - using Effort labels is not ideal for GitHub Issues](/rules/labels-in-github/badlabels.png)
 :::
 
 Learn more about where Effort labels are appropriate with [GitHub Projects, which has custom fields](/scrum-in-github).
 
 ::: good
-![Figure: Good Example -  Add a few labels beyond the ones that are set based on the Issue Templates](extralabels.png)
+![Figure: Good Example -  Add a few labels beyond the ones that are set based on the Issue Templates](/rules/labels-in-github/extralabels.png)
 :::
+

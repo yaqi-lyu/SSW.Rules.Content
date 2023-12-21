@@ -21,4 +21,5 @@ For Office specific integration there is also the  **Power Apps Training for Off
 
 <!--endintro-->
 
-![Figure: Power Apps Training and Power Apps Training for Office](power-apps-training.png)
+![Figure: Power Apps Training and Power Apps Training for Office](/rules/training-templates-to-help-you-learn-power-apps/power-apps-training.png)
+

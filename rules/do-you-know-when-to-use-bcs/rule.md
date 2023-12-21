@@ -25,7 +25,7 @@ If you want an easy way to access data in remote or legacy systems, provide one 
 <!--endintro-->
 
 
-![](BCSBadExample.jpg) 
+![](/rules/do-you-know-when-to-use-bcs/BCSBadExample.jpg) 
 
 
 ::: bad
@@ -34,9 +34,10 @@ Use BCS with multiple systems(not working)
 :::
 
 
-![](BCSGoodExample.jpg)
+![](/rules/do-you-know-when-to-use-bcs/BCSGoodExample.jpg)
 
 
 ::: good
 Use BCS with one system at time  
 :::
+

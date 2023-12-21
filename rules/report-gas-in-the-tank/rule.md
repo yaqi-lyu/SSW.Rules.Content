@@ -30,13 +30,13 @@ It is recommended to keep track of your "Gas in the Tank" report at least every 
 For most businesses, a good amount of cash to hold should cover approximately **26 weeks of costs** . 
 
 ::: bad
-![Figure: Bad example - Only 13 weeks of cash reserves](2020-06-23_12-23-35.png)
+![Figure: Bad example - Only 13 weeks of cash reserves](/rules/report-gas-in-the-tank/2020-06-23_12-23-35.png)
 :::
 
 The length of time which the business can survive on cash reserves is not as high as ideal. 13 weeks is not a lot of time to respond to a significant downturn of activity, assuming it was identified at the first-week activity went down. This report would have revealed the calculations and henceforth increase the business awareness and to keep the foot on the pedal.
 
 ::: good
-![Figure: Good example - 26 weeks of cash reserves](2020-06-23_12-22-06.png)
+![Figure: Good example - 26 weeks of cash reserves](/rules/report-gas-in-the-tank/2020-06-23_12-22-06.png)
 :::
 
 This example is a good indication the business has enough cash reserves, that even with a significant downturn in activities, there will be enough time to respond and likely reverse the situation. They achieve this by either maintaining cost measures low or consistently driving for new customers and a minimum level of business activity, as well as other business-specific strategies.
@@ -53,8 +53,9 @@ Maintaining a Gas in the Tank report will provide a visual indication and a prom
 
 You can make this report very easily with Fathom Reporting. Here is an example:
 
-![Figure: Fathom Report - The "Gas in the Tank" report shows the company can survive for 33 weeks](fathom-report-example.png)
+![Figure: Fathom Report - The "Gas in the Tank" report shows the company can survive for 33 weeks](/rules/report-gas-in-the-tank/fathom-report-example.png)
 
-![Figure: Fathom has custom KPI builder which makes this easy](fathom-kpi-builder.jpg)
+![Figure: Fathom has custom KPI builder which makes this easy](/rules/report-gas-in-the-tank/fathom-kpi-builder.jpg)
 
 :::
+

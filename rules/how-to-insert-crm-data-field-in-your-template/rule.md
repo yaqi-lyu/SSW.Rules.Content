@@ -19,11 +19,12 @@ While editing your mail merge template, you can add a Dynamics data field in the
 <!--endintro-->
 
 1. When you’re editing or creating a new email template, in the subject or body of the email template select </>Insert dynamic text
-  ![Figure: Selecting dynamic test](insert-data-field-1.png)
+  ![Figure: Selecting dynamic test](/rules/how-to-insert-crm-data-field-in-your-template/insert-data-field-1.png)
 
 2. Leave the Record type as User, and then select the Field name of your choosing (for example, first name)
-  ![Figure: Selecting chosen Field name](insert-data-field-2.png)
+  ![Figure: Selecting chosen Field name](/rules/how-to-insert-crm-data-field-in-your-template/insert-data-field-2.png)
 
 3. If you want Dynamics to insert static text when none of the fields you have specified contain any data, in the Default text box, type the text that you want Dynamics to display instead of a dynamic value
 
 4. Finish editing your template, save it, and upload it to Microsoft Dynamics 365
+

@@ -21,12 +21,12 @@ You may be involved in different tasks simultaneously every day.  The best way t
 
 
 ::: bad  
-![Figure: Bad example. Email messages are grouped by Date](GroupByConversationAndDateBad.gif)  
+![Figure: Bad example. Email messages are grouped by Date](/rules/do-you-group-your-emails-by-conversation-and-date/GroupByConversationAndDateBad.gif)  
 :::
 
 
 ::: good  
-![Figure:  Good example.  Email messages are grouped by Conversation](GroupByConversationAndDateGood.gif)  
+![Figure:  Good example.  Email messages are grouped by Conversation](/rules/do-you-group-your-emails-by-conversation-and-date/GroupByConversationAndDateGood.gif)  
 :::
 
 Follow these steps to group by conversation:
@@ -35,8 +35,9 @@ Follow these steps to group by conversation:
 2. Right-click any column and choose the "Customize Current View..." option.
 3. Select the "Group by..." option as displayed in the image.
 
-![Figure:  Steps to group by conversation field](GroupByConversationAndDate3.gif)  
+![Figure:  Steps to group by conversation field](/rules/do-you-group-your-emails-by-conversation-and-date/GroupByConversationAndDate3.gif)  
 
 4. Select the "Conversation" field from the list.  (Leave empty the remaining groups)
 
  **VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)
+

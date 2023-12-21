@@ -22,11 +22,11 @@ Application database access should be also be restricted to only the application
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example – Contract Manager Web Application using the administrator login in its connection string](administratorlogininitsconnectionstring.png)
+![Figure: Bad example – Contract Manager Web Application using the administrator login in its connection string](/rules/do-you-configure-your-web-applications-to-use-application-specific-accounts-for-database-access/administratorlogininitsconnectionstring.png)
 :::
 
 ::: good
-![Figure: Good example – Application specific database user configured in the connection string](databaseuserconfiguredintheconnectionstring.png)
+![Figure: Good example – Application specific database user configured in the connection string](/rules/do-you-configure-your-web-applications-to-use-application-specific-accounts-for-database-access/databaseuserconfiguredintheconnectionstring.png)
 :::
 
 Most web applications need full read and write access to one database.  In the case of EF Code first migrations, they might also need DDL admin rights.  These roles are built in database roles:
@@ -72,3 +72,4 @@ GRANT EXECUTE TO myappstaging
 Data Source=tcp:xyzsqlserver.database.windows.net,1433; Initial Catalog=myapp-staging-db; User ID=myappstaging@xyzsqlserver; Password='\*\*\*\*\*\*\*\*\*\*\*\*\*'  
 :::
 **Figure: Example connection string**
+

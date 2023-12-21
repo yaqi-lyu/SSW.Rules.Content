@@ -28,12 +28,12 @@ The core of the onion architecture is the Domain Model, and all dependencies are
 
 
 ::: bad  
-![Figure: Bad Example – N-Tiered architectures do not inherently support dependency injection](dependency-injection-bad.jpg)  
+![Figure: Bad Example – N-Tiered architectures do not inherently support dependency injection](/rules/do-you-use-a-dependency-injection-centric-architecture/dependency-injection-bad.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example – The Onion Architecture promotes layers built on interfaces, and then injecting dependencies into those layers. This keeps coupling low, and therefore maintainability high](dependency-injection-good.jpg)  
+![Figure: Good Example – The Onion Architecture promotes layers built on interfaces, and then injecting dependencies into those layers. This keeps coupling low, and therefore maintainability high](/rules/do-you-use-a-dependency-injection-centric-architecture/dependency-injection-good.jpg)  
 :::
 
 ###  Related rules
@@ -41,3 +41,4 @@ The core of the onion architecture is the Domain Model, and all dependencies are
 
 * [Do you know the layers of the onion architecture?](/do-you-know-the-layers-of-the-onion-architecture)
 * [Do you know the best dependency injection container?](/do-you-know-the-best-dependency-injection-container-aka-do-not-waste-days-evaluating-ioc-containers)
+

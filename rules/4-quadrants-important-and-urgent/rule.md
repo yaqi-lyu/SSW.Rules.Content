@@ -14,8 +14,9 @@ There is a well-known quadrant where people look at where they spend their time.
 
 <!--endintro-->
 
-![Figure: The decision-making 4 quadrants](7_habits_decision-making_matrix.png)
+![Figure: The decision-making 4 quadrants](/rules/4-quadrants-important-and-urgent/7_habits_decision-making_matrix.png)
 
 **Image:** Davidjcmorris, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 
 **More info:** [Urgent VS Important](https://afeelingofsymmetry.com/urgent-vs-important/)
+

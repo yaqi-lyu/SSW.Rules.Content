@@ -51,9 +51,10 @@ There is a couple of  exceptions to the above:
 2. When the items are too cheap they don't need to be individually tagged, having the total number + the number of items checked out to people is enough.
 
 ::: good
-![Figure: Good Example - A professional label printed with the important asset info e.g. ID, name and serial number](qr-code-v2.jpg)
+![Figure: Good Example - A professional label printed with the important asset info e.g. ID, name and serial number](/rules/label-your-assets/qr-code-v2.jpg)
 :::
 
 ::: info
 A good system that does all this is [SnipeIT](https://snipeitapp.com/). SnipeIT has a nice interface, easy to use, maintain and upgrade. It generates labels for you, has an API for you to integrate with your current systems and is free if you host it yourself!
 :::
+

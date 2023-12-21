@@ -30,15 +30,15 @@ The feature is built-in to IIS 8
 2. Browse to the website in question
 3. Open Advanced settings 
       
-    ![Figure: IIS](iis8-1.jpg)  
+    ![Figure: IIS](/rules/do-you-ensure-your-application-pool-is-always-running/iis8-1.jpg)  
 
 4. Change the “start mode” to “Always running” 
       
-    ![Figure: Start mode](iis8-2.jpg)  
+    ![Figure: Start mode](/rules/do-you-ensure-your-application-pool-is-always-running/iis8-2.jpg)  
 
 5. Change Preload Enabled to True 
       
-    ![Figure: Preload setting](iis8-3.jpg)  
+    ![Figure: Preload setting](/rules/do-you-ensure-your-application-pool-is-always-running/iis8-3.jpg)  
 
 
 ### Instructions below for IIS 7.5:
@@ -47,15 +47,15 @@ The feature is built-in to IIS 8
 2. Open **Internet Information Services (IIS)**
 3. Select the server
 4. Scroll down and select **Configuration Editor** 
-  ![Figure: IIS](iis7-1.jpg)  
+  ![Figure: IIS](/rules/do-you-ensure-your-application-pool-is-always-running/iis7-1.jpg)  
 
 5. From the **Section** menu select **system.applicationHost / applicationPools** 
-  ![Figure: Configuration editor](iis7-2.jpg)  
+  ![Figure: Configuration editor](/rules/do-you-ensure-your-application-pool-is-always-running/iis7-2.jpg)  
 
 6. Double click the  **“…”** to the right of **(Collection)**
 7. Find the Application Pool CFT is running on (it could be ComplyFirstTime or DefaultAppPool)
 8. In the  **Properties** window, scroll down and select **startMode** , choose **AlwaysRunning** 
-  ![Figure: Set "start Mode"](iis7-3.jpg)  
+  ![Figure: Set "start Mode"](/rules/do-you-ensure-your-application-pool-is-always-running/iis7-3.jpg)  
 
 9. On the top right select **Apply**
 
@@ -73,3 +73,4 @@ The feature is built-in to IIS 8
     <add name="”Application" pool="" name”="" managedruntimeversion="”v4.0″" startmode="AlwaysRunning"></add>
     ```
 3. Save this file and perform an IISReset so that the change is read into the running memory of the IIS server.
+

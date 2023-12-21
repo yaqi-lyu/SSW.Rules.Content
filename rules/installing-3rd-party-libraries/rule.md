@@ -23,7 +23,7 @@ However, there are scenarios where the libraries integrated in a project bring o
 
 Looking for the right library can help to minimize the chances of a project hitting these scenarios. Here are some of the common things to check before installing a library:
 
-![](3rd-party-check-logos.png)
+![](/rules/installing-3rd-party-libraries/3rd-party-check-logos.png)
 
 ### 1. Is it valuable?
 
@@ -54,15 +54,15 @@ Couple of things to check:
 ✅ Low GitHub issues count – Many unresolved serious issues may be an indicator that the library is not actively maintained.
 
 ::: bad
-![Figure: Bad example - Unmaintained library - little to no activity - https://github.com/douglasgsouza/mat-row-keyboard-selection/pulse/monthly](lib-not-maintained.png)
+![Figure: Bad example - Unmaintained library - little to no activity - https://github.com/douglasgsouza/mat-row-keyboard-selection/pulse/monthly](/rules/installing-3rd-party-libraries/lib-not-maintained.png)
 :::
 
 ::: good
-![Figure: Good example #1 - Popular npm library with lots of stars and recently updated- https://github.com/date-fns/date-fns](lib-well-maintained.png)
+![Figure: Good example #1 - Popular npm library with lots of stars and recently updated- https://github.com/date-fns/date-fns](/rules/installing-3rd-party-libraries/lib-well-maintained.png)
 :::
 
 ::: good
-![Figure: Good example #2 - Well maintained and active library - https://github.com/date-fns/date-fns/pulse/monthly](lib-well-maintained-2.png)
+![Figure: Good example #2 - Well maintained and active library - https://github.com/date-fns/date-fns/pulse/monthly](/rules/installing-3rd-party-libraries/lib-well-maintained-2.png)
 :::
 
 ### 3. Is it compatible?
@@ -94,19 +94,19 @@ Not all libraries available on [npmjs](https://npmjs.com) and [NuGet](https://nu
 Always check the license associated with the package before deciding to use it in production. You can check common available licenses on [choosealicense.com](https://choosealicense.com).
 
 ::: bad
-![Figure: Bad example - npm - uncommon license, need to check for conditions and fees - https://npmjs.com/package/highcharts](npm-bad-license.png)
+![Figure: Bad example - npm - uncommon license, need to check for conditions and fees - https://npmjs.com/package/highcharts](/rules/installing-3rd-party-libraries/npm-bad-license.png)
 :::
 
 ::: bad
-![Figure: Bad example - NuGet – uncommon license, need to check for conditions and fees - https://nuget.org/packages/PDFTron.NET.x64](nuget-bad-license.png)
+![Figure: Bad example - NuGet – uncommon license, need to check for conditions and fees - https://nuget.org/packages/PDFTron.NET.x64](/rules/installing-3rd-party-libraries/nuget-bad-license.png)
 :::
 
 ::: good
-![Figure: Good example - npm - MIT License, free to use - https://npmjs.com/package/date-fns](npm-good-license.png)
+![Figure: Good example - npm - MIT License, free to use - https://npmjs.com/package/date-fns](/rules/installing-3rd-party-libraries/npm-good-license.png)
 :::
 
 ::: good
-![Figure: Good example - NuGet – MIT License, free to use - https://nuget.org/packages/Newtonsoft.Json/13.0.1](nuget-good-license.png)
+![Figure: Good example - NuGet – MIT License, free to use - https://nuget.org/packages/Newtonsoft.Json/13.0.1](/rules/installing-3rd-party-libraries/nuget-good-license.png)
 :::
 
 ### 6. What are the bundle characteristics?
@@ -136,5 +136,6 @@ To reduce the final build size, .NET provide a built in feature  [Trimmer](https
 * **[Document the decision](/document-discoveries)** - Always keep track of the reasoning when developers decided to go with a particular library instead of another one. This helps future developers working on a project to maintain the project. Future developers will have better context and will be able to make a better decision should there be any situational or business requirement changes. A [package audit log](/package-audit-log) is a great way to record all the decisions.
 
 ::: good
-![Figure: Good example - A markdown file should include your reasons to assist future developers](md-reasons.png)
+![Figure: Good example - A markdown file should include your reasons to assist future developers](/rules/installing-3rd-party-libraries/md-reasons.png)
 :::
+

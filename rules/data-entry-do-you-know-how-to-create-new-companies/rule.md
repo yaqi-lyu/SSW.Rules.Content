@@ -27,10 +27,11 @@ Although you can create a Contact first, it's better to always create the Compan
 
 
 ::: good  
-![Figure: In MS CRM 2013, click on Sales | Accounts](Sales-Accounts.jpg)  
+![Figure: In MS CRM 2013, click on Sales | Accounts](/rules/data-entry-do-you-know-how-to-create-new-companies/Sales-Accounts.jpg)  
 :::
 
 
 ::: good  
-![Figure: Click New, enter the required fields, and save and close](NewAccount.jpg)  
+![Figure: Click New, enter the required fields, and save and close](/rules/data-entry-do-you-know-how-to-create-new-companies/NewAccount.jpg)  
 :::
+

@@ -12,23 +12,23 @@ It can be time-consuming to think and plan a shoot with the background in mind. 
 
 These will also act as approved office backgrounds from the Product Owner, giving the video team assurance and confidence in shooting the video. It also allows developers who are less creative or nervous about shooting to choose what background they would like.
 
-![Figure: Presenter - solo and sitting down](presenter-solo-sitting-down.png)
+![Figure: Presenter - solo and sitting down](/rules/unique-office-backgrounds/presenter-solo-sitting-down.png)
 
-![Figure: Presenter - solo and standing up](Boardroom-standing.png)
+![Figure: Presenter - solo and standing up](/rules/unique-office-backgrounds/Boardroom-standing.png)
 
-![Figure: Two Presenters - standing](two-presenters-standing.png)
+![Figure: Two Presenters - standing](/rules/unique-office-backgrounds/two-presenters-standing.png)
 
-![Figure: Two Presenters - sitting down](two-presenters-sitting-down.png)
+![Figure: Two Presenters - sitting down](/rules/unique-office-backgrounds/two-presenters-sitting-down.png)
 
-![Figure: Interview - piece to camera and sitting down](Chapel-desks-background-presenter-solo.png)
+![Figure: Interview - piece to camera and sitting down](/rules/unique-office-backgrounds/Chapel-desks-background-presenter-solo.png)
 
-![Figure: Interview - standing up and developers in background](Standing-devs-working-interview.png)
+![Figure: Interview - standing up and developers in background](/rules/unique-office-backgrounds/Standing-devs-working-interview.png)
 
-![Figure: Interview - standing up in a doorway](Tv-room-doorway.png)
+![Figure: Interview - standing up in a doorway](/rules/unique-office-backgrounds/Tv-room-doorway.png)
 
-![Figure: Interview - sitting down and developers in background](chapel-devs-working-interview.png)
+![Figure: Interview - sitting down and developers in background](/rules/unique-office-backgrounds/chapel-devs-working-interview.png)
 
-![Figure: Interview - sitting down and trees in background](chapel-trees-background.png)
+![Figure: Interview - sitting down and trees in background](/rules/unique-office-backgrounds/chapel-trees-background.png)
 
 ::: greybox
 Hey Sophie, 
@@ -52,3 +52,4 @@ As per our conversation, this is a great and valuable video to make. Please chec
 ::: good
 Figure: Good Example - link to visual references and options for approved backgrounds
 :::
+

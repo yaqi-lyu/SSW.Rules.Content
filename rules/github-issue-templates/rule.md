@@ -32,15 +32,15 @@ Let's take a look at how implementing Issue Templates can improve repository bac
 <!--endintro-->
 
 ::: bad
-![Figure: Bad Example - Issue created without a Template](bad-example-issue.png)
+![Figure: Bad Example - Issue created without a Template](/rules/github-issue-templates/bad-example-issue.png)
 :::
 
 ::: good 
-![Figure: Good Example - Issue created from a Template](good-example-issue.png)
+![Figure: Good Example - Issue created from a Template](/rules/github-issue-templates/good-example-issue.png)
 :::
 
 ::: good 
-![Figure: Good Example - All the available Issue Template](list-of-options.png)
+![Figure: Good Example - All the available Issue Template](/rules/github-issue-templates/list-of-options.png)
 :::
 
 ::: info
@@ -48,3 +48,4 @@ For instructions on setting this up:
 - See [Configuring Issue Templates for your repository](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository) 
 - Check out [SSW Github repo Template.](https://github.com/SSWConsulting/SSW.GitHub.Template)
 :::
+

@@ -13,7 +13,7 @@ redirects: []
 
 **Question:** What is wrong with this Picture?
 
-![Figure: Can you tell what is wrong with this Picture?](../../assets/ShowInTaskBar.jpg)  
+![Figure: Can you tell what is wrong with this Picture?](/rules/do-you-know-that-popup-modal-forms-should-never-have-showintaskbar-true/ShowInTaskBar.jpg)  
 
 <!--endintro-->
 
@@ -46,3 +46,4 @@ Dim frm as new frmCustomer frm.ShowDialog
 ::: good
 Figure: Good Code (ShowInTaskbar is set in the form's InitializeComponents method instead)
 :::
+

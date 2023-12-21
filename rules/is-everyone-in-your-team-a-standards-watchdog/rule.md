@@ -21,11 +21,11 @@ But this can really only happen if you’re going to [go the extra mile](/go-the
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example - Receiving corrections is never easy and often received more harshly than the giver intended](watchdog-mean.jpg)
+![Figure: Bad example - Receiving corrections is never easy and often received more harshly than the giver intended](/rules/is-everyone-in-your-team-a-standards-watchdog/watchdog-mean.jpg)
 :::
 
 ::: good
-![Figure: Good example - Go super gentle when people make mistakes. Correct them as though they’re a soft cute puppy 🐶](watchdog-watchdog.jpg)
+![Figure: Good example - Go super gentle when people make mistakes. Correct them as though they’re a soft cute puppy 🐶](/rules/is-everyone-in-your-team-a-standards-watchdog/watchdog-watchdog.jpg)
 :::
 
 Every member of a team plays an important role in maintaining standards. Whether it's your  work or someone else's, always  keep an eye out for **things that can be improved**.
@@ -101,7 +101,7 @@ It can be tempting to offer your feedback as soon as you think of it, but it's b
 For more, check out [Do you know to create a safe space instead of jumping into feedback?](/create-a-safe-space-instead-of-jumping-into-feedback)
 
 ::: bad
-![Figure: Bad example - Seeing a mistake and not pointing it out doesn't improve a person. Allow them to benefit from your experience!](watchdog-ghost.jpg)
+![Figure: Bad example - Seeing a mistake and not pointing it out doesn't improve a person. Allow them to benefit from your experience!](/rules/is-everyone-in-your-team-a-standards-watchdog/watchdog-ghost.jpg)
 :::
 
 ### Going Anonymous
@@ -111,7 +111,7 @@ If a critique is personal, it can be hard to correct someone – especially if y
 ### Taking Feedback
 
 ::: good
-![Figure: Good example - Say 'thank you' to a person's corrections to show you don't have thin skin and encourage further positive and negative feedback. It all helps you to improve](watchdog-thankyou.jpg)
+![Figure: Good example - Say 'thank you' to a person's corrections to show you don't have thin skin and encourage further positive and negative feedback. It all helps you to improve](/rules/is-everyone-in-your-team-a-standards-watchdog/watchdog-thankyou.jpg)
 :::
 
 ### In Summary
@@ -157,7 +157,8 @@ Using ChatGPT can be an effective way to correct someone nicely. It allows you t
 :::
 
 ::: good
-![Figure: The example prompt generates a fun email](Correct-someone-nicely.png)
+![Figure: The example prompt generates a fun email](/rules/is-everyone-in-your-team-a-standards-watchdog/Correct-someone-nicely.png)
 :::
 
 Providing feedback in a light-hearted and friendly manner can encourage colleagues to be more receptive to suggestions. Click “Regenerate response” if you don't like the output!
+

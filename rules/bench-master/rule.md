@@ -72,7 +72,7 @@ As you can imagine there is a lot of information that would be required for a Be
 
 This covers the basics of what a Bench Master would need to know, there is other factors that would influence the Bench Master's decisions such as developer personal goals. For example, if a developer wants to learn React, the Bench Master could try place the developer on a project that uses React.
 
-![Figure: Developers can add Keen to Learn skills in CRM | Users | {{ User }} | Skills to inform the Bench Master](keen-to-learn-skills.png)
+![Figure: Developers can add Keen to Learn skills in CRM | Users | {{ User }} | Skills to inform the Bench Master](/rules/bench-master/keen-to-learn-skills.png)
 
 Here are some considerations the Bench Master would keep in mind for every developer:
 
@@ -106,3 +106,4 @@ Projects should be broken down according to size and scope:
 
 * Long projects (>4 weeks) with >3 active developers should be run as a separate team. Every standalone project should have a Product Champion.
 * Other projects should form a single team. This team is Scrum Mastered by the Bench Master. This allows the developers to maintain adapted process ceremonies and while still working on different products, see [Do you ensure your client projects who don't use full Scrum, at least have a "Mini-Review"?](/who-dont-use-full-scrum-should-have-a-mini-review). This team should adapt the standard Scrum emails ([Do you create a Sprint Review/Retro email?](/sprint-review-retro-email)) to send a collective email to internal stakeholders after every Sprint. This team should still do a retro as the nature of their more ad-hoc environment will help them be more effective.
+

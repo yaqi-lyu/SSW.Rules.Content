@@ -34,10 +34,11 @@ redirects:
 
 
 ::: bad  
-![Figure: Bad Example – Ad doesn't have a clear message about either product or service, there’s no call extension even though it mentions "Call Now"](google-ad-no-ad-extension.jpg)  
+![Figure: Bad Example – Ad doesn't have a clear message about either product or service, there’s no call extension even though it mentions "Call Now"](/rules/how-to-use-ad-extensions-on-google-ads/google-ad-no-ad-extension.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Sitelinks and Call extensions on one of our mobile ads](google-ad-extension.jpg)  
+![Figure: Good Example - Sitelinks and Call extensions on one of our mobile ads](/rules/how-to-use-ad-extensions-on-google-ads/google-ad-extension.jpg)  
 :::
+

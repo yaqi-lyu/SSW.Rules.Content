@@ -38,38 +38,39 @@ Figure: SSW LookOut! for Outlook warns you if you accidentally 'Reply All' when 
 
 1. Not sure how user inputs the  content into this page. Anyway, here is the right way to add content via Telerik Editor. Please read below example of how I redo this part in Telerik Editor without changing the code manually
 
-![Figure:Copy content in the notepad](SaveContentInNotePad.jpg)
+![Figure:Copy content in the notepad](/rules/how-to-use-ssw-style-in-radhtmlcontrol/SaveContentInNotePad.jpg)
 
 2. Delete the current content from Telerik for a new start;
 
 3. Copy the first sentence from notepad and paste into Telerik Editor in the page; (please avoid copying straightly from web page and pasting them here, it will copy the all tags as well. it might affect the styles which can’t apply correctly)
 
-![Figure: Start copying content over](CopyFromNotePad.jpg)
+![Figure: Start copying content over](/rules/how-to-use-ssw-style-in-radhtmlcontrol/CopyFromNotePad.jpg)
 
 4. Insert the image
 
-![Figure: Add a link to text](InsertImage.jpg)
+![Figure: Add a link to text](/rules/how-to-use-ssw-style-in-radhtmlcontrol/InsertImage.jpg)
 
 5. Add an image
 
-![Figure: Inser an image](ApplyStyleInsertImage.jpg)
+![Figure: Inser an image](ApplyStyle/rules/how-to-use-ssw-style-in-radhtmlcontrol/InsertImage.jpg)
 
 6. Press “enter” key to start a new row, then copy the figure from notepad to the Telerik editor area
 
-![Figure: Add figure](ApplyStyleAddFigure.jpg)
+![Figure: Add figure](/rules/how-to-use-ssw-style-in-radhtmlcontrol/ApplyStyleAddFigure.jpg)
 
 7. Apply image style to the image by click on the image, then choose a style from “Apply CSS Class” dropdown list
 
-![Figure: Apply style to the image](ApplyStyleImageArea.jpg)
+![Figure: Apply style to the image](/rules/how-to-use-ssw-style-in-radhtmlcontrol//rules/how-to-use-ssw-style-in-radhtmlcontrol/ApplyStyleImageArea.jpg)
 
 8. Apply style to the figure
 
-![Figure: Apply style to the figure](ApplyStyleImageArea.jpg)
+![Figure: Apply style to the figure](/rules/how-to-use-ssw-style-in-radhtmlcontrol//rules/how-to-use-ssw-style-in-radhtmlcontrol/ApplyStyleImageArea.jpg)
 
 9.Apply the yellow box
 
-![Figure: Apply yellow border box to the content](ApplyStyleFigure.jpg)
+![Figure: Apply yellow border box to the content](/rules/how-to-use-ssw-style-in-radhtmlcontrol/ApplyStyleFigure.jpg)
 
 10. Check in the changes, then you will have - "dada.."
 
-![Figure: Right style in use](ApplyStyleResult.jpg)
+![Figure: Right style in use](/rules/how-to-use-ssw-style-in-radhtmlcontrol/ApplyStyleResult.jpg)
+

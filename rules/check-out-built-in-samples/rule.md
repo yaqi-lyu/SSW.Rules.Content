@@ -25,7 +25,7 @@ These samples include:
 
 Upon installing the samples successfully, you should see 3 folders (shown below) in your Report Manager.
 
-![Figure: A proper installation of the samples](Folders2008R2.gif)
+![Figure: A proper installation of the samples](/rules/check-out-built-in-samples/Folders2008R2.gif)
 
 For more information, visit the following links:
 
@@ -34,3 +34,4 @@ For more information, visit the following links:
 * [Samples for Reporting Services](https://github.com/microsoft/sql-server-samples/tree/master/samples/features/reporting-services)
 
 * [AdventureWorks Sample Reports](https://www.ssw.com.au/ssw/Standards/AdventureWorksSamples.aspx)
+

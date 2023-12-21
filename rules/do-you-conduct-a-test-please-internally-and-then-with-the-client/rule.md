@@ -20,7 +20,7 @@ redirects: []
 
 <!--endintro-->
 
-![Figure: Do you want users to have good first impressions?](pic16-TestingDoYouWantThemT.gif)  
+![Figure: Do you want users to have good first impressions?](/rules/do-you-conduct-a-test-please-internally-and-then-with-the-client/pic16-TestingDoYouWantThemT.gif)  
 
 There are a number of different types of tests that you can perform:
 
@@ -96,3 +96,4 @@ Gary,
  **Figure: This is how to reply failed to a "test please" email**
 
 **Note:** If the test to be performed is quick and the tester is available on the spot, consider using a "[checked by](/do-you-know-when-to-do-use-checked-by-xxx)" style instead to save some time.
+

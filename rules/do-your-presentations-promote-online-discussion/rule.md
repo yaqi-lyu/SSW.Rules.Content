@@ -28,9 +28,9 @@ Using hashtags is an effective way to promote and encourage discussion around pr
 They serve as a powerful tool to aggregate conversations, making it simpler for participants to find and contribute to ongoing discussions related to the presentation topic. Embracing hashtags as a promotional strategy can enhance the reach, visibility, and overall engagement of presentation discussions in the online space.
 
 ::: bad
-![Figure: Bad example – Presentation title slide does not promote attendee involvement](presentation-promo-bad.jpg)
+![Figure: Bad example – Presentation title slide does not promote attendee involvement](/rules/do-your-presentations-promote-online-discussion/presentation-promo-bad.jpg)
 :::
 
 ::: good
-![Figure: Good example – Using a hashtag promotes online discussion and feedback](presentation-promo-good.jpg)
+![Figure: Good example – Using a hashtag promotes online discussion and feedback](/rules/do-your-presentations-promote-online-discussion/presentation-promo-good.jpg)
 :::

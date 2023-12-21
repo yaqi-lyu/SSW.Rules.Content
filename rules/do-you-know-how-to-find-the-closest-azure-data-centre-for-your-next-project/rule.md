@@ -26,4 +26,5 @@ As well as testing latency it has additional tests that come in handy like:
 
 
 
-![Figure: AzureSpeed.com example](azure-speed.jpg)
+![Figure: AzureSpeed.com example](/rules/do-you-know-how-to-find-the-closest-azure-data-centre-for-your-next-project/azure-speed.jpg)
+

@@ -16,22 +16,23 @@ You can create a test case in Azure Test Plans directly from a Work Item (e.g. a
 
 You can create a new test case from any list of work items (e.g. a Sprint Backlog).
 
-![Figure: Double click the Work Item that you want to create a Test Case for to open it](create-test-case-from-work-item.jpg)
+![Figure: Double click the Work Item that you want to create a Test Case for to open it](/rules/create-a-test-case-with-azure-test-plans/create-test-case-from-work-item.jpg)
 
-![Figure: Under "Related Work", choose Add Link and select New Item](create-test-case-from-work-item-new-item.jpg)
+![Figure: Under "Related Work", choose Add Link and select New Item](/rules/create-a-test-case-with-azure-test-plans/create-test-case-from-work-item-new-item.jpg)
 
-![Figure: Ensure that the link type is 'Tested By', that the work item type is 'Test Case' and enter a title for the Test Case. Click OK](create-test-case-from-work-item-add-link.jpg)
+![Figure: Ensure that the link type is 'Tested By', that the work item type is 'Test Case' and enter a title for the Test Case. Click OK](/rules/create-a-test-case-with-azure-test-plans/create-test-case-from-work-item-add-link.jpg)
 
-![Figure: Update the State and Details sections (making sure to select the correct iteration) and click on 'Click or type here to add a step' and proceed to add the steps required to test the Work Item](create-test-case-from-work-item-new-test-case.jpg)
+![Figure: Update the State and Details sections (making sure to select the correct iteration) and click on 'Click or type here to add a step' and proceed to add the steps required to test the Work Item](/rules/create-a-test-case-with-azure-test-plans/create-test-case-from-work-item-new-test-case.jpg)
 
-![Figure: After entering each action and its expected result, click Save and Close to create the new test case](create-test-case-from-work-item-new-test-case-save.jpg)
+![Figure: After entering each action and its expected result, click Save and Close to create the new test case](/rules/create-a-test-case-with-azure-test-plans//rules/create-a-test-case-with-azure-test-plans/create-test-case-from-work-item-new-test-case-save.jpg)
 
 ## Creating a test case from a Test Plan or Test Suite
 
 You can also create a new test case from a Test Plan or Test Suite.
 
-![Figure: Select the Test Plans menu and the appropriate Test Plan or Test Suite, then click New Test Case](create-test-case-from-test-suite.jpg)
+![Figure: Select the Test Plans menu and the appropriate Test Plan or Test Suite, then click New Test Case](/rules/create-a-test-case-with-azure-test-plans/create-test-case-from-test-suite.jpg)
 
-![Figure: Update the State and Details sections (making sure to select the correct iteration) and click on 'Click or type here to add a step' and proceed to add the steps required for this test case](create-test-case-from-work-item-new-test-case-from-suite.jpg)
+![Figure: Update the State and Details sections (making sure to select the correct iteration) and click on 'Click or type here to add a step' and proceed to add the steps required for this test case](/rules/create-a-test-case-with-azure-test-plans/create-test-case-from-work-item-new-test-case-from-suite.jpg)
 
-![Figure: After entering each action and its expected result, click Save and Close to create the new test case](create-test-case-from-work-item-new-test-case-save.jpg)
+![Figure: After entering each action and its expected result, click Save and Close to create the new test case](/rules/create-a-test-case-with-azure-test-plans//rules/create-a-test-case-with-azure-test-plans/create-test-case-from-work-item-new-test-case-save.jpg)
+

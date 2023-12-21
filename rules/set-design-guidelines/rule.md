@@ -41,5 +41,6 @@ These are things to keep in mind for good branding:
 ### Tip: Help designers to find stuff in your Intranet
 
 ::: good
-![Figure: Good example - Keep things together in your Intranet](intranet.jpg)
+![Figure: Good example - Keep things together in your Intranet](/rules/set-design-guidelines/intranet.jpg)
 :::
+

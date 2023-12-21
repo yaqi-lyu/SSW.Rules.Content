@@ -18,4 +18,5 @@ Columns ending with 'ID' should have FOREIGN KEY constraints.
 
 <!--endintro-->
 
-![Figure: Missing relationships](NorthwindRelationships.jpg)
+![Figure: Missing relationships](/rules/have-foreign-key-constraints-on-columns-ending-with-id/NorthwindRelationships.jpg)
+

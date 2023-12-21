@@ -24,7 +24,7 @@ This rule has been important for a long time: Fix bugs before adding functionali
 
 <!--endintro-->
 
-![Bugs cost more to fix over time](0_f1mn8rittlwl3zwz.png)
+![Bugs cost more to fix over time](/rules/fix-bugs-first/0_f1mn8rittlwl3zwz.png)
 
 **Source:** [What is a Software Bug? Cost of bug fix!](https://www.testbytes.net/blog/what-is-a-software-bug)
 
@@ -38,3 +38,4 @@ You must be strong in the face of pressures from project plan scheduling!
 
 Let's suppose you work in Marketing and have a problem with a hypothetical report. You should fix that issue first, before adding new information to the report.
 :::
+

@@ -19,9 +19,10 @@ redirects: []
 A professional report should have consistent name.
 
 ::: bad  
-![Figure: Bad example - Inconsistent report name](ReportNameConsistency_bad.gif)  
+![Figure: Bad example - Inconsistent report name](/rules/consistent-report-name/ReportNameConsistency_bad.gif)  
 :::
 
 ::: good  
-![Figure: Good example - Consistent report name](ReportNameConsistency_good.gif)
+![Figure: Good example - Consistent report name](/rules/consistent-report-name/ReportNameConsistency_good.gif)
 :::
+

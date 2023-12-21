@@ -43,7 +43,7 @@ Here are the tips:
 
 Being eye level with the subject and using the rule of thirds, which involves mentally dividing up your framing using 2 horizontal lines and 2 vertical lines, as a professional camera would do – if you are not using one. Also make sure there isn’t too much empty space and that you are not missing anyone important, if you have a big group, for example.
 
-![Figure: Rule of thirds visualisation](RuleOfThirds.png)
+![Figure: Rule of thirds visualisation](/rules/know-how-to-take-great-photos-for-your-socials/RuleOfThirds.png)
 
 ### Composition
 
@@ -63,9 +63,10 @@ If possible, use portrait mode on your camera for taking photos of developers, a
 Regarding the photo style, it’s better to smile in photos, so try and get your models (aka employees) to naturally smile in their photos. This makes the business seem more inviting to clients, besides giving the photo a warmer tone. It’s always good to take natural photos as well, like a shot of our team working together. When possible, it’s great to show a bit of diversity, as the techie community is pretty much consisted by the male sex.
 
 ::: bad
-![Figure: Bad Example – Bad framing and background ](sebprofile.png)
+![Figure: Bad Example – Bad framing and background ](/rules/know-how-to-take-great-photos-for-your-socials/sebprofile.png)
 :::
 
 ::: good
-![Figure: Good Example – Good framing for a profile photo](mattgprofile.png)
+![Figure: Good Example – Good framing for a profile photo](/rules/know-how-to-take-great-photos-for-your-socials/mattgprofile.png)
 :::
+

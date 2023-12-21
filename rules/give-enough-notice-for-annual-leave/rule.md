@@ -84,4 +84,5 @@ Figure: Good Example - appropriate notice given
 :::
 
 
-![Figure: Did you give enough notice, or do we need to track you down?](BeachEnforcers.jpg)
+![Figure: Did you give enough notice, or do we need to track you down?](/rules/give-enough-notice-for-annual-leave/BeachEnforcers.jpg)
+

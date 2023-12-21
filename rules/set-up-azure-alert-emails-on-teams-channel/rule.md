@@ -15,5 +15,5 @@ Most sysadmins set up Azure alerts to go to a few people and then they have give
 There is a better way. Have those emails go to the Team. Every team channel has a specific email address and then Team members can pin that. This way these important emails are sitting right at the top.
 
 :::good
-![Figure: Good example – Set Azure alert emails to go to a Team and not to specific people](azure-alert-emails-teams-channel.png)
+![Figure: Good example – Set Azure alert emails to go to a Team and not to specific people](/rules/set-up-azure-alert-emails-on-teams-channel/azure-alert-emails-teams-channel.png)
 :::

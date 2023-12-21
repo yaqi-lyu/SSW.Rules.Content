@@ -17,4 +17,5 @@ Configure the ExecuteBatchTemplate Build Process Template.
 
 <!--endintro-->
 
-![Figure: Enter the DeployOnBuild MsBuild argument, and then enter the name of the deployment batch file you wish to execute upon successful build of the project. Every time this build is executed successful (and all the unit tests pass), the specified batch file will run – deploying the site automatically.](configure-executebatch.jpg)
+![Figure: Enter the DeployOnBuild MsBuild argument, and then enter the name of the deployment batch file you wish to execute upon successful build of the project. Every time this build is executed successful (and all the unit tests pass), the specified batch file will run – deploying the site automatically.](/rules/do-you-configure-the-executebatchtemplate-build-process-template/configure-executebatch.jpg)
+

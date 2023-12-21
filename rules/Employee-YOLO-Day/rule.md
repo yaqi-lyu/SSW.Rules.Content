@@ -17,7 +17,7 @@ It's important that staff feel appreciated, expand their horizons, and also that
 
 <!--endintro-->
 
-![Figure: Sometimes people need a nudge to do something they'll remember for ever](ThinkstockPhotos-dv617062-1.jpg)
+![Figure: Sometimes people need a nudge to do something they'll remember for ever](/rules/Employee-YOLO-Day/ThinkstockPhotos-dv617062-1.jpg)
 
 "YOLO Day" is based on the phrase "You Only Live Once". 
 
@@ -29,5 +29,6 @@ Encourage your employees to share what they did with the company, reminding ever
 
 `youtube: https://www.youtube.com/embed/zIDf6p1CnlQ`
 **Video: You Only Live Once | Adam Cogan's e-Foiling adventure | SSW YOLO Day (12 min)**
+
 
 

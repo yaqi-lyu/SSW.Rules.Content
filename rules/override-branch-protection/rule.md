@@ -16,7 +16,7 @@ You should be using [branch protection](/use-branch-protection) rules to protect
 
 Most source code repositories (including Azure DevOps and GitHub) allow you to set branch protection rules, meaning code must meet a set of conditions before it can be merged into the main branch. But administrators, or individuals with the appropriate delegated authority, can bypass these checks and merge code without these conditions being met.
 
-![Figure: A Pull Request in GitHub that has not met the requirements of the branch protection rule. However, as the person viewing this is a repository administrator, an option is available to bypass the branch rules and merge the code](bypass-rule.png)
+![Figure: A Pull Request in GitHub that has not met the requirements of the branch protection rule. However, as the person viewing this is a repository administrator, an option is available to bypass the branch rules and merge the code](/rules/override-branch-protection/bypass-rule.png)
 
 ### When SHOULDN'T you override branch protection rules?
 
@@ -37,3 +37,4 @@ The most important thing to do, though, is to [re-evaluate your processes](/do-y
 This doesn't necessarily mean a problem with the rules themselves (although of course it could). For example, if you have an urgent fix and your rules require at least one reviewer, but you can't find anyone to review your PR, you _may_ need to override the protection rules on this occassion. This _wouldn't_ highlight a need remove that protection rule, but it _would_ highlight a need to investigate availability of reviewers.    
         
 Like any process involving privileged access, it's up to you to exercise your discretion, and use common sense to determine whether your privilege should be exercised, and whether exercising that privilege highlights a need for a change in process somewhere along the chain.
+

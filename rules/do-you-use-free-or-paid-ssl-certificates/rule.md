@@ -28,7 +28,7 @@ Free certificates:
 * can be automatically renewed easily, through programs like [Certify The Web](https://certifytheweb.com/) or [win-acme](https://www.win-acme.com/)
 
 ::: good
-![Good Example: Let's Encrypt Free Certificate Authority](letsenc.png) 
+![Good Example: Let's Encrypt Free Certificate Authority](/rules/do-you-use-free-or-paid-ssl-certificates/letsenc.png) 
 :::
 
 Why would anyone use **paid certificates**, then?
@@ -42,7 +42,7 @@ Paid certificates:
 * offer support for any errors or problems you have with your certificates.
 
 ::: good
-![Good Example: Comodo Paid Certificate Authority](comodo.png)
+![Good Example: Comodo Paid Certificate Authority](/rules/do-you-use-free-or-paid-ssl-certificates/comodo.png)
 :::
 
 SSL Certificates are an important part of any reputable website, so if you are operating a small website, blog, testing environment, personal site, anything that doesn't need too much support, getting a free certificate is the way to go.

@@ -20,10 +20,11 @@ The default sort order for most visualizations is alphabetical, but you should a
 
 ::: bad
 Alphabetical sorting is really only good if you're specifically looking for one item on the X axis, but it's terrible for seeing ranks, trends, or proportions.
-![Figure: Bad Example: Alphabetical gives very little information](PowerBI-alphabetical.png)
+![Figure: Bad Example: Alphabetical gives very little information](/rules/do-you-know-not-to-use-alphabetical-sorting/PowerBI-alphabetical.png)
 :::
 
 ::: good
-![Figure - Good Example: Sorting by value shows rank and trends easily](PowerBI-non-aphabetical.png)
+![Figure - Good Example: Sorting by value shows rank and trends easily](/rules/do-you-know-not-to-use-alphabetical-sorting/PowerBI-non-aphabetical.png)
 :::
+
 

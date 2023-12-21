@@ -19,7 +19,7 @@ Scrum is a big concept which we try to use here. I don't adhere to every idea, b
 
 <!--endintro-->
 
-![Figure: You need to check up on your developers every 2 weeks. Then you'll never be fooled!](ab9491_Anthrax.gif)
+![Figure: You need to check up on your developers every 2 weeks. Then you'll never be fooled!](/rules/management-do-you-use-xp-scrum-wisely/ab9491_Anthrax.gif)
 
 1. **Sprint Contracts/Releases** - Never set a deadline more than 3 weeks from the previous deadline. Deliverables become a lot easier to manage and meet when they're small. Read more about [Sprint Contracts](/do-you-create-a-sprint-forecast-aka-the-functionality-that-will-be-developed-during-the-sprint)
 
@@ -39,3 +39,4 @@ Here are the rules we don't agree with:
 2. Pair Programming:
     * XP says 2 people at one PC - we have two developers on their own PC's sitting next to each other.
     * We fix production code in pairs. 'Too Expensive' some say. Yes it's pricey, but it's better quality.
+

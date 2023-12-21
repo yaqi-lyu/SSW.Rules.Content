@@ -21,7 +21,7 @@ How you present the product information depends on the sort of application you a
 
 
 ::: good  
-![Figure: Good Example - This wizard has an information screen as the first screen](../../assets/CodeAuditorWelcome.gif)  
+![Figure: Good Example - This wizard has an information screen as the first screen](/rules/does-the-first-form-provide-the-user-product-information/CodeAuditorWelcome.gif)  
 :::
 
 * *If the application is not a wizard application*
@@ -29,5 +29,6 @@ How you present the product information depends on the sort of application you a
 
 
 ::: good  
-![Figure: Good Example - Help - About... menu item opening the product information](../../assets/HelpAbout.jpg)  
+![Figure: Good Example - Help - About... menu item opening the product information](/rules/does-the-first-form-provide-the-user-product-information/HelpAbout.jpg)  
 :::
+

@@ -18,9 +18,10 @@ Remember to format time and date on your website in a human friendly manner:
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example - Detailed date formatting is difficult to read](bad-timeformatting.jpg)
+![Figure: Bad example - Detailed date formatting is difficult to read](/rules/do-you-display-dates-in-a-human-friendly-format/bad-timeformatting.jpg)
 :::
 
 ::: good
-![Figure: Good example - Humanized date formatting is easy to read](good-timeformatting.jpg)
+![Figure: Good example - Humanized date formatting is easy to read](/rules/do-you-display-dates-in-a-human-friendly-format/good-timeformatting.jpg)
 :::
+

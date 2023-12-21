@@ -33,11 +33,11 @@ You can do complex scheduling tasks and calendar polls with this built-in Outloo
 `youtube: https://www.youtube.com/embed/bMmOjJrlqPA`
 **Video: How to use Scheduling Poll in Microsoft Outlook 365 📆 (3 min)**
 
-![Figure: Voting options on Scheduling Poll](schedule-poll-screenshot.png)
+![Figure: Voting options on Scheduling Poll](/rules/automate-schedule-meetings/schedule-poll-screenshot.png)
 
 ## Microsoft Cortana Scheduler (formerly known as Calendar.help)
 
-![Figure: Microsoft Cortana Scheduler](Sexy-face.jpg)
+![Figure: Microsoft Cortana Scheduler](/rules/automate-schedule-meetings/Sexy-face.jpg)
 
 This option is best if you're ok to meet any time that your calendar says is free.
 
@@ -73,7 +73,7 @@ We need to talk about Northwind project.
 
 Cortana then handles all the back-and-forth emails to find a time when everyone can meet and then she sends out an invite on your behalf. 
 
-![Figure: Cortana will find a time that suits everyone and send the appointment](confirmation.jpg)  
+![Figure: Cortana will find a time that suits everyone and send the appointment](/rules/automate-schedule-meetings/confirmation.jpg)  
 
 ::: greybox
 **More help for Cortana:** 
@@ -84,11 +84,11 @@ Cortana then handles all the back-and-forth emails to find a time when everyone 
 #### Step 3 - Add Cortana as a contact
 To make it easier to add Cortana to your emails, create a Contact.
 
-![Figure: Cortana added as a contact](CortanaContact.jpg)  
+![Figure: Cortana added as a contact](/rules/automate-schedule-meetings/CortanaContact.jpg)  
 
 ✅ Works great on mobile:
 
-![Figure: Microsoft Scheduler – Fully works on mobile phone](cortana-scheduler-mobile.jpg)  
+![Figure: Microsoft Scheduler – Fully works on mobile phone](/rules/automate-schedule-meetings/cortana-scheduler-mobile.jpg)  
 
 ## FindTime
 
@@ -102,11 +102,12 @@ FindTime sends out the meeting invite on your behalf. More on [https://findtime.
 
 **Note:** Findtime’s competitor is https://calendly.com
 
-![Figure: FindTime gives a nice UI for people working in the same org, as you can see times that might be available for all attendees easily (e.g. 8 am above)](findtime-scheduler.jpg)  
+![Figure: FindTime gives a nice UI for people working in the same org, as you can see times that might be available for all attendees easily (e.g. 8 am above)](/rules/automate-schedule-meetings/findtime-scheduler.jpg)  
 
 ::: greybox
 **Mobile – does not work ❌**   
 As of Dec 2020, FindTime does not work on iOS.
 
-![Figure: FindTime - No mobile support for iOS](findtime-mobile.jpg)
+![Figure: FindTime - No mobile support for iOS](/rules/automate-schedule-meetings/findtime-mobile.jpg)
 :::
+

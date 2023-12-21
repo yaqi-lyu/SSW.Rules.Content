@@ -23,9 +23,9 @@ There are two ways to use Adaptive Cards Designer:
 
 
 ::: bad
-![Figure: Bad example - Using Bot Framework Emulator to design the card](design-cards-in-emulator.png)
+![Figure: Bad example - Using Bot Framework Emulator to design the card](/rules/use-adaptive-cards-designer/design-cards-in-emulator.png)
 :::
 
 ::: good
-![Figure: Good example - Using Adaptive Cards Designer to design the card](design-card-with-designer.png)
+![Figure: Good example - Using Adaptive Cards Designer to design the card](/rules/use-adaptive-cards-designer/design-card-with-designer.png)
 :::

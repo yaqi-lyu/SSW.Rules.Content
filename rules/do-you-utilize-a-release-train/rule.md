@@ -42,7 +42,7 @@ Utilize an RTE to keep your agile teams synchronized and focused on delivering v
 :::
 
 ::: good
-![Figure: Good Example - An RTE helps in keeping all the agile teams in sync, ensuring smooth delivery of features.](Safe_RTE_Good.png)
+![Figure: Good Example - An RTE helps in keeping all the agile teams in sync, ensuring smooth delivery of features.](/rules/do-you-utilize-a-release-train/Safe_RTE_Good.png)
 :::
 
 ## Why Should You Utilize an RTE?
@@ -70,3 +70,4 @@ Bad Example - Lack of an RTE can lead to communication gaps, causing delays and 
 ## Conclusion
 
 Employing a Release Train Engineer (RTE) is more than a strategic decision; it's a critical component for success in any scaled agile framework. An RTE does much more than just keep the wheels turning; they ensure that multiple agile teams work in harmony, like a well-oiled machine. From seamless communication and pinpoint coordination to adept conflict resolution, the RTE's role is multifaceted and indispensable. They stand as the cornerstone of any Agile Release Train, orchestrating efforts to drive efficiency, alignment, and, ultimately, success.
+

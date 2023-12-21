@@ -18,7 +18,7 @@ Not only do we try to keep our designs clean and simple without too many images,
 
 
 
-![Figure: Testimonials as displayed on SSW's About Us page](../../assets/MinimalDesignImage.jpg)  
+![Figure: Testimonials as displayed on SSW's About Us page](/rules/keep-your-websites-clean-and-simple/MinimalDesignImage.jpg)  
 
 Web minimalism and simplicity means emphasizing what is essential and important           to your readers. Remove every non-essential or unimportant element. Readers only           have so much attention to give, if you present them with less they will have more           attention to give to each element.
 
@@ -32,3 +32,4 @@ Web minimalism and simplicity means emphasizing what is essential and important 
 * Quicker to redesign
 * Easier to maintain
 * Easier to make work on different browsers
+

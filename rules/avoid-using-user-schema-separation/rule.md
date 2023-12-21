@@ -20,10 +20,11 @@ User-schema separation allows more flexibility by adding another level of naming
 
 
 ::: bad  
-![Figure: Bad Example - AdventureWorks using user schema - instead, keep it simple and avoid using user schema unnecessarily](SQLDatabases\_UserSchema\_Bad.jpg)  
+![Figure: Bad Example - AdventureWorks using user schema - instead, keep it simple and avoid using user schema unnecessarily](/rules/avoid-using-user-schema-separation/SQLDatabases_UserSchema_Bad.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Adventure works with user schema cleaned out. Much simpler and more readable](SQLDatabases\_UserSchema\_Good.jpg)  
+![Figure: Good Example - Adventure works with user schema cleaned out. Much simpler and more readable](/rules/avoid-using-user-schema-separation/SQLDatabases_UserSchema_Good.jpg)  
 :::
+

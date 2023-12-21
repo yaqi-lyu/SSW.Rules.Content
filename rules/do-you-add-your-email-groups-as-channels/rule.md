@@ -19,6 +19,7 @@ Companies should have Email Groups for the main offices, and one for the rest of
 
 <!--endintro-->
 
-![Figure: Our Main Office Email Groups](slack-1.png)  
+![Figure: Our Main Office Email Groups](/rules/do-you-add-your-email-groups-as-channels/slack-1.png)  
 
-![Figure: Our Main Office Email Groups recreated as Slack Channels](slack-2.png)
+![Figure: Our Main Office Email Groups recreated as Slack Channels](/rules/do-you-add-your-email-groups-as-channels/slack-2.png)
+

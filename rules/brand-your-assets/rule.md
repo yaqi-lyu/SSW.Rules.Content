@@ -28,10 +28,11 @@ You should enforce this for any asset that is owned by your business, like when 
 1. Brand important items, like laptops, with a custom skin
 2. If you can't have a custom skin, use a sticker
 
-![Figure: Custom laptop skin - take every chance to show off your brand](ssw-skin.jpeg)
+![Figure: Custom laptop skin - take every chance to show off your brand](/rules/brand-your-assets/ssw-skin.jpeg)
 
-![Figure: We don't need to be promoting Dell - use a branded sticker to cover it up!](ssw-monitors.jpg)
+![Figure: We don't need to be promoting Dell - use a branded sticker to cover it up!](/rules/brand-your-assets/ssw-monitors.jpg)
 
 ::: greybox
 **Tip:** For items like laptops, it's also a good idea to tape your business card underneath so it can be returned to you if you lose it.
 :::
+

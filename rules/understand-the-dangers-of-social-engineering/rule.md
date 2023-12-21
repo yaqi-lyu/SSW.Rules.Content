@@ -25,7 +25,7 @@ Social engineering is a technique which mixes art and science to exploit common 
 
 There are numerous examples of social engineering ranging from phone calls, attackers posing as friends on social media, all the way to sophisticated attempts at phishing users with near-perfect clones of popular websites.
 
-![Figure: ‘Do you think the average consumer could spot the phishing site?’ Source: Troy Hunt](social-eng.png)  
+![Figure: ‘Do you think the average consumer could spot the phishing site?’ Source: Troy Hunt](/rules/understand-the-dangers-of-social-engineering/social-eng.png)  
 
 The only solution to social engineering is to train properly and prepare users about the dangers presented by and common techniques used by malicious individuals. 
 
@@ -36,3 +36,4 @@ For useful information on the topic reference the document ‘[Avoiding Social E
 With the above in mind, it is important to review regularly the information availed via search engines and standard operating procedures. Furthermore, it can be useful to test the readiness and alertness of staff by performing mock social engineering attacks.
 
 Take the following situation as an example: the CEO is out of town and decides to use an employee’s laptop left in the office on the weekend, the employee in question is messaged via Skype for their domain password. If the employee is aware of the risks, this poses the company then they would not send the requested credentials and follow proper procedure around reporting a suspected incident.
+

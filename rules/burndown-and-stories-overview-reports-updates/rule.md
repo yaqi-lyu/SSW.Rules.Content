@@ -31,10 +31,10 @@ Let's look at those 3 reports:
 ### 1. Current project costs
 
 This allows you to see the actual costs of the project on a weekly basis.
-![Figure 1: Project Progress – There is $30k spent and $8K outstanding](../../assets/projectprogresscapture.JPG)
+![Figure 1: Project Progress – There is $30k spent and $8K outstanding](/rules/burndown-and-stories-overview-reports-updates/projectprogresscapture.JPG)
 
 ### 2. Current hours remaining and hours completed for the current Sprint
-![Figure 2: Burndown report - Shows the progress of the team in the current Sprint – ETA is March 29 and Ana has no work to do](../../assets/burndown.JPG)
+![Figure 2: Burndown report - Shows the progress of the team in the current Sprint – ETA is March 29 and Ana has no work to do](/rules/burndown-and-stories-overview-reports-updates/burndown.JPG)
 
 **Questions that the Burndown and Burn Rate report help answer:**
 
@@ -46,7 +46,7 @@ This allows you to see the actual costs of the project on a weekly basis.
 See how to use the [Burndown and Burn Rate Report](https://docs.microsoft.com/en-us/previous-versions/dd380678(v=vs.100)?redirectedfrom=MSDN).
 
 ### 3. Story Overview - See how each task is tracking
-![Figure 3: Stories Overview report - Shows the progress of the User Stories in the current Sprint and nothing has been tested and no active bugs](../../assets/storiesOverview.JPG) 
+![Figure 3: Stories Overview report - Shows the progress of the User Stories in the current Sprint and nothing has been tested and no active bugs](/rules/burndown-and-stories-overview-reports-updates/storiesOverview.JPG) 
 
 **Questions that the Stories Overview report help answer:**
 
@@ -56,3 +56,4 @@ See how to use the [Burndown and Burn Rate Report](https://docs.microsoft.com/en
 4. How many active bugs does each story have?
 
 See how to use the [Stories Overview Report](https://docs.microsoft.com/en-us/previous-versions/dd380648(v=vs.100)?redirectedfrom=MSDN).
+

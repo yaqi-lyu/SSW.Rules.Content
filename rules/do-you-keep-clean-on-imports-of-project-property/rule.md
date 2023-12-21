@@ -23,7 +23,7 @@ This is because IntelliSense lists will be harder to use and navigate with too m
 
 To remove all the default imports, load Project Property page and select Common properties - Imports.
 
-![Figure: Using aliases with the Imports Statement](ImportsVB.jpg) 
+![Figure: Using aliases with the Imports Statement](/rules/do-you-keep-clean-on-imports-of-project-property/ImportsVB.jpg) 
 
 The Import statement makes it easier to access methods of classes by eliminating the need to explicitly type the fully qualified reference names. Aliases let you assign a friendlier name to just one part of a namespace.
 
@@ -46,3 +46,4 @@ MsgBox("Some text" & CtrlChrs.crlf & "Some more text")
 ```
 
 If an Imports statement does not include an alias name, elements defined within the imported namespace can be used in the module without qualification. If the alias name is specified, it must be used as a qualifier for names contained within that namespace.
+

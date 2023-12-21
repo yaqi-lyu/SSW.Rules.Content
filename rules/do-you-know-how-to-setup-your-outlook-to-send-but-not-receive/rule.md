@@ -23,17 +23,17 @@ Here is how you do it:
 1. Open Outlook and create a new Exchange account: 
       
 
-![Figure - Tick manually configure server settings](mail1.png)  
+![Figure - Tick manually configure server settings](/rules/do-you-know-how-to-setup-your-outlook-to-send-but-not-receive/mail1.png)  
 
 2. Enter your server name and username, but un-tick 
        **Use Cached Exchange Mode** :  
       
-![Figure - Un-tick Use Cached Exchange Mode](Mail3.png)  
+![Figure - Un-tick Use Cached Exchange Mode](/rules/do-you-know-how-to-setup-your-outlook-to-send-but-not-receive/Mail3.png)  
 
 3. Finish the setup and then open Outlook
 4. Configure your Send / Receive Groups: 
       
-![Figure - Click Send / Receive | Click Send / Receive Groups | Click Define Send / Receive Groups](Email2.png)  
+![Figure - Click Send / Receive | Click Send / Receive Groups | Click Define Send / Receive Groups](/rules/do-you-know-how-to-setup-your-outlook-to-send-but-not-receive/Email2.png)  
 
 5. Now we can choose the parts of our mailbox we want to synced to our PC. The following options are recommended:
     * Untick 
@@ -50,7 +50,7 @@ Here is how you do it:
              **Download headers only**
 
 
-![Figure - Untick "Receive mail items" | Tick "Sent Items", "Contacts" and "Outbox" | Download only headers for "Sent Items"](Email.png)  
+![Figure - Untick "Receive mail items" | Tick "Sent Items", "Contacts" and "Outbox" | Download only headers for "Sent Items"](/rules/do-you-know-how-to-setup-your-outlook-to-send-but-not-receive/Email.png)  
 
 6. When back in the main Outlook window click 
        **Send / Receive** **All** **Folders** and this will sync your sent items and contacts which will now be available offline
@@ -60,3 +60,4 @@ Here is how you do it:
 
 * Give us a "Sync last x weeks" for each folder
 * Give us a "Work in Minimal Mode" that does the above
+

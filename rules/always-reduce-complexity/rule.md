@@ -28,9 +28,10 @@ It's important to keep these in mind when making design decisions or presenting 
 Our visual short term memory has a capacity of 4 items. So options are easier for our brain to digest when presented in sets of 4.
 
 ::: good
-![Figure: Good Example - Blocks of 4 or less menu items are easier for the brain to consume](4visualoptions1.png)
+![Figure: Good Example - Blocks of 4 or less menu items are easier for the brain to consume](/rules/always-reduce-complexity/4visualoptions1.png)
 :::
 
 ::: good
-![Figure: Good Example - A great example of removing complexity](simpleformsresolution.png)
+![Figure: Good Example - A great example of removing complexity](/rules/always-reduce-complexity/simpleformsresolution.png)
 :::
+

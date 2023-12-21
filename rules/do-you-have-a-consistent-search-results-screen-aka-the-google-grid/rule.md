@@ -22,7 +22,7 @@ However, Google is a very good example for displaying search results. Their resu
 
 
 ::: good  
-![Figure: Good example – adopt Google's search result layout](results-ssw.jpg)  
+![Figure: Good example – adopt Google's search result layout](/rules/do-you-have-a-consistent-search-results-screen-aka-the-google-grid/results-ssw.jpg)  
 :::
 
 So adopt Google's search result layout and it will give new and regular users a better navigation experience.                 Here's our standard layout for our search function.
@@ -36,11 +36,12 @@ Want the 'Google grid'? Then follow these rules to help users to navigate:
                         should be shown on the footer of the page only.
 
 
-![Figure: The header of SSW results screen                         - filter, number of results found, search criteria and time taken](results-filter.jpg)  
+![Figure: The header of SSW results screen                         - filter, number of results found, search criteria and time taken](/rules/do-you-have-a-consistent-search-results-screen-aka-the-google-grid/results-filter.jpg)  
 
 
 ::: good  
-![Figure: Good example - The footer of SSW product order listing page                         has the hyperlinks for pages 1 to 10 centered](results-pagination.jpg)  
+![Figure: Good example - The footer of SSW product order listing page                         has the hyperlinks for pages 1 to 10 centered](/rules/do-you-have-a-consistent-search-results-screen-aka-the-google-grid/results-pagination.jpg)  
 :::
 
-![Figure: Google's classic search results](results-google.jpg)
+![Figure: Google's classic search results](/rules/do-you-have-a-consistent-search-results-screen-aka-the-google-grid/results-google.jpg)
+

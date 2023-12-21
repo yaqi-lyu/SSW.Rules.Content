@@ -75,9 +75,10 @@ For presentations, it's especially important to keep URLs cleaner. Remember to a
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - Showing unnecessary extra noise: "https://www."](ppt-urls-bad.png)  
+![Figure: Bad example - Showing unnecessary extra noise: "https://www."](/rules/keep-your-urls-clean/ppt-urls-bad.png)  
 :::
 
 ::: good  
-![Figure: Good example - Clean links in a presentation](ppt-urls-good.png)  
+![Figure: Good example - Clean links in a presentation](/rules/keep-your-urls-clean/ppt-urls-good.png)  
 :::
+

@@ -24,4 +24,5 @@ redirects: []
 If you have [Team System Web Access](http://www.ssw.com.au/SSW/Redirect/Microsoft/TSWA.htm) installed and you need to access it from wherever you are, you can configure a port to be forwarded to the server where Team System Web Access is installed, eg: tfs.your-domain.com:8090.
 
 <!--endintro-->
-![Visual Studio Team System Web Access Power Tool](TSWA.gif) Figure: Visual Studio Team System Web Access Power Tool
+![Visual Studio Team System Web Access Power Tool](/rules/do-you-configure-your-team-system-web-access-to-be-accessible-from-outside-the-network/TSWA.gif) Figure: Visual Studio Team System Web Access Power Tool
+

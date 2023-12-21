@@ -18,8 +18,8 @@ guid: 4fefa162-1bc8-431d-8e8c-24033d7ec148
 
 PingCastle is easy to install and run - see [their documentation](https://www.pingcastle.com/documentation/) for more information. It is free to use in your own environment, or there are paid versions for MSPs and larger enterprises.
 
-![Figure: PingCastle report](pingcastle.png)
+![Figure: PingCastle report](/rules/check-ad-security-with-pingcastle/pingcastle.png)
 
 Once you have run it, you get a great report on your Active Directory security health, with detailed recommendations of what you need to fix.
 
-![Figure: Example item from PingCastle, with detailed description and solution](pingcastle2.png)
+![Figure: Example item from PingCastle, with detailed description and solution](/rules/check-ad-security-with-pingcastle/pingcastle2.png)

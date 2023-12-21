@@ -63,6 +63,7 @@ string script = string.Format(scriptTemplate, OwnersGrid.ClientID);
 
 **Figure: The code in the first box, the string in the resource file in the 2nd box. This is the easiest to read + you can localize it eg. If you need to localize an Alert in the javascript**
 
-![Figure: Add a recourse file into your project in VS2005](CreateResource\_small.jpg)  
+![Figure: Add a recourse file into your project in VS2005](/rules/do-you-use-resource-file-for-storing-your-static-script/CreateResource_small.jpg)  
 
-![Figure: Read value from the new added resource file](ReadResource\_small.jpg)
+![Figure: Read value from the new added resource file](/rules/do-you-use-resource-file-for-storing-your-static-script/ReadResource_small.jpg)
+

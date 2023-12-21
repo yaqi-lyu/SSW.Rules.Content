@@ -130,4 +130,4 @@ Figure: Good Example - The repeated code has been refactored into its own method
 :::
 
 **Tip:** The Refactor menu in Visual Studio 11 can do this refactoring for you.
-![Figure: The Extract Method function in Visual Studio's Refactor menu](vs_refactor_extract.png)
+![Figure: The Extract Method function in Visual Studio's Refactor menu](/rules/do-you-look-for-duplicate-code/vs_refactor_extract.png)

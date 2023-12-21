@@ -39,13 +39,13 @@ To add Google Analytics to your website:
 5. Find your **Tracking Code**, 
 6. And add the script to your website
 
-![Figure: Navigate to the Tracking Code property](tracking-code-property.png)
+![Figure: Navigate to the Tracking Code property](/rules/do-you-include-google-analytics-in-your-website/tracking-code-property.png)
 
 From this page, you will be able to get a JavaScript snippet to include in your application.
 
-![Figure: Include this JavaScript in your web application](20-08-2014-3-30-55-PM-compressor.png)
+![Figure: Include this JavaScript in your web application](/rules/do-you-include-google-analytics-in-your-website/20-08-2014-3-30-55-PM-compressor.png)
 
-![Figure: The JavaScript code in HTML](20-08-2014-10-53-15-AM-compressor.png)  
+![Figure: The JavaScript code in HTML](/rules/do-you-include-google-analytics-in-your-website/20-08-2014-10-53-15-AM-compressor.png)  
 
 Once deployed, this script will start tracking metrics and interacting with Google Analytics. 
 
@@ -54,3 +54,4 @@ You are good to go!
 ## Adding Google Analytics to your blog
 
 Using the above instructions, you can add Google Analytics to any website, including any blog. However, you may also find that your blogging platform or theme provides a way to set up Google Analytics using a plugin or other simple approach. Check your theme's documentation - sometimes it's as simple as adding the tracking code to configuration. Of course, adding the above JavaScript is easy enough in any case.
+

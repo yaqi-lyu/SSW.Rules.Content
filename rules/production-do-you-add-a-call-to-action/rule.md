@@ -47,5 +47,6 @@ Figure: Bad example - Too many options breeds choice paralysis
 :::
 
 ::: good
-![Figure: Good example (watch on YouTube) - Very clear 'call to action' that asks for an email address. Only asks for one thing at a time and uses zooming effects. In addition, gives a Twitter option to engage and uses live-action](Call-to-Action-Screenshot.jpg)
+![Figure: Good example (watch on YouTube) - Very clear 'call to action' that asks for an email address. Only asks for one thing at a time and uses zooming effects. In addition, gives a Twitter option to engage and uses live-action](/rules/production-do-you-add-a-call-to-action/Call-to-Action-Screenshot.jpg)
 :::
+

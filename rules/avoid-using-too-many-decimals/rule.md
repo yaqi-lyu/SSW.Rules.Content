@@ -56,5 +56,6 @@ Figure: Good example - Ditch the 0 cents and have a clear number
 Including decimal places is unnecessary when numbers are meant to provide a general indication. The purpose of such reports is to efficiently convey easily understandable overall information. Therefore, it is advisable to prioritize simplicity and focus on presenting a comprehensive overview without delving into intricate decimal numbers.
 
 ::: good
-![Figure: Good example - Having $350.1k would not be useful information. $350k is sufficient](powerbi-no-decimals.jpg)
+![Figure: Good example - Having $350.1k would not be useful information. $350k is sufficient](/rules/avoid-using-too-many-decimals/powerbi-no-decimals.jpg)
 :::
+

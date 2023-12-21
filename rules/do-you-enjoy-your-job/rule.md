@@ -42,4 +42,5 @@ Remember, enjoying your job is a dynamic process that requires effort and self-a
 **Tip for Software Consultants:** The number 1 cause of stress in this industry is caused by running out of budget for a project. The best way to handle this is to give realistic estimates, and inform the clients as soon as it looks like they will be exceeded. A client who has accepted the realities of his project is less scary than working on code that's already over-budget with an impending unknown client reaction.
 :::
 
-![Figure: It's possible to really enjoy your job!](Richard-Branson_Picture-Quote.jpg)
+![Figure: It's possible to really enjoy your job!](/rules/do-you-enjoy-your-job/Richard-Branson_Picture-Quote.jpg)
+

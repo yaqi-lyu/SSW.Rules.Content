@@ -37,7 +37,7 @@ Here are the below are the best practices you should know:
 
 <!--endintro-->
 
-![Figure: Always check your Ad strength](ad-strength.png)
+![Figure: Always check your Ad strength](/rules/the-best-practices-for-google-ads/ad-strength.png)
 
 ### Additional resources
 

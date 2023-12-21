@@ -71,7 +71,7 @@ Figure: Good Example - GitHub Action to Sync Issues to Azure DevOps
 :::
 
 ::: good
-![Figure: Good Example - GitHub Issues Syncing to Azure DevOps](GitHub-Issues-Syncing-to-AzDevOps.png)
+![Figure: Good Example - GitHub Issues Syncing to Azure DevOps](/rules/sync-your-github-issues-to-azure-devops/GitHub-Issues-Syncing-to-AzDevOps.png)
 :::
 
 ### Pros
@@ -89,6 +89,7 @@ More information about this GitHub Action can be found here https://github.com/d
 
 To avoid people adding a PBI to the Azure DevOps, add a PBI at the top of your backlog to indicate that they should add it to GitHub issues.
 
-![Figure: Add the PBI at the top of your backlog](GitHub-PBI-Backlog.png)
+![Figure: Add the PBI at the top of your backlog](/rules/sync-your-github-issues-to-azure-devops/GitHub-PBI-Backlog.png)
 
-![Figure: Inform users where to add new PBIs](GitHub-PBI-Backlog-Text.png)
+![Figure: Inform users where to add new PBIs](/rules/sync-your-github-issues-to-azure-devops/GitHub-PBI-Backlog-Text.png)
+

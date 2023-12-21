@@ -25,4 +25,5 @@ This approach also allows you to side-step common delaying tactics of prospectiv
 2. Then a give a MVP (minimum viable product) price 
 3. Finally a total price
 
-![Figure: One big price is like a slap in the face](AccountManagement-FaceSlap.jpg)
+![Figure: One big price is like a slap in the face](/rules/do-you-present-project-proposals-as-lots-of-little-releases-rather-than-one-big-price/AccountManagement-FaceSlap.jpg)
+

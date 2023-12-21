@@ -27,14 +27,14 @@ You need one of the below [permissions in the Power BI Workspace](https://learn.
 You have 2 options to view the Usage Metrics Report for an individual report:
 
 - Inside your Workspace for the Report, that you are interested in, click “More Options (…)” | “View usage metrics report”.
-  ![Figure: From Workspace - click “More Options (…)” | “View usage metrics report”](open-from-workspace.png)
+  ![Figure: From Workspace - click “More Options (…)” | “View usage metrics report”](/rules/powerbi-report-usage/open-from-workspace.png)
 
 - Inside opened Report in the command bar click “More Options (…)” | “Open usage metrics”.
-  ![Figure: From Report - click “More Options (…)” | “Open usage metrics”](open-from-report.png)
+  ![Figure: From Report - click “More Options (…)” | “Open usage metrics”](/rules/powerbi-report-usage/open-from-report.png)
 
 If you're viewing a Usage Metrics report for the first time, Power BI may initially open the old version of the this report. To access the enhanced Usage Metrics report, toggle the "New usage report" switch located in the command bar.
 
-![Figure: Toggle New usage report](toggle-new-usage.png)
+![Figure: Toggle New usage report](/rules/powerbi-report-usage/toggle-new-usage.png)
 
 Usage Metrics Report dataset contains data for the last 30 days and refreshes daily.
 
@@ -52,8 +52,9 @@ If you want, for example exclude certain users or reports from these metrics, it
 
 If your workspace does not already contain a customised Power BI Report Usage report, you must first save a copy of your Usage Metrics Report by clicking File | Save a copy. You will then need to input the name for a new report and select the workspace where you want to save it.
 
-![Figure: Save a copy of the report - click File | Save a copy](save-a-copy.png)
+![Figure: Save a copy of the report - click File | Save a copy](/rules/powerbi-report-usage/save-a-copy.png)
 
 The new Power BI Report Usage report will be visible to the users with the Viewer role, unlike the default Usage Metrics Report.
 
 The report will have Edit button available in the command bar. It allows you to go into the Editing view, as with any regular report, and change filters, add new pages and more.
+

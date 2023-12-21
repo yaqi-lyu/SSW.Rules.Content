@@ -29,5 +29,6 @@ These are the essential fields for your timesheets:
 7. Notes - Things you've worked on, including people who you were working with - both internal or external
 
 ::: good
-![Figure: Good example - A good timesheet with all the required fields taken from SSW TimePro](Good Timesheet.jpg)
+![Figure: Good example - A good timesheet with all the required fields taken from SSW TimePro](/rules/do-you-have-essential-fields-for-your-timesheets/Good Timesheet.jpg)
 :::
+

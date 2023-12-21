@@ -23,7 +23,7 @@ guid: d32126a2-4d6d-4f06-a7ba-f80234e66079
 Reading ugly commits is not very pleasant and makes it very confusing when you have to check the commit history.
 
 ::: bad  
-![Bad Example: The commits have no meaning.](2020-09-17\_17-19-04.png)  
+![Bad Example: The commits have no meaning.](/rules/use-emojis-in-your-commits/2020-09-17_17-19-04.png)  
 :::
 
 <!--endintro-->
@@ -70,9 +70,11 @@ You can even go 🤘 hardcore and use the  **gitmoji cli -** [carloscuesta/gitmo
 
 
 ::: good  
-![Good Example: Great use of emoji and concise message.](commits-with-emojis.jpg)  
+![Good Example: Great use of emoji and concise message.](/rules/use-emojis-in-your-commits/commits-with-emojis.jpg)  
 :::
 
 See what emojis work best with each topic here: [https://gitmoji.dev/](https://gitmoji.dev/)
 
-![Figure: Emojis list.](emojis-list.jpg)
+![Figure: Emojis list.](/rules/use-emojis-in-your-commits/emojis-list.jpg)
+
+

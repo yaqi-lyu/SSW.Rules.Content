@@ -16,7 +16,7 @@ redirects: []
 Every application has different settings depending on the environment it is running on, e.g. production, testing or development environment.
  It is much easier and efficient if app.config is provided in several environment types, so then the developer can just copy and paste the required app.config.
 
-![](AppConfigBad.jpg)
+![](/rules/do-you-create-different-app-config-for-different-environment/AppConfigBad.jpg)
 
 
 
@@ -24,7 +24,7 @@ Every application has different settings depending on the environment it is runn
 Figure: Bad Example - Only 1 App.config provided  
 :::
 
-![](App.config.jpg)
+![](/rules/do-you-create-different-app-config-for-different-environment/App.config.jpg)
 
 
 
@@ -33,3 +33,4 @@ Figure : Good Example - Several App.config are provided
 :::
 
 <!--endintro-->
+

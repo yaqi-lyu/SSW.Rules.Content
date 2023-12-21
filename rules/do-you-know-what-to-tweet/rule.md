@@ -21,7 +21,7 @@ Your tweets should be interesting to your target audience. People aren't going t
 <!--endintro-->
 
 ::: bad
-![Bad Example - "Having lunch" is not an interesting tweet](bad-twitter.png)
+![Bad Example - "Having lunch" is not an interesting tweet](/rules/do-you-know-what-to-tweet/bad-twitter.png)
 :::
 
 Some good examples of things to tweet about:
@@ -36,5 +36,6 @@ Some good examples of things to tweet about:
   * \#SharePoint install done - found a great guide to follow here: mysharepointsite.com
 
 ::: good
-![Good Example - An informative tweet with hashtags and relevant links for a targeted audience of IT followers](good-twitter.png)
+![Good Example - An informative tweet with hashtags and relevant links for a targeted audience of IT followers](/rules/do-you-know-what-to-tweet/good-twitter.png)
 :::
+

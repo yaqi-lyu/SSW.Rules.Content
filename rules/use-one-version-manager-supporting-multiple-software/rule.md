@@ -18,7 +18,7 @@ Managing software versions can be a complex and time-consuming task, especially 
 
 <!--endintro-->
 
-![](ring.png)
+![](/rules/use-one-version-manager-supporting-multiple-software/ring.png)
 
 Every programming language or framework build upon it has its own version managers in community, such as NVM for Node.js, RVM for Ruby, and Pyenv for Python.
 
@@ -27,7 +27,7 @@ However, it is not a good idea to use different version managers for different s
 
 ### Option A: asdf (recommended)
 
-![](asdf.png)
+![](/rules/use-one-version-manager-supporting-multiple-software/asdf.png)
 
 [asdf](https://asdf-vm.com/#/) - Manage all your runtime versions with one tool
 
@@ -43,7 +43,7 @@ However, it is not a good idea to use different version managers for different s
 
 ### Option B: nix
 
-![](nix.png)
+![](/rules/use-one-version-manager-supporting-multiple-software/nix.png)
 
 [nix-shell](https://nixos.org/#asciinema-demo-cover) - A tool that allows you to create and manage isolated, reproducible development environments for software projects, using the Nix package manager and a declarative configuration file
 
@@ -57,4 +57,5 @@ However, it is not a good idea to use different version managers for different s
 ❌ Steep learning curve  
 ❌ Intrusive  
 ❌ Linux/Mac/WSL only  
+
 

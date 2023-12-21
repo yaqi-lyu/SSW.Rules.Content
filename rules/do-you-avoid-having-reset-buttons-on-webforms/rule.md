@@ -22,8 +22,9 @@ Why do web pages have "Reset" buttons? I have been entering forms on the web for
 
 More detailed information about this rule can be found in this article: [Reset and Cancel Buttons](https://www.nngroup.com/articles/reset-and-cancel-buttons/).
 
-![Figure: The "Reset" button isn't useful at all](ResetButton.gif)  
+![Figure: The "Reset" button isn't useful at all](/rules/do-you-avoid-having-reset-buttons-on-webforms/ResetButton.gif)  
 
 We have a program called [SSW CodeAuditor](https://www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.
 
 We have a program called [SSW LinkAuditor](https://www.ssw.com.au/ssw/LinkAuditor/) to check for this rule.
+

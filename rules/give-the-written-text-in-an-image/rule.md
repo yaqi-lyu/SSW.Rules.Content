@@ -23,13 +23,14 @@ If you add the text of the error message it will help others when they search, a
 Let's look at 3 examples:
 
 ::: bad  
-![Figure: Bad Example - this image gives no context of the surrounding areas, and without the text as well you get no google love](BadExampleErrorMSG.jpg)  
+![Figure: Bad Example - this image gives no context of the surrounding areas, and without the text as well you get no google love](/rules/give-the-written-text-in-an-image/BadExampleErrorMSG.jpg)  
 :::
 
 ::: ok
-![Figure: OK Example - this image is great because it gives context by including the surrounding area, but you still need the text for SEO benefits](OKExampleForErrorMSG.jpg)  
+![Figure: OK Example - this image is great because it gives context by including the surrounding area, but you still need the text for SEO benefits](/rules/give-the-written-text-in-an-image//rules/give-the-written-text-in-an-image/OKExampleForErrorMSG.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - if you add the image and this text above, you get full marks](OKExampleForErrorMSG.jpg)  
+![Figure: Good example - if you add the image and this text above, you get full marks](/rules/give-the-written-text-in-an-image//rules/give-the-written-text-in-an-image/OKExampleForErrorMSG.jpg)  
 :::
+

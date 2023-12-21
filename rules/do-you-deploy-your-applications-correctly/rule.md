@@ -31,7 +31,7 @@ To prevent issues from arising and having to re-deploy continuously which would 
 Wise has a Dialog that prompts the user for the installation directory: 
 
 ::: good  
-![Figure: Wise Prompts the user for the installation directory and sets the path to a property in wise called "INSTALLDIR"](INSTALLDIR.jpg)  
+![Figure: Wise Prompts the user for the installation directory and sets the path to a property in wise called "INSTALLDIR"](/rules/do-you-deploy-your-applications-correctly/INSTALLDIR.jpg)  
 :::
 
 An embedded script must be used if the pathname is necessary in the application (i.e. like .reg files that set registry keys in registry)
@@ -106,3 +106,4 @@ This exception would never have been found if the developer didn't bother to tes
 3. Having tested on the developer's machine, the application must be tested on a virtual machine in a pure environment without dependencies installed in GAC, registry or anywhere else in the virtual machine.
     Users may have MS Access 2000 installed and, the developer's application may behave differently on an older version of MS Access even though it works perfectly on MS Access 2003. The most appropriate way of handling this is to use programs like VM Ware or MS Virtual PC.
 This will help the developer test the application on all possible environments to ensure that it caters for **all** users, minimizing the amount of assumptions as possible.
+

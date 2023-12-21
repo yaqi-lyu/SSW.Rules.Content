@@ -18,8 +18,9 @@ CRM provides the  **Audit History** page to show the changes made to a CRM entit
 
 When you are browsing an entity, from the menu you will see an Audit History option when you have the permission.
 
-![Figure: Audit History Menu](audithistory3.png)
+![Figure: Audit History Menu](/rules/do-you-know-how-to-view-changes-made-to-a-crm-entity/audithistory3.png)
 
 Click the "Audit History" menu item, then you will be able to see the changes made to an entity.
 
-![Figure: Showing changes to entity fields with old and new values](AuditHistory2.png)
+![Figure: Showing changes to entity fields with old and new values](/rules/do-you-know-how-to-view-changes-made-to-a-crm-entity/AuditHistory2.png)
+

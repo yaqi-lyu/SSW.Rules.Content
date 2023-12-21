@@ -102,7 +102,7 @@ Note how wordy it was to illustrate the many-to-many relationship in the Student
 
 An ERD helps quickly display all the relationships in a database at a glance. Let's see what it looks like for StudentCourses:
 
-![Figure: Student Courses ERD](studentcourseserd.png)
+![Figure: Student Courses ERD](/rules/erds/studentcourseserd.png)
 
 In this example, Students, Courses and StudentCourses are represented via the rectangles. Meanwhile, their relationships are shown via the lines between the rectangles. You can see the cardinality indicated by what is called [Crow's foot notation](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Crow's_foot_notation). 
 
@@ -111,3 +111,4 @@ ERDs are a fantastic tool for visualizing a database at a glance. Through using 
 
 # Further Study
 * Lucidchart's ER Diagrams page: https://www.lucidchart.com/pages/er-diagrams
+

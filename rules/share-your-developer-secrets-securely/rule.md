@@ -33,7 +33,7 @@ An encryption key or sql connection string to a developer's local machine/contai
 
 The `appsettings.Development.json` file is meant for storing development settings. It is not meant for storing secrets. This is a bad practice because it means that the secrets are stored in source control, which is not secure.
 
-![](development-json.jpg)
+![](/rules/share-your-developer-secrets-securely/development-json.jpg)
 
 :::
 ::: bad
@@ -48,7 +48,7 @@ Sending secrets over Microsoft Teams is a terrible idea, the messages can land u
 
 **Note:** Sending the secrets in email, is less secure and adds even more admin for trying to remove some of the trace of the secret and is probably the least secure way of transferring secrets.
 
-![](using-microsoft-teams-for-secrets.jpg)
+![](/rules/share-your-developer-secrets-securely/using-microsoft-teams-for-secrets.jpg)
 
 :::
 ::: bad
@@ -59,12 +59,12 @@ Figure: Bad practice - Overall rating: 3/10
 
 For development purposes once you are using .NET User Secrets you will still need to share them with other developers on the project.
 
-![Figure: User Secrets are stored outside the development folder](user-secrets.jpg)
+![Figure: User Secrets are stored outside the development folder](/rules/share-your-developer-secrets-securely/user-secrets.jpg)
 
 As a way of giving a heads up to other developers on the project, you can add a step in your `_docs\Instructions-Compile.md` file ([Do you make awesome documentation?](/awesome-documentation/)) to inform developers to get a copy of the user secrets. You can also add a placeholder to the `appsettings.Development.json` file to remind developers to add the secrets.
 
 ::: good
-![Figure: Good Example - Remind developers where the secrets are for this project](development-json-with-placeholder.jpg)
+![Figure: Good Example - Remind developers where the secrets are for this project](/rules/share-your-developer-secrets-securely/development-json-with-placeholder.jpg)
 :::
 
 ::: greybox
@@ -84,7 +84,7 @@ Cons:
 * Developers need to remember to add placeholders for developer specific secrets before sharing
 * Access Control - Although the link is single use, there's no absolute guarantee that the person opening the link is authorized to do so
 
-![](1ty-me.jpg)
+![](/rules/share-your-developer-secrets-securely/1ty-me.jpg)
 
 :::
 ::: good
@@ -133,7 +133,7 @@ Cons:
 * More complex to install and administer
 * Paid Service
 
-![](developer-secrets-in-keeper.jpg)
+![](/rules/share-your-developer-secrets-securely/developer-secrets-in-keeper.jpg)
 
 :::
 ::: good
@@ -145,3 +145,4 @@ Figure: Good Practice - Overall rating 10/10
 
 Most enterprise secrets management tool have the ability to retrieve the secrets via an API, with this you could also store the `UserSecretId` in a field and create a script that updates the secrets easily into the correct `secrets.json` file on your development machine.
 :::
+

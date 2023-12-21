@@ -21,12 +21,12 @@ Instead of images sitting all around the solution, we put all the images in the 
 
 
 ::: bad  
-![Bad example - Images under Product root folder.](../../assets/ImageLinkBad.gif)  
+![Bad example - Images under Product root folder.](/rules/do-you-put-all-images-in-the-images-folder/ImageLinkBad.gif)  
 :::
 
 
 ::: good  
-![Good example - Images under \Images folder.](../../assets/ImageLinkGood.gif)  
+![Good example - Images under \Images folder.](/rules/do-you-put-all-images-in-the-images-folder/ImageLinkGood.gif)  
 :::
 
 
@@ -34,3 +34,4 @@ Instead of images sitting all around the solution, we put all the images in the 
 
 | We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx) to check for this rule. |
 | --- |
+

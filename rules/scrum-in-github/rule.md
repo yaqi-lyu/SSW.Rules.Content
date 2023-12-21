@@ -27,48 +27,49 @@ Let's take a look at some of the great new things you can do...
 * Set up automated workflows for your Issues in a project
 
 ::: good
-![Figure: Good example - GitHub Projects gives you much more powerful project management ability](githubscrumworkflowimproved.png)
+![Figure: Good example - GitHub Projects gives you much more powerful project management ability](/rules/scrum-in-github/githubscrumworkflowimproved.png)
 :::
 
 That's a tonne of awesome features....but it requires a bit of set up, follow these steps to get up and running:
 
 1. Navigate to **Projects | Projects (Beta) | New project**
 
-![Figure: Create a new GitHub Project](newbetaproject.png)
+![Figure: Create a new GitHub Project](/rules/scrum-in-github/newbetaproject.png)
 
 1. Now we have a blank slate, we need to setup our Sprint (they call them Iterations). Navigate to **+ | + New field**
 
-![Figure: Create a new field for your Sprint](newfield.png)
+![Figure: Create a new field for your Sprint](/rules/scrum-in-github/newfield.png)
 
 3. Select the **Iteration** field type
 
-![Figure: Turn this into an Sprint via the Iteration field type](selectiteration.png)
+![Figure: Turn this into an Sprint via the Iteration field type](/rules/scrum-in-github/selectiteration.png)
 
 4. You will see a window with options for your new Iteration, name it **Sprint** and enter **Start on** and **Duration**.
 
-![Figure: Pick the name and the dates via the Iteration field options](iterationoptions.png)
+![Figure: Pick the name and the dates via the Iteration field options](/rules/scrum-in-github/iterationoptions.png)
 
 5. Now add some Issues to the project and then you can assign them to the correct Sprint, by clicking the drop down in the **Sprint** field.
 
 **Note:** You can even add Issues from different Repos
 
-![Figure: Pick the Sprint you want for your Issues](assignpbitodropdown.png)
+![Figure: Pick the Sprint you want for your Issues](/rules/scrum-in-github/assignpbitodropdown.png)
 
 6. To add more Sprints, navigate to **Settings | Sprint | Add iteration**
 
 **Note:** You can also change **Starts on** and **Duration** here
 
-![Figure: To add a Sprint, Settings | Sprint | Add Iteration](settingsnav.png)
+![Figure: To add a Sprint, Settings | Sprint | Add Iteration](/rules/scrum-in-github/settingsnav.png)
 
-![Figure: To add new Sprints, select Settings | Add iteration](additerations.png)
+![Figure: To add new Sprints, select Settings | Add iteration](/rules/scrum-in-github/additerations.png)
 
 7. To give yourself a better view of things, you might want to create a view that groups by Sprint. Name your current view **Backlog** then create a new view and name it **Sprints**
 8. To see the Sprints grouped, and the issues ordered by status, click the view drop down and select **group:Sprint** and **sort:Status-asc** 
 
-![Figure: To create a list of Sprints add grouping and sorting](groupandsort.png)
+![Figure: To create a list of Sprints add grouping and sorting](/rules/scrum-in-github/groupandsort.png)
 
 9. Voila! You have Scrum all setup! For bonus points check out the workflow screen where you can automate parts of your issue workflow
 
-![Figure: You can enable or disable predefined Workflows](workflownav.png)
+![Figure: You can enable or disable predefined Workflows](/rules/scrum-in-github/workflownav.png)
 
-![Figure: There are a bunch of predefined workflows (Coming soon: the ability to create your own! )](workflows.png)
+![Figure: There are a bunch of predefined workflows (Coming soon: the ability to create your own! )](/rules/scrum-in-github/workflows.png)
+

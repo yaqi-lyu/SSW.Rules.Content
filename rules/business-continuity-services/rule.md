@@ -66,7 +66,7 @@ Let's imagine the same scenario with the company Northwind, this is part of thei
 For HA, one of the key points is having a system that redirects workloads in case of a failure - without that, you might have a redundant system, but not necessarily high available. If you need to manually swap a cable in case of a power failure, that's just redundant but not high available.
 
 ::: good
-![Figure: Good Example - It's crucial to add a redundancy plan to your disaster recovery plan](redundancy2.png)
+![Figure: Good Example - It's crucial to add a redundancy plan to your disaster recovery plan](/rules/business-continuity-services/redundancy2.png)
 :::
 
 ### Step 3 - Disaster Recovery (DR)
@@ -81,3 +81,4 @@ That might not be the case if your UPS fails, you have a secondary UPS, but you 
 A good example of business continuity tools is Azure Site Recovery, which you can find more about [here](/azure-site-recovery)
 
 Backups are also important in your business continuity and disaster recovery plan, check out our other [rules for backups](/rules-to-better-backups)
+

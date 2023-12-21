@@ -32,13 +32,14 @@ It should have the following:
 * **Step by step guidance** - Guide users through the process of setting up a new company with clear, concise instructions that are easy to follow
 
 ::: good
-![Figure: Good example - SugarLearning's "Create your company" wizard](sugarlearning-wizard.png)
+![Figure: Good example - SugarLearning's "Create your company" wizard](/rules/do-your-wizards-include-a-wizard-breadcrumb/sugarlearning-wizard.png)
 :::
 
 ::: good
-![Figure: Good example - The heading from booking.com shows the user at what stage of the ordering process they are at, and what they can expect next. This covers the whole billing process](booking-wizard.png)
+![Figure: Good example - The heading from booking.com shows the user at what stage of the ordering process they are at, and what they can expect next. This covers the whole billing process](/rules/do-your-wizards-include-a-wizard-breadcrumb/booking-wizard.png)
 :::
 
 ::: good
-![Figure: Good example - Virgin Australia uses a more subtle but also effective approach](virginblue-wizard.png)
+![Figure: Good example - Virgin Australia uses a more subtle but also effective approach](/rules/do-your-wizards-include-a-wizard-breadcrumb/virginblue-wizard.png)
 :::
+

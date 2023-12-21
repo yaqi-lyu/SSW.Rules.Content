@@ -30,7 +30,7 @@ First, let's define what is meant by "fixed price" and "waterfall" in software d
 Now, let's look at the main reasons why fixed price and waterfall can be dangerous in software development:
  
 **1. Lack of flexibility:** You can’t predict the future. Fixed price and waterfall approaches are typically very rigid, with little room changes. Since it's knwown that requirements frequently change as the project progresses, and new information can come to light that requires a change in direction. The "Cone of Uncertainty" shows the range of cost changing at different stages through a project:  
-    ![Figure: The cone of uncertainty in software cost and size estimation](cone-of-uncertainty.jpg)
+    ![Figure: The cone of uncertainty in software cost and size estimation](/rules/the-drawbacks-of-fixed-price-fixed-scope-contracts/cone-of-uncertainty.jpg)
 
 **2. Extra cost and slow progress:** With a fixed price and waterfall approach, any changes to the scope of work or requirements can result in additional charges or delays.
 
@@ -48,4 +48,5 @@ In summary, a fixed price and waterfall approach can be dangerous in software de
 
 The use of an iterative agile methodology (like [Scrum](http://www.ssw.com.au/ssw/Consulting/Scrum.aspx)) provides constant feedback and collaboration, giving the necessary agility to implement features while allowing adjustments during the project. This iterative development process can help mitigate the risks and lead to a more successful project outcome.
 
-![Figure: Although Waterfall fixes the scope, it then makes the resources and time variable. If you want to fix those, you need to vary the scope](Waterfall-vs-Agile.jpg)
+![Figure: Although Waterfall fixes the scope, it then makes the resources and time variable. If you want to fix those, you need to vary the scope](/rules/the-drawbacks-of-fixed-price-fixed-scope-contracts/Waterfall-vs-Agile.jpg)
+

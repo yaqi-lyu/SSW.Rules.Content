@@ -20,10 +20,11 @@ Using your company name as part of your Display Name has the double advantage of
 <!--endintro-->
 
 ::: good  
-![Figure: Display your company name and location](display-your-company-name.jpg)  
+![Figure: Display your company name and location](/rules/use-your-company-name-as-part-of-your-display-name/display-your-company-name.jpg)  
 :::
 
 Be aware that while you can change your display name, Skype doesn't allow you to rename the account... So use your full name. If you just use "Peter", then people can't distinguish you from the 3 other Peters they have.
 
 **Tip:** If you travel around people often will ask you  "Where are you?"
 You can avoid this by putting the square brackets where you currently are. E.g. [SSW Brisbane] or [Cisco Melbourne]
+

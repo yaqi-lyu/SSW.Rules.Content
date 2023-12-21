@@ -18,11 +18,11 @@ Descriptions for Office 365 Groups and Distribution Lists (DL) play a crucial ro
 A group description provides valuable information about the purpose, scope, or membership of the group. It helps users understand the group's function and decide whether to join or interact with it. It's like a group's identity card! 
 
 ::: bad
-![Figure: Bad example - Group with no description ](bad-example-no-description.jpg)
+![Figure: Bad example - Group with no description ](/rules/description-to-the-group/bad-example-no-description.jpg)
 :::
 
 ::: good
-![Figure: Good example - Group with description](good-example-with-description.jpg)
+![Figure: Good example - Group with description](/rules/description-to-the-group/good-example-with-description.jpg)
 :::
 
 #### Adding MailTips for Internal Groups
@@ -31,7 +31,7 @@ A mail tip is a brief message that appears when someone adds the group to an ema
 This ensures that whenever someone adds a group to an email, they will see the description of the email as shown in the below figure.  
 
 ::: good
-![Figure: Good Example - Red Box shows the mail tip which is the group description](good-example-mail-tip.jpg)
+![Figure: Good Example - Red Box shows the mail tip which is the group description](/rules/description-to-the-group/good-example-mail-tip.jpg)
 :::
 
 You can use PowerShell to add the mail tip to both distribution lists and Office 365 groups.  

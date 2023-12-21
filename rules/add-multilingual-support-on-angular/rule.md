@@ -47,9 +47,9 @@ The following table shows the pros and cons of the 3 libraries:
 
 **Ngx-translate** provides the APIs which you can use to translate the resources in the code:
 
-![](code-1.png)
+![](/rules/add-multilingual-support-on-angular/code-1.png)
 
-![](code-2.png)
+![](/rules/add-multilingual-support-on-angular/code-2.png)
 
 By comparing the 3 libraries we can see      **ngx-translate** provides the best functionality now due to the API support, even though the built-in i18n module will catch up at a certain time, but we still recommend using      **ngx-translate** for multilingual support in your Angular application.
 
@@ -58,4 +58,5 @@ By comparing the 3 libraries we can see      **ngx-translate** provides the best
 
 Since Angular 9, they now have built-in support for i18n which is called Angular Localized, it is expected that over time, Angular Localize will become the most popular (see the yellow line on     [Google Trends increase](https://trends.google.com/trends/explore?q=Angular%20i18n%2cangular%20ngx-translate%2cAngular%20Localize)).
 
-![Figure: It is expected that the yellow line will become the dominant internationalization tool for Angular](angular-trends.jpg)
+![Figure: It is expected that the yellow line will become the dominant internationalization tool for Angular](/rules/add-multilingual-support-on-angular/angular-trends.jpg)
+

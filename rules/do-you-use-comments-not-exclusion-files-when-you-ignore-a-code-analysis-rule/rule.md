@@ -16,11 +16,11 @@ When running code analysis you may need to ignore some rules that aren't relevan
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example -](code-analysis-bad-example.jpg)
+![Figure: Bad example -](/rules/do-you-use-comments-not-exclusion-files-when-you-ignore-a-code-analysis-rule/code-analysis-bad-example.jpg)
 :::
 
 ::: good
-![Figure: Good example - The Solution and Projects are named consistently](code-analysis-good-example.jpg)
+![Figure: Good example - The Solution and Projects are named consistently](/rules/do-you-use-comments-not-exclusion-files-when-you-ignore-a-code-analysis-rule/code-analysis-good-example.jpg)
 :::
 
 ```cs
@@ -38,3 +38,4 @@ public partial class Account
 ::: good
 Figure: Good example - The Solution and Projects are named consistently
 :::
+

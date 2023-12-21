@@ -104,33 +104,33 @@ Figure: Good example - 'From' and 'To' changes are highlighted... it is clear wh
 
 #### Tip #1: Microsoft Teams - Use the same X to Y style
 
-![Figure: Using change from x to y in Microsoft Teams](change-from-x-to-y-microsoft-teams.jpg)
+![Figure: Using change from x to y in Microsoft Teams](/rules/change-from-x-to-y/change-from-x-to-y-microsoft-teams.jpg)
 
 **Note:** Microsoft Teams doesn't currently allow you to set the font color to white
 
 #### Tip #2: Microsoft Outlook - Add a style to make delete highlightings easy
 
-![Figure: Remember when saving the style to select "New documents based off this template"](change-from-x-to-y-saving-styles.jpg)
+![Figure: Remember when saving the style to select "New documents based off this template"](/rules/change-from-x-to-y/change-from-x-to-y-saving-styles.jpg)
 
-![Figure: The style will show in your styles list to be applied when needed](change-from-x-to-y-using-styles.jpg)
+![Figure: The style will show in your styles list to be applied when needed](/rules/change-from-x-to-y/change-from-x-to-y-using-styles.jpg)
 
 **Tip:** You can right click to bring up the format text toolbar 
 
 **Tip:** By default, saved styles are ordered alphabetically. Add numbering in their name to customize their order of appearance
 
 ::: bad
-![Figure: Bad example – Custom styles are disorganised](change-from-x-to-y-organising-styles-bad-example.png)
+![Figure: Bad example – Custom styles are disorganised](/rules/change-from-x-to-y/change-from-x-to-y-organising-styles-bad-example.png)
 :::
 
 ::: good
-![Figure: Good example – Custom styles are numbered and organised](change-from-x-to-y-organising-styles-good-example.png)
+![Figure: Good example – Custom styles are numbered and organised](/rules/change-from-x-to-y/change-from-x-to-y-organising-styles-good-example.png)
 :::
 
 ### Alternative - What if there are too many changes?
 
 Sometimes you have a lot of content and too many changes, making the process "from X to Y" too arduous. In this case is recommended to use [Word 'Track Changes'](https://support.microsoft.com/en-gb/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a?ui=en-us&rs=en-gb&ad=gb) functionality.
 
-![Figure: A Word document with 'Track Changes' ON is recommended if you have too many changes](word-track-changes.jpg)
+![Figure: A Word document with 'Track Changes' ON is recommended if you have too many changes](/rules/change-from-x-to-y/word-track-changes.jpg)
 
 ### Alternative - What if you have a website managed by GitHub?
 
@@ -141,3 +141,4 @@ Some websites use GitHub to manage their files (e.g. [SSW Rules](https://github.
 ::: info
 **Note:** When highlighting text in HTML/Markdown you [should avoid `<font>` tags](/do-you-know-font-tags-are-no-longer-used). Use `<span>` instead.
 :::
+

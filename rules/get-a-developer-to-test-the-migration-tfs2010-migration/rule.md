@@ -24,7 +24,7 @@ Getting someone else to test the migration is the best way to make sure that you
 4. Open Team Explorer
 5. Add a new server http://tfs.northwind.com:8080/tfs/ 
 
-  ![Figure: Remember to use the "/tfs" option when connecting to the new server](AddTeamFoundationServer.png) 
+  ![Figure: Remember to use the "/tfs" option when connecting to the new server](/rules/get-a-developer-to-test-the-migration-tfs2010-migration/AddTeamFoundationServer.png) 
 
 6. Confirm that the following are correct
     1. Source Code - connect to TFS2010 server and confirm that you can get latest.
@@ -35,3 +35,4 @@ Getting someone else to test the migration is the best way to make sure that you
 **Note:** This will need to be done using Team Explorer 2010 as it is not supported in 2008.
 
 ### Congratulations, you’ve done a successful migration.
+

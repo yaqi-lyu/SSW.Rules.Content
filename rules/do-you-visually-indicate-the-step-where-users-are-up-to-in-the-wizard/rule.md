@@ -19,10 +19,12 @@ A good way to do this is use a left navigation bar with  **bold** on the step th
 
 
 ::: bad  
-![Figure: Bad Example - The progress bar does not indicate completed nor next steps](../../assets/FrontPageWizard.gif)  
+![Figure: Bad Example - The progress bar does not indicate completed nor next steps](/rules/do-you-visually-indicate-the-step-where-users-are-up-to-in-the-wizard/FrontPageWizard.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - This wizard form shows all steps and indicates where the user is up to](../../assets/Wizard\_1.jpg)  
+![Figure: Good Example - This wizard form shows all steps and indicates where the user is up to](/rules/do-you-visually-indicate-the-step-where-users-are-up-to-in-the-wizard/Wizard_1.jpg)  
 :::
+
+

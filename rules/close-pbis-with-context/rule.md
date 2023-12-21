@@ -20,11 +20,11 @@ When you close a PBI, you should always add a comment with some context. This al
 When you look at a PBI, you can navigate through the commits or pull requests that were linked to the PBI. This is great for understanding the code changes, but that doesn't easily show you what the outcome was.
 
 ::: bad  
-![Figure: Bad example - This PBI is closed with no context around changes made](closing-pbis-without-context.jpg)
+![Figure: Bad example - This PBI is closed with no context around changes made](/rules/close-pbis-with-context/closing-pbis-without-context.jpg)
 :::
 
 ::: good  
-![Figure: Good example - This PBI informs the team that the work is complete and contains some examples of what the changes look like](closing-pbis-with-context.jpg)  
+![Figure: Good example - This PBI informs the team that the work is complete and contains some examples of what the changes look like](/rules/close-pbis-with-context/closing-pbis-with-context.jpg)  
 :::
 
 Screenshots are just one of the things that you could add for more context, some other things you could add are:
@@ -40,5 +40,6 @@ Screenshots are just one of the things that you could add for more context, some
 
 You can open the **Hamburger menu | Workflows** to view all the workflows
 
-![Figure: For issues specifically it's recommended you have these workflows configured and enabled](project-workflows.jpg)
+![Figure: For issues specifically it's recommended you have these workflows configured and enabled](/rules/close-pbis-with-context/project-workflows.jpg)
 :::
+

@@ -15,13 +15,14 @@ redirects:
 It is recommended to bind https by extending web applications in central admin site, rather than configuring in IIS
 
 <!--endintro-->
-![](configurationInIIS.jpg)
+![](/rules/extend-web-application-for-https/configurationInIIS.jpg)
 
 ::: bad
 Bad example: Add https binding in IIS  
 :::
-![](extendwebapplication.jpg)
+![](/rules/extend-web-application-for-https/extendwebapplication.jpg)
 
 ::: good
 Good example: Extend web application and assign https to the Internet zone  
 :::
+

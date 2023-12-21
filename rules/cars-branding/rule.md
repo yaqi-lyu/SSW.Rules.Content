@@ -21,9 +21,10 @@ It's a good idea to brand your company's cars when they're on the road. These ca
 To get more cars, you can reward employees to brand their personal cars. Make sure the cars look nice!
 
 ::: bad  
-![Figure: Bad Example as the car looks bad](car-branding.jpg)  
+![Figure: Bad Example as the car looks bad](/rules/cars-branding/car-branding.jpg)  
 :::
 
 ::: good
-![Figure: Good Example - cool car](car-branding-tesla.png) 
+![Figure: Good Example - cool car](/rules/cars-branding/car-branding-tesla.png) 
 :::
+

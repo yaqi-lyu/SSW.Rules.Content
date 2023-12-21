@@ -36,6 +36,7 @@ redirects:
       [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique).
 
 
-![Figure: Multi-tasking can be your deadline's enemy](Square SM photos.png)  
+![Figure: Multi-tasking can be your deadline's enemy](/rules/do-you-deal-with-distractions/Square SM photos.png)  
 
-![Figure: The Pomodoro technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks.](Pomodoro.png)
+![Figure: The Pomodoro technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks.](/rules/do-you-deal-with-distractions/Pomodoro.png)
+

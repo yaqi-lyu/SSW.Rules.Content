@@ -23,7 +23,7 @@ Now we need to attach the database backup we took of our SharePoint 2007 server:
 
 1. In **SQL Server Management Studio** right click on  **Databases |  Restore Database...**
 
-![Figure: Select “Restore Database](RestoreDatabase.png)
+![Figure: Select “Restore Database](/rules/do-you-know-how-to-restore-your-content-database-to-sharepoint-2010/RestoreDatabase.png)
 
 * Follow the prompts to restore your database
 
@@ -39,3 +39,4 @@ stsadm –o addcontentdb –url http://sp2010rc/ –databaseserver <DatabaseServ
 ```
 
 3. After the database has been restored you will get a status message telling you how the upgrade went, with the path to a log file. Send this file to the SharePoint developers to determine if any issues occurred during the migration
+

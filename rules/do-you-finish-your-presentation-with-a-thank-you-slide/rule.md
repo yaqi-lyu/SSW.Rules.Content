@@ -19,4 +19,4 @@ Even better; if you did a good job, you might get a clap (or in Adam's case, a c
 
 <!--endintro-->
 
-![Figure: Always finish with a 'Thank You' slide](thankyouslidegood.png)
+![Figure: Always finish with a 'Thank You' slide](/rules/do-you-finish-your-presentation-with-a-thank-you-slide/thankyouslidegood.png)

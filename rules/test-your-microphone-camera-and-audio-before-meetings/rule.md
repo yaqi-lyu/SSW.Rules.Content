@@ -34,4 +34,5 @@ We recommend that you do a test on the platform you are using for your meeting (
 
 A second option is to call a work colleague and ask them if they can hear and see you well. Good tips are to use headphones and to keep your microphone on mute when not speaking.
 
-![Figure: Call a work colleague to test your presentation on online calls and make sure it works!](test-call.png)
+![Figure: Call a work colleague to test your presentation on online calls and make sure it works!](/rules/test-your-microphone-camera-and-audio-before-meetings/test-call.png)
+

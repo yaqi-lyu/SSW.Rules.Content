@@ -34,7 +34,7 @@ SkypePOP can be purchased from     [appVnet website](http://www.appvnet.com/).
 * Presence Aware – control over what the application does based on Lync/OCS presence
 * Phone Activity – provides multiple options to record the call against a CRM record
 
-![](lyncPOP-options.png)**Figure: SkypePOP advanced options** 
+![](/rules/do-you-integrate-crm-with-microsoft-lync/lyncPOP-options.png)**Figure: SkypePOP advanced options** 
 This tool is vital for sales staff and receptionists as a minimum.     
 Receptionists get the client record (based upon the inbound number) popup as the phone is ringing. They can answer the call accordantly. Sales staff has the ability to log the call in CRM along with what the call was about and also set a reminder for them to catch up in a few days.
 
@@ -43,10 +43,11 @@ Read more about     [implementing Microsoft Lync](http://www.ssw.com.au/ssw/Cons
 ### SkypePOP Setup
 
 
-![](2016-12-02_15-14-23.jpg)
+![](/rules/do-you-integrate-crm-with-microsoft-lync/2016-12-02_15-14-23.jpg)
 
 
 ::: good
 Figure: Good example - use the discovery service of your CRM (connect using &lt;yourname&gt;@&lt;yourdomain&gt; as a username)
 
 :::
+

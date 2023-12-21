@@ -27,7 +27,7 @@ Let's look at the ways to optimize the experience. There are 4 levels of experie
 <!--endintro-->
 
 ::: img-small
-![](f5-key.png)
+![](/rules/project-setup/f5-key.png)
 :::
 
 ### Level 1: Step by step documentation
@@ -39,11 +39,11 @@ The rule on [awesome documentation](/awesome-documentation) teaches us all the d
 The **README.md** and **Instructions-Compile.md** are the core documents that are essential for devs to get running on a project.
 
 ::: bad
-![Bad example - A project without instructions](ProjectDocumentationBadExample.png)
+![Bad example - A project without instructions](/rules/project-setup/ProjectDocumentationBadExample.png)
 :::
 
 ::: good
-![Good example - A project with instructions](ProjectDocumentationGoodExample.png)
+![Good example - A project with instructions](/rules/project-setup/ProjectDocumentationGoodExample.png)
 :::
 
 ::: greybox
@@ -59,7 +59,7 @@ E.g. Problems to check for:
 ::: greybox
 **Tip:** Don't forget about the database, your developers need to know how to work with the database
 
-![Figure: Don't forget about the database!](EFCoreMigrations.png)
+![Figure: Don't forget about the database!](/rules/project-setup/EFCoreMigrations.png)
 
 :::
 
@@ -93,7 +93,7 @@ To try and automatically resolve the problems found, re-run the script with a `-
 
 ### Level 3: Less maintenance using Docker containerization
 
-![Figure: Docker Logo](docker-logo.png)
+![Figure: Docker Logo](/rules/project-setup/docker-logo.png)
 
 PowerShell scripts are cool, but they can be difficult to maintain and they cannot account for all the differences within each developers environment. This problem is exacerbated when a developer comes back to a project after a long time away.
 
@@ -108,5 +108,6 @@ Dev containers take the whole idea of docker containerization to another level. 
 Learn more: [Project setup - Do you containerize your dev environment?](/dev-containers)
 
 ::: good
-![Figure: Good example - After using dev containers you would be as happy as Larry!](HappyDevs.png)
+![Figure: Good example - After using dev containers you would be as happy as Larry!](/rules/project-setup/HappyDevs.png)
 :::
+

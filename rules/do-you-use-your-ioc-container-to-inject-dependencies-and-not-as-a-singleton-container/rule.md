@@ -20,7 +20,7 @@ A common practice we see when developers start to use IOC containers is that the
 Using an IOC container in this manner can bring advantages such as centralised configuration and dependency lifecycle and scope managment. If implemented correctly, however, your classes can benefit from the above without any direct dependency on the IOC container itself.
 
 
-![](IOC_badexample.png)
+![](/rules/do-you-use-your-ioc-container-to-inject-dependencies-and-not-as-a-singleton-container/IOC_badexample.png)
 
 
 
@@ -31,7 +31,7 @@ Figure: Bad Example - the dependency is manually fetched from the IOC container,
 
 
 
-![](IOC_GoodExample.png)
+![](/rules/do-you-use-your-ioc-container-to-inject-dependencies-and-not-as-a-singleton-container/IOC_GoodExample.png)
 
 
 ::: good
@@ -41,3 +41,4 @@ Figure: Good example -  The dependency is enforced via a constuctor parameter. T
 
 
 For more information and insight on IOC usage, read the following: http://www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container
+

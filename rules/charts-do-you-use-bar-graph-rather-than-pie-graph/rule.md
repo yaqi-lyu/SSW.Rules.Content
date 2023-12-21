@@ -30,15 +30,16 @@ Pie graphs are used to show the general composition of an element. It's good for
 
 
 ::: bad  
-![Figure: Bad Example - This Pie Graph is too complicated and difficult to understand.](../../assets/PieGraph.gif)  
+![Figure: Bad Example - This Pie Graph is too complicated and difficult to understand.](/rules/charts-do-you-use-bar-graph-rather-than-pie-graph/PieGraph.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - This Pie Graph has been simplified and it is easy to see at a glance that Nike sold the most sneakers this month compared to others.](../../assets/PieGraph-Good.jpg)  
+![Figure: Good Example - This Pie Graph has been simplified and it is easy to see at a glance that Nike sold the most sneakers this month compared to others.](/rules/charts-do-you-use-bar-graph-rather-than-pie-graph/PieGraph-Good.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example - This Bar Graph data hasn't even been processed but it's still readable.](../../assets/BarGraph.gif)  
+![Figure: Good Example - This Bar Graph data hasn't even been processed but it's still readable.](/rules/charts-do-you-use-bar-graph-rather-than-pie-graph/BarGraph.gif)  
 :::
+

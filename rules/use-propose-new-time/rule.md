@@ -22,15 +22,16 @@ When you would like to propose a new time for an appointment that someone has se
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - The person who sent the appointment has to interpret your message, then go back in and edit the appointment](decline.png)  
+![Figure: Bad example - The person who sent the appointment has to interpret your message, then go back in and edit the appointment](/rules/use-propose-new-time/decline.png)  
 :::
 
 Instead of simply declining the message and typing your proposed time in the message body, propose a new time as follows:
 
 ::: good  
-![Figure: Good example - Click one of these... and then...](Propose-new-time.png)  
+![Figure: Good example - Click one of these... and then...](/rules/use-propose-new-time/Propose-new-time.png)  
 :::
 
 ::: good  
-![Figure: Good example - New time is proposed, and the person who sent the original appointment can easily accept your proposal (or view all proposals if there are multiple recipients)](scheduling-assistant.png)  
+![Figure: Good example - New time is proposed, and the person who sent the original appointment can easily accept your proposal (or view all proposals if there are multiple recipients)](/rules/use-propose-new-time/scheduling-assistant.png)  
 :::
+

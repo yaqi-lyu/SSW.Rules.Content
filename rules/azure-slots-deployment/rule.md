@@ -24,12 +24,13 @@ The benefit of using deployment slot is that if anything goes wrong on your prod
 
 Deployment slot can also work hand in hand with your blue green deployment strategy – you can opt user to the beta feature on the staging slot gradually. 
 
-![Figure 1: Before Swap - Production slot](azure-slot-1.png)
+![Figure 1: Before Swap - Production slot](/rules/azure-slots-deployment/azure-slot-1.png)
 
-![Figure 2: Before swap - Staging slot](azure-slot-2.png)
+![Figure 2: Before swap - Staging slot](/rules/azure-slots-deployment/azure-slot-2.png)
 
-![Figure 3: Swap the slot with one click](azure-slot-3.png)
+![Figure 3: Swap the slot with one click](/rules/azure-slots-deployment/azure-slot-3.png)
 
-![Figure 4: After swap – Production slot](azure-slot-4.png)
+![Figure 4: After swap – Production slot](/rules/azure-slots-deployment/azure-slot-4.png)
 
-![Figure 5: After swap – Staging slot](azure-slot-5.png)
+![Figure 5: After swap – Staging slot](/rules/azure-slots-deployment/azure-slot-5.png)
+

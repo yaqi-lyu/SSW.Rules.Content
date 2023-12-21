@@ -62,8 +62,9 @@ For groups on Facebook, there is now a tool that allows admin to ask up to 3 pre
 
 
 
-![Figure: Asking a screening question is a good way to separate real people with a genuine interest from those who just want to spam the group](facebook screening questions.jpg)  
+![Figure: Asking a screening question is a good way to separate real people with a genuine interest from those who just want to spam the group](/rules/weed-out-spammers/facebook screening questions.jpg)  
 
-![Figure: an example of a suspicious profile](suspicious-profile.png)  
+![Figure: an example of a suspicious profile](/rules/weed-out-spammers/suspicious-profile.png)  
 
 Some sites will allow you moderate comments so that only approved posts are displayed. If you're experiencing ongoing problems with spammers, this might be a good option to use as it keeps your site friendly and professional and gives you the final word on what content is shared with your members or followers.
+

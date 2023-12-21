@@ -32,10 +32,11 @@ For security, you should not have this domain account in the Administrators grou
 
 
 ::: bad  
-![Figure: Bad example - This service is using a built-in local service account](SQLDatabases\_RunAsAccount\_Bad.png)  
+![Figure: Bad example - This service is using a built-in local service account](/rules/configure-all-your-sql-server-services-to-use-a-domain-account/SQLDatabases_RunAsAccount_Bad.png)  
 :::
 
 
 ::: good  
-![Figure: Good example - Run as Account should use a domain account rather than a built-in account](SQLDatabases\_RunAsAccount.png)  
+![Figure: Good example - Run as Account should use a domain account rather than a built-in account](/rules/configure-all-your-sql-server-services-to-use-a-domain-account/SQLDatabases_RunAsAccount.png)  
 :::
+

@@ -62,4 +62,5 @@ Some activities are run internally; some are run with the client.
 - [Internal build](https://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSetups.aspx#BuildVersionDay)
 - Conduct an internal test please
  
-![Figure: Only with a strict project schedule can the manager coach the team to success!](ProjectManagement_Coach.jpg)
+![Figure: Only with a strict project schedule can the manager coach the team to success!](/rules/does-your-scrum-master-aka-project-manager-maintain-a-strict-project-schedule/ProjectManagement_Coach.jpg)
+

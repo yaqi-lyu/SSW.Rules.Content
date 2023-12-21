@@ -46,7 +46,7 @@ When on the Outlook desktop client, you should actively mark items as Junk and b
 1. Select the email | Click "Report Message" | Choose "Phishing" or "Junk"
 
 ::: good
-![Figure: Good example - Report a message as "Junk"](2023-05-23_8-57-28.png)
+![Figure: Good example - Report a message as "Junk"](/rules/do-you-know-how-to-reduce-spam/2023-05-23_8-57-28.png)
 :::
 
 Doing this sends a copy of the email for analysis to Microsoft Defender and helps to train the model that detects Junk mail and Phishing Scams.
@@ -54,7 +54,7 @@ Doing this sends a copy of the email for analysis to Microsoft Defender and help
 From time to time you may also receive an email telling you about quarantined emails.
 
 ::: good
-![Figure: Good example - Quarantine Email - 'Review Message', 'Release' or 'Block Sender'](quarantine-email3.png)
+![Figure: Good example - Quarantine Email - 'Review Message', 'Release' or 'Block Sender'](/rules/do-you-know-how-to-reduce-spam/quarantine-email3.png)
 :::
 
 ::: info 
@@ -62,5 +62,6 @@ From time to time you may also receive an email telling you about quarantined em
 :::
 
 ::: good
-![Figure: Good example - Release or delete quarantined emails](quarantine-email2.png)
+![Figure: Good example - Release or delete quarantined emails](/rules/do-you-know-how-to-reduce-spam/quarantine-email2.png)
 :::
+

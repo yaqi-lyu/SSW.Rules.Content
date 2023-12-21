@@ -25,10 +25,10 @@ Did you know that when you delete or disable a user in Active Directory or Azure
   ![Figure: Connect to your environment](step4-orphaneduser.png "Connect to your enviroment")
 
 5. Choose Navigate to choose individual sites or tick the box to choose all sites and teams folders
-  ![Figure: Choose navigate or tick](step5-orphaneduser.png)
+  ![Figure: Choose navigate or tick](/rules/sharepoint-removing-orphaned-users/step5-orphaneduser.png)
 
 6. Under Navigate choose the individual site | Click Next
-  ![Figure: Choose site](step6-orphaneduser.png)
+  ![Figure: Choose site](/rules/sharepoint-removing-orphaned-users/step6-orphaneduser.png)
 
 7. Click Run now
   ![Figure: Choose Run now](step7-orphaneduser.png "Run Now")
@@ -40,4 +40,5 @@ Did you know that when you delete or disable a user in Active Directory or Azure
   ![Figure: Continue](step9-orphaneduser.png "Continue")
 
 10. View results of report
-  ![Figure: Report Results](step10-orphaneduser.png)
+  ![Figure: Report Results](/rules/sharepoint-removing-orphaned-users/step10-orphaneduser.png)
+

@@ -20,7 +20,7 @@ In Windows 10/11 you need to set your video chat app (i.e. Teams) to use the GPU
 
 2. Scroll down a bit and click Graphics settings
 
-   ![Figure: Choose Graphics settings](graphicssettings.png)
+   ![Figure: Choose Graphics settings](/rules/workstations-use-gpu/graphicssettings.png)
 
 3. Either choose Microsoft Store apps and choose the relevant app or choose Desktop apps and browse for the executable
    
@@ -30,4 +30,5 @@ In Windows 10/11 you need to set your video chat app (i.e. Teams) to use the GPU
 
 4. Select options and choose High Performance GPU
 
-   ![Figure: Choose High Performance GPU](graphicssettings2.png)
+   ![Figure: Choose High Performance GPU](/rules/workstations-use-gpu/graphicssettings2.png)
+

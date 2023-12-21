@@ -33,7 +33,7 @@ To get to this setting, you need to:
 
 
 ::: good  
-![Figure: Good Example - Auditing Successes and Failures in your file shares](auditing-success-and-fail.png)  
+![Figure: Good Example - Auditing Successes and Failures in your file shares](/rules/turn-on-file-auditing-for-your-file-server/auditing-success-and-fail.png)  
 :::
 
 After that, your server will start logging audit events in the Event Viewer. To filter relevant events, do the following:
@@ -47,10 +47,11 @@ After that, your server will start logging audit events in the Event Viewer. To 
 
 
 ::: good  
-![Figure: Good example - Filtered logs with file access information](filtered-logs.png)  
+![Figure: Good example - Filtered logs with file access information](/rules/turn-on-file-auditing-for-your-file-server/filtered-logs.png)  
 :::
 
 4. Click on each entry for a detailed explanation on which file was opened, which IP address was used and which user initiated the action
 
 
 This kind of audit tool is an important part of any SysAdmin or Security Engineer to better see what is going on in your Windows environment.
+

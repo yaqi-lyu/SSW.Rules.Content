@@ -29,7 +29,7 @@ So that it doesn't impact client work too much, it's generally best if this meet
 After each meeting, the organizer should set the date for the next one and send out an appointment with a "Skype Meeting" request, so available people can simply click the "Join Meeting" link to join, as this saves time and makes the beginning of the meeting run smoothly.
 
 ::: good
-![Figure: Good example - Use the inbuilt meeting functionality to make sure no one gets left out](SkypeForBusinessMeeting.png)
+![Figure: Good example - Use the inbuilt meeting functionality to make sure no one gets left out](/rules/do-you-hold-regular-company-meetings/SkypeForBusinessMeeting.png)
 :::
 
 ::: email-template  
@@ -56,3 +56,4 @@ Let me know if you want any topics raised.
 ::: good
 Figure: Good example - Email template for the meeting
 :::
+

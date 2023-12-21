@@ -26,11 +26,11 @@ Most IDEs will automatically find and use a *.editorconfig* file to format code.
 See [Keep your code clean, automatically!](https://devblogs.microsoft.com/visualstudio/visual-studio-17-1-preview-2-is-now-available/#keep-your-code-clean-automatically).
 
 ::: good
-![Good example - Project using a ".editorconfig" file](vs2022-add-editorconfig.png)
+![Good example - Project using a ".editorconfig" file](/rules/consistent-code-style//rules/consistent-code-style/vs2022-add-editorconfig.png)
 :::
 
 ::: bad
-![Bad example - Project using StyleCop (old)](vs-2022-stylecop.png)
+![Bad example - Project using StyleCop (old)](/rules/consistent-code-style/vs-2022-stylecop.png)
 :::
 
 ## Creating **.editorconfig** files
@@ -40,7 +40,7 @@ See [Keep your code clean, automatically!](https://devblogs.microsoft.com/visual
 2. Search for "EditorConfig"
 3. Select a config file depending on your project
 
-![Figure: Creating .editorconfig in VS 2022](vs2022-add-editorconfig.png)
+![Figure: Creating .editorconfig in VS 2022](/rules/consistent-code-style//rules/consistent-code-style/vs2022-add-editorconfig.png)
 
 **Manually**
 1. Create a new file called *.editorconfig* at the root of your project
@@ -53,3 +53,4 @@ Additionally, you can have a PR check that enforces *.editorconfig* rules, but i
 
 Learn more on:
 - [EditorConfig website](https://editorconfig.org)
+

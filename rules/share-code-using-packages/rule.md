@@ -49,7 +49,7 @@ Sharing source or binaries via packages created using VSTS Team Build
 Good example  
 :::
 
-![Figure: Start from Visual Studio Marketplace](package-management-site.png)  
+![Figure: Start from Visual Studio Marketplace](/rules/share-code-using-packages/package-management-site.png)  
 
 ::: greybox
 VSTS is about to add benefits like Component Governance, which allows policies to be set over who can and cannot use the source or binaries E.g. Licensing (MIT might be ok and GPL not ok), security - in development
@@ -64,3 +64,4 @@ Good example - Sharing source or binaries via packages created using Sonatype Ne
  
 * At 2:50 Mario Rodriguez talks about the bad ways customers share code
 * At 6:30 Mario explains to Danijel Malik how VSTS helps with the nasty problem of Diamond Dependencies (aka Binary Consumption Hell)   (E.g. That's when devs are trying to get the new version of say Newtonsoft v1.9 in all projects, but one at a time)
+

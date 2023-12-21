@@ -28,6 +28,6 @@ e.g.
 
 **Note:** A common example for when to use this is when the full acceptance criteria of a large PBI (or Epic) would not be attainable within one Sprint, so splitting an Epic into 2 attainable PBIs is a better option.
 
-![Figure: A v2 PBI in GitHub](2021-07-30_14-58-22.png)
+![Figure: A v2 PBI in GitHub](/rules/do-you-know-how-to-handle-undone-work/2021-07-30_14-58-22.png)
 
-![Figure: A v2 PBI in Azure DevOps](2021-07-30_14-59-25.png)
+![Figure: A v2 PBI in Azure DevOps](/rules/do-you-know-how-to-handle-undone-work/2021-07-30_14-59-25.png)

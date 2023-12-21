@@ -36,9 +36,10 @@ The editor also reports a grade-level readability score. Grade 9 reading level o
 Copy and paste content into the editor for immediate feedback. Action as many suggestions as possible, and try to achieve that grade 9 readability or better. 
 
 ::: bad  
-![Figure: Bad example - Hemmingway Editor highlighting readability issues](hemmingway-bad.png)
+![Figure: Bad example - Hemmingway Editor highlighting readability issues](/rules/hemmingway-editor/hemmingway-bad.png)
 :::
 
 ::: good  
-![Figure: Good example - Concise, direct, readable content](hemmingway-good.png)
+![Figure: Good example - Concise, direct, readable content](/rules/hemmingway-editor/hemmingway-good.png)
 :::
+

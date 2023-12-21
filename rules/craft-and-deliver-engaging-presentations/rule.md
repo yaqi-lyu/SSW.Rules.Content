@@ -43,7 +43,7 @@ Giving a live presentation in front of an audience can be daunting, whether onli
    <https://www.linkedin.com/learning/creating-and-giving-business-presentations/identify-your-audience-s-knowledge-level>
 3. Gain repeated exposure to high pressure situations - staying cool & dealing with problems as they arise without derailing yourself or the audience.
 
-![](picture3.jpg)
+![](/rules/craft-and-deliver-engaging-presentations/picture3.jpg)
 
 ### Mistakes happen and that's OK
 
@@ -83,3 +83,4 @@ Scott Hanselman, a very well-known Microsoft public speaker, gave these tips in 
    * Can they see and hear you?
    * Can they read your screen?
 7. Be prepared for demo failures
+

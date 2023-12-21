@@ -25,6 +25,7 @@ Managers should regularly check to see if developers are committing their change
 
 <!--endintro-->
 
-![Figure: Use TFS Sidekicks and search for files older than 48 hours to find the naughty boys.](SideKicksStatus.jpg)  
+![Figure: Use TFS Sidekicks and search for files older than 48 hours to find the naughty boys.](/rules/tfs-master-do-you-have-a-report-to-see-who-has-not-checked-in/SideKicksStatus.jpg)  
 
 **Suggestion for TFS Sidekicks:** Add a button to “Email all people their shame list”... showing their files that are still checked out (until then I do it manually).
+

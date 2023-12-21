@@ -19,4 +19,5 @@ One huge advantage that Canvas Power Apps has over a Model-Driven App is the num
 
 <!--endintro-->
 
-![Figure: Microsoft connectors gallery is growing every day](connector-gallery.png)
+![Figure: Microsoft connectors gallery is growing every day](/rules/hundreds-of-connectors-for-power-apps/connector-gallery.png)
+

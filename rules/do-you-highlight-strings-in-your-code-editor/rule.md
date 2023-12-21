@@ -21,15 +21,16 @@ It is a good practice to highlight string variables or const in source code edit
 
 
 ::: bad  
-![Default string appearance](HighlightString\_bad\_small.gif)  
+![Default string appearance](/rules/do-you-highlight-strings-in-your-code-editor/HighlightString_bad_small.gif)  
 :::
 
 
 ::: good  
-![Highlighted string appearance](HighlightString\_good\_small.jpg)  
+![Highlighted string appearance](/rules/do-you-highlight-strings-in-your-code-editor/HighlightString_good_small.jpg)  
 :::
 
 
 ::: good  
-![Tools | Options form of Visual Studio](HighlightString\_VSOption\_small.gif)  
+![Tools | Options form of Visual Studio](/rules/do-you-highlight-strings-in-your-code-editor/HighlightString_VSOption_small.gif)  
 :::
+

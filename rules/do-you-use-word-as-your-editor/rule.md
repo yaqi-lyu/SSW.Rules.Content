@@ -20,7 +20,7 @@ In Microsoft Outlook you have the option to use Word as your Email editor.
 
 <!--endintro-->
 
-![Figure: Make sure you have this check box on](OutlookWordAsEditor.gif)
+![Figure: Make sure you have this check box on](/rules/do-you-use-word-as-your-editor/OutlookWordAsEditor.gif)
 
 This has a few advantages:
 
@@ -28,4 +28,5 @@ This has a few advantages:
 2. You get all the benefits of Word e.g. Formatting and styles, spell checking smart tags, thesaurus - the list goes on and on
 3. With the emergence of some great 3rd Party Smart Tags you can integrate your database in your email program. Companies often forget that improving their users' ability to handle email efficiently can be one of the biggest productivity gains you can achieve
 
-![Figure: See the difference in size](OutlookUsingWordAsMyEditor.gif)
+![Figure: See the difference in size](/rules/do-you-use-word-as-your-editor/OutlookUsingWordAsMyEditor.gif)
+

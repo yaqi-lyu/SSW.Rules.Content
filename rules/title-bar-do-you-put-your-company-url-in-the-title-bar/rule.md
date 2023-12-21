@@ -19,7 +19,7 @@ If you want the URL to be shown as often as possible, you can place it in the ti
 
 
 ::: good  
-![Figure: Good Example - The company URL appearing in SSW SQL Auditor](../../assets/TitleBarURL.gif)  
+![Figure: Good Example - The company URL appearing in SSW SQL Auditor](/rules/title-bar-do-you-put-your-company-url-in-the-title-bar/TitleBarURL.gif)  
 :::
 
 Note: Make sure the URL won't take other important information's place.
@@ -28,5 +28,6 @@ Note 2: Through certain coding tricks, it is possible to have the URL on the tit
 
 
 ::: bad  
-![Figure: Bad Example - Bad caption in SSW SQL Deploy](../../assets/UglyTooltipEffect.gif)  
+![Figure: Bad Example - Bad caption in SSW SQL Deploy](/rules/title-bar-do-you-put-your-company-url-in-the-title-bar/UglyTooltipEffect.gif)  
 :::
+

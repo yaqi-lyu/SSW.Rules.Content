@@ -25,12 +25,13 @@ How can you know that all components are working correctly on your site? It is v
 
 <!--endintro-->
 
-![Figure: Link Auditor server info](../../assets/la-footer.jpg)  
+![Figure: Link Auditor server info](/rules/have-a-validation-page-for-your-web-server/la-footer.jpg)  
 
 You would be surprised how many dependencies a large web page can have.The advantage of this page is if you ever need to redeploy your application on another server or you have some pages that are just not working as planned you can load up this page and get a quick diagnostics of your website.
 
-![Figure: One of the components on this website is down](../../assets/ValidateSetup.jpg)  
+![Figure: One of the components on this website is down](/rules/have-a-validation-page-for-your-web-server/ValidateSetup.jpg)  
 
-![Figure: Automatically validating our website](../../assets/ValidationTests.jpg)  
+![Figure: Automatically validating our website](/rules/have-a-validation-page-for-your-web-server/ValidationTests.jpg)  
 
 See [SSW Rules - Do you have a zsValidate page to test your website dependencies?](https://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterUnitTests.aspx#zsValidatePage)
+

@@ -26,7 +26,7 @@ In a development ecosystem, secrets are the lifeblood that makes many processes 
 
 
 :::bad
-![Figure: Secrets added to each repository](repo-secrets.png)
+![Figure: Secrets added to each repository](/rules/enterprise-secrets-in-pipelines/repo-secrets.png)
 :::
 
 ### Problems:
@@ -40,7 +40,7 @@ In a development ecosystem, secrets are the lifeblood that makes many processes 
 ## Scenario: Instead of per repo, secrets are added at the GitHub organization level.
 
 :::ok
-![Figure: Secrets added to the GitHub organization](org-secrets.png)
+![Figure: Secrets added to the GitHub organization](/rules/enterprise-secrets-in-pipelines/org-secrets.png)
 :::
 
 ### Advantages:
@@ -110,7 +110,7 @@ Listing: Secrets stored in a dedicated Key Vault in Azure and used by workflows 
 
 
 :::good
-![Figure: An enterprise password/secrets manager like Keeper with the Secrets Manager add-on and integration with GA or AzDo](enterprise-secrets.jpg)
+![Figure: An enterprise password/secrets manager like Keeper with the Secrets Manager add-on and integration with GA or AzDo](/rules/enterprise-secrets-in-pipelines/enterprise-secrets.jpg)
 :::
 
 <a href="https://vimeo.com/672797748">Watch the video</a>

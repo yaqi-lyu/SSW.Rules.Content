@@ -17,7 +17,7 @@ In the past, Wiki pages were a great way to store content in SharePoint. These d
 
 Many articles, like [this one from 2017](https://www.sharepointagency.co.nz/consulting/item/348-wiki-pages-are-better-than-word-documents-for-your-intranet.html), talk about the benefits of using Wiki Pages over Word Documents - however, these benefits are no longer relevant. 
 
-![Figure: We've come a long way since Word 2013 Online Presentation](word-2013-online-presentation.jpg)
+![Figure: We've come a long way since Word 2013 Online Presentation](/rules/word-documents-vs-sharepoint-wiki-pages/word-2013-online-presentation.jpg)
 
 Let's have a quick look at some of the points that the article above used:
 
@@ -41,19 +41,19 @@ Let's have a quick look at some of the points that the article above used:
 
 ::: bad
 
-![Limited SharePoint formatting](sharepoint-editor.png)
+![Limited SharePoint formatting](/rules/word-documents-vs-sharepoint-wiki-pages/sharepoint-editor.png)
 
 :::
 
 ::: good
 
-![Microsoft Word's well-known, feature rich formatting options](microsoft-ribbon.png)
+![Microsoft Word's well-known, feature rich formatting options](/rules/word-documents-vs-sharepoint-wiki-pages/microsoft-ribbon.png)
 
 :::
 
 2. Versioning is one of SharePoint's strongest features - and it works really well with Word Documents. 
 3. Many people are using Microsoft Teams, and storing files in there - sometimes not using SharePoint at all. While Teams still uses SharePoint in the backend, it is much easier to browse through Documents than link and view Wiki Pages.
 
-![Figure: Browsing files in Teams](teams-browsing-files.png)
+![Figure: Browsing files in Teams](/rules/word-documents-vs-sharepoint-wiki-pages/teams-browsing-files.png)
 
 4. OneDrive allows you to sync files from SharePoint libraries to your computer. This is very useful if you need offline access, or if users prefer to work from files within File Explorer in Windows, or Finder on macOS. This works really well with Word Documents, but is not possible with wiki pages.

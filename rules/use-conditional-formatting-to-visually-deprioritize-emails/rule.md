@@ -14,8 +14,9 @@ In your inbox, it's a good idea to reduce noise by giving more attention to emai
 
 <!--endintro-->
 
-![Figure: On these 2 emails... Subject "test" has recipient on "To:"; and subject "test 2" has recipient on "Cc:"](conditional-formatting-1.png)
+![Figure: On these 2 emails... Subject "test" has recipient on "To:"; and subject "test 2" has recipient on "Cc:"](/rules/use-conditional-formatting-to-visually-deprioritize-emails/conditional-formatting-1.png)
 
 You can do this through 'Conditional formatting' in the 'View Settings', by creating a rule that changes the font of emails to grey if you’re in the 'CC' field.
 
-![Figure: Click View | View Settings | Conditional Formatting | Add | Condition](conditional-formatting-2.png)
+![Figure: Click View | View Settings | Conditional Formatting | Add | Condition](/rules/use-conditional-formatting-to-visually-deprioritize-emails/conditional-formatting-2.png)
+

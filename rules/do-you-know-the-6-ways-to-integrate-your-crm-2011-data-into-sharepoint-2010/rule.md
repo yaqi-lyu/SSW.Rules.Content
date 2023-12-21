@@ -48,7 +48,7 @@ This BCS Adapter for CRM 2011 is from the CRM team (It does all of the BCS work 
 
 ![clip_image004\[15\]](wrong.gif "clip_image004[15]")Only recently released. |
 
-![](figure5.jpg)  
+![](/rules/do-you-know-the-6-ways-to-integrate-your-crm-2011-data-into-sharepoint-2010/figure5.jpg)  
 
 ::: greybox
 **More information:**    
@@ -83,7 +83,7 @@ Filtered Views in Microsoft CRM provide access to the data available that suppor
 If you only want read-only for CRM on-premises data for SharePoint users, this solution is fine. You create the External Content Type directly against the Filtered Views in the CRM database as per [Use SQL and Filtered Views to Retrieve Data for Reports
 ](https://docs.microsoft.com/en-us/previous-versions/dynamicscrm-2013/crm.6/gg328467(v=crm.6)?redirectedfrom=MSDN).
 
-![Figure: The result of "SELECT * FROM FilteredCtx_Project". Use Office SharePoint Designer to hook this up](figure1.jpg)  
+![Figure: The result of "SELECT * FROM FilteredCtx_Project". Use Office SharePoint Designer to hook this up](/rules/do-you-know-the-6-ways-to-integrate-your-crm-2011-data-into-sharepoint-2010/figure1.jpg)  
 :::
 
 ### Option 3: Web Services
@@ -134,15 +134,15 @@ So it is really only suited to calling from Silverlight and JavaScript web resou
 The first step is to expose the data:
 1. Install [http://crm2011odatatool.codeplex.com](https://archive.codeplex.com/?p=crm2011odatatool)
 2. Make a query
-![Figure: Designing a query](figure2.jpg)  
+![Figure: Designing a query](/rules/do-you-know-the-6-ways-to-integrate-your-crm-2011-data-into-sharepoint-2010/figure2.jpg)  
 
 3. See the data
-![Figure: See the data - RSS source for xtc_countrySet](figure3.jpg)  
+![Figure: See the data - RSS source for xtc_countrySet](/rules/do-you-know-the-6-ways-to-integrate-your-crm-2011-data-into-sharepoint-2010/figure3.jpg)  
 :::
 
 The second step (and the problem) is consuming the data
 
-![Figure: BCS has no option to consume RSS data. Please Microsoft SharePoint Team, we need a new 'Data Source Type' = OData](figure4.jpg)  
+![Figure: BCS has no option to consume RSS data. Please Microsoft SharePoint Team, we need a new 'Data Source Type' = OData](/rules/do-you-know-the-6-ways-to-integrate-your-crm-2011-data-into-sharepoint-2010/figure4.jpg)  
 
 In summary, CRM 2011 can expose OData, but SharePoint 2010 BCS doesn't consume OData.
 
@@ -190,3 +190,4 @@ What does this mean?
 - CRM 2011 exposes it data as OData, but cannot consume OData
 - SharePoint 2010 exposes it data as OData, but cannot consume OData
  ...and there are no 3rd party solutions to solve this...
+

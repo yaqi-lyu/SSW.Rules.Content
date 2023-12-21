@@ -43,10 +43,11 @@ Even if you've been wrongly accused of something, you should still show you unde
 
 Next is to see if you can avoid it happening in the first place – you could explain the new steps in the process you’ll add or simply say: _"I'll be more diligent testing in the future"_.
 
-![Figure: Make sure you know how to take criticism well](dilbert-criticism-1.gif)  
+![Figure: Make sure you know how to take criticism well](/rules/how-to-take-feedback-or-criticism/dilbert-criticism-1.gif)  
 
-![Figure: Active listening can help with communication issues](Defensive-behaviour.png)
+![Figure: Active listening can help with communication issues](/rules/how-to-take-feedback-or-criticism/Defensive-behaviour.png)
 
 ### Video 
 
 `youtube: https://youtu.be/7wlUSq73Ejo`
+

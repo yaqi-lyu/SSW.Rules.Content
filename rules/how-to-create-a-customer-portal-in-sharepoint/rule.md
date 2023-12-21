@@ -37,17 +37,17 @@ Once you have the template, follow these steps to create a customer portal with 
 1. Go to the root where you want to create a site. E.g. sharepoint.ssw.com.au
 2. Click "Site Actions" on right-hand top, select "Manage Content and Structure
 
-![Figure: The first step to creating a 'Customer Portal' is to select 'Manage Content and Structure' to view site collection](ManageContentAndStructure.jpg)
+![Figure: The first step to creating a 'Customer Portal' is to select 'Manage Content and Structure' to view site collection](/rules/how-to-create-a-customer-portal-in-sharepoint/ManageContentAndStructure.jpg)
  
 Once the new window opens, on the left-hand side, click on the 'Clients' dropdown select New -&gt; Site. 
 
 **Note:** If you don’t see this option, that means you don’t have permission to create the site.
 
-![Figure: Create new site](CreateNewSiteStep1.jpg)
+![Figure: Create new site](/rules/how-to-create-a-customer-portal-in-sharepoint/CreateNewSiteStep1.jpg)
 
 Now follow these steps when the new window opens fill in the fields below.
 
-![Figure: Fill in the appropriate info then click "Create"](CreateNewSiteStep2.jpg)
+![Figure: Fill in the appropriate info then click "Create"](/rules/how-to-create-a-customer-portal-in-sharepoint/CreateNewSiteStep2.jpg)
  
 More Information:
 
@@ -63,7 +63,7 @@ e.g “**ClientCollaboration\_V1**” in the Custom tab.
 Next step is to setup the groups and permissions.
 
 ::: good
-![Figure: Create a 'new group' or select an 'existing group' for the newly created site](SetUpGroupForSite.jpg) 
+![Figure: Create a 'new group' or select an 'existing group' for the newly created site](/rules/how-to-create-a-customer-portal-in-sharepoint/SetUpGroupForSite.jpg) 
 :::
 
 More Information:
@@ -86,6 +86,7 @@ In this case, we are using 'create a new group' option because we want this grou
 
 Click "OK", and the portal is created.
 
-![Figure: Northwind portal](Northwind Portal.jpg)
+![Figure: Northwind portal](/rules/how-to-create-a-customer-portal-in-sharepoint/Northwind Portal.jpg)
 
 **Note:** SharePoint will send "welcome email" to all the members of the groups you created for the site with basic information, but you still need to send an email to your customer with the login details like URL, username, and password.
+

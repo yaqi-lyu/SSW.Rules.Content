@@ -19,6 +19,6 @@ Request that ChatGPT thinks through its answer with you. It's similar to telling
 * If you're unsure about a ChatGPT correction, ask "I'm not sure if XYZ is right? Can you explain it to me?". It might correct itself if it's wrong
 * Ask "Why do you believe that?", "Can you explain why do you think that?", "Can you give me steps on how you got here?", etc. to get an explanation for the AI's reasoning
 
-![Figure: Bad Example - It got the answer wrong](don-t-think.png)
+![Figure: Bad Example - It got the answer wrong](/rules/get-chatgpt-to-answer-step-by-step/don-t-/rules/get-chatgpt-to-answer-step-by-step/think.png)
 
-![Figure: Good Example - By getting it to think step by step, it got the answer right](think.png)
+![Figure: Good Example - By getting it to think step by step, it got the answer right](/rules/get-chatgpt-to-answer-step-by-step/think.png)

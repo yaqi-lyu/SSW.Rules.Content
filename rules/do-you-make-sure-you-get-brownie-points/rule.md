@@ -16,7 +16,7 @@ People are not mind-readers (unless they are telepathic!), so when you get good 
 
 <!--endintro-->
 
-![Figure: Brownie points](brownie-points.png)
+![Figure: Brownie points](/rules/do-you-make-sure-you-get-brownie-points/brownie-points.png)
 
 ::: email-template  
 | | |
@@ -67,3 +67,4 @@ Assuming you are an awesome worker, there are a whole bunch of smaller ways of g
 - Sending an [invoice with plenty of comments](/do-you-know-how-to-describe-the-work-you-have-done-while-avoiding-the-word-bug)
 - Sharing your knowledge at a [user group](https://www.ssw.com.au/ssw/NETUG/) or presentation
 - [Recording or live-streaming your user group presentation](https://www.ssw.com.au/ssw/Consulting/Video-Production/Conference-Video-Recording.aspx) and uploading it to Youtube
+

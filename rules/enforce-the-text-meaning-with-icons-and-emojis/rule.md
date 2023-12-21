@@ -29,11 +29,11 @@ For emails and web content, using an simple emoji is an easy and friendly way to
 #### Using icons
 
 ::: bad  
-![Figure: Bad example - No icons to indicate the status](validation-bad.jpg)  
+![Figure: Bad example - No icons to indicate the status](/rules/enforce-the-text-meaning-with-icons-and-emojis/validation-bad.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - Green tick and red cross help the user to know what's going on](validation-good.jpg)  
+![Figure: Good example - Green tick and red cross help the user to know what's going on](/rules/enforce-the-text-meaning-with-icons-and-emojis/validation-good.jpg)  
 :::
 
 #### Using emojis
@@ -59,3 +59,4 @@ See this rule being used on different scenarios:
 - [Adding a green tick for successful messages or a red cross for error messages](/messages-do-you-use-green-tick-red-cross-and-spinning-icon-to-show-the-status) (before the text)
 - [Adding the type of file next to download links](/use-icons-to-not-surprise-users) (before the text)
 - [Adding an icon to external links](/do-you-make-external-links-clear) (after the text)
+

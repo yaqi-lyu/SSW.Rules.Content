@@ -15,10 +15,11 @@ redirects:
 
 ---
 
-![Figure: Multiple Foreign Key Relationships Different Names](MultipleForeignKeyRelationshipsDifferentNames.jpg) 
+![Figure: Multiple Foreign Key Relationships Different Names](/rules/foreign-key-upsizing-problem/MultipleForeignKeyRelationshipsDifferentNames.jpg) 
 
 <!--endintro-->
 
 ::: greybox
 [Upsizing PRO](http://www.ssw.com.au/ssw/UpsizingPRO) will check this rule.
 :::
+

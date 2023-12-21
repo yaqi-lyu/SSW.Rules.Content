@@ -16,9 +16,10 @@ When you're giving an update on progress on a task list or a schedule, ~~strike 
 <!--endintro-->
 
 ::: good
-![Figure: Good example - SugarLearning's completed items are struck-through](sugarlearning-task.png)
+![Figure: Good example - SugarLearning's completed items are struck-through](/rules/do-you-strike-through-completed-items/sugarlearning-task.png)
 :::
 
 ::: good
-![Figure: Good example - Microsoft Outlook Todo's completed tasks are struck-through](outlook-todo.png)
+![Figure: Good example - Microsoft Outlook Todo's completed tasks are struck-through](/rules/do-you-strike-through-completed-items/outlook-todo.png)
 :::
+

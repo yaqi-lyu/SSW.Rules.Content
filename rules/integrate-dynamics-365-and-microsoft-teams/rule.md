@@ -23,4 +23,5 @@ redirects:
 
 <!--endintro-->
 
-![Figure: Dynamics 365 tab in MS Teams (also showing the Teams URL field, two birds in one stone)](integration-teams-365.png)  
+![Figure: Dynamics 365 tab in MS Teams (also showing the Teams URL field, two birds in one stone)](/rules/integrate-dynamics-365-and-microsoft-teams/integration-teams-365.png)  
+

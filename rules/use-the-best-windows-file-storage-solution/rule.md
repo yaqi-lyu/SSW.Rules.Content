@@ -37,9 +37,10 @@ With **Drive Bender**, you also have software RAID, disk grouping, and file dupl
 Have a look at [Drive Bender website](https://www.division-m.com/drivebender/) for more info!
 
 ::: bad  
-![Figure: Bad example – Bad UI for Storage Spaces](storage-spaces.jpg)  
+![Figure: Bad example – Bad UI for Storage Spaces](/rules/use-the-best-windows-file-storage-solution/storage-spaces.jpg)  
 :::
 
 ::: good  
-![Figure: Good example – Nice UI for Drive Bender](drive-bender.png)  
+![Figure: Good example – Nice UI for Drive Bender](/rules/use-the-best-windows-file-storage-solution/drive-bender.png)  
 :::
+

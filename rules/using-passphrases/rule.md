@@ -20,7 +20,7 @@ Possible combinations of words, or phrases as we call them, are almost infinite.
 
 There’s a now famous web comic from XKCD that explains this:
 
-![Figure: This XKCD comic shows why it’s important to use a passphrase, rather than a password](xkcd-passphrases.png)
+![Figure: This XKCD comic shows why it’s important to use a passphrase, rather than a password](/rules/using-passphrases/xkcd-passphrases.png)
 
 The specific advice in the comic about how to pick a good passphrase may not be relevant to you, but the resulting impact on security is.
 
@@ -48,3 +48,4 @@ Bad Example – It’s the opening to one of Shakespeare’s sonnets so is known
 ::: ok
 OK Example – It's 16 characters, composed of 5 words, is not a phrase that is known by anyone else, and is easy (for you) to remember
 :::
+

@@ -81,9 +81,9 @@ For example, you can use a Headless CMS with a super fast Static Site Generator 
 
 Here is a breakdown of Traditional CMS architecture vs Headless CMS architecture:
 
-![Figure: Traditional CMS Architecture](cms-architecture-traditional.jpg)
+![Figure: Traditional CMS Architecture](/rules/do-you-know-the-best-cms-solutions-for-websites/cms-architecture-traditional.jpg)
 
-![Figure: Headless CMS Architecture](cms-architecture-headless.jpg)
+![Figure: Headless CMS Architecture](/rules/do-you-know-the-best-cms-solutions-for-websites/cms-architecture-headless.jpg)
 
 ### ✅ Traditional CMS - Pros
 
@@ -166,3 +166,4 @@ Assuming you want enterprise features, Kontent is preferred as the Headless CMS 
 
 * Microsoft SharePoint for public sites
 * CommunityServer.org
+

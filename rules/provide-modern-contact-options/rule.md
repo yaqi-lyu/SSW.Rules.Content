@@ -27,11 +27,11 @@ The evolution of website development can be summarized by:
 It's important that your website is focused on CX (Customer Experience) which means you need modern contact options.
 
 ::: bad  
-![Figure: Bad example - The only way to contact the company is via email](moderncontact-bad.png)  
+![Figure: Bad example - The only way to contact the company is via email](/rules/provide-modern-contact-options/moderncontact-bad.png)  
 :::
 
 ::: good  
-![Figure: Good example - Chat is available along with other ways of contact, such as voip, IM, KB etc](moderncontact-good.png)  
+![Figure: Good example - Chat is available along with other ways of contact, such as voip, IM, KB etc](/rules/provide-modern-contact-options/moderncontact-good.png)  
 :::
 
 `youtube: https://www.youtube.com/embed/K1HlAsW1RiA`
@@ -39,3 +39,4 @@ It's important that your website is focused on CX (Customer Experience) which me
 ::: good
 Zendesk explain how you can use mulitple channels of support to give your customers a better CX
 :::
+

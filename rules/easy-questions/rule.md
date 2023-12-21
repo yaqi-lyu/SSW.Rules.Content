@@ -55,24 +55,24 @@ Tip: Don't feel like you are confining their reply - if they feel like they need
 
 For a simple question with multiple options, list the options and ask them to thumbs up 👍 their preferred one. That makes it as simple as possible to respond so you can even catch people who are extremely busy!
 
-![Figure: ❌ Bad example - The person might spend unnecessary time pondering and then typing a reply ](bad-question.png)
+![Figure: ❌ Bad example - The person might spend unnecessary time pondering and then typing a reply ](/rules/easy-questions/bad-question.png)
 
-![Figure: ✅ Good example - The question and options are easy for a busy person to action ](no-hello.jpg)
+![Figure: ✅ Good example - The question and options are easy for a busy person to action ](/rules/easy-questions/no-hello.jpg)
 
 ### Questions to a group
 
 When you anticipate many replies/votes to your question (e.g. in a group chat), use polls. In Microsoft Teams, use the 'Voting Table' Loop component. Polls help to reduce noise and easily analyze responses.
 
 ::: img-large  
-![Figure: How to add a Voting Table Loop component in Teams](voting-loop.png)
+![Figure: How to add a Voting Table Loop component in Teams](/rules/easy-questions/voting-loop.png)
 :::
 
 ::: bad
-![Figure: Bad example - This will result in a confusing spam of messages](lunch-choice-bad.png)
+![Figure: Bad example - This will result in a confusing spam of messages](/rules/easy-questions/lunch-choice-bad.png)
 :::
 
 ::: good
-![Figure: Good example - This easily shows everybody's replies and is editable in real time](lunch-choice-good.png)
+![Figure: Good example - This easily shows everybody's replies and is editable in real time](/rules/easy-questions/lunch-choice-good.png)
 :::
 
 ### When you need a paper trail
@@ -80,9 +80,10 @@ When you anticipate many replies/votes to your question (e.g. in a group chat), 
 If it will be important to have a record of your discussion, the best thing to do is call or have an in-person discussion. Once you have the answer, send an [as per our conversation email](/as-per-our-conversation-emails/) to make sure both parties are clear on the result.
 
 ::: bad
-![Figure: Bad example - A small thumbs up can result in a big miscommunication](purchase-please-bad.png)
+![Figure: Bad example - A small thumbs up can result in a big miscommunication](/rules/easy-questions/purchase-please-bad.png)
 :::
 
 ::: good
-![Figure: Good example - Having a live conversation and sending a follow up email makes sure there is no uncertainty](purchase-please-good.png)
+![Figure: Good example - Having a live conversation and sending a follow up email makes sure there is no uncertainty](/rules/easy-questions/purchase-please-good.png)
 :::
+

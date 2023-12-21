@@ -25,8 +25,9 @@ For example, your cost can depend on how wide your audience is if it’s local o
 
 Here are some interesting demographics to consider:
 
-![Figure: For SSW we know that our target audience is mostly men aged between 25-45, so we know for Social Media we should focus on Facebook, Twitter & LinkedIn. If we had products, Pinterest & Instagram would be our best target because they are more visual.](target-audience-table.png)  
+![Figure: For SSW we know that our target audience is mostly men aged between 25-45, so we know for Social Media we should focus on Facebook, Twitter & LinkedIn. If we had products, Pinterest & Instagram would be our best target because they are more visual.](/rules/how-to-use-your-marketing-budget-effectively/target-audience-table.png)  
 
-![Figure: According to Marketing Insider Group, the most popular platform is now LinkedIn, followed by Facebook](social-platforms.png)  
+![Figure: According to Marketing Insider Group, the most popular platform is now LinkedIn, followed by Facebook](/rules/how-to-use-your-marketing-budget-effectively/social-platforms.png)  
 
 Interestingly, according to Business Insider Intelligence, despite being one of the most used platforms, Facebooks’ trust ranking has plummeted over the last two years, largely thanks to “Fake News” and data use scandals. LinkedIn remains consistently dominant in the trust rankings and is still growing in size every day.
+

@@ -19,4 +19,5 @@ SQL Alerts are valuable because they can alert administrators of imminent SQL Se
 <!--endintro-->
  SQL has no default alerts. You will have to create them, and I recommend that you add all the fatal level exceptions to alerts.
 
-![Figure: SQL Alerts - We recommend that you add the fatal exceptions as alerts](SQLDatabases\_DefaultAlerts2005.png)
+![Figure: SQL Alerts - We recommend that you add the fatal exceptions as alerts](/rules/turn-on-all-the-default-alerts/SQLDatabases_DefaultAlerts2005.png)
+

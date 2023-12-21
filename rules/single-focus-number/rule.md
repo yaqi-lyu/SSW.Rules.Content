@@ -18,8 +18,9 @@ Ideally this should be a single number, not a group of numbers. If there is more
 
 <!--endintro-->
 
-![Figure: One number at the top right sums up the whole report in a single number](report-single-number-1.jpg)
+![Figure: One number at the top right sums up the whole report in a single number](/rules/single-focus-number/report-single-number-1.jpg)
 
-![Figure: Another good example](report-single-number-2.jpg)
+![Figure: Another good example](/rules/single-focus-number/report-single-number-2.jpg)
 
-![Figure: and another](report-single-number-3.jpg)
+![Figure: and another](/rules/single-focus-number/report-single-number-3.jpg)
+

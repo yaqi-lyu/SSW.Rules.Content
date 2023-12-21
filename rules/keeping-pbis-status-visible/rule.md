@@ -21,13 +21,13 @@ Whenever a PBI necessitates an update, the team should add a comment to the issu
 
 ::: bad
 
-![Figure: Bad example - Lots of non-descriptive comments cluttering the issue.](bad-example-lots-of-non-descriptive-comments.png)
+![Figure: Bad example - Lots of non-descriptive comments cluttering the issue.](/rules/keeping-pbis-status-visible/bad-example-lots-of-non-descriptive-comments.png)
 
 :::
 
 ::: good
 
-![Figure: Good example - Extra context added via comment.](good-example-adding-context-via-comment.png)
+![Figure: Good example - Extra context added via comment.](/rules/keeping-pbis-status-visible/good-example-adding-context-via-comment.png)
 
 :::
 
@@ -37,7 +37,7 @@ Re-assigning the PBI? You don't need to comment or change the PBI description. G
 
 ::: good
 
-![Figure: Good example - Important information added to the issue itself with a comment.](good-example-update.png)
+![Figure: Good example - Important information added to the issue itself with a comment.](/rules/keeping-pbis-status-visible/good-example-update.png)
 
 :::
 
@@ -45,12 +45,13 @@ It's also important to CC anyone who may need to see this additional information
 
 ::: good
 
-![Figure: Good example - Important users CC'd within the issue but addressed to the team.](good-example-cc-in-issue.png)
+![Figure: Good example - Important users CC'd within the issue but addressed to the team.](/rules/keeping-pbis-status-visible/good-example-cc-in-issue.png)
 
 :::
 
 ::: good
 
-![Figure: Good example - Important users CC'd within comments added extra context.](good-example-cc-in-comment.png)
+![Figure: Good example - Important users CC'd within comments added extra context.](/rules/keeping-pbis-status-visible/good-example-cc-in-comment.png)
 
 :::
+

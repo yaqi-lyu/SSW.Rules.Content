@@ -27,17 +27,18 @@ You can read more about PR templates in the GitHub docs at [Creating a pull requ
 When creating a PR template, think of how you can help developers create great PRs
 
 ::: bad  
-![Figure: Bad example - There is no information to guide developers](no-pr-template.jpg)  
+![Figure: Bad example - There is no information to guide developers](/rules/use-pull-request-templates-to-communicate-expectations/no-pr-template.jpg)  
 :::
 
 ::: ok  
-![Figure: OK example - The PR template contains handy links to guidance for creating great PRs ⭐](pr-template-with-comments-to-guidance.jpg)  
+![Figure: OK example - The PR template contains handy links to guidance for creating great PRs ⭐](/rules/use-pull-request-templates-to-communicate-expectations/pr-template-with-comments-to-guidance.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - This PR template asks for **context needed to review**, along with links to guidance for creating great PRs ⭐](pr-template-asking-for-context.jpg)  
+![Figure: Good example - This PR template asks for **context needed to review**, along with links to guidance for creating great PRs ⭐](/rules/use-pull-request-templates-to-communicate-expectations/pr-template-asking-for-context.jpg)  
 :::
 
 **Tip:** You can use comments in the markdown as above. These comments will not show when the PR is created, and is only visible when editing the description.
  
 For a great Pull Request template, take a look at [@SSWConsulting/SSW.GitHub.Template](https://github.com/SSWConsulting/SSW.GitHub.Template/blob/main/.github/pull_request_template.md)
+

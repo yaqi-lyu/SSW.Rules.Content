@@ -31,12 +31,13 @@ Popup forms are good:
 
 
 ::: bad  
-![Figure: Bad example - if this was a popup form it would be easier to focus on where to look (as a minimum you would be looking at half the screen)](../../assets/Popup01.jpg)  
+![Figure: Bad example - if this was a popup form it would be easier to focus on where to look (as a minimum you would be looking at half the screen)](/rules/popup-do-you-know-when-popup-forms-are-good/Popup01.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example - the popup with the dimmed background is much more intuitive](../../assets/Popup02.jpg)  
+![Figure: Good example - the popup with the dimmed background is much more intuitive](/rules/popup-do-you-know-when-popup-forms-are-good/Popup02.jpg)  
 :::
 
 For example, adding a webpart in SharePoint 2010 should use a popup form. [See our suggestion to Microsoft](http://www.ssw.com.au/ssw/standards/BetterSoftwareSuggestions/sharepoint.aspx#PopupForm).
+

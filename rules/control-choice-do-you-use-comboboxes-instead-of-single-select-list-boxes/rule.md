@@ -22,20 +22,21 @@ ComboBoxes are better than List Boxes  **for data entry** because:
 
 
 ::: bad  
-![Figure: Bad Example - Using list boxes](../../assets/ListBoxesAreEvil\_SingleSelectBad.gif)  
+![Figure: Bad Example - Using list boxes](/rules/control-choice-do-you-use-comboboxes-instead-of-single-select-list-boxes/ListBoxesAreEvil_SingleSelectBad.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Using ComboBoxes - takes up less screen space and the required field indication is easy to see](../../assets/ListBoxesAreEvil\_SingleSelectGood.gif)  
+![Figure: Good Example - Using ComboBoxes - takes up less screen space and the required field indication is easy to see](/rules/control-choice-do-you-use-comboboxes-instead-of-single-select-list-boxes/ListBoxesAreEvil_SingleSelectGood.gif)  
 :::
 
  **Note: When are single-select list boxes OK?** 
 
 As mentioned before, there are exceptions to this rule. It would be hard to imagine the Include/Exclude boxes in the SQL Server Enterprise Manager's Server Registration Wizard being handled with ComboBoxes, for example.
 
-![Figure: Include/Exclude Listboxes are an example of a valid use for List Boxes](../../assets/ListBoxesAreEvil\_ExceptForThisOne.gif)  
+![Figure: Include/Exclude Listboxes are an example of a valid use for List Boxes](/rules/control-choice-do-you-use-comboboxes-instead-of-single-select-list-boxes/ListBoxesAreEvil_ExceptForThisOne.gif)  
 
 
 | We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/) to check for this rule. |
 | --- |
+

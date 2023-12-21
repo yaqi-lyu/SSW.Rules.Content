@@ -19,9 +19,10 @@ Most people will be accessing your website from their mobile phone, so it’s re
 <!--endintro-->
 
 ::: bad
-![Figure: Bad Example – this page is not mobile-friendly at all  ](not mobile friendly.png)
+![Figure: Bad Example – this page is not mobile-friendly at all  ](/rules/do-you-have-a-mobile-friendly-website1/not /rules/do-you-have-a-mobile-friendly-website1/mobile friendly.png)
 :::
 
 ::: good
-![Good example – our page is really mobile friendly! :)](mobile friendly.png)
+![Good example – our page is really mobile friendly! :)](/rules/do-you-have-a-mobile-friendly-website1/mobile friendly.png)
 :::
+

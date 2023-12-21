@@ -29,14 +29,14 @@ Dynamics 365 has Customer Voice Surveys to harness this, and it is included with
 It can also be added as a standalone product if you don’t already have it.
 
 ::: bad
-![Figure: Bad Example - The email a client could receive](survey-email.png)
+![Figure: Bad Example - The email a client could receive](/rules/use-customer-voice-for-feedback-surveys/survey-email.png)
 :::
 
 ::: good
-![Figure: Good Example - It is clear who sent the survey request, how to access the survey and where to find information about the company sending the message ](good-survey-email.png)
+![Figure: Good Example - It is clear who sent the survey request, how to access the survey and where to find information about the company sending the message ](good-/rules/use-customer-voice-for-feedback-surveys/survey-email.png)
 :::
 
-![Figure: Example survey if they click through](survey.png)
+![Figure: Example survey if they click through](/rules/use-customer-voice-for-feedback-surveys/survey.png)
 
 ### Creating the Survey
 
@@ -56,7 +56,7 @@ Surveys can be sent manually, but for consistent value, you should have automate
 
 Note: Avoid sending these at high pressure points, when you're already asking them for a decision, e.g. too early in the sales process. 
 
-![Figure: Set up triggers to send out the surveys](workflow.png)
+![Figure: Set up triggers to send out the surveys](/rules/use-customer-voice-for-feedback-surveys/workflow.png)
 
 ### Receiving Responses
 
@@ -64,8 +64,9 @@ The survey responses are viewable in the Dynamics | Survey Responses section, an
 
 Or you can see individual responses from their respective Account’s page.
 
-![Figure: Customer Voice Survey section of Dynamics showing Survey Responses all together](customer-voice-responses-together.png)
+![Figure: Customer Voice Survey section of Dynamics showing Survey Responses all together](/rules/use-customer-voice-for-feedback-surveys/customer-voice-responses-together.png)
 
 If you’re a company that cares more about qualitative information than quantitative (e.g. you run few large projects rather than many small ones), then it’s a good idea to also make sure you set up email notifications when responses come in so that you don’t miss them, and you can analyze each one individually.
 
-![Figure: Email notification](customer-voice-email-notification.png)
+![Figure: Email notification](/rules/use-customer-voice-for-feedback-surveys/customer-voice-email-notification.png)
+

@@ -20,4 +20,5 @@ It's OK to use text because it's more natural, but use columns if you need:
 
 <!--endintro-->
 
-![Figure: While text looks friendlier, in terms of presenting data it's not the easiest to read](../../assets/ColumnsText.jpg)
+![Figure: While text looks friendlier, in terms of presenting data it's not the easiest to read](/rules/column-data-do-you-know-when-to-use-columns-or-text/ColumnsText.jpg)
+

@@ -24,8 +24,9 @@ Use a table to summarize the major features of the project. Columns that are nee
 
 <!--endintro-->
 
-![Figure: Highlight the option recommended](Proposals\_OptionAHighlighted.jpg)  
+![Figure: Highlight the option recommended](/rules/have-a-table-summarizing-the-major-features-and-options/Proposals_OptionAHighlighted.jpg)  
 
 ### Related Rule
 
 * [Teamwork - Do you manage up? (Give a recommendation)](/do-you-manage-up)
+

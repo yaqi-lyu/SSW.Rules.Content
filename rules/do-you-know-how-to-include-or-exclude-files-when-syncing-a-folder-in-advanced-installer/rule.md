@@ -33,14 +33,15 @@ Here is how you do it:
        **OK** on each screen
 
 
-![Figure: Edit Filters dialog](installers-include-exclude-1.jpg)  
+![Figure: Edit Filters dialog](/rules/do-you-know-how-to-include-or-exclude-files-when-syncing-a-folder-in-advanced-installer/installers-include-exclude-1.jpg)  
 
 
 ::: bad  
-![Figure: Bad Example - Synced folder contains files that are not supposed to be deployed](installers-include-exclude-2.jpg)  
+![Figure: Bad Example - Synced folder contains files that are not supposed to be deployed](/rules/do-you-know-how-to-include-or-exclude-files-when-syncing-a-folder-in-advanced-installer/installers-include-exclude-2.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Synced folder is filtered so that it includes only files we want to deploy](installers-include-exclude-3.jpg)  
+![Figure: Good Example - Synced folder is filtered so that it includes only files we want to deploy](/rules/do-you-know-how-to-include-or-exclude-files-when-syncing-a-folder-in-advanced-installer/installers-include-exclude-3.jpg)  
 :::
+

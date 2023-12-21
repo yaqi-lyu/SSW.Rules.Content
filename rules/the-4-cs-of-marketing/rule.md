@@ -20,4 +20,5 @@ The 4 C’s of marketing can be broken down into Consumer wants and needs, Cost,
 
 The 4 P’s focus on a seller-oriented marketing strategy, which can be extremely effective for sales. However, the 4 C’s offer a more consumer-based perspective on the marketing strategy.
 
-![Figure: 4 C's of Marketing will help you segment your target market](4-cs-mkt.png)
+![Figure: 4 C's of Marketing will help you segment your target market](/rules/the-4-cs-of-marketing/4-cs-mkt.png)
+

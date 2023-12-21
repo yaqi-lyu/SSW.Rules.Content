@@ -29,11 +29,11 @@ Bad points:
 * Customizing – Cant be customized
            
 ::: bad
-![Figure: Bad example – Viewing](sharepoint-nav-bad1.png)
+![Figure: Bad example – Viewing](/rules/best-sharepoint-navigation/sharepoint-nav-bad1.png)
 :::
 
 ::: bad
-![Figure: Bad Example - Editing (No customizations)](sharepoint-nav-bad2.png)
+![Figure: Bad Example - Editing (No customizations)](/rules/best-sharepoint-navigation/sharepoint-nav-bad2.png)
 :::
 
 ### Web links – SharePoint web part
@@ -55,5 +55,6 @@ Figure: Good example – Customizing is easy
 :::
 
 ::: good
-![Figure: Good example – Custom icons and built-in icons that look nice](sharepoint-nav-good.png)
+![Figure: Good example – Custom icons and built-in icons that look nice](/rules/best-sharepoint-navigation/sharepoint-nav-good.png)
 :::
+

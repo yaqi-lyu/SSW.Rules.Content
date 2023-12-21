@@ -22,10 +22,11 @@ Select the element "SSW Internal Block" to show content only internally.
 
 <!--endintro-->
 
-![Figure: Use this "SSW Internal Block" style to insert a section for "SSW Only" content](internal-only.jpg)  
+![Figure: Use this "SSW Internal Block" style to insert a section for "SSW Only" content](/rules/add-ssw-only-content/internal-only.jpg)  
 
-![Figure: When signed in, you can see "ssw only" content](ssw-only-signedin.jpg)  
+![Figure: When signed in, you can see "ssw only" content](/rules/add-ssw-only-content/ssw-only-signedin.jpg)  
 
-![Figure: When signed off, you cannot  see "ssw only" content](ssw-only-signedoff.jpg)  
+![Figure: When signed off, you cannot  see "ssw only" content](/rules/add-ssw-only-content/ssw-only-signedoff.jpg)  
 
 **Note:** We have "SSW only content block" feature, however, Rules.SSW is a public website, which means technically the content is accessible through API, so please do not use it for confidential or sensitive info.
+

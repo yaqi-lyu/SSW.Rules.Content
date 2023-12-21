@@ -27,7 +27,7 @@ Figure: Bad example - Using T-SQL to restore your database
 :::
 
 ::: good  
-![Figure: Good example - Using the built-in SQL Azure Database automatic backup system to restore your database](Azure-restore.jpg)  
+![Figure: Good example - Using the built-in SQL Azure Database automatic backup system to restore your database](/rules/do-you-know-how-to-backup-data-on-sql-azure/Azure-restore.jpg)  
 :::
 
 Azure SQL Database automatically creates backups of every active database using the following schedule: Full database backup once a week, differential database backups once a day, and transaction log backups every 5 minutes. The full and differential backups are replicated across regions to ensure the availability of the backups in the event of a disaster.
@@ -54,3 +54,4 @@ Backup storage is the storage associated with your automated database backups th
 **Other ways to back up Azure SQL Database:**
 
 * Microsoft Blog - [Different ways to Backup your Windows Azure SQL Database](https://daoudisamir.com/different-ways-backup-windows-azure-sql-database/)
+

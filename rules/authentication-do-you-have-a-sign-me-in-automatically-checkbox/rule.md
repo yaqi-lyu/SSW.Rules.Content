@@ -19,7 +19,8 @@ When you present visitors to your site with an opportunity to sign in, you shoul
 
 
 ::: good  
-![Figure: 'Stay signed in' checkbox is available](signin.jpg)  
+![Figure: 'Stay signed in' checkbox is available](/rules/authentication-do-you-have-a-sign-me-in-automatically-checkbox/signin.jpg)  
 :::
 
 This should be implemented simply by using a checkbox. A cookie should be stored on the user's computer so that next time they visit your site the sign in process is automatic.
+

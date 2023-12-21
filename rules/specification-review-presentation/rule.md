@@ -22,7 +22,7 @@ The findings of the Spec Review should be presented by the developers and the Ac
 
 <!--endintro-->
 
-![Figure: It's a lot easier to get a signature when you've got the right people in the room](spec-review-desision-makers.jpg)  
+![Figure: It's a lot easier to get a signature when you've got the right people in the room](/rules/specification-review-presentation/spec-review-desision-makers.jpg)  
 
 If you've run the Spec Review successfully the client should not be surprised by anything you present. This means discussions should focus on issues such as what particular requirements could be added into the scope for the MVP, or what releases can be completed by what date, rather than spending the meeting helping the client regain consciousness after they blacked out from seeing the price.
 
@@ -55,7 +55,7 @@ Figure: Good example – this is an appointment with a specific time for the nex
 * **Option C** - PowerPoint presentation (if they are the decision maker, and they don't want a doc)
 
 ::: good  
-![Figure: Good example - Export your PowerPoint presentation as a video](pptx-to-video.png)  
+![Figure: Good example - Export your PowerPoint presentation as a video](/rules/specification-review-presentation/pptx-to-video.png)  
 :::
 
 * **Option D** - Video of PowerPoint presentation with narrations **exported to a video** (the best option to gather more feedback, you can even gather public feedback E.g. PointBank https://sswconsulting.github.io/PointBank/)
@@ -79,3 +79,4 @@ Figure: Good example – FireBootCamp - TimePro Invoicing Specification Video
 :::
 
 Once again, the presentation needs to pass a '[Test Please](/conduct-a-test-please-internally-and-then-with-the-client)' from another senior employee before the meeting takes place.
+

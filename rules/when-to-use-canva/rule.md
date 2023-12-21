@@ -36,7 +36,7 @@ Do not use AI-generated images for social media content, as the current quality 
 :::
 
 ::: bad
-![﻿Figure: Bad example - Using Canva for a complex design](screenshot-2023-12-14-101802.png)
+![﻿Figure: Bad example - Using Canva for a complex design](/rules/when-to-use-canva/screenshot-2023-12-14-101802.png)
 :::
 
 ### Use Canva for simple memes on social media
@@ -44,5 +44,6 @@ Do not use AI-generated images for social media content, as the current quality 
 Canva is great for creating memes due to its vast library of images, icons, and easy-to-use text overlay features. When crafting memes for social media, Canva’s templates can be a quick and effective starting point.
 
 ::: good
-![Figure: Good example - Canva to create simple memes](good-meme.png)
+![Figure: Good example - Canva to create simple memes](/rules/when-to-use-canva/good-meme.png)
 :::
+

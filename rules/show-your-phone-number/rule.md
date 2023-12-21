@@ -21,15 +21,15 @@ Using instant messages applications is all about communication. If something is 
 Make it easy for them by adding your phone number to your Skype profile.
 
 ::: bad
-![Figure: Bad example - To contact this person via the phone I will have to ask them for their number](Bad-Example-no-number.jpg)
+![Figure: Bad example - To contact this person via the phone I will have to ask them for their number](/rules/show-your-phone-number/Bad-Example-no-number.jpg)
 :::
 
 ::: good
-![Figure: Good example - People are showing their phone numbers to allow urgent issues to be resolved](Good-Example-numbers-listed.jpg)
+![Figure: Good example - People are showing their phone numbers to allow urgent issues to be resolved](/rules/show-your-phone-number/Good-Example-numbers-listed.jpg)
 :::
 
 **Note:** Before you make phone calls, see [Do you prepare, then confirm conversations/decisions?](/do-you-prepare-then-confirm-conversations-decisions)
 
 ### Teams
 
-![Figure: Phone number is easy to access in Microsoft Teams' profiles](teams-phone-number.png)
+![Figure: Phone number is easy to access in Microsoft Teams' profiles](/rules/show-your-phone-number/teams-phone-number.png)

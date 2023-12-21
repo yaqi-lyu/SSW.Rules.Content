@@ -36,14 +36,15 @@ This also works better for Service Calendar syncing, as you can see what each pe
 
 
 ::: bad  
-![Figure: Bad Example – If a change is needed on Tuesday’s booking, there will an issue](recurring-appointment-bad.png)  
+![Figure: Bad Example – If a change is needed on Tuesday’s booking, there will an issue](/rules/when-to-use-all-day-events-or-start-and-end-times-with-recurrence/recurring-appointment-bad.png)  
 :::
 
 
 ::: good  
-![Figure: Good Example – Easy to alter any individual day as needed](recurring-appointment-good.png)  
+![Figure: Good Example – Easy to alter any individual day as needed](/rules/when-to-use-all-day-events-or-start-and-end-times-with-recurrence/recurring-appointment-good.png)  
 :::
 
 **For Leave**
 
 Leave appointments are the one time when it's actually useful to have the appointment out of the way up the top in your calendar, so "All Day" appointments are better for this.
+

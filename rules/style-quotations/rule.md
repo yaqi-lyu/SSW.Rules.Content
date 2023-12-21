@@ -40,9 +40,10 @@ Figure: Good example - The quotation on a new line and indenting
 You should always indent any quotes that you use on a new line.
 
 ::: bad
-![Figure: Bad example - It is hard to tell where the quote is](bad-example-adding-quotations.jpg)
+![Figure: Bad example - It is hard to tell where the quote is](/rules/style-quotations/bad-example-adding-quotations.jpg)
 :::
 
 ::: good
-![Figure: Good example - It is obvious that this is a quote and it is laid out nicely](good-example-adding-quotations.jpg)
+![Figure: Good example - It is obvious that this is a quote and it is laid out nicely](/rules/style-quotations/good-example-adding-quotations.jpg)
 :::
+

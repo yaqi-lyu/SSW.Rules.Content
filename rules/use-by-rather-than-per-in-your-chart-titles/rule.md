@@ -24,10 +24,11 @@ Power BI shows "XXX by YYY" (e.g. total earnings by month) rather than "XXX per 
 
 
 ::: bad  
-![Figure: Bad example - Using "per"](by-per-bad.jpg)  
+![Figure: Bad example - Using "per"](/rules/use-by-rather-than-per-in-your-chart-titles/by-per-bad.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example - Using "by"](by-per-good.jpg)  
+![Figure: Good example - Using "by"](/rules/use-by-rather-than-per-in-your-chart-titles/by-per-good.jpg)  
 :::
+

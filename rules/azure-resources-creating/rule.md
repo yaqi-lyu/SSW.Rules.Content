@@ -33,7 +33,7 @@ This is the most common and the worst. This is bad because it requires manual ef
 * Create resources in Azure and not save a script
 
 ::: bad
-![Figure (animated gif): Bad example - Creating resources manually](azure resources.gif)
+![Figure (animated gif): Bad example - Creating resources manually](/rules/azure-resources-creating/azure resources.gif)
 :::
 
 ### Manually creating and saving the script
@@ -41,11 +41,11 @@ This is the most common and the worst. This is bad because it requires manual ef
 Some people half solve the problem by manually creating and saving the script. This is also bad because it’s like eating ice cream and brushing your teeth – it doesn’t solve the **health** problem.
 
 ::: bad
-![Figure: Bad example – Exporting your Resource Group as an ARM template defined in JSON](azure-bad-1.png)
+![Figure: Bad example – Exporting your Resource Group as an ARM template defined in JSON](/rules/azure-resources-creating/azure-bad-1.png)
 :::
 
 ::: bad
-![Figure: Warning - The templates are crazy verbose. They often don't work and need to be manually tweaked](azure-bad-2.png)
+![Figure: Warning - The templates are crazy verbose. They often don't work and need to be manually tweaked](/rules/azure-resources-creating/azure-bad-2.png)
 :::
 
 ::: greybox
@@ -68,7 +68,7 @@ So if you aren't manually creating your Azure resources, what options do you hav
 
 ### Option B: Bicep by Microsoft (recommended)
 
-![](BicepLogoImage.png)
+![](/rules/azure-resources-creating/BicepLogoImage.png)
 
 [Bicep - a declarative language for describing and deploying Azure resources](https://github.com/Azure/bicep)
 
@@ -89,7 +89,7 @@ So if you aren't manually creating your Azure resources, what options do you hav
 **Example Bicep files:** [Fullstack Webapp made with Bicep](https://github.com/william-liebenberg/BicepFlex)
 
 ::: good
-![Figure: Good example - Author your own Bicep templates in Visual Studio Code using the Bicep Extension](Bicep.png)
+![Figure: Good example - Author your own Bicep templates in Visual Studio Code using the Bicep Extension](/rules/azure-resources-creating/Bicep.png)
 :::
 
 ### Option C: Enterprise configuration management $$$
@@ -104,13 +104,14 @@ The other option when moving to an automated Infrastructure as Code (IaC) soluti
 * Pulumi uses real code (C#, TypeScript, Go, and Python) as infrastructure rather than JSON/YAML
 
 ::: good
-![Figure: Good example - Code from the Pulumi Azure NextGen provider demo with Azure resources defined in C#](pulumi3.png)
+![Figure: Good example - Code from the Pulumi Azure NextGen provider demo with Azure resources defined in C#](/rules/azure-resources-creating/pulumi3.png)
 :::
 
 ::: good
-![Figure: Good example - From the console simply run 'pulumi up' to deploy your resources to Azure](pulumi2.png)
+![Figure: Good example - From the console simply run 'pulumi up' to deploy your resources to Azure](/rules/azure-resources-creating/pulumi2.png)
 :::
 
 ::: info
 **Tip:** After you’ve made your changes, don’t forget to [visualize your new resources](/azure-resources-visualizing).
 :::
+

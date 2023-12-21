@@ -22,10 +22,11 @@ It's a good idea to make sure your page names are consistent       between:
 
 
 ::: bad  
-![Figure: Bad example - Inconsistency everywhere!](../../assets/BadPageName.jpg)  
+![Figure: Bad example - Inconsistency everywhere!](/rules/do-you-make-sure-your-page-name-is-consistent-in-three-places/BadPageName.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example - Title, Header and Navigation Menu item have the same text.](../../assets/GoodPageName.jpg)  
+![Figure: Good example - Title, Header and Navigation Menu item have the same text.](/rules/do-you-make-sure-your-page-name-is-consistent-in-three-places/GoodPageName.jpg)  
 :::
+

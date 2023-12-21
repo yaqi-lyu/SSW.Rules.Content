@@ -23,13 +23,13 @@ This structure can be used with images, videos, pieces of code, or text in boxes
 Giving the bad example first will raise users' expectation...
 
 ::: bad  
-![Figure: Bad example - Kid not in his seat](ImageBadExample.gif)  
+![Figure: Bad example - Kid not in his seat](/rules/use-bad-and-good-examples/ImageBadExample.gif)  
 :::
 
 Then showing the solution by giving a good example as the result, will make them feel released.
 
 ::: good  
-![Figure: Good example - Kid in his seat](kid-in-airplane-seat.jpg)  
+![Figure: Good example - Kid in his seat](/rules/use-bad-and-good-examples/kid-in-airplane-seat.jpg)  
 :::
 
 Usually, further information on how to achive the good example is added **after** the examples. E.g. Add a heading "More information" with extra details.
@@ -37,3 +37,4 @@ Usually, further information on how to achive the good example is added **after*
 ::: info
 You may also use ["OK" examples](/rule/#7-captions) for things that are acceptable but can be done better.
 :::
+

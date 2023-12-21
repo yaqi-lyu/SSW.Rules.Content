@@ -29,7 +29,7 @@ These groups are created and managed within an organization's local network, usi
 
 ***NOTE: AD groups sync to Microsoft 365 (cloud), but Microsoft 365 groups don't sync back to AD*** 
 
-![Figure: Choosing a group type in On-Premises Active Directory ](on-prem-group.jpg)
+![Figure: Choosing a group type in On-Premises Active Directory ](/rules/groups-in-microsoft-365/on-prem-group.jpg)
 
 ### Microsoft 365 groups
 
@@ -44,7 +44,7 @@ The groups available in Microsoft 365 are:
 5. Shared mailboxes
 6. Dynamic distribution groups
 
-![Figure: Choosing a group type in Microsoft 365](m365-groups.png)
+![Figure: Choosing a group type in Microsoft 365](/rules/groups-in-microsoft-365/m365-groups.png)
 
 ### Microsoft 365 Groups
 
@@ -74,7 +74,7 @@ Shared mailboxes are used when multiple people need to access the same mailbox. 
 
 Shared mailboxes are also useful as they give you a mailbox without taking up one of your Exchange online licences.
 
-![Figure: Shared mailboxes are created in their own section under the Teams & groups heading](shared-mailboxes.png)
+![Figure: Shared mailboxes are created in their own section under the Teams & groups heading](/rules/groups-in-microsoft-365/shared-mailboxes.png)
 
 ### Dynamic distribution groups
 
@@ -85,3 +85,4 @@ Unlike regular distribution groups that contain a defined set of members, the me
 - - -
 
 You can read more about groups in Microsoft 365 in [Microsoft's documentation](https://learn.microsoft.com/en-us/microsoft-365/admin/create-groups/compare-groups?view=o365-worldwide).
+

@@ -14,7 +14,7 @@ If you are checking your sites permissions regularly you will probably notice a 
 
 :::bad
 
-![Figure: Some items may have unique permissions](uniquepermissions.png)
+![Figure: Some items may have unique permissions](/rules/change-link-sharing-default-behaviour/uniquepermissions.png)
 :::
 
 The default "Copy Link" setting in SharePoint is usually set to "People from your organization can view this document".  This creates a unique sharing link each time it is used, giving people access to the file even if they didn't already.
@@ -27,10 +27,10 @@ To fix the issue you need to change the default sharing method.  There are 2 way
 ## Method 1 - Manually via SharePoint Admin GUI
 
 1. In the SharePoint Admin site select the SharePoint site and click Sharing
-   ![Figure: Select Sharing](defaultsharinglinktype1.png)
+   ![Figure: Select Sharing](/rules/change-link-sharing-default-behaviour/defaultsharinglinktype1.png)
 
 2. Untick same as organization-level setting | Select People with existing access | Click Save
-   ![Figure: Select people with existing access](defaultsharinglinktype2.png)
+   ![Figure: Select people with existing access](/rules/change-link-sharing-default-behaviour/defaultsharinglinktype2.png)
 
 3. Repeat for each site
 
@@ -60,3 +60,4 @@ foreach ($Url in $Hub)
 ```
 
 **Figure: PowerShell to change default link sharing behaviour that affects security**
+

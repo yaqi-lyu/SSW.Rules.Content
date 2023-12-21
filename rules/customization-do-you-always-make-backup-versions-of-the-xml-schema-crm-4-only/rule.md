@@ -18,7 +18,7 @@ When the XML schema is published it re-generates the underlying SQL and .aspx co
 
 <!--endintro-->
 
-![Figure: Export customizations as backup](CRM\_CustomizationPane.jpg)  
+![Figure: Export customizations as backup](/rules/customization-do-you-always-make-backup-versions-of-the-xml-schema-crm-4-only/CRM_CustomizationPane.jpg)  
 
 **Tip #1:** Export only the customizations of entities that you customize and keep each entity customizations in a separate file, see the rule:[Customization](/customization-do-you-only-export-the-customizations-and-related-ones-that-you-have-made-only-for-crm-4-0) - Do you export only the customizations of entities that you did customize?
 
@@ -27,3 +27,4 @@ When the XML schema is published it re-generates the underlying SQL and .aspx co
 **Tip #3:** don't save this on the Dev Virtual Machine.
 
 In CRM 2011 we use Solutions and TFS Source Control.
+

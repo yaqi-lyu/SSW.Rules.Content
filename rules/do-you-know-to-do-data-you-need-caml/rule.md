@@ -72,7 +72,7 @@ Problems with CAML:
 2. SharePoint is not good at telling you if you made a mistake with your CAML query.         
 
 ::: bad  
-![Figure: Debug error message](CAMLError.png)  
+![Figure: Debug error message](/rules/do-you-know-to-do-data-you-need-caml/CAMLError.png)  
 :::
  
 3. Hard to debug.
@@ -80,7 +80,8 @@ Problems with CAML:
 **Tip:** Use 3rd Party tools - U2U CAML Query Builder
             
 ::: good  
-![Figure: U2U CAML Query Builder](U2U.png)  
+![Figure: U2U CAML Query Builder](/rules/do-you-know-to-do-data-you-need-caml/U2U.png)  
 :::
 
 **Note:** U2U CAML Builder is the best tool that we have. There are some occasional UI and interface issues, but for creating CAML and testing it against live SharePoint lists it gets the job done. And it’s free!
+

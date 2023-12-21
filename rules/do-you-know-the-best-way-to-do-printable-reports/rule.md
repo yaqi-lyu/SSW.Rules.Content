@@ -17,20 +17,20 @@ redirects: []
 
 Making reports on websites printable can be difficult. While there are CSS media and rules to help make pages printable, there are always issues with page breaks, browser quirks and tables.  
 
-![Figure: Beautiful HTML report](print-reports-bad-1.png)  
+![Figure: Beautiful HTML report](/rules/do-you-know-the-best-way-to-do-printable-reports/print-reports-bad-1.png)  
 
 <!--endintro-->
 
 
 ::: bad  
-![Figure: Bad Example – The printed layout looks nothing like the HTML](print-reports-bad-2.png)  
+![Figure: Bad Example – The printed layout looks nothing like the HTML](/rules/do-you-know-the-best-way-to-do-printable-reports/print-reports-bad-2.png)  
 :::
 
-![Figure: Beautiful PowerBI HTML report](print-reports-bad-3.png)  
+![Figure: Beautiful PowerBI HTML report](/rules/do-you-know-the-best-way-to-do-printable-reports/print-reports-bad-3.png)  
 
 
 ::: bad  
-![Figure: Bad example – PowerBI print preview scales everything down to fit on a page, you have no real control over how things flow onto multiple pages](print-reports-bad-4.png)  
+![Figure: Bad example – PowerBI print preview scales everything down to fit on a page, you have no real control over how things flow onto multiple pages](/rules/do-you-know-the-best-way-to-do-printable-reports/print-reports-bad-4.png)  
 :::
 
 The best and most accurate print solution is to use SQL Server Reporting Services (SSRS). You can use SQL Server Reporting Services in MVC even though its only supported by WebForms.
@@ -41,11 +41,11 @@ With an iframe and a little bit of code, your reports can also be viewed in your
 
 In your MVC project, add a new item of type WebForm.
 
-![Figure: Add a new WebForm](16-06-2014 10-44-12 AM.png)  
+![Figure: Add a new WebForm](/rules/do-you-know-the-best-way-to-do-printable-reports/16-06-2014 10-44-12 AM.png)  
 
 Then add the ReportViewer control to the WebForm.
 
-![Figure: Add the ReportViewer control](16-06-2014 10-46-58 AM.png)  
+![Figure: Add the ReportViewer control](/rules/do-you-know-the-best-way-to-do-printable-reports/16-06-2014 10-46-58 AM.png)  
 
 In the View you want to display the report in, add an iframe pointing to your WebForm.
 
@@ -53,16 +53,18 @@ Tie them together, by getting your report parameters from the MVC page and appen
 
 (The below example uses JavaScript to execute this part from user input)
 
-![Figure: Add an iframe](16-06-2014 10-50-55 AM.png)  
+![Figure: Add an iframe](/rules/do-you-know-the-best-way-to-do-printable-reports/16-06-2014 10-50-55 AM.png)  
 
 Now you have your SSRS report in your MVC application.
 
-![Figure: The final report in an MVC application](17-06-2014 8-33-37 AM.png)  
+![Figure: The final report in an MVC application](/rules/do-you-know-the-best-way-to-do-printable-reports/17-06-2014 8-33-37 AM.png)  
 
-![Figure: Export your report with the in-build SSRS functionality](16-06-2014 10-38-51 AM.png)  
+![Figure: Export your report with the in-build SSRS functionality](/rules/do-you-know-the-best-way-to-do-printable-reports/16-06-2014 10-38-51 AM.png)  
 
 ### When using Web-API the method above is difficult and time-consuming!
 
-![](2015-04-29\_10-09-56-compressor.png)  
+![](/rules/do-you-know-the-best-way-to-do-printable-reports/2015-04-29_10-09-56-compressor.png)  
 
 The easy solution is to render the report within the API and return it to the user  as a pdf. For an example of how to implement the functionality, read the following series  of articles on ['Integrating SSRS Web-API and AngularJS'](http://blog.chrisbriggsy.com/the-first-step-towards-integration/).
+
+

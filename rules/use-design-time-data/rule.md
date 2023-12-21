@@ -21,7 +21,7 @@ The XAML previewer in Visual Studio is a useful tool for designing your Xamarin 
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - screenshot of XAML previewer with blank controls](design-time-bad.png)  
+![Figure: Bad example - screenshot of XAML previewer with blank controls](/rules/use-design-time-data/design-time-bad.png)  
 :::
 
 A simple solution to this problem is to use design-time data. By importing the relevant namespaces into your XAML file, you can specify placeholder data that the previewer interprets to show how your UI will render with data loaded.
@@ -34,7 +34,8 @@ xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
 mc:Ignorable="d"
 ```
 ::: good  
-![Figure: Good example - screenshot of XAML previewer with design-time data](design-time-good.png)  
+![Figure: Good example - screenshot of XAML previewer with design-time data](/rules/use-design-time-data/design-time-good.png)  
 :::
 
 If your Xamarin and Visual Studio versions are up to date these namespaces will automatically be included in any new XAML file.
+

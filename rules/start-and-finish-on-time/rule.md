@@ -18,4 +18,5 @@ Always start your meetings on time. Especially for meetings that are regular, as
 
 You can (and should) still have a few minutes of informal conversation at the beginning and end of each meeting, but don’t let it get out of hand.
 
-![](meetings-comic.jpeg)
+![](/rules/start-and-finish-on-time/meetings-comic.jpeg)
+

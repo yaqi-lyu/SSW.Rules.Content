@@ -19,5 +19,6 @@ Don't surprise users! Put a lock icon                                          t
 
 
 ::: bad  
-![Figure: Bad Example - because when you click "Building 100" you get a password prompt as a surprise](../../assets/PasswordProtectedPagesNeedKey.gif)  
+![Figure: Bad Example - because when you click "Building 100" you get a password prompt as a surprise](/rules/do-you-use-an-icon-so-a-password-prompt-should-never-be-a-surprise/PasswordProtectedPagesNeedKey.gif)  
 :::
+

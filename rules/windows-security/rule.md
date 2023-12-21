@@ -16,4 +16,5 @@ Often users don't know how to properly secure their computer and open themselves
 
 The most important aspect of Windows Security is to check that you have the 5 green ticks. These ticks mean your computer is following the best practices for security.
 
-![Figure: You want green ticks on these 5 settings](windowssecurity.png)
+![Figure: You want green ticks on these 5 settings](/rules/windows-security/windowssecurity.png)
+

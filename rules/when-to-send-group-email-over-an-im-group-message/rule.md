@@ -21,17 +21,18 @@ Large distribution group emails (e.g NorthwindAll@, SSWAll@) should be used for 
 Group emails serve an important purpose in providing information to the entire organization in a way that is less likely to get lost than an Instant Message. It also provides a good method of allowing for a good cross section of staff responses. IM messages are better suited to general comments/information or random posts.
 
 ::: bad
-![Bad example - No information. Not relevant for all staff to see](bad1.png)
+![Bad example - No information. Not relevant for all staff to see](/rules/when-to-send-group-email-over-an-im-group-message/bad1.png)
 :::
 
 ::: bad
-![Bad example - This should have been shared in a group. Not via a group email](bad2.png)
+![Bad example - This should have been shared in a group. Not via a group email](/rules/when-to-send-group-email-over-an-im-group-message/bad2.png)
 :::
 
 ::: good
-![Good example - Clearly talks about an outage that will affect all users](good1.png)
+![Good example - Clearly talks about an outage that will affect all users](/rules/when-to-send-group-email-over-an-im-group-message/good1.png)
 :::
 
 ::: good
-![Good example - Gets the information out to all staff so that they can respond if they can assist](good2.png)
+![Good example - Gets the information out to all staff so that they can respond if they can assist](/rules/when-to-send-group-email-over-an-im-group-message/good2.png)
 :::
+

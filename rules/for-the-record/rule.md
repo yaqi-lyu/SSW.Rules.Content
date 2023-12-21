@@ -26,7 +26,7 @@ Regardless it is important to document disagreements so the client is crystal cl
 “No I don’t recall you disagreed, I thought I gave counter arguments and then I assumed you had agreed with me.”
 :::
 
-![Figure: It's common for people to say "I don't remember you disagreeing with that decision", sending a "for the record" email makes it clear](past-decision-1500x500.jpg) 
+![Figure: It's common for people to say "I don't remember you disagreeing with that decision", sending a "for the record" email makes it clear](/rules/for-the-record/past-decision-1500x500.jpg) 
 
 ::: greybox
 **One war story** 
@@ -107,3 +107,4 @@ Make it clear that your advice is purely technical in nature and not business or
 This is also a good thing to do if you have an [ethical problem](/do-you-only-do-what-you-think-is-right) with a task.
 
 Take some time to complete this ["'For the record' emails" survey](https://forms.office.com/Pages/ResponsePage.aspx?id=NHwvrDW56Uir3BHl1PyysCa8TOGbvXxGkJLSg13sAKhURVdQRVBSUFZINzgxMzVLRlVOUVNDSUpBSiQlQCN0PWcu).
+

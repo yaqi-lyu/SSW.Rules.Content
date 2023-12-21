@@ -19,7 +19,7 @@ The corner stone of good user interface design is that if your users need instru
 * There is no need to use help
 * No excuse for RTFM (read the freaking manual)
 
-![Figure: A good interface does not need instructions!](../../assets/SelfEvident.gif)
+![Figure: A good interface does not need instructions!](/rules/do-you-realize-that-a-good-interface-should-not-require-instructions/SelfEvident.gif)
 
 A good UI is:
 
@@ -38,9 +38,10 @@ A good UI is:
 * [Don’t Make Me Think, Revisited (3rd Edition)](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 
 ::: good
-![Figure: Good example - Teamviewer's interface requires very little explanation](teamviewer-interface.jpeg)
+![Figure: Good example - Teamviewer's interface requires very little explanation](/rules/do-you-realize-that-a-good-interface-should-not-require-instructions/teamviewer-interface.jpeg)
 :::
 
 ::: good
-![Figure: Good example - See the fly? (an example of excellent usability) Dutch manufacturers realized that a fly painted on the urinal became a "target" for men using the facility. And the fly is positioned in precisely the right place for minimal spillage or splash back. Clever people those Dutch!](../../assets/FlyInUrinal.jpg)
+![Figure: Good example - See the fly? (an example of excellent usability) Dutch manufacturers realized that a fly painted on the urinal became a "target" for men using the facility. And the fly is positioned in precisely the right place for minimal spillage or splash back. Clever people those Dutch!](/rules/do-you-realize-that-a-good-interface-should-not-require-instructions/FlyInUrinal.jpg)
 :::
+

@@ -22,5 +22,6 @@ There are a number of reasons you may want to subtitle your video. Sometimes, th
 Use the following:
 
 ::: good
-![Figure: Good example – The text helps people to understand what's being said on the video](subtitle-example.jpg)
+![Figure: Good example – The text helps people to understand what's being said on the video](/rules/production-do-you-know-to-subtitle-your-videos/subtitle-example.jpg)
 :::
+

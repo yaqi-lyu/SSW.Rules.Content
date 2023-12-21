@@ -26,10 +26,11 @@ This way you help your users to access the information they need and help themse
 
 **Step 2:** Use a ticket system that supports deflected tickets. Zendesk is the leading solution with deflected tickets. ServiceNow is another good one.
 
-![Figure: You can use Azure Logic Apps with Cognitive Services to implement deflected tickets](azure-logic-deflected-tickets.jpg)  
+![Figure: You can use Azure Logic Apps with Cognitive Services to implement deflected tickets](/rules/ticket-deflection/azure-logic-deflected-tickets.jpg)  
 
 ::: greybox
 **Note:** SSW uses and can [help you with Zendesk](https://www.ssw.com.au/ssw/Consulting/Zendesk.aspx).
 :::
 
 `youtube: https://www.youtube.com/embed/WVpPWxPxs2k`
+

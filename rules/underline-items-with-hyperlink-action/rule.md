@@ -19,21 +19,22 @@ redirects: []
 The Hyperlink Action allows users to navigate between reports smoothly, but users may ignore the navigation functionality in your reports.
 
 ::: bad  
-![Figure: Bad example - No underline for hyperlink item](NoUnderline4Hyperlink.jpg)  
+![Figure: Bad example - No underline for hyperlink item](/rules/underline-items-with-hyperlink-action/No/rules/underline-items-with-hyperlink-action/Underline4Hyperlink.jpg)  
 :::
 
 ::: bad  
-![Figure: Bad example - No underline for the textbox with hyperlink action](NoUnderline4Hyperlink_designer.jpg)  
+![Figure: Bad example - No underline for the textbox with hyperlink action](/rules/underline-items-with-hyperlink-action/No/rules/underline-items-with-hyperlink-action/Underline4Hyperlink_designer.jpg)  
 :::
 
 With the underline effect on your hyperlink items, it will be easy for users to find the navigation on your reports.
 
 ::: good  
-![Figure: Good example - Underline for hyperlink item](Underline4Hyperlink.jpg)
+![Figure: Good example - Underline for hyperlink item](/rules/underline-items-with-hyperlink-action/Underline4Hyperlink.jpg)
 :::
 
 ::: good  
-![Figure: Good example - Underline for textbox with hyperlink action](Underline4Hyperlink_designer.jpg)
+![Figure: Good example - Underline for textbox with hyperlink action](/rules/underline-items-with-hyperlink-action/Underline4Hyperlink_designer.jpg)
 :::
 
 We have a program called [SSW Code Auditor](https://codeauditor.com/) to check for this rule.
+

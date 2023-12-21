@@ -15,10 +15,11 @@ If the task is for SysAdmins you can send an email to jira@ssw.com.au with the s
 
 A better way, and the way it must be done for all other projects, is to [create an issue](/do-you-know-how-to-create-issues-in-jira) in Jira ......  
 <!--endintro-->
-![](Create Issue1.png) 
+![](/rules/do-you-know-how-to-create-issues-in-jira/Create Issue1.png) 
 
 
-![](CreateIssue2.png)
+![](/rules/do-you-know-how-to-create-issues-in-jira/CreateIssue2.png)
 
 Somebody should quickly acknowledge and priortise it and you can see it in your 
 Once priroritsed, you will be able to [track](/do-you-know-how-to-track-requests-in-jira) it.
+

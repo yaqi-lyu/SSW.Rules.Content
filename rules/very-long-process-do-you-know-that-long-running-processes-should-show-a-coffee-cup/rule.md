@@ -17,10 +17,11 @@ If you are unable to show a progress bar, you should still indicate that it may 
 
 
 ::: bad  
-![Figure: Bad example - An unknown length of time. So let them know](../../assets/UnknownLengthTime.jpg)  
+![Figure: Bad example - An unknown length of time. So let them know](/rules/very-long-process-do-you-know-that-long-running-processes-should-show-a-coffee-cup/UnknownLengthTime.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example – The coffee cup tells the user that they will be here a while](../../assets/CoffeeCup.jpg)  
+![Figure: Good example – The coffee cup tells the user that they will be here a while](/rules/very-long-process-do-you-know-that-long-running-processes-should-show-a-coffee-cup/CoffeeCup.jpg)  
 :::
+

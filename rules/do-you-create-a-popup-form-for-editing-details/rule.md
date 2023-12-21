@@ -17,10 +17,11 @@ If you want to edit a single item in your form we suggest you use a  popup form.
 
 
 ::: bad  
-![Figure: Bad Example - Edit controls and main UI are messed up.](../../assets/NonePopupEditForm.gif)  
+![Figure: Bad Example - Edit controls and main UI are messed up.](/rules/do-you-create-a-popup-form-for-editing-details/NonePopupEditForm.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Use a popup form to do edit.](../../assets/PopupEditForm.gif)  
+![Figure: Good Example - Use a popup form to do edit.](/rules/do-you-create-a-popup-form-for-editing-details/PopupEditForm.gif)  
 :::
+

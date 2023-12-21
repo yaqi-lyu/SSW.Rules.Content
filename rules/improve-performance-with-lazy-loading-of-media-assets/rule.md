@@ -24,21 +24,21 @@ It means the browsers will only load images and embedded videos in the visible a
 On our SSW Rules website, one of the pages’ initial loading size of images reduced from 4.8MB to 500KB after being applied “lazy loading” of images:
 
 ::: bad  
-![Figure: Bad example - Load all images by default](load-images-1.jpg)  
+![Figure: Bad example - Load all images by default](/rules/improve-performance-with-lazy-loading-of-media-assets/load-images-1.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - Do not load all images by default, only load them when they are visible while scrolling down the browsers](load-images-2.jpg)  
+![Figure: Good example - Do not load all images by default, only load them when they are visible while scrolling down the browsers](/rules/improve-performance-with-lazy-loading-of-media-assets/load-images-2.jpg)  
 :::
 
 The page's initial loading size of JS scripts reduced from 2.3MB to 518KB after being applied “lazy loading” of embedded YouTube videos:
 
 ::: bad  
-![Figure: Bad example – Load all embedded YouTube videos by default](load-images-3.jpg)  
+![Figure: Bad example – Load all embedded YouTube videos by default](/rules/improve-performance-with-lazy-loading-of-media-assets/load-images-3.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - Do not load all embedded YouTube videos by default, only load them when they are visible while scrolling down the browsers](load-images-4.jpg)  
+![Figure: Good example - Do not load all embedded YouTube videos by default, only load them when they are visible while scrolling down the browsers](/rules/improve-performance-with-lazy-loading-of-media-assets/load-images-4.jpg)  
 :::
 
 ### Implementing lazy loading for images
@@ -160,3 +160,4 @@ The page's initial loading size of JS scripts reduced from 2.3MB to 518KB after 
     ```
 
 More details can be found at [How to “Lazy Load” Embedded YouTube Videos](https://webdesign.tutsplus.com/how-to-lazy-load-embedded-youtube-videos--cms-26743t).
+

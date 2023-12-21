@@ -19,7 +19,7 @@ With so many different capitalization conventions used in technology names, it c
 
 <!--endintro-->
 
-![Figure: John Bristowe tackled some of the most commonly confused tech names in this tweet](john-bristow-tweet.jpg)  
+![Figure: John Bristowe tackled some of the most commonly confused tech names in this tweet](/rules/use-the-right-capitalization/john-bristow-tweet.jpg)  
 
 The main 5 types used are:
 
@@ -49,9 +49,10 @@ Here’s a quick overview:
 
 
 ::: bad  
-![Figure: Bad example - If you want to be taken seriously as an expert in the subject, you should properly and consistently spell, punctuate, and capitalize the technology you are working with](bad-example-incorrect-capitalization.jpg)  
+![Figure: Bad example - If you want to be taken seriously as an expert in the subject, you should properly and consistently spell, punctuate, and capitalize the technology you are working with](/rules/use-the-right-capitalization/bad-example-incorrect-capitalization.jpg)  
 :::
 
 ::: good  
-![Figure: Good example – the technology is consistently capitalized correctly across the page](good-example-correctly-capitalized.jpg)  
+![Figure: Good example – the technology is consistently capitalized correctly across the page](/rules/use-the-right-capitalization/good-example-correctly-capitalized.jpg)  
 :::
+

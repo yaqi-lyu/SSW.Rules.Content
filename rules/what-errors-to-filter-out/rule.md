@@ -20,12 +20,12 @@ You should always keep on top of your RayGun crashreporting and not let the erro
 
 
 ::: bad  
-![Figure: Bad Example – Most of these errors are 404s cause by automated tools scanning for vulnerabilities](raygun-fileter-bad.png)  
+![Figure: Bad Example – Most of these errors are 404s cause by automated tools scanning for vulnerabilities](/rules/what-errors-to-filter-out/raygun-fileter-bad.png)  
 :::
 
 Luckily RayGun has built-in filtering to hide these frequent exceptions.
 
-![](raygun-filter.png)  
+![](/rules/what-errors-to-filter-out/raygun-filter.png)  
 
 To enable filtering:
 
@@ -40,5 +40,6 @@ Now you should have a nice clean crash report page with actual errors.
 
 
 ::: good  
-![Figure: Good example – Now that the noise is gone, we can see the actual errors](raygun-filter-good.jpg)  
+![Figure: Good example – Now that the noise is gone, we can see the actual errors](/rules/what-errors-to-filter-out/raygun-filter-good.jpg)  
 :::
+

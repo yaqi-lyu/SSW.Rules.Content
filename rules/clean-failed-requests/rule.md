@@ -43,19 +43,19 @@ If that is the case, continue to other requests. As the logs become cleaner, it 
 :::
 
 ::: bad 
-![Figure: Bad example - Default Chart - at least half of requests are irrelevant or spam](bad-example-chart.png)
+![Figure: Bad example - Default Chart - at least half of requests are irrelevant or spam](/rules/clean-failed-requests/bad-example-chart.png)
 :::
 
 ::: good 
-![Figure: Good example - Custom Chart - most of these are real issues](good-example-chart.png)
+![Figure: Good example - Custom Chart - most of these are real issues](/rules/clean-failed-requests/good-example-chart.png)
 :::
 
 ::: bad 
-![Figure: Bad example - Default Table - 5 out of top 8 failed requests are irrelevant or spam](bad-example-table.png)
+![Figure: Bad example - Default Table - 5 out of top 8 failed requests are irrelevant or spam](/rules/clean-failed-requests/bad-example-table.png)
 :::
 
 ::: good 
-![Figure: Good example - Custom Table - all the top failed requests are real issues](good-example-table.png)
+![Figure: Good example - Custom Table - all the top failed requests are real issues](/rules/clean-failed-requests/good-example-table.png)
 :::
 
 ## Clean your Failed Requests
@@ -73,11 +73,12 @@ You can use [Application Dashboard](https://learn.microsoft.com/en-us/azure/azur
 
 Go to Application Insights | Failures | View in Logs | Failed request count. 
 
-![Figure: Access default Failed Requests query - Application Insights | Failures | View in Logs | Failed request count](failed-requests-logs.png)  
+![Figure: Access default Failed Requests query - Application Insights | Failures | View in Logs | Failed request count](/rules/clean-failed-requests/failed-requests-logs.png)  
 
 This will provide you with the default query, that you can customize and test in [Azure Logs](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs), before saving it in Workbooks.
 
-![Figure: Save Azure Logs Query in Workbooks - Pin to | Send to workbook](send-to-workbook.png)  
+![Figure: Save Azure Logs Query in Workbooks - Pin to | Send to workbook](/rules/clean-failed-requests/send-to-workbook.png)  
 :::
 
 When your **Workbook** is ready and the custom query filters out any unwanted failed requests, you just need to pin its chart component to the **Application Dashboard**. If you click on the component from the **Workbook**, that is pinned to the **Application Dashboard**, it will take you inside the workbook. This way, you can use **Workbook** as a drill-down view for your pinned chart.
+

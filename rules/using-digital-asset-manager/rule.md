@@ -47,11 +47,11 @@ While stock footage sites are great for getting high-quality footage for your pr
 6. Finally export each clip individually to your stock library.
 
 ::: bad
-![Figure: Bad example - Untreated clip with unhelpful file name E.g. "ssw-Broll"](dam-bad-example-min.gif)
+![Figure: Bad example - Untreated clip with unhelpful file name E.g. "ssw-Broll"](/rules/using-digital-asset-manager/dam-bad-example-min.gif)
 :::
 
 ::: good
-![Figure: Good example - Treated clip lip with usable section and searchable file name E.g. "2020-01-17-SSW-Brisbane-close-up-over-the-shoulder-jk-dev-talking"](dam-good-example.gif)
+![Figure: Good example - Treated clip lip with usable section and searchable file name E.g. "2020-01-17-SSW-Brisbane-close-up-over-the-shoulder-jk-dev-talking"](/rules/using-digital-asset-manager/dam-good-example.gif)
 :::
 
 From there you can use a digital asset manager like Adobe Bridge to add further metadata information to help with navigating your personal stock footage library.
@@ -90,3 +90,4 @@ You can do this by importing and exporting keywords .XML file for your team to u
 4. To import an existing keyword list, navigate and click on import from the same list. Then select the .XML file you want to import.
 
    ![Figure: Import keywords list](import-scr.png "Figure: Import keywords list")
+

@@ -18,10 +18,11 @@ It is important when creating a new repository, to set it up correctly. Reposito
 
 
 ::: bad  
-![Figure: Bad Example – Without the correct .gitIgnore, files that should not be included in the repository will be added. Without the correct license, your project will either be under-protected or over-protected](create-repository-bad.png)  
+![Figure: Bad Example – Without the correct .gitIgnore, files that should not be included in the repository will be added. Without the correct license, your project will either be under-protected or over-protected](/rules/do-you-know-to-the-requirements-to-create-a-new-repository/create-repository-bad.png)  
 :::
 
 
 ::: good  
-![Figure: Good Example – As well as a good repository name and description, a ReadMe, .gitignore and license will be included in the repository.](create-repository-good.png)  
+![Figure: Good Example – As well as a good repository name and description, a ReadMe, .gitignore and license will be included in the repository.](/rules/do-you-know-to-the-requirements-to-create-a-new-repository/create-repository-good.png)  
 :::
+

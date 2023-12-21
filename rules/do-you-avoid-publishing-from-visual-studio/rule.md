@@ -21,15 +21,16 @@ A better way to deploy is by using a defined Build in TFS.
 
 
 ::: bad  
-![Figure: Bad Example – Using Publish to deploy](test-publish.jpg)  
+![Figure: Bad Example – Using Publish to deploy](/rules/do-you-avoid-publishing-from-visual-studio/test-publish.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example – Queuing a new build to deploy your application](queuing-new-build.jpg)  
+![Figure: Good Example – Queuing a new build to deploy your application](/rules/do-you-avoid-publishing-from-visual-studio/queuing-new-build.jpg)  
 :::
 
 
 ::: good  
-![Figure: Best example – Use continuous integration to trigger your Continuous Deployment build](continuous-integration.jpg)  
+![Figure: Best example – Use continuous integration to trigger your Continuous Deployment build](/rules/do-you-avoid-publishing-from-visual-studio/continuous-integration.jpg)  
 :::
+

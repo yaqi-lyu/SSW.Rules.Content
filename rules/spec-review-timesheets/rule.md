@@ -19,5 +19,6 @@ When a client asks how you are tracking against an estimate, this is always the 
 The naming convention should be "{{ PROJECT NAME }} - Spec Review".
 
 ::: good
-![Figure: Good example - Spec Review costs clearly shown separate from the project costs](spec-review-costs.png)
+![Figure: Good example - Spec Review costs clearly shown separate from the project costs](/rules/spec-review-timesheets/spec-review-costs.png)
 :::
+

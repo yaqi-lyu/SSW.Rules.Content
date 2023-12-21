@@ -31,12 +31,12 @@ Of course, when in a public event such as a User Group, conference or seeing cli
 
 It should go without saying, but of course, things such as shaving off your weekend facial growth, using deodorant and having clean teeth and nice breath is assumed.
 
-![Figure: "There is nothing wrong with being the best-dressed man in the room." - Sean Connery](sean-connery\_dressed-up.jpg)
+![Figure: "There is nothing wrong with being the best-dressed man in the room." - Sean Connery](/rules/do-you-have-a-dress-code/sean-connery_dressed-up.jpg)
 
 ### On a business flight
 
 It's a good idea to "Dress Up" in flights as you never know who you will be seated next to.\
-![Figure: Why dress up in a flight](dresscode-linkedin.PNG)  
+![Figure: Why dress up in a flight](/rules/do-you-have-a-dress-code/dresscode-linkedin.PNG)  
 
 ### Dressing Down (aka Casual Fridays)
 
@@ -51,7 +51,7 @@ Then they **"dress down"** later in the week... so they have **"Casual Thursday"
 * [SSW Dress Code poster download (internal only)](https://sswcom.sharepoint.com/:b:/s/SSWDESIGN/EfVEIVvnUK5EoEE22SnqtskBlSE3nryQTkLDTjsfGrTV-Q?e=xilv3b)
 :::
 
-![Figure: SSW Dress Code poster](SSW-Dresscode-Poster-v2.png)
+![Figure: SSW Dress Code poster](/rules/do-you-have-a-dress-code/SSW-Dresscode-Poster-v2.png)
 
 ### Shorts Days - the cool exception
 
@@ -92,3 +92,5 @@ See the code: <https://github.com/SSWConsulting/SSW.Shorts>
 ::: good
 Figure: Good example - Nice "Shorts Day" email template by SSW.Shorts
 :::
+
+

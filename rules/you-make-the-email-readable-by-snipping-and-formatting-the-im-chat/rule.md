@@ -25,9 +25,10 @@ Snip the relevant information only. You can do this by:
 3. Adding a line break between people and highlighting the person's name in **bold**
 
 ::: bad
-![Figure: Bad example - this IM snip has a lot of unnecessary text that makes it hard to read](Bad-Example-of-IM-snip.jpg) 
+![Figure: Bad example - this IM snip has a lot of unnecessary text that makes it hard to read](/rules/you-make-the-email-readable-by-snipping-and-formatting-the-im-chat/Bad-Example-of-IM-snip.jpg) 
 :::
 
 ::: good
-![Figure: Good example - snipped and formatted](Good-Example-of-IM-snip.jpg) 
+![Figure: Good example - snipped and formatted](/rules/you-make-the-email-readable-by-snipping-and-formatting-the-im-chat/Good-Example-of-IM-snip.jpg) 
 :::
+

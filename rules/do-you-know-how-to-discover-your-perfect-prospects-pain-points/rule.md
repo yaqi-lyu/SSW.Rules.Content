@@ -32,7 +32,7 @@ Use the template below to brainstorm with your team or your client:
 
 
 
-![](Pain Point Pinpointer.png)
+![](/rules/do-you-know-how-to-discover-your-perfect-prospects-pain-points/Pain Point Pinpointer.png)
 
 You have a few some ways of doing this, you can: 
 
@@ -40,3 +40,4 @@ You have a few some ways of doing this, you can:
 * Brainstorm with your employees
 * Research online
 * Ask your clients directly in person, or to have an open conversation through social media (remember to reply and engage with them, though!)
+

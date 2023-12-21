@@ -36,11 +36,11 @@ These abstractions allow you to:
 Read more at [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging)
 
 ::: bad  
-![Figure: Bad example - Using Debug or Trace for logging, or writing hard coded mechanisms for logging does not allow you to configure logging at runtime](trace-logging-bad.jpg)  
+![Figure: Bad example - Using Debug or Trace for logging, or writing hard coded mechanisms for logging does not allow you to configure logging at runtime](/rules/best-trace-logging/trace-logging-bad.jpg)  
 :::
 
 ::: bad  
-![Figure: Bad example - Roll your own logging components lack functionality, and have not been tested as thoroughly for quality or performance as log4net](trace-logging-bad-2.jpg)
+![Figure: Bad example - Roll your own logging components lack functionality, and have not been tested as thoroughly for quality or performance as log4net](/rules/best-trace-logging/trace-logging-bad-2.jpg)
 :::
 
 ```csharp
@@ -51,5 +51,6 @@ Good example - Using templates allows persisting structured log data (DateTime i
 :::
 
 ::: good
-![Figure: Good example - Seq provides a powerful UI for searching and viewing your structured logs](seq2.png)  
+![Figure: Good example - Seq provides a powerful UI for searching and viewing your structured logs](/rules/best-trace-logging/seq2.png)  
 :::
+

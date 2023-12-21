@@ -34,7 +34,7 @@ Git has become the defacto standard for version control systems. It's distribute
 
 VisualStudio.com gives you the ability to import from a TFVC repository into a new Git repository.
 
-![](03_29_08.png)
+![](/rules/do-you-know-the-best-tool-to-migration-from-tfvc-to-git/03_29_08.png)
 
 
 ::: bad
@@ -88,3 +88,4 @@ To see how to use this to migrate see ["Migrate an existing project from TFS to 
 
 Follow the [migration guide](https://github.com/git-tfs/git-tfs/blob/master/doc/usecases/migrate_tfs_to_git.md) to import from TFVC to Git and then proceed with [the after migration steps](/do-you-know-what-to-do-after-migrating-from-tfvc-to-git).
 To help you do a smoother migration, you can refer to this [tool](/tfs-master-do-you-have-a-report-to-see-who-has-not-checked-in).
+

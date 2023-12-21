@@ -36,9 +36,9 @@ Before using Windows Hello for Business, you must ensure that the following requ
 * The user must have an Azure AD account and be registered for Windows Hello for Business.
 
 :::bad
-![Figure: Bad example - Type in the Password to Login](win10-login-user-details-hidden.jpg)
+![Figure: Bad example - Type in the Password to Login](/rules/windows-hello-for-business/win10-login-user-details-hidden.jpg)
 :::
 
 :::good
-![Figure: Good example - Windows Hello for Bussiness setup](windowshello.jpg)
+![Figure: Good example - Windows Hello for Bussiness setup](/rules/windows-hello-for-business/windowshello.jpg)
 :::

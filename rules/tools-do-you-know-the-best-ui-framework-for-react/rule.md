@@ -25,7 +25,7 @@ Ant Design     [https://ant.design](https://ant.design/)
 
 MaterialUI is a set of React Components that Implement the [Google’s Material Design](https://material.io/guidelines/material-design/introduction.html) Guidelines. When it comes to predefined components especially UI, one important thing we need to find is how many UI widgets are available and whether these can be customized with configurations. Material-UI has all components that you need and it is very configurable with a predefined color palette. Material UI is one of the best Reactjs based UI frameworks that have the most refined implementation of Material Design.
 
-![Figure: MaterialUI is a set of React components that implement Google's Material Design](Snipaste\_2019-05-14\_18-04-27.jpg)
+![Figure: MaterialUI is a set of React components that implement Google's Material Design](/rules/tools-do-you-know-the-best-ui-framework-for-react/Snipaste_2019-05-14_18-04-27.jpg)
 
 Get started:        **[react-material-ui-official-docs-example](https://stackblitz.com/edit/react-material-ui-official-docs-example)**
 

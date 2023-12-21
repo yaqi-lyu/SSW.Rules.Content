@@ -20,7 +20,7 @@ Formal meetings can have a "Us vs Them" feel - While the information collected a
 
 <!--endintro-->
 
-![Figure: Use corridor conversations to prevent nasty surprises](ProjectManagement\_Suprise.jpg)
+![Figure: Use corridor conversations to prevent nasty surprises](/rules/corridor-conversations/ProjectManagement_Suprise.jpg)
 
 
 Addressing key potential sticking points of budget and technology informally during the course of the Spec Review relieves the potential for unwelcome surprises during the Spec Review presentation. Canvassing the issues beforehand in casual 'corridor conversations' clears the decks for an agreement, rather than increasing the risk of heated discussions if you surprise a client at a formal meeting. 
@@ -31,3 +31,4 @@ Some other topics that should have corridor conversations are:
 - Key Infrastructure
 
 For example, ask the client *"...building the cube will add around 2 months of development time, shall we leave this out of the current scope, or do you want it in?"*
+

@@ -25,7 +25,7 @@ You should always have two builds on your team project. These should be setup an
 
 <!--endintro-->
 
-![Figure: Two builds named in the format [TeamProject].[Areapath]_[Branch].CI|Nightly for every branch](Builds.jpg)
+![Figure: Two builds named in the format [TeamProject].[Areapath]_[Branch].CI|Nightly for every branch](/rules/do-you-know-the-minimum-builds-to-create-for-your-project/Builds.jpg)
 
 These builds should use the same XAML build workflow; however you may set them up to run a different set of tests depending on the time it takes to run a full build.  
 
@@ -38,15 +38,16 @@ These builds should use the same XAML build workflow; however you may set them u
 
 **Important:** Gate Builds are bad! Some people believe in having a build that stops developers checking in code unless the build succeeds. See our rule on [Do You Know That Gated Checkins Mask Dysfunction?](/do-you-know-that-gated-checkins-mask-dysfunction)
 
-![Figure: You can control what tests are run and what data is collected while they are running](ControlTestAndData.jpg)
+![Figure: You can control what tests are run and what data is collected while they are running](/rules/do-you-know-the-minimum-builds-to-create-for-your-project/ControlTestAndData.jpg)
 **Note:** We do not run all the tests every time because of the time consuming nature of running some tests, but ALL tests should be run overnight.  
 
 **Note:** If you had a really large project with thousands of tests including long running Load tests you may need to add a Weekly build to the mix.  
 
 ::: bad
-![Figure: Bad example - you can't tell what these builds do if they are in a larger list](BuildStatus01.jpg)
+![Figure: Bad example - you can't tell what these builds do if they are in a larger list](/rules/do-you-know-the-minimum-builds-to-create-for-your-project/BuildStatus01.jpg)
 :::
 
 ::: good
-![Figure: Good example - you know exactly what project, branch and type of build these are for](BuildStatus02.jpg) 
+![Figure: Good example - you know exactly what project, branch and type of build these are for](/rules/do-you-know-the-minimum-builds-to-create-for-your-project/BuildStatus02.jpg) 
 :::
+

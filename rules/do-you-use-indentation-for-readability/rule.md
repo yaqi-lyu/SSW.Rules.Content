@@ -110,11 +110,12 @@ Figure: Good example - You can clearly see the context of each part of the reply
 
 When using Markdown (usually on GitHub), use a "&gt;" symbol to achieve a similar result.
 
-![Figure: Indenting tasks in Markdown](markdown-indentation-editor.png)
+![Figure: Indenting tasks in Markdown](/rules/do-you-use-indentation-for-readability/markdown-indentation-editor.png)
 
-![Figure: How it looks](markdown-indentation-preview.png)
+![Figure: How it looks](/rules/do-you-use-indentation-for-readability/markdown-indentation-preview.png)
 
 You can find more info about GitHub Markdown syntax at [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
 **Video:** [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)
+

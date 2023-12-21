@@ -35,15 +35,15 @@ From then on, they would be able to see those appointments in Microsoft Outlook 
 In the past, the best way to do this was to create a SharePoint page with a Group Calendar web part, and then add this as a tab in Teams. Microsoft Teams have since released Channel Calendars, which are better because they are built in.
 
 ::: bad
-![Figure: Bad example - A team member searching for the Daily Scrum cannot find it if it is scheduled like a normal meeting](teams-meetings-bad-example.png)
+![Figure: Bad example - A team member searching for the Daily Scrum cannot find it if it is scheduled like a normal meeting](/rules/do-you-make-your-team-meetings-easy-to-find/teams-meetings-bad-example.png)
 :::
 
 ::: ok
-![Figure: OK example - In the past, a SharePoint page was the best way to make meetings visible to the team](team-meetings-ok-example.jpg)
+![Figure: OK example - In the past, a SharePoint page was the best way to make meetings visible to the team](/rules/do-you-make-your-team-meetings-easy-to-find/team-meetings-ok-example.jpg)
 :::
 
 ::: good
-![Figure: Good example - A Microsoft Teams Channel Calendar allows team members to see the Team's meetings before being invited](teams-calendar-good.png)
+![Figure: Good example - A Microsoft Teams Channel Calendar allows team members to see the Team's meetings before being invited](/rules/do-you-make-your-team-meetings-easy-to-find/teams-calendar-good.png)
 :::
 
 `youtube: MYIjVqD8AUo`
@@ -68,7 +68,7 @@ B. Make the Channel Calendar visible in Microsoft Outlook
 5. Click "Add"
 6. All done, now the team can see all meetings relating to the team
 
-![Figure: Adding a Channel Calendar](adding-channel-calendar.png)
+![Figure: Adding a Channel Calendar](/rules/do-you-make-your-team-meetings-easy-to-find/adding-channel-calendar.png)
 
 ::: greybox
 **Suggestion to Microsoft:** This is an unnecessary extra hoop to jump through. If you create an appointment from a Team, then this tab should be automatically created.
@@ -98,9 +98,9 @@ This can also be done from the Microsoft Admin Center:
 2. Go to Teams & Groups | Active teams & groups 
 3. Search for the Teams group | Settings | Uncheck "Don't show team email address in Outlook"
 
-![Figure: Admin portal - Show Teams email adress in Outlook ](2023-10-06_14-57-03.jpg)
+![Figure: Admin portal - Show Teams email adress in Outlook ](/rules/do-you-make-your-team-meetings-easy-to-find/2023-10-06_14-57-03.jpg)
 
-![Figure: Microsoft Outlook group calendars allow meetings to be edited](team-calendar.png)
+![Figure: Microsoft Outlook group calendars allow meetings to be edited](/rules/do-you-make-your-team-meetings-easy-to-find/team-calendar.png)
 
 ## Manage Appointments - Team members create, join, edit, and leave meetings themselves
 
@@ -129,7 +129,7 @@ To join a meeting do the following:
 3. Select "Add to calendar" 
 4. Done! You are now one of the meeting attendees.
 
-![Figure: In Microsoft Teams add the event to your calendar](teams-add-to-calendar.png)
+![Figure: In Microsoft Teams add the event to your calendar](/rules/do-you-make-your-team-meetings-easy-to-find/teams-add-to-calendar.png)
 
 ### C. Edit a meeting
 
@@ -140,7 +140,7 @@ To update a meeting, you must change the details from the Microsoft Outlook grou
 3. Open the appointment and select **The entire series**
 4. Make changes as needed
 
-![Figure: In Microsoft Outlook edit the appointment using](EditSugarLearningDailyScrum.png)
+![Figure: In Microsoft Outlook edit the appointment using](/rules/do-you-make-your-team-meetings-easy-to-find/EditSugarLearningDailyScrum.png)
 
 ### D. Leave a meeting
 
@@ -155,9 +155,9 @@ To leave a meeting properly:
 5. Double-check that no other mailboxes have been added which include you e.g. the Team mailbox
 
 ::: bad
-![Figure: Bad example - Hitting decline on a Microsoft Outlook calendar item only removes you from the meeting temporarily](declining-appointment.png)
+![Figure: Bad example - Hitting decline on a Microsoft Outlook calendar item only removes you from the meeting temporarily](/rules/do-you-make-your-team-meetings-easy-to-find/declining-appointment.png)
 ::: 
 
 ::: good
-![Figure: Good example - Remove yourself from the meeting](edit-appointment.png)
+![Figure: Good example - Remove yourself from the meeting](/rules/do-you-make-your-team-meetings-easy-to-find/edit-appointment.png)
 :::

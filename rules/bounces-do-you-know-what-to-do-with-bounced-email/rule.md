@@ -17,15 +17,15 @@ Having people report bounce back emails is frustrating and time consuming. The f
 
 <!--endintro-->
 
-![Figure: Enter the domain to check](MXToolbox-1.jpg)
+![Figure: Enter the domain to check](/rules/bounces-do-you-know-what-to-do-with-bounced-email/MXToolbox-1.jpg)
 
-![Figure: Then select "Blacklist Check"](MXToolbox-2.jpg)
+![Figure: Then select "Blacklist Check"](/rules/bounces-do-you-know-what-to-do-with-bounced-email/MXToolbox-2.jpg)
 
-![Figure: Getting a zero is good, so you know that you are not blacklisted... so Step 1 is good](MXToolbox-3.jpg)
+![Figure: Getting a zero is good, so you know that you are not blacklisted... so Step 1 is good](/rules/bounces-do-you-know-what-to-do-with-bounced-email/MXToolbox-3.jpg)
 
 Next step check that you have primary and secondary (and even better tertiary) MX records setup and working.
 
-![Figure: Seeing at least 2 MX records is good... Run an SMTP Test to test mail servers. So Step 2 is good](MXToolbox-4.jpg)
+![Figure: Seeing at least 2 MX records is good... Run an SMTP Test to test mail servers. So Step 2 is good](/rules/bounces-do-you-know-what-to-do-with-bounced-email/MXToolbox-4.jpg)
 
 If success on both steps the error is most likely on the senders side. Send them the an email to check their mail settings.
 
@@ -42,3 +42,4 @@ The problem is likely your end
 
 :::
 **Figure: What to send the person**
+

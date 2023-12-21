@@ -23,11 +23,12 @@ It is not a nice experience that in 2015 the out-of-the-box requirement is still
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - A horrible first experience... did I get the URL wrong? Is the server down?](tfs-url-1.jpg)  
+![Figure: Bad example - A horrible first experience... did I get the URL wrong? Is the server down?](/rules/do-you-remove-the-need-to-type-tfs/tfs-url-1.jpg)  
 :::
 
 So fix the nasty out-of-the-box experience.
 
-![Figure: Option 1 – This is one way. Include some text to tell devs that they can remove the need for /tfs - on the Application Tier page specify port 80 and an empty Virtual Directory](tfs-url-2.png)  
+![Figure: Option 1 – This is one way. Include some text to tell devs that they can remove the need for /tfs - on the Application Tier page specify port 80 and an empty Virtual Directory](/rules/do-you-remove-the-need-to-type-tfs/tfs-url-2.png)  
 
-![Figure: Option 2 – This is another way. In IIS add the redirect to remove the need to type “/tfs” (recommended)](tfs-url-3.png)
+![Figure: Option 2 – This is another way. In IIS add the redirect to remove the need to type “/tfs” (recommended)](/rules/do-you-remove-the-need-to-type-tfs/tfs-url-3.png)
+

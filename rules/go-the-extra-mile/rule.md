@@ -33,6 +33,7 @@ While not everyone chooses to agree with everything He said, it's a valid point 
 * The sense of workplace isolation disappears
 * Productivity lifts as tasks can be achieved more quickly
 
-![Figure: Going the extra mile](CowsBum.JPG)
+![Figure: Going the extra mile](/rules/go-the-extra-mile/CowsBum.JPG)
 
 This rule particularly applies when a person is [blocked](/ask-for-help) – as identified in their Daily Scrum.
+

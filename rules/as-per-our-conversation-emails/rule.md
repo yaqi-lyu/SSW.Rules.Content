@@ -118,7 +118,7 @@ Figure: Good example - Email when you can't reach the person by calling
 You can also send a quick message on Microsoft Teams with a brief summary of the decision you made.
 
 ::: good
-![Figure: Good example - Using Microsoft Teams when you can't reach the person by calling](teams-example.png)
+![Figure: Good example - Using Microsoft Teams when you can't reach the person by calling](/rules/as-per-our-conversation-emails/teams-example.png)
 :::
 
 ### Location - include the reason at the top
@@ -134,7 +134,7 @@ When you have an image or other information, remember to keep the main reason te
 
 ### Hi John,
 
-![Figure: Screenshot of Power BI error](powerbi-error.png)
+![Figure: Screenshot of Power BI error](/rules/as-per-our-conversation-emails//rules/as-per-our-conversation-emails/powerbi-error.png)
 
 <mark>I couldn't call you as I’m still in the hospital.</mark>
 
@@ -159,7 +159,7 @@ Figure: Bad example - Reason at the bottom
 
 1. <mark>Can you fix this?</mark>
 
-![Figure: Screenshot of Power BI error](powerbi-error.png)
+![Figure: Screenshot of Power BI error](/rules/as-per-our-conversation-emails//rules/as-per-our-conversation-emails/powerbi-error.png)
 
 :::
 :::
@@ -168,3 +168,4 @@ Figure: Good example - Reason at the top
 :::
 
 **Video:** [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)
+

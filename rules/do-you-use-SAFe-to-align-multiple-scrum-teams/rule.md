@@ -46,7 +46,7 @@ Use SAFe to align your Scrum teams and work towards common objectives.
 :::
 
 ::: good
-![Figure: Good Example - Using SAFe to align multiple Scrum teams ensures everyone is working towards the same goals, improving efficiency and output.](Essential.png)
+![Figure: Good Example - Using SAFe to align multiple Scrum teams ensures everyone is working towards the same goals, improving efficiency and output.](/rules/do-you-use-SAFe-to-align-multiple-scrum-teams/Essential.png)
 
 :::
 
@@ -63,7 +63,7 @@ Implement SAFe practices to scale your agile teams.
 :::
 
 ::: good
-![Figure: Good Example - SAFe allows for better scalability while maintaining agile principles, making it ideal for large projects.](Large_solution.png)
+![Figure: Good Example - SAFe allows for better scalability while maintaining agile principles, making it ideal for large projects.](/rules/do-you-use-SAFe-to-align-multiple-scrum-teams/Large_solution.png)
 :::
 
 ### Improved Governance
@@ -77,7 +77,7 @@ Adopt SAFe for a balanced approach to governance and agility.
 :::
 
 ::: bad
-![Figure: Bad Example - Ignoring SAFe can lead to poor governance and lack of alignment among teams.](BadExample_Governance.png)
+![Figure: Bad Example - Ignoring SAFe can lead to poor governance and lack of alignment among teams.](/rules/do-you-use-SAFe-to-align-multiple-scrum-teams/BadExample_Governance.png)
 :::
 
 ## Conclusion
@@ -88,3 +88,4 @@ As you navigate the intricacies of large-scale projects, integrating the SAFe me
 
 
 <!--endintro-->
+

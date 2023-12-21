@@ -27,5 +27,6 @@ However, for special types of images we do include a prefix.
 
 
 ::: good  
-![Figure: Correctly named images](ScreenFilesWithScreenPrefix.gif)  
+![Figure: Correctly named images](/rules/do-you-prefix-your-images-appropriately/ScreenFilesWithScreenPrefix.gif)  
 :::
+

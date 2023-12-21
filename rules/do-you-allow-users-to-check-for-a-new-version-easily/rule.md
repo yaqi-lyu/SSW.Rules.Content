@@ -28,25 +28,26 @@ Remember:
 * If the UI is a Windows Service, be aware that they don't open up the UI very often. Therefore you can't rely on this method. In a coming release Diagnostics will ask for your email and let you know when updates are available for you PC.
 
 ::: bad
-![Figure: Bad UI - a nagging message box that forces the User to click OK](MSN.gif) 
+![Figure: Bad UI - a nagging message box that forces the User to click OK](/rules/do-you-allow-users-to-check-for-a-new-version-easily/MSN.gif) 
 :::
 
 ::: good
-![Figure: Good UI - Show a Tick when the application is up to date](GoodUI.gif)  
+![Figure: Good UI - Show a Tick when the application is up to date](/rules/do-you-allow-users-to-check-for-a-new-version-easily/GoodUI.gif)  
 :::
 
 ::: good
-![Figure: Good UI - Show a Cross when the application is out of date](BadUI.gif)  
+![Figure: Good UI - Show a Cross when the application is out of date](/rules/do-you-allow-users-to-check-for-a-new-version-easily/BadUI.gif)  
 :::
 
 To keep the consistent look and consistent code, we have implemented our version checker as a user control.
 
-![Figure: SSW.Framework.WindowsUI.VersionStatus](VersionStatusControl.gif)
+![Figure: SSW.Framework.WindowsUI.VersionStatus](/rules/do-you-allow-users-to-check-for-a-new-version-easily/VersionStatusControl.gif)
 
 As it is a user control, we can easily implement this in all our applications. We just need to place the user control on the winform, and have the ProductDownloadID and ProductLatestVersionURL entered with the correct values.
 
-![Figure: Enter the ProductDownloadID and ProductLatestVersionURL](VersionStatusProperties.gif) 
+![Figure: Enter the ProductDownloadID and ProductLatestVersionURL](/rules/do-you-allow-users-to-check-for-a-new-version-easily/VersionStatusProperties.gif) 
 
 ::: good
-![Figure: Include 'Check for Updates' in your applications](CheckForUpdate.gif)
+![Figure: Include 'Check for Updates' in your applications](/rules/do-you-allow-users-to-check-for-a-new-version-easily/CheckForUpdate.gif)
 :::
+

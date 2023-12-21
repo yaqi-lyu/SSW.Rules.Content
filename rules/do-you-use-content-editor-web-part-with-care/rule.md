@@ -14,12 +14,12 @@ redirects: []
 ---
 
 The Content Editor Web Part is very easy to use in any web part zone, and gives your content editors ability to add additional text and flair to a page.
-![](ContentEditorWebPart_Small.jpg) **Figure: Content Editor Web Part – available in any web part zone
+![](/rules/do-you-use-content-editor-web-part-with-care/ContentEditorWebPart_Small.jpg) **Figure: Content Editor Web Part – available in any web part zone
 ** 
  However, there is a scary hidden trap!  
 <!--endintro-->
 
-![](ContentEditorWebPart02_Small.jpg) **Figure: Content Editor Web Part looking mostly harmless...** 
+![](/rules/do-you-use-content-editor-web-part-with-care/ContentEditorWebPart02_Small.jpg) **Figure: Content Editor Web Part looking mostly harmless...** 
  So what’s bad with the Content Editor Web Part?
 
 * The content in a content editor web part is not version controlled.
@@ -39,4 +39,5 @@ The Content Editor Web Part is very easy to use in any web part zone, and gives 
 
     b.Using Content Link is also another way you can re-use the same text in different web pages and update them in one place – very good for big banners.
 
-![](ContentEditorWebPart03_Small.jpg)**Figure: Using Content Link to a file - safely stored in the document library. This gives us the best of both worlds**
+![](/rules/do-you-use-content-editor-web-part-with-care/ContentEditorWebPart03_Small.jpg)**Figure: Using Content Link to a file - safely stored in the document library. This gives us the best of both worlds**
+

@@ -23,5 +23,6 @@ The easiest way to do this is to use a shared calendar that is just used for lea
 Since this is just a calendar, you should also have these leave requests automatically to your admin managers (e.g SSWAdmin), so they are always notified of what's going on, although normally these managers will decline the notification rather than add it to their own calendar by accepting it.
 
 ::: good
-![Figure: Good Example - See everyone's leave appointments in one place](Leave.png)
+![Figure: Good Example - See everyone's leave appointments in one place](/rules/centralized-leave-calendar/Leave.png)
 :::
+

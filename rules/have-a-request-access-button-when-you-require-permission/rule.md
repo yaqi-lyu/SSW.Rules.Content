@@ -20,10 +20,11 @@ If your page requires permission to be accessed it should provide a button for t
 
 
 ::: bad  
-![Figure: Bad example -  You just don't have access](no-request-permission.png)  
+![Figure: Bad example -  You just don't have access](/rules/have-a-request-access-button-when-you-require-permission/no-/rules/have-a-request-access-button-when-you-require-permission/request-permission.png)  
 :::
 
 
 ::: good  
-![Figure: Good example – Office 365 has a "Request Access" button](request-permission.png)  
+![Figure: Good example – Office 365 has a "Request Access" button](/rules/have-a-request-access-button-when-you-require-permission/request-permission.png)  
 :::
+

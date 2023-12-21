@@ -39,7 +39,7 @@ Align your work with value streams to ensure maximum business and customer value
 :::
 
 ::: good
-![Figure: Good Example - Prioritizing value streams ensures that all activities are aligned with delivering customer and business value.](Deployment.png)
+![Figure: Good Example - Prioritizing value streams ensures that all activities are aligned with delivering customer and business value.](/rules/do-you-prioritize-value-streams-over-individual-projects/Deployment.png)
 :::
 
 ## Why Should You Prioritize Value Streams?
@@ -53,7 +53,7 @@ Adopt a value stream focus for greater agility.
 :::
 
 ::: good
-![Figure: Good Example - A value stream focus allows for quicker adaptations to market changes.](Adaption.png)
+![Figure: Good Example - A value stream focus allows for quicker adaptations to market changes.](/rules/do-you-prioritize-value-streams-over-individual-projects/Adaption.png)
 :::
 
 ### Improved ROI
@@ -67,7 +67,7 @@ Focus on value streams for better ROI.
 :::
 
 ::: bad
-![Figure: Bad Example - Focusing on individual projects can lead to misaligned efforts and lower ROI.](Alignment.png)
+![Figure: Bad Example - Focusing on individual projects can lead to misaligned efforts and lower ROI.](/rules/do-you-prioritize-value-streams-over-individual-projects/Alignment.png)
 :::
 
 ## Conclusion
@@ -75,3 +75,4 @@ Focus on value streams for better ROI.
 Choosing to prioritize value streams above isolated projects isn't just a change in process—it's a strategic move. This approach not only aligns your efforts with overarching business objectives but also bolsters efficiency and guarantees genuine value delivery to customers. 
 
 Embracing this perspective could be the game-changer your business needs for improved outcomes.
+

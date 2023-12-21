@@ -27,7 +27,8 @@ What you should be doing is seeing your [Schema Master](/have-a-schema-master "D
 
 Tools like [Red Gates SQL Compare](https://www.red-gate.com/products/sql-development/sql-compare/) and [Microsoft's Schema Compare (aka Data Dude)](https://docs.microsoft.com/en-us/sql/ssdt/how-to-use-schema-compare-to-compare-different-database-definitions) will compare schemas really well but aren't useful when you are deploying as it won't be repeatable. 
 
-![Figure: Using Red Gates SQL Compare](red-gate-sql-compare.png)  
+![Figure: Using Red Gates SQL Compare](/rules/should-you-compare-schemas/red-gate-sql-compare.png)  
 
-![Figure: Using Visual Studio SQL Schema Compare](microsoft-schema-compare.png)  
+![Figure: Using Visual Studio SQL Schema Compare](/rules/should-you-compare-schemas/microsoft-schema-compare.png)  
+
 

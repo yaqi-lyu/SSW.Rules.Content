@@ -31,4 +31,5 @@ This is handy if you want to ask different people their opinion. Easily get mult
 E.g. **Subject: Scrum - what is the best length of a Sprint?**
 :::
 
-![Figure: Place the cursor into "Subject" field and press CTRL+F to create a new copy of your message](ctrl_f-outlook.gif)
+![Figure: Place the cursor into "Subject" field and press CTRL+F to create a new copy of your message](/rules/duplicate-email-draft/ctrl_f-outlook.gif)
+

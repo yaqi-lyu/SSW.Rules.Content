@@ -83,7 +83,7 @@ To review a video, you can play it back through a browser on any device and leav
   * To clear the playback range of the video press the escape key on the keyboard.
   * Playback of a section will loop in the playback range.
 
-  ![Figure: In and out point](frame-comment-4.png)
+  ![Figure: In and out point](/rules/review-videos-collaboratively/frame-comment-4.png)
 
 4. Drawing on a video - to enhance your comment, try selecting the paintbrush tool located next to the send button, then use your mouse to draw on the video
 
@@ -146,3 +146,4 @@ Comparison table using delivery platforms over Frame.io for reviewing
 | Available in China                     | ✅       | ❌       | ❌    | ❌      | ❌             | ❌         | ❌ |
 
 Frame.io is a powerful tool that simplifies video collaboration and feedback. It helps you reduce review cycles and speed up approvals while maintaining high-quality standards. Whether you are working solo or with a team of editors/producers/directors/client/etc., Frame.io will help you deliver amazing videos faster and easier.
+

@@ -25,12 +25,12 @@ If you migrate using the Sharegate migration tool, you want to have zero errors 
 
 
 ::: bad  
-![Bad example: Page customized using SharePoint Designer](avoid-errors-sp-migration1.png)  
+![Bad example: Page customized using SharePoint Designer](/rules/how-to-avoid-errors-on-sharepoint-migration/avoid-errors-sp-migration1.png)  
 :::
 
 
 ::: good  
-![Good example: Out of the box list view page](avoid-errors-sp-migration2.png)  
+![Good example: Out of the box list view page](/rules/how-to-avoid-errors-on-sharepoint-migration/avoid-errors-sp-migration2.png)  
 :::
 
 Remove unsupported columns such as:
@@ -44,5 +44,6 @@ Remove unsupported columns such as:
 
 
 ::: bad  
-![Bad example: Sharegate migration report shows error if MicroFeed(s) have not been removed](avoid-errors-sp-migration3.png)  
+![Bad example: Sharegate migration report shows error if MicroFeed(s) have not been removed](/rules/how-to-avoid-errors-on-sharepoint-migration/avoid-errors-sp-migration3.png)  
 :::
+

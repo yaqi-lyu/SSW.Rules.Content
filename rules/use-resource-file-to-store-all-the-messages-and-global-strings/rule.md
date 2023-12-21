@@ -18,7 +18,7 @@ Storing all the messages and global strings in one place will make it easy to ma
 
 <!--endintro-->
 
-![Store messages in the Message.resx](Code\_StoreMessage.jpg)  
+![Store messages in the Message.resx](/rules/use-resource-file-to-store-all-the-messages-and-global-strings/Code_StoreMessage.jpg)  
 
 ``` cs
 Catch(SqlNullValueException sqlex)
@@ -49,3 +49,4 @@ Response.Write(Resources.Messages.SqlValueNotNull); 'Good Code - storing message
 ::: good
 Good example 
 :::
+

@@ -30,12 +30,12 @@ In Windows Forms we have a CheckedListBox. With a CheckedListBox you cannot:
 
 
 ::: bad  
-![Figure: Bad Example - The CheckedListBox is limited](../../assets/UsingCheckedListBox.gif)  
+![Figure: Bad Example - The CheckedListBox is limited](/rules/control-choice-do-you-use-gridview-over-the-checkedlistbox/UsingCheckedListBox.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - The DataGrid can show much more information (and if you use a 3rd Party eg. Telerik, then it can be pretty too)](../../assets/UsingDataGrid.gif)  
+![Figure: Good Example - The DataGrid can show much more information (and if you use a 3rd Party eg. Telerik, then it can be pretty too)](/rules/control-choice-do-you-use-gridview-over-the-checkedlistbox/UsingDataGrid.gif)  
 :::
 
 In Windows Forms, the code of DataGrid databinding is easier than that of CheckedListBox.
@@ -52,3 +52,4 @@ Figure: 8 lines of code to fill a CheckedListBox
 ProductsService.Instance.GetAll(Me.ProductsDataSet1)
 Figure: One line of code to fill a DataGrid
 But the CheckedListBox is useful if only one field needs displaying.
+

@@ -20,11 +20,11 @@ State management is complex and time-consuming. The redux pattern helps resolve 
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - Maintaining state on individual components](maintaining-state.png)  
+![Figure: Bad example - Maintaining state on individual components](/rules/best-practice-for-managing-state/maintaining-state.png)  
 :::
 
 ::: good  
-![Figure: Good example - use the redux pattern](redux-logo.png)  
+![Figure: Good example - use the redux pattern](/rules/best-practice-for-managing-state/redux-logo.png)  
 :::
 
 ### The 4 principles of the redux pattern
@@ -44,3 +44,4 @@ The advantages of using Redux-Saga are:
 * Collects all asynchronous operations in one place, making the code clearer
 * Uses an  ES6 feature called Generators to make asynchronous flows easy to read, write and test
 * Generators also let these asynchronous flows look like your standard synchronous code (kind of like async/await in C#). This solves [“callback hell"](https://en.wiktionary.org/wiki/callback_hell)
+

@@ -21,4 +21,5 @@ Malware will in fact often create such erroneous entries in the HOSTS file in or
 
 The relevant setting can be found under "Settings, Excluded files and locations". Of course this also mean that the anti-virus program will no longer detect any malicious modifications to the HOSTS file.
 
-![Figure: Window defender Settings](Windows-Defender-settings.jpg)
+![Figure: Window defender Settings](/rules/do-you-add-an-exception-for-hosts-file-on-windows-defender/Windows-Defender-settings.jpg)
+

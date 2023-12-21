@@ -29,4 +29,5 @@ Part of Scrum means all developers are responsible for the work that is conducte
 - Asking questions
 - Reducing the risk of knowledge gaps across the project as more people learn about the different areas of the code base
 
-![Figure: Vertical slicing is just like a slice of cake!](vertical-slicing.png)
+![Figure: Vertical slicing is just like a slice of cake!](/rules/work-in-vertical-slices/vertical-slicing.png)
+

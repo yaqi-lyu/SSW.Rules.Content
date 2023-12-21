@@ -25,25 +25,26 @@ Improper spelling, grammar, and punctuation gives a bad impression of your compa
 
 When on a web page, [install Grammarly Addon for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) so you can automatically check web content. For example, while editing in a CMS.
 
-![Figure: A typo caught by Grammarly plugin](grammarly-plugin.png)  
+![Figure: A typo caught by Grammarly plugin](/rules/are-you-careful-with-your-spelling-grammar-and-punctuation/grammarly-plugin.png)  
 
 Any other text can be checked manually. Go to [Grammarly](https://app.grammarly.com), create a New Document and Paste your content to check your text.
 
-![Figure: A typo caught by Grammarly](grammarly.png) 
+![Figure: A typo caught by Grammarly](/rules/are-you-careful-with-your-spelling-grammar-and-punctuation/grammarly.png) 
 
 ### Documents
 
 On Word, press **F7** (or on the ribbon go to **Review &gt; Spelling & Grammar** ) to check your .docx text.
 
-![Figure: Click on "Spelling & Grammar" button to check your web content](Microsoft-Word-has-a-spelling-and-grammar-checker.jpg)  
+![Figure: Click on "Spelling & Grammar" button to check your web content](/rules/are-you-careful-with-your-spelling-grammar-and-punctuation/Microsoft-Word-has-a-spelling-and-grammar-checker.jpg)  
 
 ### Presentations
 
 On PowerPoint, press **F7** (or on the ribbon go to **Review | Spelling & Grammar** ) to check your .pptx text.
 
-![Figure: Click on "Spelling" button to check your web content](ppt-review-f7.png)  
+![Figure: Click on "Spelling" button to check your web content](/rules/are-you-careful-with-your-spelling-grammar-and-punctuation/ppt-review-f7.png)  
 
 You should also keep "Check grammar with spelling" checked in your PowerPoint **Options | Proofing**:
 
-![Figure: Make sure "Check grammar with spelling" is enabled](ppt-check-spelling.png)  
+![Figure: Make sure "Check grammar with spelling" is enabled](/rules/are-you-careful-with-your-spelling-grammar-and-punctuation/ppt-check-spelling.png)  
+
 

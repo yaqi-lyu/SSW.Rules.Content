@@ -19,5 +19,6 @@ If you are localizing your web application to make it available in a varitety of
 
 In order to use your web application in your preferred language, simply set that language in your browser, save/apply the new settings and then launch your application. 
 
-![](DefaultLanguage.jpg)
+![](/rules/do-you-set-your-application-default-language-to-automatically-change-to-local-language/DefaultLanguage.jpg)
 Figure: Detect your users language preference and display in that language.
+

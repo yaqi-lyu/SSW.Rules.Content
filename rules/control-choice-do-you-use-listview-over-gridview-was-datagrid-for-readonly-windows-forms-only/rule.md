@@ -27,19 +27,19 @@ So our old rule was to always use the ugly DataGrid (although we were never happ
 
 
 ::: bad  
-![Figure: Bad Example - The DataGrid is ugly](../../assets/UsingDataGridWhenNotNeeded.gif)  
+![Figure: Bad Example - The DataGrid is ugly](/rules/control-choice-do-you-use-listview-over-gridview-was-datagrid-for-readonly-windows-forms-only/UsingDataGridWhenNotNeeded.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - A beautiful ListView - a nicer look over the datagrid](../../assets/SortableListView.gif)  
+![Figure: Good Example - A beautiful ListView - a nicer look over the datagrid](/rules/control-choice-do-you-use-listview-over-gridview-was-datagrid-for-readonly-windows-forms-only/SortableListView.gif)  
 :::
 
 So the listview looks nicer? If you are not convinced here is another one:
 
 
 ::: good  
-![Figure: Good Example - The appearance of DataGrid and ListView](../../assets/DatagridVSListview.gif)  
+![Figure: Good Example - The appearance of DataGrid and ListView](/rules/control-choice-do-you-use-listview-over-gridview-was-datagrid-for-readonly-windows-forms-only/DatagridVSListview.gif)  
 :::
 
 But another issue is how much code to write... For ListView you will need to write a bit of code to fill the list view...
@@ -68,7 +68,7 @@ Exception: Use the DataGrid when:
 
 * When not read only - i.e. users will be editing data directly from the cells.
 * You need more than 1 column with checkboxes, or the column with checkboxes can't be the first column. E.g.: 
-![Figure: One place when you choose a DataGrid over a ListView is when you have 2 checkbox fields](../../assets/DataGrid2CheckBoxes.gif)  
+![Figure: One place when you choose a DataGrid over a ListView is when you have 2 checkbox fields](/rules/control-choice-do-you-use-listview-over-gridview-was-datagrid-for-readonly-windows-forms-only/DataGrid2CheckBoxes.gif)  
 
 
 
@@ -87,3 +87,4 @@ So in summary, if you don't want users to edit the data directly from the cell, 
 
 
 Note: We have a suggestion for Microsoft to improve the [copy and paste format from a gridview](http://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/MSForm.aspx#DataGridsFormattingonCopy)
+

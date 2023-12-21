@@ -24,9 +24,10 @@ Read more about @mention: <https://help.github.com/articles/basic-writing-and-fo
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - Not using a @mention when addressing Duncan or Igor](github-mention-bad.png)  
+![Figure: Bad example - Not using a @mention when addressing Duncan or Igor](/rules/mention-when-you-make-a-pull-request-or-comment-on-github/github-mention-bad.png)  
 :::
 
 ::: good  
-![Figure: Good example - Using a @mention](github-mention-good.png)  
+![Figure: Good example - Using a @mention](/rules/mention-when-you-make-a-pull-request-or-comment-on-github/github-mention-good.png)  
 :::
+

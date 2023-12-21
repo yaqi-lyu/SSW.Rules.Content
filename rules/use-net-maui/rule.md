@@ -21,18 +21,19 @@ Where previously you could write shared business logic in C# but needed to write
 
 <!--endintro-->
 
-![](maui_blazor_mobile_desktop_web.png)
+![](/rules/use-net-maui/maui_blazor_mobile_desktop_web.png)
 
 Theoretically, it is possible to write your code only once and share 100% of the code you write across all target platforms - see [Adam Cogan's blog post](https://adamcogan.com/2015/01/14/getting-96-code-reuse-with-xamarin-forms/) for a case study of achieving 96% code reuse.
 
 ::: bad
-![Figure: Bad example - Xamarin project targeting a single platform](xamarin-platform-bad.png)
+![Figure: Bad example - Xamarin project targeting a single platform](/rules/use-net-maui/xamarin-platform-bad.png)
 :::
 
 It is possible to implement beautiful and complex UI designs in .NET MAUI, especially given the rich ecosystem of plugins and templates available (see rule: [Do you know where to find the best Xamarin resources?](/the-best-xamarin-resources)). You can use drawing APIs like [Microsoft.Maui.Graphics](https://docs.microsoft.com/en-us/dotnet/maui/user-interface/graphics/) or the [new .NET MAUI Community Toolkit](https://docs.microsoft.com/en-us/dotnet/communitytoolkit/maui/).
 
 ::: good
-![Figure: Good example - Cross-platform .NET MAUI app targeting multiple platforms with a shared codebase](single-project-good.png)
+![Figure: Good example - Cross-platform .NET MAUI app targeting multiple platforms with a shared codebase](/rules/use-net-maui/single-project-good.png)
 :::
 
-![Figure: .NET MAUI allows you to use C# and XAML to build your apps from a rich toolkit of more than 40 controls, layouts, and pages](controls_sample.png)
+![Figure: .NET MAUI allows you to use C# and XAML to build your apps from a rich toolkit of more than 40 controls, layouts, and pages](/rules/use-net-maui/controls_sample.png)
+

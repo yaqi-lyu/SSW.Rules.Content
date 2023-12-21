@@ -19,7 +19,7 @@ It's common for business logic to be added directly to the presentation layer. W
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - Although this application clearly has repository and business logic layers, the logic that orchestrates these dependencies is in the ASP.NET Controller and is difficult to reuse](business-logic-presentation-layer-bad.png)  
+![Figure: Bad example - Although this application clearly has repository and business logic layers, the logic that orchestrates these dependencies is in the ASP.NET Controller and is difficult to reuse](/rules/keep-business-logic-out-of-the-presentation-layer/business-logic-presentation-layer-bad.png)  
 :::
 
 The logic in the above controller cannot be reused, for example, by a new console application. This might be fine for trivial or small systems but would be a mistake for enterprise systems. It is important to ensure that logic such as this is independent of the UI so that the system will be easy to maintain now and well into the future. A great approach to solving this problem is to use the mediator pattern with CQRS.
@@ -36,11 +36,11 @@ MediatR is an open source .NET library by Jimmy Bogard that provides an elegant 
 
 For every command or query, you create a specific request class that explicitly defines the “input” required to invoke the operation.
 
-![Figure: (from MediatR docs) A Simple Request class](business-logic-presentation-layer-simple.png)  
+![Figure: (from MediatR docs) A Simple Request class](/rules/keep-business-logic-out-of-the-presentation-layer/business-logic-presentation-layer-simple.png)  
 
 Then the implementation of that command or query is implemented in a handler class. The handler class is instantiated by a Dependency Injection container – so can use any of the configured dependencies (Repositories, Entity Framework, services etc).
 
-![Figure: A handler class](business-logic-presentation-layer-handler.png)  
+![Figure: A handler class](/rules/keep-business-logic-out-of-the-presentation-layer/business-logic-presentation-layer-handler.png)  
 
 This approach brings many benefits:
 
@@ -55,5 +55,6 @@ This approach brings many benefits:
 * MediatR introduces a pipeline behaviour system allowing custom to be injected around handler invocation. This is useful for implementing cross-cutting concerns such as logging, validation or caching
 
 ::: good  
-![Figure: Good example - MediatR simplifies the dependencies injected into the controller. The incoming web request is simply mapped directly to a MediatR request that orchestrates all the logic for this operation. The implementation and dependencies needed to complete “GetItemForEdit” are free to change without needing to change the controller class](business-logic-presentation-layer-good.png)  
+![Figure: Good example - MediatR simplifies the dependencies injected into the controller. The incoming web request is simply mapped directly to a MediatR request that orchestrates all the logic for this operation. The implementation and dependencies needed to complete “GetItemForEdit” are free to change without needing to change the controller class](/rules/keep-business-logic-out-of-the-presentation-layer/business-logic-presentation-layer-good.png)  
 :::
+

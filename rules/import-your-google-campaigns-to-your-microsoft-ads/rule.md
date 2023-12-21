@@ -37,5 +37,6 @@ If you need further instructions, you can find more at Microsoft Ads support: ht
 
 
 
-![](Msads.png)
+![](/rules/import-your-google-campaigns-to-your-microsoft-ads/Msads.png)
  **Figure: Import Campaigns default selection will match your budget from Google**
+

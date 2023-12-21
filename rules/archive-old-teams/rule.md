@@ -24,12 +24,12 @@ Hiding teams works well enough for end users but doesn't help administrators fig
 
 
 ::: bad  
-![Figure: Bad example - Lots of old and test teams](old-teams-bad.png)  
+![Figure: Bad example - Lots of old and test teams](/rules/archive-old-teams/old-teams-bad.png)  
 :::
 
 
 ::: good  
-![Figure: Good example - Old teams are archived](old-teams-good.jpg)  
+![Figure: Good example - Old teams are archived](/rules/archive-old-teams/old-teams-good.jpg)  
 :::
 
 To archive a Team, follow these steps:
@@ -42,8 +42,9 @@ To archive a Team, follow these steps:
 * Click "Archive team"
 
 
-![Figure: Clicking "Manage Teams"](old-teams-how1.jpg)  
+![Figure: Clicking "Manage Teams"](/rules/archive-old-teams/old-teams-how1.jpg)  
 
-![Figure: Clicking "Ellipsis" | "Archive Team"](old-teams-how2.png)  
+![Figure: Clicking "Ellipsis" | "Archive Team"](/rules/archive-old-teams/old-teams-how2.png)  
 
 **Note:** Archived teams can be restored at any time to be made available again.
+

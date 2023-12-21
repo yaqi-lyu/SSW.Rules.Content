@@ -42,8 +42,9 @@ Figure: Good example - client can search your email based on the subject
 To make your messages more visually appealing, you can use "> {{ MESSAGE }}" in Microsoft Teams chats to highlight your message as a quote. This works particularly well when you want to refer to an email subject, i.e:
 
 ::: good  
-![Figure: Good example - Mentioning an email using the "> {{ MESSAGE }}" formatting](good-example---use-formatting.png)
+![Figure: Good example - Mentioning an email using the "> {{ MESSAGE }}" formatting](/rules/make-the-communication-more-efficient-by-referring-back-to-a-subject-of-an-email/good-example---use-formatting.png)
 
 :::
 
 <!--endintro-->
+

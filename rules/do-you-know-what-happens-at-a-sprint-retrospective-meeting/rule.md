@@ -44,13 +44,13 @@ To help aid discussion, it can be useful for the Scrum Master to prepare items f
 
 As an example, the Scrum Master can find PBIs (Product Backlog Items) in the Sprint that were successful/not successful and then facilitate the discussion to find the reasons.
 
-![Figure: The Scrum Master can inspect the Sprint Backlog for items which are "Not Done" at the end of a Sprint](retrospective-meeting-1.jpg)
+![Figure: The Scrum Master can inspect the Sprint Backlog for items which are "Not Done" at the end of a Sprint](/rules/do-you-know-what-happens-at-a-sprint-retrospective-meeting/retrospective-meeting-1.jpg)
 
-![Figure: The Scrum Master can inspect the team’s velocity over multiple Sprints](retrospective-meeting-2.jpg)
+![Figure: The Scrum Master can inspect the team’s velocity over multiple Sprints](/rules/do-you-know-what-happens-at-a-sprint-retrospective-meeting/retrospective-meeting-2.jpg)
 
-![Figure: The Scrum Master can inspect the team’s Sprint Burndown for insight into how work progressed through the Sprint](retrospective-meeting-3.jpg)
+![Figure: The Scrum Master can inspect the team’s Sprint Burndown for insight into how work progressed through the Sprint](/rules/do-you-know-what-happens-at-a-sprint-retrospective-meeting/retrospective-meeting-3.jpg)
 
-![Figure: The Scrum Master can inspect the team’s Code Coverage for an insight into code quality](retrospective-meeting-4.jpg)
+![Figure: The Scrum Master can inspect the team’s Code Coverage for an insight into code quality](/rules/do-you-know-what-happens-at-a-sprint-retrospective-meeting/retrospective-meeting-4.jpg)
 
 Once all issues have been discussed to the satisfaction of The Scrum Team, the meeting concludes.
 
@@ -70,11 +70,11 @@ You can do a [retrospected.com](https://www.retrospected.com/). The advantages a
 * After you close the board, participants still have access to the Retro and can see what happened
 
 ::: bad
-![Figure: Bad example – this is a paste from the tool, but the action points are unclear](retrospected-bad.png)
+![Figure: Bad example – this is a paste from the tool, but the action points are unclear](/rules/do-you-know-what-happens-at-a-sprint-retrospective-meeting/retrospected-bad.png)
 :::
 
 ::: good
-![Figure: Good example – this is a paste from the tool, but with the modifications at the end, the action points are clear](retrospected-good.png)
+![Figure: Good example – this is a paste from the tool, but with the modifications at the end, the action points are clear](/rules/do-you-know-what-happens-at-a-sprint-retrospective-meeting/retrospected-good.png)
 :::
 
 ::: greybox
@@ -86,3 +86,4 @@ In Scrum, there are 4 meetings in total that you need to know about:
 * Sprint Retrospective Meeting (Described on this page)
 
 :::
+

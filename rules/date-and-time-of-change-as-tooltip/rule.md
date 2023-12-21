@@ -18,13 +18,14 @@ Displaying the date and time of change as a tooltip when users hover over the ti
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example – Cannot find date or time in tooltip on hover](bad-example-for-no-date-on-tooltip-while-hovering.png)
+![Figure: Bad example – Cannot find date or time in tooltip on hover](/rules/date-and-time-of-change-as-tooltip/bad-example-for-no-date-on-tooltip-while-hovering.png)
 :::
 
 ::: good
-![Figure: Good example – On hover, Facebook shows the date and time](good-example-date-and-time-change-on-tooltip.png)
+![Figure: Good example – On hover, Facebook shows the date and time](/rules/date-and-time-of-change-as-tooltip/good-example-date-and-time-change-on-tooltip.png)
 :::
 
 ::: good
-![Figure: Good example – Date change on hover over time of change for sugarlearning item](good-example-sugarlearning-date-time-on-tooltip.png)
+![Figure: Good example – Date change on hover over time of change for sugarlearning item](/rules/date-and-time-of-change-as-tooltip/good-example-sugarlearning-date-time-on-tooltip.png)
 :::
+

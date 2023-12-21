@@ -21,11 +21,12 @@ When you contribute to open source projects it is great to fix bugs and contribu
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - Bad open source contribution involves gratuitous refactoring, re-organisation of files and classes, changing of formatting beyond those used throughout the rest of the project](etiquette-bad.png)  
+![Figure: Bad example - Bad open source contribution involves gratuitous refactoring, re-organisation of files and classes, changing of formatting beyond those used throughout the rest of the project](/rules/know-the-open-source-contribution-etiquette/etiquette-bad.png)  
 :::
 
 ::: good  
-![Figure: Good example - Contributors review the CONTRIBUTING.md for the project and work within the guidelines provided, they follow existing coding styles and architecture and if large refactoring or changes are required communicate with the community and the core contributors](etiquette-good.png)  
+![Figure: Good example - Contributors review the CONTRIBUTING.md for the project and work within the guidelines provided, they follow existing coding styles and architecture and if large refactoring or changes are required communicate with the community and the core contributors](/rules/know-the-open-source-contribution-etiquette/etiquette-good.png)  
 :::
 
 This issue is described beautifully here [Open Source Contribution Etiquette by Miguel de Icaza](https://tirania.org/blog/archive/2010/Dec-31.html).
+

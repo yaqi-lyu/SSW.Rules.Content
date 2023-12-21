@@ -32,9 +32,9 @@ Remember to:
 :::
 
 ::: bad
-![Figure: Bad example – No way for the author to engage with the post as it looks like a post from its own, plus you can’t see the real metrics for your own post as it gets combined with the author’s 📈🤔](share-social-media-bad.png)
+![Figure: Bad example – No way for the author to engage with the post as it looks like a post from its own, plus you can’t see the real metrics for your own post as it gets combined with the author’s 📈🤔](/rules/best-way-to-share-a-social-media-post/share-social-media-bad.png)
 :::
 
 ::: good
-![Figure: Good example - Make sure you include your thoughts to personalize your content and boost your post! 🚀](share-social-media-good.png)
+![Figure: Good example - Make sure you include your thoughts to personalize your content and boost your post! 🚀](/rules/best-way-to-share-a-social-media-post/share-social-media-good.png)
 :::

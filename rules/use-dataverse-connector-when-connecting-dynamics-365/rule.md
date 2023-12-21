@@ -20,7 +20,7 @@ When creating a Power BI connection to Dynamics 365, the first thing that comes 
 
 
 ::: bad  
-![Figure: Bad example - Searching for Dynamics 365 connector](dynamics-connector-1.png)  
+![Figure: Bad example - Searching for Dynamics 365 connector](/rules/use-dataverse-connector-when-connecting-dynamics-365/dynamics-connector-1.png)  
 :::
 
 Wrong.
@@ -31,7 +31,7 @@ Once enabled instead of using Dynamics 365 (online) connector use the Dataverse 
 
 
 ::: good  
-![Figure: Good example - Use the Dataverse connector instead](dynamics-connector-2.png)  
+![Figure: Good example - Use the Dataverse connector instead](/rules/use-dataverse-connector-when-connecting-dynamics-365/dynamics-connector-2.png)  
 :::
 
 The advantages of using the Dataverse connector are:
@@ -44,3 +44,4 @@ The advantages of using the Dataverse connector are:
 The disadvantages of using the Dataverse connector are:
 
 * None
+

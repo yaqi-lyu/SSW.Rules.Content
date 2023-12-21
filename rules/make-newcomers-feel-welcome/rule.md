@@ -39,7 +39,7 @@ Check for:
 **Plan to welcome on the day** - Make sure a team member will be there to greet them on the day!
 
 ::: good 
-![Figure: Good example - Nice and clean work area](desk-welcome.jpg)
+![Figure: Good example - Nice and clean work area](/rules/make-newcomers-feel-welcome/desk-welcome.jpg)
 :::
 
 ### The day before they start
@@ -78,3 +78,4 @@ These are some thoughtful ways to show the new hire that the company is pleased 
 ::: info
 Find the longer version of this post on [Facebook](https://www.facebook.com/SSW.page/photos/pb.120920301257947.-2207520000.1569264924./3020784747938140/?type=1&theater) and [LinkedIn](https://www.linkedin.com/posts/ssw_the-1st-day-of-a-new-job-can-be-daunting-activity-6581822083670642688-DFTl).
 :::
+

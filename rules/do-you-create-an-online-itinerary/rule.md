@@ -27,7 +27,7 @@ After joining tripit.com, forward a copy of each booking confirmation to plans@t
 
 
 
-![](tripitimage.png)
+![](/rules/do-you-create-an-online-itinerary/tripitimage.png)
 
 
  **Figure: A TripIt Itinerary example** 
@@ -37,3 +37,4 @@ For more information or to join, visit [tripit.com](https://www.tripit.com/)
 
 
 <!--endintro-->
+

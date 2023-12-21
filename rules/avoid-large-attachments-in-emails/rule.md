@@ -90,7 +90,7 @@ Figure: Good example - Sending a link instead of an attachment
 
 5. SharePoint was built with sharing files in mind and is a great way to collaborate. If you are using SharePoint to send a file you simply need to open the context menu, click "send to" and "email a link" as shown: 
 
-  ![Figure: SharePoint makes it easy to share or just copy the link](sharepoint-file-share.png)
+  ![Figure: SharePoint makes it easy to share or just copy the link](/rules/avoid-large-attachments-in-emails/sharepoint-file-share.png)
 
 ### When can you break these size rules?
 
@@ -98,3 +98,4 @@ Basically, you should be practical:
 
 1. There is no other way under particular circumstances
 2. To keep the history if the file is already part of the thread
+

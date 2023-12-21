@@ -20,7 +20,7 @@ The answer to this question can make or break contracts. We think that it's such
 
 <!--endintro-->
 
-![](bug-feature.png)
+![](/rules/definition-of-a-bug/bug-feature.png)
 
 A software issue can be classed as a bug where:
 
@@ -32,10 +32,10 @@ A software issue can be classed as a bug where:
 ### Examples of what **could** constitute a bug
 
 1. The application crashes to code because it doesn't check that a connection is valid before running a stored procedure  **(this is likely covered because it crashes to code)**
-  ![Figure: Yellow screen of death](YellowScreenofDeath.jpg)
+  ![Figure: Yellow screen of death](/rules/definition-of-a-bug/YellowScreenofDeath.jpg)
 
 2. A sum total is negative instead of positive because the wrong operator (plus instead of minus) has been used to calculate the running balance  **(this is likely covered because data is inconsistent with the specified business rules)**
-  ![Figure: An incorrect sum is likely to be a bug](IncorrectSum.jpg)
+  ![Figure: An incorrect sum is likely to be a bug](/rules/definition-of-a-bug/IncorrectSum.jpg)
 
 3. The application is missing the Monthly Sales report **(this is likely covered because the application is missing functionality specified in the specification)**
 
@@ -52,7 +52,7 @@ A software issue can be classed as a bug where:
 
 Using a Work Tracking tool allows you to create work items such as user stories, bugs, tasks, test cases etc. Only create bugs for defects, faults, flaws, or imperfections that fulfill your definition of a bug. For everything else, use other work item types.
 
-![Figure: Do I create this as a bug, or a task?](2016-02-08_12-20-59.png)
+![Figure: Do I create this as a bug, or a task?](/rules/definition-of-a-bug/2016-02-08_12-20-59.png)
 
 ### Handling additional work for fixed-price contracts
 
@@ -62,10 +62,11 @@ Scrum wasn't designed for fixed price, fixed scope contracts. Any new features o
 
 Any new features or modifications (non-bug items) not in the original Product Backlog are classed as additional PBI's and placed on the Product Backlog. Any tasks which **are** bugs found during the current Sprint should be fixed within the current Sprint. Any tasks which  **are** bugs found outside of the current Sprint should be added to the Product Backlog. See [Do you know when to create bugs?](/during-a-sprint-do-you-know-when-to-create-bugs "Do you know when to create bugs?") and [Do you know the 3 steps to a PBI?](/do-you-know-the-3-steps-to-a-pbi)
 
-![Figure: Adding a bug to the Product Backlog in Azure DevOps](62034c_tfs_preview_add_bug.png)
+![Figure: Adding a bug to the Product Backlog in Azure DevOps](/rules/definition-of-a-bug/62034c_tfs_preview_add_bug.png)
 
 ::: info
 **Note:** The above is our definition. Others have different definitions that we do **not** subscribe to: [Painless Bug Tracking](https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/).
 :::
 
 You can also use the Wiki definition of "Software Bug" as a reference to understand this concept: [Wikipedia Definition of Software Bug](https://en.wikipedia.org/wiki/Software_bug).
+

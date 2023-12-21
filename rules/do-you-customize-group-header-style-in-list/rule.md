@@ -29,4 +29,5 @@ If you want to make this style available in a "site collection" scope (aka apply
 
 Once deployed, you should be able to see a header style like the below:
 
-![Figure: Level one group header is bold](level one gorup header bold.png)
+![Figure: Level one group header is bold](/rules/do-you-customize-group-header-style-in-list/level one gorup header bold.png)
+

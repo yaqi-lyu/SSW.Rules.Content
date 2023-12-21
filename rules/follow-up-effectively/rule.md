@@ -34,7 +34,7 @@ Efficient people don't rely on their memory and instead, use some way to make su
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example - Oldies use yellow sticky notes](adobe-firefly-screen-with-sticky-notes.jpg)
+![Figure: Bad example - Oldies use yellow sticky notes](/rules/follow-up-effectively/adobe-firefly-screen-with-sticky-notes.jpg)
 :::
 
 To ensure you follow up on tasks, it is important to set up an action point so it can be forgotten until later. That frees up cognitive space so you can focus on something else but still be certain it will be actioned later.
@@ -106,8 +106,8 @@ The email will sit in your outbox until the required time, when it will be sent 
 When you receive it in your inbox, action the task.
 
 ::: good
-![Figure: Good example - Schedule send option in Outlook](schedule-send-tab.jpg)
-![Figure: Good example - Pick date and time for delivery](schedule-send-calendar.jpg)
+![Figure: Good example - Schedule send option in Outlook](/rules/follow-up-effectively/schedule-send-tab.jpg)
+![Figure: Good example - Pick date and time for delivery](/rules/follow-up-effectively/schedule-send-calendar.jpg)
 :::
 
 ### 3. Outlook | Follow Up flag
@@ -118,11 +118,11 @@ To use it:
 
 1. Click the Follow Up button
 
-![Figure: Set a follow-up date](followup1.jpg)
+![Figure: Set a follow-up date](/rules/follow-up-effectively/followup1.jpg)
 
 2. Select an appropriate date from the drop-down or choose Custom to add additional reminders
 
-![Figure: Add an additional reminder to follow up](followup2.jpg)
+![Figure: Add an additional reminder to follow up](/rules/follow-up-effectively/followup2.jpg)
 
 You can even set a custom reminder for the recipient :)
 
@@ -135,7 +135,7 @@ You can even set a custom reminder for the recipient :)
 6. If you chose to add a custom reminder you will also receive a Reminder popup from Outlook
 
 ::: ok
-![Figure: OK example - Using Follow Up Flags to set email reminders](followup3.jpg)
+![Figure: OK example - Using Follow Up Flags to set email reminders](/rules/follow-up-effectively/followup3.jpg)
 :::
 
 ### 4. Microsoft Todo
@@ -143,7 +143,7 @@ You can even set a custom reminder for the recipient :)
 This app works in tandem with Outlook to create todo lists and tasks. You can set reminders for daily tasks and even have flagged emails show up in you list as a work item.
 
 ::: good
-![Figure: See your whole day of tasks on a single window including flagged emails](microsoft-todo-summary-page.jpg)
+![Figure: See your whole day of tasks on a single window including flagged emails](/rules/follow-up-effectively/microsoft-todo-summary-page.jpg)
 :::
 
 ### 5. Microsoft Teams | Schedule Send
@@ -173,7 +173,7 @@ Phone reminders made via Siri or Google Assistant are awesome when there are thi
 For example, if Jane knows she wants to film a video at 8am tomorrow then she might ask Siri to remind her at 7:55am. Then when she gets the reminder she knows to film the video right then.
 
 ::: good
-![Figure: Good example - Phone reminders are great for tasks that need to be actioned immediately](iphone-reminder.png)
+![Figure: Good example - Phone reminders are great for tasks that need to be actioned immediately](/rules/follow-up-effectively/iphone-reminder.png)
 :::
 
 ### 9. Calendar | Meetings
@@ -187,7 +187,7 @@ If someone doesn't show up to the meeting, just call them in. If you still don't
 Also make sure to send an email with an action point at the end of the meeting, you never want to end a meeting without action points. You can even use followupthen to make sure you follow up on it!
 
 ::: good
-![Figure: Good example - Meetings are the best way to follow up on tasks that require multiple people's attention](calendarfollowup.png)
+![Figure: Good example - Meetings are the best way to follow up on tasks that require multiple people's attention](/rules/follow-up-effectively/calendarfollowup.png)
 :::
 
 ### 10. Sprints | Creating a PBI or Task
@@ -197,5 +197,6 @@ If working in an agile team it is important for everyone to have visibility of P
 Sprints also naturally act as a follow up since the tasks will be discussed in the Daily Scrum and Sprint meetings.
 
 ::: good
-![Figure: Good example - Having a task or PBI in place makes sure a problem gets addressed](pbifollowup.png)
+![Figure: Good example - Having a task or PBI in place makes sure a problem gets addressed](/rules/follow-up-effectively/pbifollowup.png)
 :::
+

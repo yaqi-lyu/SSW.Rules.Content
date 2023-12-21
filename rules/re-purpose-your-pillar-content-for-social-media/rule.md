@@ -50,7 +50,7 @@ This is the content that will be used to create all other types of content. They
 * Create a version of the video for Facebook, Twitter, LinkedIn and/or Instagram. Write the copy for the post.
 
 ::: good
-![Figure: Good example - Create a version of the video to distribute on the platforms you use](ASPNETCORE30_ENDPOINT_AUTHORIZATION_WITCHCRAFT.png)
+![Figure: Good example - Create a version of the video to distribute on the platforms you use](/rules/re-purpose-your-pillar-content-for-social-media/ASPNETCORE30_ENDPOINT_AUTHORIZATION_WITCHCRAFT.png)
 :::
 
 3. Create a [Giphy](https://giphy.com/) with one of the main points and a moving background video from the pillar content. Write the copy for the post.
@@ -85,3 +85,4 @@ The sites you can/will republish to are:
 * LinkedIn Articles
 * [Substack](https://substack.com/)
 * [Quora](https://www.quora.com/)
+

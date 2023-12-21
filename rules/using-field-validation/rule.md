@@ -34,15 +34,16 @@ The reason for the above validation placement is that these events run in the fo
 * Validated
 
 ::: good
-![Figure: Good example - Error Provider Icon with the required field](sugarlearning-validation.png)
+![Figure: Good example - Error Provider Icon with the required field](/rules/using-field-validation/sugarlearning-validation.png)
 :::
 
 Do **not** show a message box after every error in validation. You may show a message box as an error summary when an OK or Apply is clicked. Make sure you warn the user that there is an error on the form when they attempt to save.
 
 ::: good
-![Figure: Good example - Balloon tooltip indicates the validation error](validationballoon.png)
+![Figure: Good example - Balloon tooltip indicates the validation error](/rules/using-field-validation/validationballoon.png)
 :::
 
 ::: info
 **Note:** For validation errors, don't rely on an error message box and instead automatically focus on the control with the validation error (e.g. in WinForms, use SetFocusOnError on controls that fail validation).
 :::
+

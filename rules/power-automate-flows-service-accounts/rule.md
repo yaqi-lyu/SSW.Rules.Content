@@ -19,11 +19,11 @@ Using a service account is a common best practice. If a flow is not shared with 
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example – The red arrow shows the user as an owner. It is not shared to a group](2023-07-17_17-16-51.jpg)
+![Figure: Bad example – The red arrow shows the user as an owner. It is not shared to a group](/rules/power-automate-flows-service-accounts/2023-07-17_17-16-51.jpg)
 :::
 
 ::: good
-![Figure: Good example – see arrows the names are service accounts that will still work after an employee leaves the company](power-platform-services-accounts.png)
+![Figure: Good example – see arrows the names are service accounts that will still work after an employee leaves the company](/rules/power-automate-flows-service-accounts/power-platform-services-accounts.png)
 :::
 
 ### Do you have issues with connections in Power Automate flows?
@@ -33,3 +33,4 @@ If a Flow is exclusively shared with a single user, it will be deleted shortly a
 For the above to not happen, share your flow with a group, so it is never deleted when the owner leaves the company or gets deleted. 
 
 For e.g. Share with the SysAdmin group. Even when a connection string is lost or invalid, SysAdmins will get a notification to fix the problem
+

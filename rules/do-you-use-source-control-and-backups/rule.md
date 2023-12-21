@@ -22,5 +22,5 @@ As a responsible employee, there should be no excuse for ever losing data, espec
 It doesn't matter where you are, you can still version control your source code and it's important to talk the client into this in order to avoid any possible disasters.
 
 ::: good
-![Figure: Have a backup ](Backup.gif)
+![Figure: Have a backup ](/rules/do-you-use-source-control-and-backups/Backup.gif)
 :::

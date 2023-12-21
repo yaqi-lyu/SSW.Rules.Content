@@ -36,7 +36,7 @@ Here is how to find your MAC address:
 2. Navigate to  **General | About**
 3. Look for  **WiFi Address**
 
-![Figure: MAC address on an iPhone](iphone-mac.png)
+![Figure: MAC address on an iPhone](/rules/how-to-find-your-mac-address/iphone-mac.png)
 
 ### Android Phone
 
@@ -45,4 +45,4 @@ Here is how to find your MAC address:
 3. Tap   **Status/Hardware information**
 4. Scroll down to see your  **WiFi/MAC address**
 
-![Figure: MAC address on an Android](android-mac-address.jpg)
+![Figure: MAC address on an Android](/rules/how-to-find-your-mac-address/android-mac-address.jpg)

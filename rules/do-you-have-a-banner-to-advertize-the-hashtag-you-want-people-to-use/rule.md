@@ -30,9 +30,10 @@ See examples of pages that advertise their hashtags:
 * [SSW Rules](/) #SSWRules
 
 
-![Figure: This Twitter widget shows the hashtags working](hashtag-twitter.jpg)  
+![Figure: This Twitter widget shows the hashtags working](/rules/do-you-have-a-banner-to-advertize-the-hashtag-you-want-people-to-use/hashtag-twitter.jpg)  
 
 
 ::: good  
-![Figure: Good Example - SharePoint Conference 2014 banner to advertise the hashtag people should use](sharepoint-conference-hashtag.jpg)  
+![Figure: Good Example - SharePoint Conference 2014 banner to advertise the hashtag people should use](/rules/do-you-have-a-banner-to-advertize-the-hashtag-you-want-people-to-use/sharepoint-conference-hashtag.jpg)  
 :::
+

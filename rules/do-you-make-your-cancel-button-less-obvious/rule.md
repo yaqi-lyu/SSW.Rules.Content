@@ -20,12 +20,12 @@ To avoid users accidentally cancelling an operation when they thought they where
 
 
 ::: bad  
-![Bad example: Cancel button looks like a save button](bad-cancel-button-example.jpg)  
+![Bad example: Cancel button looks like a save button](/rules/do-you-make-your-cancel-button-less-obvious/bad-cancel-button-example.jpg)  
 :::
 
 
 ::: good  
-![Good example: Cancel button is less obvious](good-example-cancel-button.jpg)  
+![Good example: Cancel button is less obvious](/rules/do-you-make-your-cancel-button-less-obvious/good-example-cancel-button.jpg)  
 :::
 
 **Which side should the cancel button be on?**
@@ -49,3 +49,4 @@ Make the most commonly selected button the default and highlight it. Except if i
 
 * [Nielsen Norman -](http://www.nngroup.com/articles/ok-cancel-or-cancel-ok/) The usability guru talking about ok and cancel buttons
 * [SSW Rule - Do you know to use Save, Save and Close on a webpage?](/do-you-know-to-use-save-save-and-close-on-a-webpage)
+

@@ -23,12 +23,12 @@ To set it up:
 1. Under Deployments
 2. Select Octopus Deploy (Set up)
 
-![](raygun-octopus-1.jpg)  
+![](/rules/how-to-integrate-raygun-with-octopus-deploy/raygun-octopus-1.jpg)  
     Raygun will product you with a [PowerShell script](https://raygun.com/docs/deployments/octopus-deploy) to add into your octopus deployment steps that will call the RayGun API and log a new deployment
 3. Trigger a new deployment
 4. Then you’ll see the deployment in RayGun
 
-![](raygun-octopus-2.png)  
+![](/rules/how-to-integrate-raygun-with-octopus-deploy/raygun-octopus-2.png)  
 Drilling into a deployment you’ll see:
 
 * New errors
@@ -36,5 +36,6 @@ Drilling into a deployment you’ll see:
 * Recurring errors
 
 ::: good  
-![Figure: Good Example – Now you can measure the quality of your deployments](raygun-octopus-3.jpg)  
+![Figure: Good Example – Now you can measure the quality of your deployments](/rules/how-to-integrate-raygun-with-octopus-deploy/raygun-octopus-3.jpg)  
 :::
+

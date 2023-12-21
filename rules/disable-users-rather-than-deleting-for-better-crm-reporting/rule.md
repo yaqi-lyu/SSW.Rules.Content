@@ -18,11 +18,11 @@ When a user is created in Active Directory (AD), a Global Unique Identifier (GUI
 
 <!--endintro-->
 
-![Figure: GUID for User Steven Andrews](guid.png)
+![Figure: GUID for User Steven Andrews](/rules/disable-users-rather-than-deleting-for-better-crm-reporting/guid.png)
 
 When adding a user to CRM, they are assigned with an Employee ID that is linked to the AD account’s GUID.
 
-![Figure: AD User StevenAndrews is tied to STA Employee ID through AD GUID](aduser.png)
+![Figure: AD User StevenAndrews is tied to STA Employee ID through AD GUID](/rules/disable-users-rather-than-deleting-for-better-crm-reporting/aduser.png)
 
 When a user leaves, many companies go through the process of disabling the CRM account and then deleting the AD User.
 
@@ -32,12 +32,12 @@ This makes reporting on a user that has returned more difficult. To get around t
 
 :::bad
 
-![Bad example: Don't delete users!](delete-user.png)
+![Bad example: Don't delete users!](/rules/disable-users-rather-than-deleting-for-better-crm-reporting/delete-user.png)
 
 :::
 
 :::good
 
-![Good example: Disable users and move them to a disabled users OU](disabled-users.png)
+![Good example: Disable users and move them to a disabled users OU](/rules/disable-users-rather-than-deleting-for-better-crm-reporting/disabled-users.png)
 
 :::

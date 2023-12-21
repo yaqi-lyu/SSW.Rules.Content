@@ -28,9 +28,10 @@ In SharePoint 2010, there are quite a few tools that we can use to take SharePoi
 
     a. So when lists are renamed it knows about it.
 
-    b. It also knows about new lists that are added to a SharePoint site ![](Synchronize.jpg) **Figure: SharePoint Workspace synchronizing an entire site**
+    b. It also knows about new lists that are added to a SharePoint site ![](/rules/do-you-know-the-best-way-to-take-sharepoint-data-offline/Synchronize.jpg) **Figure: SharePoint Workspace synchronizing an entire site**
 2. Outlook can be quite busy when synchronizing to Exchange server; it is good to not burden it with more work.
 
  While SharePoint Workspace is quite good, we don’t like to store lists in it:
 
 1. Access has better filtering, sorting options when offline
+

@@ -25,15 +25,16 @@ A well architected application (ie. one that correctly follows the Onion Archite
 
 
 ::: bad  
-![Figure: Bad Example- The Visual Studio Dependency Graph is hard to read](TimePRODependence.png)  
+![Figure: Bad Example- The Visual Studio Dependency Graph is hard to read](/rules/do-you-generate-the-vs-dependency-graph/TimePRODependence.png)  
 :::
 
 
 ::: good  
-![Figure: Good Example – The ReSharper Dependency graph groups dependencies based on Solution Folders. By having a        Consistent Solution Structure it is easy to see from your Dependency Graph if there is coupling between your UI and your Dependencies](TimePRODependence-good.png)  
+![Figure: Good Example – The ReSharper Dependency graph groups dependencies based on Solution Folders. By having a        Consistent Solution Structure it is easy to see from your Dependency Graph if there is coupling between your UI and your Dependencies](/rules/do-you-generate-the-vs-dependency-graph/TimePRODependence-good.png)  
 :::
 
 #### Further Reading:
 
 * [Do you use a dependency injection centric architecture?](/do-you-use-a-dependency-injection-centric-architecture)
 * [Do you know the best dependency injection container?](/the-best-dependency-injection-container)
+

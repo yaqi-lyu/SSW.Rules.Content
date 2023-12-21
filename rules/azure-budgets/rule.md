@@ -43,11 +43,11 @@ In addition to the overarching budget, specific apps can be targeted to monitor 
 In addition to budgets, it's also a good idea to split costing between production and non-production scenarios. This can help diagnose why there are unexpected spend fluctuations e.g. performed load testing on the test site. Also, there are sometimes discounts that can be applied to a subscription only used for dev/test scenarios.  
 
 ::: bad
-![Figure: Bad example - No budget has been set up, disaster could be imminent and no one would know 🥶!](viewbudgetbad.png)
+![Figure: Bad example - No budget has been set up, disaster could be imminent and no one would know 🥶!](/rules/azure-budgets/viewbudgetbad.png)
 :::
 
 ::: good
-![Figure: Good example - Budgets have been set up 😎](viewbudget.png)
+![Figure: Good example - Budgets have been set up 😎](/rules/azure-budgets/viewbudget.png)
 :::
 
 ### Cost alerts - Make sure you know something has gone wrong!
@@ -59,11 +59,11 @@ Make sure to set up alerts on all the thresholds that are important to the compa
 If the company is really worried about costs, an Azure runbook could even be set up to disable resources after exceeding the budget limit. However, that isn't a very common practice since nobody wants the company website to go down randomly!
 
 ::: bad
-![Figure: Bad example - No cost alerts, a recipe for disaster 😞!](budgetalertsbad.png)
+![Figure: Bad example - No cost alerts, a recipe for disaster 😞!](/rules/azure-budgets/budgetalertsbad.png)
 :::
 
 ::: good
-![Figure: Good example - Cost alerts have been set up ✨](budgetalerts.png)
+![Figure: Good example - Cost alerts have been set up ✨](/rules/azure-budgets/budgetalerts.png)
 :::
 
 ### Cost analysis - What if you get an alert?
@@ -82,7 +82,7 @@ Adding a tag of cost-category to each of your resources makes it easier to track
 
 Running a report every fortnight (grouped by the cost-category tab) will highlight any spikes in resource costs - daily reports are probably too noisy, while monthly reports have the potential for overspend to last too long.
 
-![Figure: Daily costs by category](azurecostsbycategory.png)
+![Figure: Daily costs by category](/rules/azure-budgets/azurecostsbycategory.png)
 
 ### Approval process - Don't let just anyone create resources
 
@@ -125,7 +125,7 @@ OR
 
 ${{ AMOUNT }} AUD + GST/year
 
-![Figure: I generated the price from https://azure.microsoft.com/en-au/pricing/calculator](azurecalcexample.jpg)
+![Figure: I generated the price from https://azure.microsoft.com/en-au/pricing/calculator](/rules/azure-budgets/azurecalcexample.jpg)
 
 1. Please approve
 
@@ -134,3 +134,4 @@ ${{ AMOUNT }} AUD + GST/year
 :::
 
 3. If the request is approved, remember to add a cost-category tag to the new resource once it is created
+

@@ -48,9 +48,10 @@ To ensure a standardized approach to creating and sharing signage templates, fol
 * Share the repository link with all employees who need access to the templates.
 
 :::bad
-![Figure: Bad example - Photoshop file with no filename & version number in the footer](bad-example-photoshop.jpg)
+![Figure: Bad example - Photoshop file with no filename & version number in the footer](/rules/manage-office-signs/bad-example-photoshop.jpg)
 :::
 
 :::good
-![Figure: Good example - Used Canva to create an office sign](good-example-canva.jpg)
+![Figure: Good example - Used Canva to create an office sign](/rules/manage-office-signs/good-example-canva.jpg)
 :::
+

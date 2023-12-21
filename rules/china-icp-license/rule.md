@@ -23,5 +23,6 @@ According to the regulation ([Administrative Measures for Internet Information S
 - Other websites that provide Internet information services
 
 ::: good
-![Figure: Amazon China obtained an ICP license](ICPlicenseAmazonChina.png)
+![Figure: Amazon China obtained an ICP license](/rules/china-icp-license/ICPlicenseAmazonChina.png)
 :::
+

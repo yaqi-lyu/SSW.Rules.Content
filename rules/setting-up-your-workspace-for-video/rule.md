@@ -25,7 +25,7 @@ Without a spare room, it can be difficult to create a workable setup, however as
 ### Tip #1: Use a room divider
 
 
-![Figure: Christian uses this divider to hide his background](room-divider.jpg)  
+![Figure: Christian uses this divider to hide his background](/rules/setting-up-your-workspace-for-video/room-divider.jpg)  
 
 Christian has used a folding room divider to hide his background and create something visually nice to look at.
 
@@ -36,7 +36,7 @@ It has the added effect of softening any background light, e.g. windows, lamps e
 
 Jason’s setup is another good example:
 
-![Figure: Jason is in a bedroom, however, the angle shows little of the bed](jason-angle-bed.jpg)  
+![Figure: Jason is in a bedroom, however, the angle shows little of the bed](/rules/setting-up-your-workspace-for-video/jason-angle-bed.jpg)  
 
 In this setup, Jason is using a more ‘pro’ setup with a USB powered podcasting mic and an articulating arm. He is also using a high-quality webcam with a ring light.
 
@@ -53,7 +53,7 @@ One of the most frustrating aspects of remote calls is participants’ mixed aud
 
 **USB webcam with built-in mic array**
 
-![Figure:        Logitech Brio 4k webcam](logitech-brio.png)  
+![Figure:        Logitech Brio 4k webcam](/rules/setting-up-your-workspace-for-video/logitech-brio.png)  
 
 
 
@@ -90,7 +90,7 @@ Benefits
 
 The best way to improve your video is not to buy a new fancy camera, but to improve your existing setup with great lighting.
 
-![Figure: Ring light for webcam/camera/smartphone](ring-light.jpg)  
+![Figure: Ring light for webcam/camera/smartphone](/rules/setting-up-your-workspace-for-video/ring-light.jpg)  
 
 
 
@@ -102,3 +102,4 @@ Benefits
 * Drastically improves video quality
 * Adds professional spark to your presentation
 * This kit allows you to use a webcam or smartphone via Bluetooth
+

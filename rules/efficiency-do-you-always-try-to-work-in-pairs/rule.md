@@ -18,7 +18,7 @@ There are many good reasons why it's better to work in pairs.
 
 <!--endintro-->
 
-![Figure: Do you always try to work in pairs?](ProjectManagement\_PairProgramming\_Luge.jpg)  
+![Figure: Do you always try to work in pairs?](/rules/efficiency-do-you-always-try-to-work-in-pairs/ProjectManagement_PairProgramming_Luge.jpg)  
 
 For everyone:
 
@@ -49,11 +49,11 @@ If you find yourself working alone, which we don't recommend, you should speak u
 1 dev plus 1 dev doesn't equal 2 devs worth of work. It equals 3! 🎉
 
 ::: bad
-![Figure: Bad example - This is normal ‘pair programming’, two people working at one PC](PairProgramming01.jpg)  
+![Figure: Bad example - This is normal ‘pair programming’, two people working at one PC](/rules/efficiency-do-you-always-try-to-work-in-pairs/PairProgramming01.jpg)  
 :::
 
 ::: good
-![Figure: Good example - This is ‘working in pairs’, two devs working on the same project, with their own laptops, but sitting very close to each other](PairProgramming02\_Small.jpg)  
+![Figure: Good example - This is ‘working in pairs’, two devs working on the same project, with their own laptops, but sitting very close to each other](/rules/efficiency-do-you-always-try-to-work-in-pairs/PairProgramming02_Small.jpg)  
 :::
 
 ###  Is there an overhead?
@@ -75,3 +75,5 @@ If you are working with someone remote, you will be using an application like [T
 * Visual Studio 2022! It's built in!
 
 [Code With me](https://www.jetbrains.com/code-with-me/) - A great tool for JetBrains IDE users who want to pair program. Though it isn't supported in Rider right now.
+
+

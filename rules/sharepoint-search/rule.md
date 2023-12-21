@@ -53,7 +53,7 @@ Example of properties you can use (common ones);
 
 **More:** https://docs.microsoft.com/en-us/office365/securitycompliance/keyword-queries-and-search-conditions
 
-![Figure: Example of using Filetype: filter](filter-sharepoint-example.png)  
+![Figure: Example of using Filetype: filter](/rules/sharepoint-search/filter-sharepoint-example.png)  
 Use Boolean OR and AND operators
 Similar to Google and Bing, you can use OR and AND Boolean operators. E.g. "sharepoint AND search".
 
@@ -74,3 +74,4 @@ This can be useful if you know that certain words are used together, e.g. Fire\*
 ### Use double quotes to find specific phrases
 
 E.g. search for "social media" to make sure you get results for social media, as opposed to results that simply contain the words "social" and "media" in the same document.
+

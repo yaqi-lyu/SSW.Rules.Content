@@ -22,5 +22,6 @@ Plus, with history information, you can get exact downtime of your website or se
 
 
 ::: good  
-![Figure: Google's uptime reports - with history information.        See it now](google-uptime-report.jpg)  
+![Figure: Google's uptime reports - with history information.        See it now](/rules/have-an-uptime-report-for-your-website/google-uptime-report.jpg)  
 :::
+

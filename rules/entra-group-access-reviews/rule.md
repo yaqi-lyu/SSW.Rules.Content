@@ -26,14 +26,14 @@ In today's digital landscape, ensuring the right people have the right access to
 
 When it's time for an access review, users receive a notification prompting them to validate their access rights. This user-friendly process is designed to be intuitive, guiding users step-by-step through the review of their permissions. They'll see a clear list of the resources they currently have access to and will be asked to confirm if they still require that access. This self-review empowers users to be part of the security and compliance process, ensuring they only have access to what they genuinely need. The interface is clean and straightforward, minimizing any potential confusion. Below is a screenshot that provides a glimpse into what users see during this process:
 
-![Figure: Reviewing your access is as simple as clicking a link in an email](2023-10-09_9-09-17.png)
+![Figure: Reviewing your access is as simple as clicking a link in an email](/rules/entra-group-access-reviews/2023-10-09_9-09-17.png)
 
 ### Creating an Access Review
 
 1. Go to the **Azure Portal | Identity Governance | [Access Reviews](https://portal.azure.com/#view/Microsoft_AAD_ERM/DashboardBlade/~/Controls)**
 2. Click **+ New Access Review**
 
-![Figure: New Access Review](access-review-1.png)
+![Figure: New Access Review](/rules/entra-group-access-reviews/access-review-1.png)
 
 3. Under **Select what to review**, choose **Teams + Groups**
 4. Under Review scope, choose **Select Teams + Groups**
@@ -41,7 +41,7 @@ When it's time for an access review, users receive a notification prompting them
 6. Under **Scope** select **All users**
 7. Click **Next: Reviews**
 
-![Figure: Access Reviews | Review type](access-review-2.png)
+![Figure: Access Reviews | Review type](/rules/entra-group-access-reviews/access-review-2.png)
 
 8. Check the **Multi-stage review** box
 9. Under **First stage review | Select reviewers**, choose **Users review their own access**
@@ -49,18 +49,18 @@ When it's time for an access review, users receive a notification prompting them
 11. Under **Second stage review | Select reviewers**, choose **Group owner(s)**
 12. Select a stage duration again (default is **3 days)**
 
-![Figure: Access Review | Stages](access-review-3.png)
+![Figure: Access Review | Stages](/rules/entra-group-access-reviews/access-review-3.png)
 
 13. Under **Specify recurrence of review**, select a **Review recurrence** and **Start date**
 14. Under **Specify reviewees to go to next stage**, choose **Approved reviewees**
 15. Click **Next: Settings**
 
-![Figure: Access Reviews | recurrence & reviewees](access-review-4.png)
+![Figure: Access Reviews | recurrence & reviewees](/rules/entra-group-access-reviews/access-review-4.png)
 
 16. Under **Upon completion settings**, tick **Auto apply results to resource**
 17. Under **If reviewers don't respond**, choose **Remove access**
 
-![Figure: Access Reviews | Upon completion](access-review-5.png)
+![Figure: Access Reviews | Upon completion](/rules/entra-group-access-reviews/access-review-5.png)
 
 Under **Advanced Settings**
 
@@ -68,15 +68,15 @@ Under **Advanced Settings**
 19. Under **Additional content for reviewer email**, add an explanation so there's no confusion over what this email is.
 20. Click **Next: Review + Create**
 
-![Figure: Access Reviews | Advanced settings](access-review-6.png)
+![Figure: Access Reviews | Advanced settings](/rules/entra-group-access-reviews/access-review-6.png)
 
 21. Under **Name new access review**, add a name and description
 22. Review the details and click **Create**
 
-![Figure: Access Review | Review + Create](access-review-7.png)
+![Figure: Access Review | Review + Create](/rules/entra-group-access-reviews/access-review-7.png)
 
 ## The Results
 
 At the end of the review we get to see the results
 
-![Figure: At the conclusion we see these great stats!!](screenshot-2023-09-27-094036.png)
+![Figure: At the conclusion we see these great stats!!](/rules/entra-group-access-reviews/screenshot-2023-09-27-094036.png)

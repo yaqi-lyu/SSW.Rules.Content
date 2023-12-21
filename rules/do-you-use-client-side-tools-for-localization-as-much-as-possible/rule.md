@@ -18,4 +18,5 @@ With the increasing use of JavaScript on the client and HTML5, client-side local
 
 <!--endintro-->
 
-![Figure: Using Angular Translate plugin for localization](Angular_Localization.jpg)
+![Figure: Using Angular Translate plugin for localization](/rules/do-you-use-client-side-tools-for-localization-as-much-as-possible/Angular_Localization.jpg)
+

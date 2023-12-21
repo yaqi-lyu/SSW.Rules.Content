@@ -21,6 +21,7 @@ Out of the box, any user with the correct licence can create environments. If yo
 3.	Select Power Platform settings.
 4.	Select Only specific admins.
 
-![Figure: Set environment creation to admins only](power-platform-settings.png)
+![Figure: Set environment creation to admins only](/rules/control-who-can-manage-Power-Platform-environments/power-platform-settings.png)
 
 Once the settings are changed only Global Admin, Dynamics 365 Admins, Power Platform Admins will control the environments.
+

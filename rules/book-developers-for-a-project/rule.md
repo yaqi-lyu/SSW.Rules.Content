@@ -32,11 +32,11 @@ Before booking developers, make sure you talk to them and check that they are co
 To see which developers are available for booking:
 
 ::: ok
-![Figure: OK example - Using the Service Calendar, you can see who is and is not available at a given time](service-calendar-crm-online-version-blurred.png)
+![Figure: OK example - Using the Service Calendar, you can see who is and is not available at a given time](/rules/book-developers-for-a-project/service-calendar-crm-online-version-blurred.png)
 :::
 
 ::: good
-![Figure: Good example - Build a Power BI report to show the CRM data more succinctly](bookedindays.png)
+![Figure: Good example - Build a Power BI report to show the CRM data more succinctly](/rules/book-developers-for-a-project/bookedindays.png)
 :::
 
 There are a few different ways of booking developers for project work, either via Outlook or the browser.
@@ -59,7 +59,7 @@ This is generally the easiest way for developers to book themselves in as they d
 7. Set the recurrence if it’s more than 1 day of work
 8. Click "Dynamics 365" on the ribbon which will open a side panel and click on "Set Regarding" then search for the company that you want to book the developers to work on (this is the step that syncs it with CRM)
 
-![Figure: A complete appointment booking Brendan to work for SSW for 5 days](Dynamics1.jpg)
+![Figure: A complete appointment booking Brendan to work for SSW for 5 days](/rules/book-developers-for-a-project/Dynamics1.jpg)
 
 ### Option 2: CRM Activity Appointments
 
@@ -67,7 +67,7 @@ This is a backup option for anyone who doesn't have access to Outlook with the C
 
 1. Create a new appointment in Dynamics 365 Online
 
-![Figure: Click Appointment to create a new appointment in CRM](Dynamics-Calendar-App.jpg)
+![Figure: Click Appointment to create a new appointment in CRM](/rules/book-developers-for-a-project/Dynamics-Calendar-App.jpg)
 
 2. Set the Subject
 3. Select the resources that you want to book
@@ -78,7 +78,7 @@ This is a backup option for anyone who doesn't have access to Outlook with the C
 
 **Tip:** If you do not want them to block your calendar, you can change the organizer and owner to the developer you are booking. It will still track to the Service Calendar, but won't add it to your personal calendar, only the developers.
 
-![Figure: A complete CRM Appointment for a 1-day booking](Dynamics-Appointment.jpg)
+![Figure: A complete CRM Appointment for a 1-day booking](/rules/book-developers-for-a-project/Dynamics-Appointment.jpg)
 
 ### Adding Tentative Bookings
 
@@ -101,7 +101,7 @@ To book someone for internal work:
 2. Instead of choosing a client account for "Set Regarding", choose your own company (e.g. "SSW").
 3. Mention which internal project the developer is working on in brackets (e.g. "SSW - Brady (Rules)")
 
-![Figure: Internally 'Booked' days show as black and 'Pencilled In' days show as grey](2020-03-20_10-49-19.png)
+![Figure: Internally 'Booked' days show as black and 'Pencilled In' days show as grey](/rules/book-developers-for-a-project/2020-03-20_10-49-19.png)
 
 ### Using a separate Outlook calendar to book appointments
 
@@ -111,7 +111,7 @@ Unfortunately, you cannot use a sub-folder to track appointments in Outlook. You
 
 Using the example of SSW's **crmtimeprosync@** account, this account is used to add appointments to the Service Calendar, and these are then added through the SSWBookings calendar in Outlook:
 
-![Figure: Appointments tracked from with Outlook desktop](Appointments tracked from Outlook desktop.png)
+![Figure: Appointments tracked from with Outlook desktop](/rules/book-developers-for-a-project/Appointments tracked from Outlook desktop.png)
 
 **Note:** If using a separate Exchange calendar, it's highly recommended to login via Outlook Web Access (OWA) rather than loading it up as a shared calendar in your Outlook Desktop client. This is because it handles multiple users much better this way, and will avoid synching issues. 
 
@@ -124,6 +124,7 @@ Open browser’s incognito mode | go to https://outlook.office.com | logon with 
 
 Go to Files | Add an account | Restart Outlook once it completes 
 
-![Figure: Add account to your Outlook](Add account.jpg)
+![Figure: Add account to your Outlook](/rules/book-developers-for-a-project/Add account.jpg)
 
 Please note you will need to get the password from your friendly SysAdmins.
+

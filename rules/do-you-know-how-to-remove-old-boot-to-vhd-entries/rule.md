@@ -25,7 +25,7 @@ bcdedit
 ```
 
 
- ![The list Boot entries after running bcdedit](fig6-listbootentries.png)
+ ![The list Boot entries after running bcdedit](/rules/do-you-know-how-to-remove-old-boot-to-vhd-entries/fig6-listbootentries.png)
 **Figure - The list Boot entries after running bcdedit
 **
 3. Using the  **identifier** from the previous step you can now run the following command to delete the entry:
@@ -37,7 +37,8 @@ bcdedit /delete  {identifier}
 ```
 
 
-![The boot entry has now been deleted](fig7-deletingthebootentry.png)
+![The boot entry has now been deleted](/rules/do-you-know-how-to-remove-old-boot-to-vhd-entries/fig7-deletingthebootentry.png)
 **Figure - The boot entry has now been deleted**
 
  You can now delete or move your VHD file and you will not get any errors when booting your laptop.
+

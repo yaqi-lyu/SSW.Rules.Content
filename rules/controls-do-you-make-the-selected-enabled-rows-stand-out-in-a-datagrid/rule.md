@@ -17,11 +17,11 @@ Many times you allow a multiple selection in a grid by using a checkbox. When yo
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - Selected rows are not separate from others.](../../assets/Interface\_Selected\_Rows\_Bad.JPG)  
+![Figure: Bad example - Selected rows are not separate from others.](/rules/controls-do-you-make-the-selected-enabled-rows-stand-out-in-a-datagrid/Interface_Selected_Rows_Bad.JPG)  
 :::
 
 ::: good  
-![Figure: Good example - Selected rows are separate from others.](../../assets/Interface\_Selected\_Rows\_Good.JPG)  
+![Figure: Good example - Selected rows are separate from others.](/rules/controls-do-you-make-the-selected-enabled-rows-stand-out-in-a-datagrid/Interface_Selected_Rows_Good.JPG)  
 :::
 
 To make this effect in datagrid, you may need to edit the  **cellcontentclick** event handler code. 
@@ -49,3 +49,4 @@ private void DatagridviewRules_CellContentClick(object sender, DataGridViewCellE
 ```
  
 Setting the ForeColor to different ones, like black and gray, can separate the selected rows from others.
+

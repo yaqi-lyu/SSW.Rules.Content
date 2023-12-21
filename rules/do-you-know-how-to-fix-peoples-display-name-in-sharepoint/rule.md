@@ -15,18 +15,18 @@ redirects: []
 
 When SharePoint encounters a new person, it takes people's display name and account name from Active Directory, but sometimes  
 <!--endintro-->
-![](MixUpNames.jpg)**Figure: Mixed up names - some are good Display Name, some are essentially just the Account Name** (More here) 
+![](/rules/do-you-know-how-to-fix-peoples-display-name-in-sharepoint/MixUpNames.jpg)**Figure: Mixed up names - some are good Display Name, some are essentially just the Account Name** (More here) 
 
 The easiest way to fix this requires someone with central administration access:1. Go to: SharePoint Central Administration | Application Management | Service Applications | Manage Service applications 
-![](ServiceApplication.jpg)
+![](/rules/do-you-know-how-to-fix-peoples-display-name-in-sharepoint/ServiceApplication.jpg)
 2. Go to User Profile Service Application
-![](UserProfileServiceApplication.jpg)
+![](UserProfile/rules/do-you-know-how-to-fix-peoples-display-name-in-sharepoint/ServiceApplication.jpg)
 3. Go to Manage User Profiles 
-![](ManageUserProfiles.jpg)
+![](/rules/do-you-know-how-to-fix-peoples-display-name-in-sharepoint/ManageUserProfiles.jpg)
 4. Find the user profile that you want to update 
-![](FindUserProfile.jpg)
+![](/rules/do-you-know-how-to-fix-peoples-display-name-in-sharepoint/FindUserProfile.jpg)
 5. Fix the Name field (Display name)
-![](FixNameField.jpg)
+![](/rules/do-you-know-how-to-fix-peoples-display-name-in-sharepoint/FixNameField.jpg)
 6. Save
 
 
@@ -40,3 +40,4 @@ Unless configured otherwise, end users in SharePoint do not have the ability to 
 
 1. Modify the farm user information list cache (via steps above), or
 2. Set up User Profile Synchronization
+

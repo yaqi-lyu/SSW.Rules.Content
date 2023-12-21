@@ -20,7 +20,7 @@ By difficult to spot errors, we mean errors that do not give the user a prompt t
 
 **Sample Code:**
 
-![](unit test - arithmetic code.jpg)
+![](/rules/have-tests-for-difficult-to-spot-errors/unit test - arithmetic code.jpg)
 
 **Figure: Function to calculate a total for a list of items** 
 
@@ -28,6 +28,6 @@ For a function like this, it might be simple to spot errors when there are one o
 
 **Sample Test:** (Note: it doesn't need a failure case because it isn't a regular expression.)
 
-![](unit test - arithmetic tests.jpg)
+![](/rules/have-tests-for-difficult-to-spot-errors/unit test - arithmetic tests.jpg)
 
 **Figure: Test calculates the total by checking something we know the result of.**

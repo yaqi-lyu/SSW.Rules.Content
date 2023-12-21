@@ -18,11 +18,11 @@ Thinking about UI, we want to make them as clean as possible... you do that by r
 <!--endintro-->
 
 ::: good
-![Figure: Good example - Unnecessary labels](labels-are-a-last-resort-bad.png)
+![Figure: Good example - Unnecessary labels](/rules/avoid-labels/labels-are-a-last-resort-bad.png)
 :::
 
 ::: good
-![Figure: Good example - Users know what things are without all the unnecessary labels](labels-are-a-last-resort-good.png)
+![Figure: Good example - Users know what things are without all the unnecessary labels](/rules/avoid-labels/labels-are-a-last-resort-good.png)
 :::
 
 Find these and more examples and information on [labels are a last resort](https://www.refactoringui.com/previews/labels-are-a-last-resort).

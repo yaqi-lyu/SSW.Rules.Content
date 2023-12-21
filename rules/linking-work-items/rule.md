@@ -12,6 +12,6 @@ If a work item is related to another Work Item or is a duplicate request, create
 
 <!--endintro-->
 
-![Figure: Adding a related Work Item](related-work-item-1.jpg)
+![Figure: Adding a related Work Item](/rules/linking-work-items/related-work-item-1.jpg)
 
-![Figure: Adding details about the related Work Item](related-work-item-2.jpg)
+![Figure: Adding details about the related Work Item](/rules/linking-work-items/related-work-item-2.jpg)

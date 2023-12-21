@@ -18,7 +18,7 @@ redirects: []
 We strongly believe that this process should all be automated and painless. Even the receptionist should be able to make a grammatical change on the website and be able to deploy it.
 
 We use TFS gated check-ins to do the deployment for us. When a developer checks there changes into TFS they are prompted with a gated check-in screen.
-![Figure: "Build" screen](deployment1.jpg)
+![Figure: "Build" screen](/rules/do-your-developers-deploy-manually/deployment1.jpg)
 
 <!--endintro-->
 
@@ -26,10 +26,10 @@ The developer clicks the "Build changes" button and waits for the build to compl
 The code is put into a TFS shelf, compiled, had all the unit tests run against the code and then deployed to the internal webserver if successful.
 
 Once this process has completed successfully, the developer will get presented with the ability to "reconcile" their local copy of the files as they have now been successfully checked-in to TFS.
-![Figure: Click on the "Reconcile" button to update your local files](deployment2.jpg)
+![Figure: Click on the "Reconcile" button to update your local files](/rules/do-your-developers-deploy-manually/deployment2.jpg)
 
 If the developer does not have Build notifications on there local computer then this step can also be easily performed via the Build Explorer in Visual Studio.
-![Figure: Right click on your last successful build and choose "Reconcile Workspace"](deployment3.jpg)
+![Figure: Right click on your last successful build and choose "Reconcile Workspace"](/rules/do-your-developers-deploy-manually/deployment3.jpg)
 
 The SSW website also queues a build process that deploys the changes to our Australian staging server. A developer can then use [Octopus deploy](/rules-to-better-octopus-deploy) to push it live to our Australian and US production sites.
 
@@ -37,4 +37,5 @@ The process that syncs to our external servers is very quick. Only the changes i
 
 If the build fails then no changes would get pushed to staging and developers should [swarm to fix the build](/do-you-swarm-to-fix-the-build).
 
-![Figure: See the build failing and who requested it](2017-04-11_10-13-08.png)
+![Figure: See the build failing and who requested it](/rules/do-your-developers-deploy-manually/2017-04-11_10-13-08.png)
+

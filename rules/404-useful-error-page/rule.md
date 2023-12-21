@@ -52,9 +52,10 @@ Figure: Good example - Turning on "customErrors" protects sensitive information 
 
 
 ::: bad  
-![Figure: Bad example - Unhandled error](404-bad.jpg)  
+![Figure: Bad example - Unhandled error](/rules/404-useful-error-page/404-bad.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - Custom error page](404-good.jpg)  
+![Figure: Good example - Custom error page](/rules/404-useful-error-page/404-good.jpg)  
 :::
+

@@ -35,18 +35,18 @@ It allows you to choose which accounts to post to, can post to multiple social m
 
 You can either visit the [Buffer website](https://buffer.com/) or install the Buffer extension for your browser that sits next to the address bar of your browser.
 
-![Figure: To use the Buffer app from your browser, simply click the symbol](buffer-browser-extension.jpg)
+![Figure: To use the Buffer app from your browser, simply click the symbol](/rules/post-using-social-media-management-tools/buffer-browser-extension.jpg)
 
-![Figure: You can select as many Social Media accounts as required and post to each platform at once using Buffer. You can also use the "Customize for each network" button to modify the content for each platform before you post it](post-example.png)
+![Figure: You can select as many Social Media accounts as required and post to each platform at once using Buffer. You can also use the "Customize for each network" button to modify the content for each platform before you post it](/rules/post-using-social-media-management-tools/post-example.png)
 
 The content of your posts should be consistent across accounts. When making a post that exceeds the character limit of a site such as Twitter, you should write a separate, shorter version of the post to send to that site only. You can also use the "Customize for each network" button on Buffer to modify the content to better suit the platform for each post. This means that you could write the content for a Tweet and then modify it to remove things like #Hashtags to post it to LinkedIn where they don't make sense.
 
 ::: bad
-![Figure: Bad example - only Tweeting using Twitter alone and not using a scheduler to post across the different media platforms at once. This is time-consuming!](tweet-example.jpg) 
+![Figure: Bad example - only Tweeting using Twitter alone and not using a scheduler to post across the different media platforms at once. This is time-consuming!](/rules/post-using-social-media-management-tools/tweet-example.jpg) 
 :::
 
 ::: good
-![Figure: Good example - posting using Buffer to modify your content between platforms - much faster than posting individually to each platform every time](Buffer2.jpg)
+![Figure: Good example - posting using Buffer to modify your content between platforms - much faster than posting individually to each platform every time](/rules/post-using-social-media-management-tools/Buffer2.jpg)
 :::
 
 ### \#Hashtags
@@ -71,7 +71,7 @@ A SaaS product, [SocialPilot](https://www.socialpilot.co/) is another really cos
 
 They allow you to connect to social media platforms such as TikTok, Instagram, Facebook, LinkedIn, Twitter and Google My Business. SocialPilot also integrates with platforms like Zapier, Canva, Snip.ly and Bit.ly.
 
-![Figure: SocialPilot analytics reporting can help you understand better if your content is working towards achieving your goals](linkedin-analytics-social-pilot.png)
+![Figure: SocialPilot analytics reporting can help you understand better if your content is working towards achieving your goals](/rules/post-using-social-media-management-tools/linkedin-analytics-social-pilot.png)
 
 ## HootSuite
 
@@ -88,3 +88,4 @@ Out in the market since 2010, [Sprout Social](https://sproutsocial.com/) is an a
 Besides three options of plans, they have three additional and optional premium solutions: Listening (below), Premium Analytics and Employee Advocacy.
 
 ![Figure: Sprout Social has a Listening feature that allows you to build a deeper understanding of your audience, discover trends and apply insights from your social media in your business strategy](https://media.sproutsocial.com/uploads/PI_Listening_Competitive_Analysis_Performance_1000w.png)
+

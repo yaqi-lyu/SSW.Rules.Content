@@ -19,10 +19,11 @@ Although most of the sites have a 'Log off' submenu, we recommend adding a short
 
 
 ::: bad  
-![Figure: Bad example - Only has a 'Log Off' operation in the submenu](logoff-bad.jpg)  
+![Figure: Bad example - Only has a 'Log Off' operation in the submenu](/rules/authentication-do-you-have-a-logout-short-cut-next-to-the-user-name/logoff-bad.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example - Has a 'Logout' short cut next to the username](logoff-good.jpg)  
+![Figure: Good example - Has a 'Logout' short cut next to the username](/rules/authentication-do-you-have-a-logout-short-cut-next-to-the-user-name/logoff-good.jpg)  
 :::
+

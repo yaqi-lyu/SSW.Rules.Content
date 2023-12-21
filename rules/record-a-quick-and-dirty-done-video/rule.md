@@ -111,7 +111,7 @@ After recording your video, you need to do some basic sound processing to make t
 * On the timeline, move the new audio meter up just until the audio waveform is about to hit the top
 * Listen and adjust as necessary
 
-    ![Figure: Camtasia - audio effects panel with the compressor](audio-effects-panel.png)
+    ![Figure: Camtasia - audio effects panel with the compressor](/rules/record-a-quick-and-dirty-done-video/audio-effects-panel.png)
 
 #### Tip #3: Camtasia - Fade-out and fade-in the video track of your face
 
@@ -121,7 +121,7 @@ After recording your video, you need to do some basic sound processing to make t
 4. Select the  **Full Opacity (4)** animation effect for fade-in.
 5. **Drag and drop the Full Opacity effect (5)** to the point in the track where you want to fade-in. Adjust the start and end point of the fade using the handles on the animation arrow.
 
-![Figure: Camtasia - Steps for adding fade-out/fade-in animation to video track of your face in 'Done' video](fade-in-and-out.png)
+![Figure: Camtasia - Steps for adding fade-out/fade-in animation to video track of your face in 'Done' video](/rules/record-a-quick-and-dirty-done-video/fade-in-and-out.png)
 
 #### Tip #4: Camtasia's Final Step – Export your video
 
@@ -129,13 +129,13 @@ Follow the steps to export your video:
 
 1. Click the Share button on the top right of the window
 
-   ![Figure: How to share](export-video1.png)
+   ![Figure: How to share](/rules/record-a-quick-and-dirty-done-video/export-video1.png)
 2. In the new dialog, select 'Custom production settings':
 
-   ![Figure: Production settings](export-video2.png)
+   ![Figure: Production settings](/rules/record-a-quick-and-dirty-done-video/export-video2.png)
 3. In the next window, uncheck the ‘Produce with controller’ option: 
 
-   ![Figure: Controller settings](export-video3.png)
+   ![Figure: Controller settings](/rules/record-a-quick-and-dirty-done-video/export-video3.png)
 4. In the ‘Video settings’ tab, copy these settings:
 
 * Frame Rate: 30
@@ -143,11 +143,11 @@ Follow the steps to export your video:
 * Encoding mode: Quality
 * Increase the quality to 100%
 
-   ![Figure: Copy these video settings](export-video4.png)
+   ![Figure: Copy these video settings](/rules/record-a-quick-and-dirty-done-video/export-video4.png)
 
 5. In the ‘Audio settings’ tab, make sure the Bit rate is set to 320 kbps:
 
-   ![Figure:  Audio settings](export-video5.png)
+   ![Figure:  Audio settings](/rules/record-a-quick-and-dirty-done-video/export-video5.png)
 6. Click Next and save your file!
 
 ### Example of a good Done Video
@@ -163,3 +163,4 @@ Looking to improve your videos?
 
 Once you've followed the steps above to set up your device and you are ready to record, see our tips here for [the key steps to make a great 'Done Video'](/making-a-great-done-video)
 :::
+

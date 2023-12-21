@@ -28,15 +28,17 @@ Example:
 UPDATED: 1 August 2010 [summary of what you changed]
 :::
 
-![Figure: OK example – Although Peter has the right idea, he needs to think more of a global audience -        See live](RulesBloggingUpdate\_OKPeter.jpg)  
+![Figure: OK example – Although Peter has the right idea, he needs to think more of a global audience -        See live](/rules/do-you-know-to-update-a-blog/RulesBloggingUpdate_OKPeter.jpg)  
 
 ::: good  
-![Figure: Ultimate example – Mike has gotten into the swing of things -        See live](RulesBloggingUpdate\_UltimateMike.jpg)  
+![Figure: Ultimate example – Mike has gotten into the swing of things -        See live](/rules/do-you-know-to-update-a-blog/RulesBloggingUpdate_UltimateMike.jpg)  
 :::
 
 You should also apply this technique to youtube videos you record too.
 
 ::: good  
-![Figure: Good Example - Following up on bug video makes it clear that the bug was fixed quickly](UpdatedYoutubeTitle.png)  
+![Figure: Good Example - Following up on bug video makes it clear that the bug was fixed quickly](/rules/do-you-know-to-update-a-blog/UpdatedYoutubeTitle.png)  
 :::
+
+
 

@@ -23,7 +23,7 @@ If you have a blog, a good idea is to add a simple post to tag your new video. I
 
 Here's a [simple example](https://adamcogan.com/2022/03/28/tech-debt-do-you-know-the-best-way-to-handle-it/):
 
-![Figure: A simple blog post with your video embeded will help expand the audience for your video/content](adam-cogan-simple-example.png)
+![Figure: A simple blog post with your video embeded will help expand the audience for your video/content](/rules/blog-every-time-you-publish-a-video/adam-cogan-simple-example.png)
 
 ### **The gold standard ⭐**
 
@@ -32,3 +32,4 @@ You could go the extra mile and explain your whole talk for an even better resul
 Plus, you have the added benefit of having visual/audio content through the video, as well as written content. That way, you are really catering and communicating to all types of learners, readers or consumers your audience might include.
 
 ![Figure: A blog post that includes a video, keywords and the complete thought process will be seen with more authority by Google and give you more views](/static/d4b8c03a75bd571d4c7b57ad4f026e67/72e01/matt-goldman-blog-good-example.jpg)
+

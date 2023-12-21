@@ -27,7 +27,7 @@ Never allow a situation where a developer can check outcode and the code does no
 5. Check-In
 
 Figure: Bad example - wrong process
-![Figure: Before you start cooking prepare all your ingredients. Before you start coding, "Get Latest" the right way](BeforeCoding.jpg)  
+![Figure: Before you start cooking prepare all your ingredients. Before you start coding, "Get Latest" the right way](/rules/before-starting-do-you-follow-a-test-driven-process/BeforeCoding.jpg)  
 
 1. Get latest
 2. Compile
@@ -50,3 +50,4 @@ Figure: Good example - right process
 **
 
 **Note:** You should have both a Gated-Check-in (GC) and a Continuous Integration (CI) build on every branch.
+

@@ -23,7 +23,7 @@ The standard is to enforce policies based on reputable regulatory organizations 
 <!--endintro-->
 
 ::: good  
-![Figure: Good example - Active Directory settings based on latest security recommendations](adnewpasspolicy.jpg)
+![Figure: Good example - Active Directory settings based on latest security recommendations](/rules/have-a-strict-password-security-policy/adnewpasspolicy.jpg)
 :::
 
 When passwords have to be changed they should meet the following complexity requirements:
@@ -40,3 +40,4 @@ When passwords have to be changed they should meet the following complexity requ
 ::: info
 **Important:** Requiring users to change their passwords (e.g. every 180 days) **does not** improve security. If you already have a strong password (as above) and a second factor of authentication (e.g. MFA), changing it does very little to make you more secure. Generally, you should change your password only when you believe it has been compromised.
 :::
+

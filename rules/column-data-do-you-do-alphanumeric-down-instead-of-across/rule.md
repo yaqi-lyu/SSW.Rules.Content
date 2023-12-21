@@ -18,5 +18,5 @@ Vertical lists are much easier to scan than horizontal lists, because all items 
 <!--endintro-->
 
 ::: good
-![Figure: Good example - Apple.com lists countries in columns vertically](appledotcom-verticall.png)
+![Figure: Good example - Apple.com lists countries in columns vertically](/rules/column-data-do-you-do-alphanumeric-down-instead-of-across/appledotcom-verticall.png)
 :::

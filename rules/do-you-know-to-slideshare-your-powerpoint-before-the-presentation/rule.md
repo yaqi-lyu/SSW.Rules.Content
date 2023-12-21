@@ -21,9 +21,9 @@ guid: 74d7a85f-9380-4c0c-bd11-c80ad4df475a
 
 <!--endintro-->
 
-![Figure: SlideShare ranks well in google searches](FodyAsyncErrorHandlerXamarinGoogleSearch.png)
+![Figure: SlideShare ranks well in google searches](/rules/do-you-know-to-slideshare-your-powerpoint-before-the-presentation/FodyAsyncErrorHandlerXamarinGoogleSearch.png)
 
-![Figure: Interestingly, keyword heavy slides from your PowerPoint will rank highly on Google image search](FodyAsyncErrorHandlerGoogleImageSearch.png)
+![Figure: Interestingly, keyword heavy slides from your PowerPoint will rank highly on Google image search](/rules/do-you-know-to-slideshare-your-powerpoint-before-the-presentation/FodyAsyncErrorHandlerGoogleImageSearch.png)
 
 ::: greybox
 Check out the SlideShare shown above: [Supercharging your Xamarin app! 3 must use libraries](https://www.slideshare.net/ChrisBriggsy/supercharging-your-xamarin-app-3-must-use-libraries)
@@ -38,15 +38,16 @@ Follow these steps to ensure you get as much coverage as possible before and aft
        1. On the last slide, add a generic SlideShare link such as slideshare.net/YourAccount - E.g. slideshare.net/SSWConsulting/
        2. On the first slide add a note that contains the version. This is so that you can compare easily what version is on SharePoint and what is on SlideShare
 
-   ![Figure: Add the version number on the bottom right corner of your first or second slide](versionnumber.jpg)
+   ![Figure: Add the version number on the bottom right corner of your first or second slide](/rules/do-you-know-to-slideshare-your-powerpoint-before-the-presentation/versionnumber.jpg)
 5. Upload to SlideShare – Make sure the title **doesn’t** have the version number on it
 6. Go to “My uploads” and change the presentation title to have the version number
-   ![Figure: Adding the version number to the title (after uploading) won’t affect the URL](version-number-slideshare.jpg)
+   ![Figure: Adding the version number to the title (after uploading) won’t affect the URL](/rules/do-you-know-to-slideshare-your-powerpoint-before-the-presentation/version-number-slideshare.jpg)
 7. Create a "_OnSlideshare.txt" file with the Slideshare URL and add it to SharePoint on the same folder where the original PPT is
 8. Now you can present!
 
-![Figure: the SSW example of a SlideShare link slide](slidesharelink.jpg)
+![Figure: the SSW example of a SlideShare link slide](/rules/do-you-know-to-slideshare-your-powerpoint-before-the-presentation/slidesharelink.jpg)
 
-![Figure: If you presentation is being recorded be sure to send yourself a reminder email to embedd the video in to the SlideShare.](YoutubeEmbedSlideShare.png)
+![Figure: If you presentation is being recorded be sure to send yourself a reminder email to embedd the video in to the SlideShare.](/rules/do-you-know-to-slideshare-your-powerpoint-before-the-presentation/YoutubeEmbedSlideShare.png)
 
 Don't want to use SlideShare? There are some other options: [Do you keep your presentations in a public location?](/do-you-keep-your-presentations-in-a-public-location)
+

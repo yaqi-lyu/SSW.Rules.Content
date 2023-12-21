@@ -19,11 +19,11 @@ Note that you shouldn't make the call if all of the participants have [Teams sta
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example - Mentioning someone in a chat they are not participating](group_chat_bad_example.jpg) 
+![Figure: Bad example - Mentioning someone in a chat they are not participating](/rules/when-to-create-a-group-chat/group_chat_bad_example.jpg) 
 :::
 
 ::: good
-![Figure: Good example - Initiating a group chat with everyone involved](group_chat_good_example.jpg) 
+![Figure: Good example - Initiating a group chat with everyone involved](/rules/when-to-create-a-group-chat/group_chat_good_example.jpg) 
 :::
 
 ::: bad
@@ -37,3 +37,4 @@ Note that you shouldn't make the call if all of the participants have [Teams sta
 ::: greybox
 **Tip:** When deciding whether to use a group chat, think of how you'd approach the same conversation in an email - if you'd cc someone in the email, then you should include them in the group chat.
 :::
+

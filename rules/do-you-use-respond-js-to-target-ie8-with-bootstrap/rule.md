@@ -22,8 +22,9 @@ By default, we do not accommodate IE8 or lower, but should it arise as a specifi
 
 <!--endintro-->
 
-![Figure: Include respond.js in your bootstrap bundle](18-06-2014 2-04-12 PM.png)  
+![Figure: Include respond.js in your bootstrap bundle](/rules/do-you-use-respond-js-to-target-ie8-with-bootstrap/18-06-2014 2-04-12 PM.png)  
 
 **Note:** Respond JS will be included in a new MVC5 Web Application. If you are working on an existing application, you can get it from NuGet or https://github.com/scottjehl/Respond.
 
-![Figure: A new MVC5 Web Application running in IE8 with Bootstrap and Respond JS](18-06-2014 2-15-09 PM.png)
+![Figure: A new MVC5 Web Application running in IE8 with Bootstrap and Respond JS](/rules/do-you-use-respond-js-to-target-ie8-with-bootstrap/18-06-2014 2-15-09 PM.png)
+

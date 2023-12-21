@@ -33,7 +33,7 @@ WHERE ContactName <> '' OR ContactName Is Null
 
 What about only allowing empty strings? Well, we choose to block Nulls because it is a lot easier to check off a check box in SQL Server Management Studio than it is to put a constraint on every field that disallows empty string ('').
 
-![Figure: Don't allow Nulls](SqlTableWithNullValue.PNG)  
+![Figure: Don't allow Nulls](/rules/do-not-allow-nulls-in-text-fields/SqlTableWithNullValue.PNG)  
 
 However, you should always be aware that Nulls and empty strings are totally different, so if you absolutely have to have them, they should be used consistently. In the ANSI SQL-92 standard, an empty string ('') is never equated to Null, because empty string can be significant in certain applications.
 
@@ -47,7 +47,7 @@ However, you should always be aware that Nulls and empty strings are totally dif
 
 For example, you have Address1 and Address2 in your database, a Null value in Address2 means you don't know what the Address2 is, but an empty string means you know there is no data for Address2. You have to use a checkbox on the UI to explicitly distinguish Null value and empty string:
 
-![Figure: A check box is required if you want to allow user to use Null value on the UI](NullValueOnUI.jpg)  
+![Figure: A check box is required if you want to allow user to use Null value on the UI](/rules/do-not-allow-nulls-in-text-fields/NullValueOnUI.jpg)  
 
 Some people are not going to like this rule, but this is how it works in Oracle and Access:
 
@@ -57,3 +57,4 @@ Some people are not going to like this rule, but this is how it works in Oracle 
 Finally, always listen to the client, Nulls have meaning over an empty string - there are exceptions where you might use them - but they are rare.
 
 So follow this rule, block Nulls where possible, update your NULLs with proper information as soon as possible, and keep data consistent and queries simple.
+

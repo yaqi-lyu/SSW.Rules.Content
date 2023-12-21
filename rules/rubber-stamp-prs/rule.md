@@ -19,7 +19,7 @@ Reviews are a crucial step in the PR process, as they ensure that the code/conte
 The rubber stamp label signifies that the change can be approved without extensive scrutiny. It is typically used for minor changes such as typos, formatting issues, or small documentation updates. By using a rubber stamp label, we can save time on reviews.
 
 ::: img-small
-![Figure: "Rubber stamp" label for GitHub Pull Requests](rubber-stamp-pr-label.png)
+![Figure: "Rubber stamp" label for GitHub Pull Requests](/rules/rubber-stamp-prs/rubber-stamp-pr-label.png)
 :::
 
 To use a rubber stamp label effectively, you must follow some best practices:

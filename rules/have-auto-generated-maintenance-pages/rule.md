@@ -28,13 +28,13 @@ Please follow these steps to create your maintenance pages.
 4. Run C:\Program Files\NetTiers\NetTiers.cst.
 5. Set requires properties following instructions.
 
-![Figure: Properties Window](NetTiersConfig.jpg)  
+![Figure: Properties Window](/rules/have-auto-generated-maintenance-pages/NetTiersConfig.jpg)  
 6. Generate.
 7. Open the solution.
 8. Build it and run it in IE.
 9. Congratulations! It's up and running.
 
-![Figure: The application is running](RunNorthwind.jpg)  
+![Figure: The application is running](/rules/have-auto-generated-maintenance-pages/RunNorthwind.jpg)  
 
 
 Code Smith enables to do this generate with a single command. If you want to generate it again, just run this command.
@@ -46,3 +46,4 @@ cs D:\DataDavidBian\Personal\New12345\NetTiers.csp
 
 Figure: An example of command line of Code Smith for NorthWind
 We recommend you put this command in a file called "\_Regenerate.bat" and add it in the solution in case you will generate it again in future.
+

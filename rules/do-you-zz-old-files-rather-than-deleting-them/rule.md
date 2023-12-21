@@ -21,7 +21,7 @@ When you are regularly creating new releases of a cool .NET application or simpl
 
 <!--endintro-->
 
-![Figure: 'ZZ' your files rather than deleting them! Alternatively add a folder named zz and move the outdated files into the new folder](ObseleteOldFilesAggressively.gif)
+![Figure: 'ZZ' your files rather than deleting them! Alternatively add a folder named zz and move the outdated files into the new folder](/rules/do-you-zz-old-files-rather-than-deleting-them/ObseleteOldFilesAggressively.gif)
 
 ::: greybox
 
@@ -68,3 +68,4 @@ On YouTube click the ‘New Version’ link in the description.
 If you are deleting something that uses resources and/or cost money, it is a good idea to 'zz' it first - and use a follow up to remind yourself to delete it after a reasonable amount of time, as per: [https://www.ssw.com.au/rules/follow-up-effectively/](/follow-up-effectively/)
 
 :::
+

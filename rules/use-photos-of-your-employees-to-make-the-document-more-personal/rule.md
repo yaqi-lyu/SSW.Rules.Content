@@ -20,4 +20,5 @@ It is also valid and important when talking about a case study to visually show 
 
 <!--endintro-->
 
-![Figure: Use photos of your employees to make the document more personal](Proposals\_EmployeesPhotos.jpg)
+![Figure: Use photos of your employees to make the document more personal](/rules/use-photos-of-your-employees-to-make-the-document-more-personal/Proposals_EmployeesPhotos.jpg)
+

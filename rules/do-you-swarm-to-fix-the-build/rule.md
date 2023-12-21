@@ -31,7 +31,7 @@ Two things should be done:
 
 
 
-![](broken builds.png)
+![](/rules/do-you-swarm-to-fix-the-build/broken builds.png)
 
 
 
@@ -41,9 +41,10 @@ Bad Example: Too many broken builds in a row.
 
 
 
-![](good builds.png)
+![](/rules/do-you-swarm-to-fix-the-build/good builds.png)
 
 
 ::: good
 Good Example: Broken build was fixed immediately.  
 :::
+

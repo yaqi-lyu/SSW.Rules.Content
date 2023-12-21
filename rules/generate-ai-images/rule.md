@@ -102,7 +102,7 @@ As of now, the top contenders are DALL-E 2, Midjourney, and DreamStudio. Each of
 * Some OpenAI users start with free credits
 
 ::: img-large  
-![Figure: "A red tree in a valley. Hi res" - by DALL-E2](red-tree-dalle.png)
+![Figure: "A red tree in a valley. Hi res" - by DALL-E2](/rules/generate-ai-images/red-tree-dalle.png)
 :::
 
 ### Midjourney
@@ -136,7 +136,7 @@ As of now, the top contenders are DALL-E 2, Midjourney, and DreamStudio. Each of
   * Explore environments – /imagine {{ LOCATION }} cat
 
 ::: img-large  
-![Figure: "A red tree in a valley. Hi res" - by Midjourney](red-tree-midjourney2.png)
+![Figure: "A red tree in a valley. Hi res" - by Midjourney](/rules/generate-ai-images/red-tree-midjourney2.png)
 :::
 
 ### DreamStudio
@@ -149,7 +149,7 @@ You can use the demo here for free [Stable Diffusion Web](https://stablediffusio
 * Distinguishable because of the easy customization of parameters (e.g., style, aspect ratio) on the interface
 
 ::: img-large
-![Figure: "A red tree in a valley. Hi res" - by DreamStudio ](red-tree-dreamstudio.png)
+![Figure: "A red tree in a valley. Hi res" - by DreamStudio ](/rules/generate-ai-images/red-tree-dreamstudio.png)
 :::
 
 ## ✅ Where should you use AI-generated images?
@@ -172,3 +172,4 @@ You can use the demo here for free [Stable Diffusion Web](https://stablediffusio
 
 `youtube: https://www.youtube.com/embed/Ng_GmJy_F8c`
 **Video: Advanced Midjourney V5.1 Guide (11 min)**
+

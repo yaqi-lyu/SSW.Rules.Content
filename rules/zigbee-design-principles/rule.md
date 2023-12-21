@@ -17,30 +17,31 @@ It is the wireless protocol choice for Control4.
 To ensure optimal performance in a Control4 smart home environment, it is important to follow the Zigbee design principles. These principles include:
 
 ### Never put a mesh controller in a rack
-![Figure: Mesh controllers and metal racks don't play well together](ruleofthumb.jpg)
+![Figure: Mesh controllers and metal racks don't play well together](/rules/zigbee-design-principles/ruleofthumb.jpg)
 
 Placing a mesh controller in a metal rack can cause signal interference, resulting in poor performance of the Zigbee network. Instead, locate the mesh controller outside the rack.
 
 ### Use secondary controllers for mesh controllers
-![Figure: Use secondary controllers to improve performance](2ndfinger.jpg)
+![Figure: Use secondary controllers to improve performance](/rules/zigbee-design-principles/2ndfinger.jpg)
 
 Secondary controllers can be used to control devices connected to the mesh controller. This reduces the load on the mesh controller and improves the overall performance of the network.
 
 ### Put the mesh controller central to the devices in each mesh
-![Figure: Centrally locate the mesh controller](middlefinger.jpg)
+![Figure: Centrally locate the mesh controller](/rules/zigbee-design-principles/middlefinger.jpg)
 
 To optimize performance, the mesh controller should be located centrally in each mesh. This ensures that the signal has to travel the shortest distance to reach all devices in the mesh.
 
 ### Never locate wi-fi access points within a 5 meter (15 feet) ring around a mesh controller
-![Figure: Keep mesh controllers away from wi-fi access points](ringfinger.jpg)
+![Figure: Keep mesh controllers away from wi-fi access points](/rules/zigbee-design-principles/ringfinger.jpg)
 
 Wi-fi access points operating on the same frequency as Zigbee can cause interference and degrade the performance of the Zigbee network. Therefore, it is recommended to keep the wi-fi access points at least 5 meters (15 feet) away from the mesh controller.
 
 ### Limit a mesh to fewer than 70 devices
-![Figure: Don't overload each mesh controller](smallfinger.jpg)
+![Figure: Don't overload each mesh controller](/rules/zigbee-design-principles/smallfinger.jpg)
 
 For more than 70 devices, set up additional mesh controllers to share the load.
 
 By following these Zigbee design principles, users can ensure that their Control4 smart home network is stable, reliable and secure.
 
 You can learn more about the above at [Control4 - Zigbee PRO Mesh Design Principles](https://www.control4.com/docs/product/zigbee/infographic/english/latest/zigbee-infographic-rev-a.pdf).
+

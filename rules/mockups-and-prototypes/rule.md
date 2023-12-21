@@ -43,13 +43,13 @@ Creating a low-fidelity design mockup can be achieved through various methods in
 Start by identifying the key features and functionality that the product should have. This will help you focus your efforts and ensure that your mockup accurately represents your intended product.
 
 ::: good
-![Figure: Good Example - A hand-drawn mockup. Nice and quick for early concept design](handdrawnui.jpg)
+![Figure: Good Example - A hand-drawn mockup. Nice and quick for early concept design](/rules/mockups-and-prototypes/handdrawnui.jpg)
 :::
 
 Then create a basic wireframe of your design. A wireframe is a visual representation of the layout and structure of your website or app. You can create digital wireframes using tools like Figma, Adobe XD, or Sketch. Alternatively, you can use paper and pencil to sketch out a rough wireframe by hand. Add details to your wireframe by adding boxes and labels for different features and elements (e.g. buttons, input fields, and images).
 
 ::: good
-![Figure: Good example – Example of wireframes (created in Figma)](figma_wireframe_app_screenshot.png)
+![Figure: Good example – Example of wireframes (created in Figma)](/rules/mockups-and-prototypes/figma_wireframe_app_screenshot.png)
 :::
 
 Once your low-fidelity design mockup has been approved, you can use it as a reference point for creating a high-fidelity mockup.
@@ -63,7 +63,7 @@ A high-fidelity mockup is a more detailed version of a design that includes visu
 :::
 
 ::: good
-![Figure: Good example – High fidelity mockup for SSW Rewards App - recommended as quick to update when changes are requested](high-fedelity-ui.png)
+![Figure: Good example – High fidelity mockup for SSW Rewards App - recommended as quick to update when changes are requested](/rules/mockups-and-prototypes/high-fedelity-ui.png)
 :::
 
 Use a design tool such as Figma to create high-fidelity mockups of a website or app's interface. This should include more consideration of UX and detailed UI elements such as buttons, forms, icons, and typography.
@@ -99,3 +99,4 @@ Here are some more hot tips on using mockups for specification analysis:
 * Write the related business rules at the bottom of each screen - to be turned into unit tests
 
 :::
+

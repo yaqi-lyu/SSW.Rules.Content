@@ -53,7 +53,7 @@ Midjourney is used on Discord, where users interact with the bot by typing /imag
   * Explore environments – /imagine {{ LOCATION }} cat
 
 ::: img-medium
-![Figure: "A red tree in a valley. Hi res" - by Midjourney](red-tree-midjourney2.png)
+![Figure: "A red tree in a valley. Hi res" - by Midjourney](/rules/the-best-ai-image-generators/red-tree-midjourney2.png)
 :::
 
 ## DALL-E 2
@@ -64,7 +64,7 @@ DALL-E is an AI system capable of creating realistic images from a natural langu
 * Some OpenAI users get free credits each month
 
 ::: img-large  
-![Figure: "A red tree in a valley. Hi res" - by DALL-E2](red-tree-dalle.png)
+![Figure: "A red tree in a valley. Hi res" - by DALL-E2](/rules/the-best-ai-image-generators/red-tree-dalle.png)
 :::
 
 ## Leonardo AI
@@ -77,7 +77,7 @@ Leonardo AI gets compared to Midjourney for its focus on concept art and imagina
 * Built-in prompt generator to help you make the best prompt
 
 ::: img-medium
-![Figure: "A red tree in a valley. Hi res" - by Leonardo.ai ](red-tree-leonardo.jpg)
+![Figure: "A red tree in a valley. Hi res" - by Leonardo.ai ](/rules/the-best-ai-image-generators/red-tree-leonardo.jpg)
 :::
 
 ## DreamStudio
@@ -90,5 +90,6 @@ You can use the demo here for free [Stable Diffusion Web](https://stablediffusio
 * Easy customization of parameters on the interface (e.g., style, aspect ratio)
 
 ::: img-large
-![Figure: "A red tree in a valley. Hi res" - by DreamStudio ](red-tree-dreamstudio.png)
+![Figure: "A red tree in a valley. Hi res" - by DreamStudio ](/rules/the-best-ai-image-generators/red-tree-dreamstudio.png)
 :::
+

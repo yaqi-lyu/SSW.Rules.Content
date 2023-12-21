@@ -21,6 +21,7 @@ If you are creating and using Components, you’re already doing a great job. Th
 
 <!--endintro-->
 
-![Figure: Create a new component library](create-component-library.png)  
+![Figure: Create a new component library](/rules/place-you-components-in-a-component-library/create-component-library.png)  
 
 For more information on Component libraries see documentation here:     https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/component-library
+

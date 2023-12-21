@@ -24,4 +24,5 @@ redirects:
 2. Don't display an alert when a contact comes online or goes offline
 3. Don't play a sound when you receive an email. Remember - you do need a sound when you receive an IM in case you're not looking at your PC when it arrives.
 
-![Figure: Minimize Skype alerts you receive](minimize-skype-distractions.jpg)  
+![Figure: Minimize Skype alerts you receive](/rules/minimize-skype-distractions/minimize-skype-distractions.jpg)  
+

@@ -21,9 +21,9 @@ Each font or style (italics or bold) should be used consistently throughout your
 * Keep the styles (eg. bold or color) consistent between slides, so it's easy to identify the hierarchy 
 
 ::: bad
-![Figure: Bad example - Different fonts and styles of a flourished type face used. Makes your slide hard to read for the audience](badfont.jpg)
+![Figure: Bad example - Different fonts and styles of a flourished type face used. Makes your slide hard to read for the audience](/rules/do-you-limit-the-number-of-fonts/badfont.jpg)
 :::
 
 ::: good 
-![Figure: Good example - Even though there are a lot of words, the important ones are clear because there is only one font used, with colors to emphasize](goodfont.jpg)
+![Figure: Good example - Even though there are a lot of words, the important ones are clear because there is only one font used, with colors to emphasize](/rules/do-you-limit-the-number-of-fonts/goodfont.jpg)
 :::

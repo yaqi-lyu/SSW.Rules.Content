@@ -31,4 +31,5 @@ A Lead Magnet refers to any content piece; webinar, eBook, infographic, or initi
 
 Lead Magnets not only provide a starting place for consumers to solve their initial problem, but also build trust between the consumer and your brand, increasing the likelihood of a return customer, and increasing your potential revenue.
 
-![Figure: Lead Magnet on the SSW site](Picture2.png)
+![Figure: Lead Magnet on the SSW site](/rules/do-you-use-lead-magnets-as-part-of-your-marketing-strategy/Picture2.png)
+

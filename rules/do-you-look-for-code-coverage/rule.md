@@ -31,8 +31,9 @@ Code Coverage shows how much of your code is covered by tests and can be a usefu
    **Tip**: This is made very easy by the "Live Unit Testing" feature in Visual Studio - see [Do you use Live Unit Testing to see code coverage?](/use-live-unit-testing-to-see-code-coverage)
 * You should run your tests regularly (see [Do you follow a Test Driven Process?](/before-starting-do-you-follow-a-test-driven-process)) and, ideally, the tests will be part of your deployment pipeline
 
-![Figure: Code Coverage metrics in Visual Studio. This solution has high code coverage (around 80% on average)](CodeCoverage2010.png)  
+![Figure: Code Coverage metrics in Visual Studio. This solution has high code coverage (around 80% on average)](/rules/do-you-look-for-code-coverage/CodeCoverage2010.png)  
 
 ::: greybox
 **Tip:** To make sure your unit test coverage never decreases, make use of tools such as [SonarQube](https://www.sonarsource.com/products/sonarqube/) and [GitHub action checks](https://github.com/marketplace/actions/code-coverage-summary) to gate your deployment pipelines on non-decreasing test coverage.
 :::
+

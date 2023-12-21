@@ -54,6 +54,7 @@ CREATE TABLE [dbo].[Employees](
 Good example – not worrying about the idempotency. If errors occur we don’t want them to be hidden + it is easier to read  
 :::
 
-![Figure: Viagra isn't the cure to your Idempotency problems](ViagraPill.jpg)  
+![Figure: Viagra isn't the cure to your Idempotency problems](/rules/do-you-ignore-idempotency/ViagraPill.jpg)  
 
 See the concept of [Idempotence on Wikipedia](http://en.wikipedia.org/wiki/Idempotence)
+

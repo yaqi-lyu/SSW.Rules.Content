@@ -29,4 +29,5 @@ Read rule:     [Do you share your Calendar?](/calendar-do-you-allow-full-access-
 **Step 4:** Send your leave appointments to a centralized leave calendar
 Read rule:     [Do you use a centralized leave calendar?](/calendar-do-you-use-a-centralised-leave-calendar)
 
-![Figure:  Keep your calendar up-to-date and set to share, so people can always find where you are](calendar-accurately-show-where-you-are.jpg)
+![Figure:  Keep your calendar up-to-date and set to share, so people can always find where you are](/rules/calendar-does-your-calendar-always-accurately-show-where-you-are/calendar-accurately-show-where-you-are.jpg)
+

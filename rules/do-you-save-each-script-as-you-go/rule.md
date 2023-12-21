@@ -26,7 +26,7 @@ Let's see how its done.
 
 Every change you do to the schema must be either saved in code or scripted out. We recommend using Migrations feature of Entity Framework. It allows you to keep track of all the changes in the similar fashion as SQL Deploy. 
 
-![Figure: Example - SSW Rewards  EF Migrations table](ef-migrations.png)
+![Figure: Example - SSW Rewards  EF Migrations table](/rules/do-you-save-each-script-as-you-go/ef-migrations.png)
 
 Watch video: [How to Use Code First with Entity Framework - Brendan Richards](http://tv.ssw.com/4902/use-code-first-entity-framework-brendan-richards) to learn more. 
 
@@ -52,4 +52,5 @@ Example:
 
 `00089_Table_OrderStatus_Status_ChangeFromBitToChar_AC.sql`
 
-![Figure: A list of change SQL scripts, each file name is in the correct format](ChangeScripts.jpg)
+![Figure: A list of change SQL scripts, each file name is in the correct format](/rules/do-you-save-each-script-as-you-go/ChangeScripts.jpg)
+

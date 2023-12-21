@@ -34,22 +34,22 @@ If you are using Conditional Access for MFA, you will need to add an exception f
 
 :::
 
-![Figure: Intune connected to AAD](intune_aad.png)
+![Figure: Intune connected to AAD](/rules/implementing-intune/intune_aad.png)
 
 * SysAdmins can monitor all the windows devices from [Microsoft Endpoint Manager admin center](https://endpoint.microsoft.com/?ref=AdminCenter#home)
 
-![Figure: Devices managed by Intune](devices_intunes.png)
+![Figure: Devices managed by Intune](/rules/implementing-intune/devices_intunes.png)
 
 * We can get reports on device compliance at any time. 
 
 ::: bad
-![Bad example - Errors in compliance check](bad_example_compliance.png)
+![Bad example - Errors in compliance check](/rules/implementing-intune/bad_example_compliance.png)
 :::
 
 ::: good
-![Good example - Compliant device](good_example_compliance.png)
+![Good example - Compliant device](/rules/implementing-intune/good_example_compliance.png)
 :::
 
 There are many other MDM solutions out there, but Intune is best if you're mostly managing Windows devices (and some iOS/Android as well). JAMF is a great option if you're only using iOS/MacOS devices.
 
-![Figure: Jamf architecture to monitor IOS devices](diagram5.png)
+![Figure: Jamf architecture to monitor IOS devices](/rules/implementing-intune/diagram5.png)

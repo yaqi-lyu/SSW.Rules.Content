@@ -22,5 +22,6 @@ Cut down the noise in your inbox by visually filtering emails not sent directly 
 
 
 ::: good  
-![Figure: Good Example - Cut down the noise in your inbox by visually filtering emails not sent directly to you](MakeCCGrey.jpg)  
+![Figure: Good Example - Cut down the noise in your inbox by visually filtering emails not sent directly to you](/rules/how-to-make-emails-you-are-cc-ed-grey/MakeCCGrey.jpg)  
 :::
+

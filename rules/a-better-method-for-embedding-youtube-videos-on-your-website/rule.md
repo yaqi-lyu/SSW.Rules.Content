@@ -19,10 +19,10 @@ When you embed a YouTube video it will increase your page size from 500kbs to 1.
 
 <!--endintro-->
 
-![Figure: A side by side comparison – everyone wants less requests and a smaller page size](video-embed-load-time.png)
+![Figure: A side by side comparison – everyone wants less requests and a smaller page size](/rules/a-better-method-for-embedding-youtube-videos-on-your-website/video-embed-load-time.png)
 
 ::: bad  
-![Figure: Bad example - Don’t add embed code directly from YouTube. For more details read "A Better Method for Embedding YouTube Videos on your Website"](video-embed-bad.png)  
+![Figure: Bad example - Don’t add embed code directly from YouTube. For more details read "A Better Method for Embedding YouTube Videos on your Website"](/rules/a-better-method-for-embedding-youtube-videos-on-your-website/video-embed-bad.png)  
 :::
 
 ```html
@@ -140,3 +140,4 @@ Figure: Good example – The good HTML code
   }
 </style>
 ```
+

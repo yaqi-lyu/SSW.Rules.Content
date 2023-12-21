@@ -17,7 +17,7 @@ All team members must update their tasks with  status, (and remaining hours if y
 
 <!--endintro-->
 
-![Figure: Update your tasks to keep the burn-down rate accurate](screen-shot-2021-10-29-at-8.06.46-pm.png)
+![Figure: Update your tasks to keep the burn-down rate accurate](/rules/meeting-do-you-update-your-tasks-before-the-daily-scrum/screen-shot-2021-10-29-at-8.06.46-pm.png)
 
 **Note:** If you are updating the details of a PBI then follow the rule [Do you know when you use @ mentions in a PBI?](/when-you-use-mentions-in-a-pbi)
 

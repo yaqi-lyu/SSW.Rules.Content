@@ -34,7 +34,7 @@ This makes sure that we have a historical log of work completed, and still keeps
 
 
 <!--endintro-->
-![](create-pr-for-failed-branch.png)
+![](/rules/do-you-save-failed-experiments-in-abandoned-pull-requests/create-pr-for-failed-branch.png)
 
 
 ::: good
@@ -46,7 +46,7 @@ Good Example: Setup pull request for feature branch so that we have a history of
 
 
 
-![](abandoned-pr-for-branch.png)
+![](/rules/do-you-save-failed-experiments-in-abandoned-pull-requests/abandoned-pr-for-branch.png)
 
 
 
@@ -54,3 +54,4 @@ Good Example: Setup pull request for feature branch so that we have a history of
 Good Example: PR is abandoned with a deleted branch
 
 :::
+

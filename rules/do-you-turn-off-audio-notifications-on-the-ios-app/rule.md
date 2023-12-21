@@ -19,10 +19,11 @@ One of the main strengths of Slack is that, unlike SMS, Skype, and to some exten
 
 
 ::: bad  
-![Figure: Bad Example: The noises will grab your attention and interrupt your daily work](slack-ios-1.jpg)  
+![Figure: Bad Example: The noises will grab your attention and interrupt your daily work](/rules/do-you-turn-off-audio-notifications-on-the-ios-app/slack-ios-1.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example: although you’re still getting notifications, hopefully it’s only when you’re taking a break to look at your phone anyway](slack-ios-2.jpg)  
+![Figure: Good Example: although you’re still getting notifications, hopefully it’s only when you’re taking a break to look at your phone anyway](/rules/do-you-turn-off-audio-notifications-on-the-ios-app/slack-ios-2.jpg)  
 :::
+

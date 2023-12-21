@@ -31,13 +31,14 @@ There are a few reasons for this:
 Below is an example of a Good "&lt; Back" link versus some Bad variations.
 
 ::: bad  
-![Figure: This is Bad because it says "Previous" instead of "Back"](badpreviouslink.gif)  
+![Figure: This is Bad because it says "Previous" instead of "Back"](/rules/do-you-use-back-instead-of-previous-or-other-variations/badpreviouslink.gif)  
 :::
 
 ::: bad  
-![Figure: This is bad because it has too many "&lt;"s or it has no space between the "&lt;" and the "Back"](badbacklink.gif)  
+![Figure: This is bad because it has too many "&lt;"s or it has no space between the "&lt;" and the "Back"](/rules/do-you-use-back-instead-of-previous-or-other-variations/badbacklink.gif)  
 :::
 
 ::: good  
-![Figure: A Good example of a "&lt; Back" link](textboxeswithshowbutton.gif)  
+![Figure: A Good example of a "&lt; Back" link](/rules/do-you-use-back-instead-of-previous-or-other-variations/textboxeswithshowbutton.gif)  
 :::
+

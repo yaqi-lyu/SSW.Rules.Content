@@ -29,7 +29,8 @@ If you are using Exchange Online as your mail server, you can see a whole dashbo
 4. **Queues** - Are any emails pending on a queue (not being delivered)?
 
 ::: good
-![Figure: Good Example - Mail dashboard on Office 365 Security & Compliance](mailflow-insights-office365.png)
+![Figure: Good Example - Mail dashboard on Office 365 Security & Compliance](/rules/do-you-monitor-company-email/mailflow-insights-office365.png)
 :::
 
 Always keep on top of your email health!
+

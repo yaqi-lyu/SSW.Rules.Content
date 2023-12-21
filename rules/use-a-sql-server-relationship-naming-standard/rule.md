@@ -30,18 +30,19 @@ Relationship names are to have this syntax:
 Rather than accepting the default value i.e. ClientAccount\_FK01 that is given from upsizing.
 
 ::: bad
-![Figure: Bad Example - using the default relationship name](imgRelationshipPic1.gif)
+![Figure: Bad Example - using the default relationship name](/rules/use-a-sql-server-relationship-naming-standard/imgRelationshipPic1.gif)
 :::
 
 We recommend using Prod-ClientAccount.
 
 ::: good
-![Figure: Good Example - using a more descriptive relationship name](imgRelationshipPic2.gif)
+![Figure: Good Example - using a more descriptive relationship name](/rules/use-a-sql-server-relationship-naming-standard/imgRelationshipPic2.gif)
 :::
 
 
 The good thing is when you look at the relationship from the other side it is there as well.
 
-![Figure: Relationship name shown on the other table](imgRelationshipPic3.gif) 
+![Figure: Relationship name shown on the other table](/rules/use-a-sql-server-relationship-naming-standard/imgRelationshipPic3.gif) 
 
 We also believe in using Cascade Updates - but never cascade deletes.
+

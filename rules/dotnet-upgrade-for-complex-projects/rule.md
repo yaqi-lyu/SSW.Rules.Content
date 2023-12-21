@@ -73,7 +73,7 @@ What this will allow you to do is add your target framework and compile the code
 <TargetFrameworks>net472;net8.0</TargetFrameworks>
 ```
 
-![Figure: Git changes for targeting to multiple target frameworks](target-to-multiple-TFMs.png)
+![Figure: Git changes for targeting to multiple target frameworks](/rules/dotnet-upgrade-for-complex-projects/target-to-multiple-TFMs.png)
 
 # Upgrading
 
@@ -203,3 +203,4 @@ Listed below are rules crafted to aid in the project migration process. Please e
 # .NET Upgrade Assistant
 
 By now, you should have wrapped up the entire migration including the web applications. It's the perfect moment to use the .NET Upgrade Assistant. It'll guide you in cleaning up the codebase. The ultimate goal is to eliminate all the old .NET Framework components and keep only the code and the most up-to-date NuGet packages for .NET 8.
+

@@ -33,7 +33,7 @@ Generally used for small tasks that you can't complete right now. These are very
 Make sure you never dismiss these when they come up unless you can complete the task on the spot. If you can’t complete the task immediately when it appears on your lock screen, press and hold to kick the can down the road to when you will have time to do the task.
 
 ::: good
-![Figure: Good example - Create and manage reminders all from your lock screen (no typing needed)](iphone reminder.png)
+![Figure: Good example - Create and manage reminders all from your lock screen (no typing needed)](/rules/professional-integrity-tools/iphone reminder.png)
 :::
 
 ### Use calendar appointments (with reminders)
@@ -41,7 +41,7 @@ Make sure you never dismiss these when they come up unless you can complete the 
 If you want to set aside time for something, especially with 1 or more other people, use a calendar appointment. Remember, that action in itself is a promise that you will be on time (and not excessively multitasking), so keep on track of your upcoming appointments in Outlook, or use reminders to make sure you don't forget.
 
 ::: good
-![Figure: At your desk, use the Outlook sidebar to know what time your next meeting is](Calendar-in-Outlook.png)
+![Figure: At your desk, use the Outlook sidebar to know what time your next meeting is](/rules/professional-integrity-tools/Calendar-in-Outlook.png)
 :::
 
 See more on our [Rules to Better Calendars](/rules-to-better-calendars)
@@ -86,3 +86,4 @@ Once you start thinking in terms of professional integrity, you will always be t
 When your intention is no longer to try your best to get everything done, but to promise to get things done, you need to make sure you don't take on so much that you set yourself up for failure. Don't always say **yes**.
 
 Your default mode should be that if you say you'll do something, you check to see that you actually have capacity to do so. If you're not sure you'll be successful, either say **no**, and renegotiate a more realistic deliverable or date, or else specify that you're not sure you'll be able to commit to that, but you will **try**.
+

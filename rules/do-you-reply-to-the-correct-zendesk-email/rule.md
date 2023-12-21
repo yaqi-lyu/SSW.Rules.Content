@@ -25,7 +25,7 @@ For example, Zendesk is set up with the email SysAdmins@ssw.zendesk.com and ther
 
 It is best practice to only use the Zendesk group to manage tasks and not both groups in the same email thread.
 
-![](zenddddd.png)
+![](/rules/do-you-reply-to-the-correct-zendesk-email/zenddddd.png)
 
 
 ::: bad
@@ -35,7 +35,7 @@ Bad Example: Adding groups with the same people twice. They will receive it twic
 
 
 
-![](zendndnd.png)
+![](/rules/do-you-reply-to-the-correct-zendesk-email/zendndnd.png)
 
 
 ::: good
@@ -49,3 +49,4 @@ Good Example: Add only one group, that goes to Zendesk and spread the ticket onl
 
 
 * [Rules to Better Scrum - Do you know when to use @ mentions in a PBI](/when-you-use-mentions-in-a-pbi)
+

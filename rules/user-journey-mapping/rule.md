@@ -28,7 +28,7 @@ These artifacts should be used at the beginning of a project during the early st
 
 ## What is a User Journey Map
 
-![Figure: Observe the user's experience and pain](image-user-journey-map.jpg)
+![Figure: Observe the user's experience and pain](/rules/user-journey-mapping/image-user-journey-map.jpg)
 
 [Source: nngroup](https://www.nngroup.com/articles/analyze-customer-journey-map/)
 
@@ -44,7 +44,7 @@ They are also used in follow up research to identify problems in existing softwa
 
 Sometimes the coding starts too early and, on some projects, the Product Owner needs more help to visualize what's being proposed. A great way to get in sync is to use Service Blueprints.
 
-![Figure: See all the flows through the application](image-service-blueprint.jpg)
+![Figure: See all the flows through the application](/rules/user-journey-mapping/image-service-blueprint.jpg)
 
 [Source: nngroup](https://www.nngroup.com/articles/analyze-customer-journey-map/)
 
@@ -61,3 +61,4 @@ Both these types of diagrams provide excellent documentation that is easily dige
 * [FigJam](https://www.figma.com/figjam/) 
 * [Miro](https://miro.com/index/) 
 * A whiteboard and a stack of sticky notes.
+

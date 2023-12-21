@@ -21,7 +21,7 @@ When building a simple API based on Entity Framework, It can be tempting to keep
 
 
 ::: bad  
-![Figure: Bad Example - A naive WebAPI implementation](bad-webapi.png)  
+![Figure: Bad Example - A naive WebAPI implementation](/rules/serialize-view-models-not-domain-entities/bad-webapi.png)  
 :::
 
 Although this code is very simple to write, there can be a number of potential problems:
@@ -35,7 +35,7 @@ Although this code is very simple to write, there can be a number of potential p
 Update operations can be even more problematic:
 
 ::: bad  
-![Figure: Bad Example - A naive update operation](bad-webapi-operation.png)  
+![Figure: Bad Example - A naive update operation](/rules/serialize-view-models-not-domain-entities/bad-webapi-operation.png)  
 :::
 
 Consider the Product object that is received as a [FromBody] parameter by the action.
@@ -58,13 +58,13 @@ For all these reasons, the use of DTOs or View Models is highly recommended:
 * Read operations can be optimised by selecting from DBSets directly into view models
 
 ::: good  
-![](good-webapi-1.png)  
+![](/rules/serialize-view-models-not-domain-entities/good-webapi-1.png)  
 :::
 
- <img src="good-webapi-2.png" alt="good-webapi-2.png"> 
+ <img src="/rules/serialize-view-models-not-domain-entities/good-webapi-2.png" alt="/rules/serialize-view-models-not-domain-entities/good-webapi-2.png"> 
 
 ::: good  
-![Figure: Good Example - Update an Entity from a submitted View Model](good-webapi-2.png)  
+![Figure: Good Example - Update an Entity from a submitted View Model](/rules/serialize-view-models-not-domain-entities/good-webapi-2.png)  
 :::
 
 This approach requires a bit more boiler-plate code as the fields to be updated are applied manually, but there is far less risk of unintended side effects.
@@ -72,16 +72,17 @@ As the complexity of the code increases, it will be much easier for developers t
    
 
 ::: good  
-![](good-webapi-operation-1.png)  
+![](/rules/serialize-view-models-not-domain-entities/good-webapi-operation-1.png)  
 :::
  
- <img src="good-webapi-operation-2.png" alt="good-webapi-operation-2.png"> 
+ <img src="/rules/serialize-view-models-not-domain-entities/good-webapi-operation-2.png" alt="/rules/serialize-view-models-not-domain-entities/good-webapi-operation-2.png"> 
 
 ::: good  
-![Figure: Good Example - A Read Operation that selects directly into a view model](good-webapi-operation-2.png)  
+![Figure: Good Example - A Read Operation that selects directly into a view model](/rules/serialize-view-models-not-domain-entities/good-webapi-operation-2.png)  
 :::
 
 For the above read, Entity Framework will execute an SQL select statement containing only the fields that have been projected via .Select()  
 This will also prevent change tracking on the source entity.
 
 The above example also demonstrates how a projection / mapping from an entity to a view model can be reused by creating an Expression&lt;Func&lt;EntityType, ViewModelType&gt;&gt;
+

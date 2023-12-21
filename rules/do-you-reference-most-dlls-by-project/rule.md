@@ -41,10 +41,10 @@ Since most applications have bugs, therefore most of the time you should be usin
 
 If it is a well tested component and it is not changing constantly, then use the first option.
 
-1. Add the project to solution (if it is not in the solution). ![Add existing project](ReferenceProject1.gif) Figure: Add existing project
+1. Add the project to solution (if it is not in the solution). ![Add existing project](/rules/do-you-reference-most-dlls-by-project/ReferenceProject1.gif) Figure: Add existing project
 2. Select the "References" folder of the project you want to add references to, right click and select "Add Reference...". 
-![Add reference](ReferenceProject2.gif) Figure: Add reference
-3. Select the projects to add as references and click OK. ![Select projects to reference](ReferenceProject3.gif) Figure: Select the projects to add as references
+![Add reference](/rules/do-you-reference-most-dlls-by-project/ReferenceProject2.gif) Figure: Add reference
+3. Select the projects to add as references and click OK. ![Select projects to reference](/rules/do-you-reference-most-dlls-by-project/ReferenceProject3.gif) Figure: Select the projects to add as references
 
 
 Note: We have run into a situation where we reference a stable project A, and an unstable project B. Project A references project B. Each time project B is built, project A needs to be rebuilt.
@@ -52,3 +52,4 @@ Note: We have run into a situation where we reference a stable project A, and an
 Now, if we reference stable project A by dll, and unstable project B by project according to this standard, then we might face referencing issues, where Project A will look for another version of Project B ?the one it is built to, rather than the current build, which will cause Project A to fail.
 
 To overcome this issue, we then reference by project rather than by assembly, even though Project A is a stable project. This will mitigate any referencing errors.
+

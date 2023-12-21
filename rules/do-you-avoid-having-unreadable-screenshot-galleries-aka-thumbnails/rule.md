@@ -27,11 +27,11 @@ Crop your image when you can, keeping only the relevant areas of the image.
 In the cases where you do need a full screenshot, it's a good idea to allow users to open the image in a bigger size, [using lightboxes](https://www.w3schools.com/howto/howto_js_lightbox.asp) for example.
 
 ::: bad
-![Figure: Bad Example - The contents of the screenshots are difficult to read](images-uncropped-bad.png)
+![Figure: Bad Example - The contents of the screenshots are difficult to read](/rules/do-you-avoid-having-unreadable-screenshot-galleries-aka-thumbnails/images-uncropped-bad.png)
 :::
 
 ::: good
-![Figure: Good Example - The contents of the screenshots are readable, since the image was cropped to the relevant part](images-cropped-good.png)
+![Figure: Good Example - The contents of the screenshots are readable, since the image was cropped to the relevant part](/rules/do-you-avoid-having-unreadable-screenshot-galleries-aka-thumbnails/images-cropped-good.png)
 :::
 
 ## Mobile screenshots
@@ -43,9 +43,9 @@ Modern mobile devices have extraordinary screen resolution, which makes screensh
 When adding a mobile screenshot, make sure its width is about 50% of a desktop screen. 
 
 ::: bad
-![Figure: Bad Example - mobile screenshot is way too big](privacy-mode-ios-huge.png)
+![Figure: Bad Example - mobile screenshot is way too big](/rules/do-you-avoid-having-unreadable-screenshot-galleries-aka-thumbnails/privacy-mode-ios-huge.png)
 :::
 
 ::: good
-![Figure: Good Example - mobile screenshot is smaller and easier to follow](privacy-mode-ios.png)
+![Figure: Good Example - mobile screenshot is smaller and easier to follow](/rules/do-you-avoid-having-unreadable-screenshot-galleries-aka-thumbnails/privacy-mode-ios.png)
 :::

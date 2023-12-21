@@ -27,7 +27,7 @@ When you want to be transparent (generally internal communication), there are be
 * **Responsibility:** Encourages responsible use of AI-generated content
 
 ::: good
-![Figure: Good Example - Microsoft flags docs as "AI-assisted content"](microsoft-ai-help.png)
+![Figure: Good Example - Microsoft flags docs as "AI-assisted content"](/rules/indicate-ai-helped/microsoft-ai-help.png)
 :::
 
 For generated text, a good option is to use the 🤖 emoji.
@@ -53,3 +53,4 @@ This is also important for generated images, Meta has developed invisible waterm
 <https://aibusiness.com/responsible-ai/meta-develops-invisible-watermarks-to-track-ai-image-origins>
 
 Google has also done something similar. Check out [SynthID](https://deepmind.google/discover/blog/identifying-ai-generated-images-with-synthid/)
+

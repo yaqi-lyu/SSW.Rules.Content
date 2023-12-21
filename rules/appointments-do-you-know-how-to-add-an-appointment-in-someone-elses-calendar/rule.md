@@ -24,8 +24,9 @@ When sending an appointment from someone else's calendar, you should always incl
 
 <!--endintro-->
 
-![Figure: Step 1 - Open the person's shared calendar](shared-calendar.jpg)
+![Figure: Step 1 - Open the person's shared calendar](/rules/appointments-do-you-know-how-to-add-an-appointment-in-someone-elses-calendar/shared-calendar.jpg)
 
-![Figure: Step 2 - Make sure you invite the person you're sending for](Send-on-behalf-of.jpg)
+![Figure: Step 2 - Make sure you invite the person you're sending for](/rules/appointments-do-you-know-how-to-add-an-appointment-in-someone-elses-calendar/Send-/rules/appointments-do-you-know-how-to-add-an-appointment-in-someone-elses-calendar/on-behalf-of.jpg)
 
-![Figure: The attendees will receive an appointment that says you sent it on behalf of the other person](on-behalf-of.jpg)
+![Figure: The attendees will receive an appointment that says you sent it on behalf of the other person](/rules/appointments-do-you-know-how-to-add-an-appointment-in-someone-elses-calendar/on-behalf-of.jpg)
+

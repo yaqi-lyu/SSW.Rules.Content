@@ -28,39 +28,39 @@ Sometimes it can be hard to keep **generating content daily for your social medi
 
 ### 1 - Internal projects, services or products that your business developed or offers
 
-![Figure: Devs doing a Scrum Retro meeting with the Product Owner after working on SSW TimePro](teamwork.jpg)
+![Figure: Devs doing a Scrum Retro meeting with the Product Owner after working on SSW TimePro](/rules/type-of-content-marketing-you-should-post/teamwork.jpg)
 
 ### 2 - Projects that your company worked on
 
-![Figure: Developer being recorded by SSW TV about the web app that SSW developed for Sydney University](breast.jpg)
+![Figure: Developer being recorded by SSW TV about the web app that SSW developed for Sydney University](/rules/type-of-content-marketing-you-should-post/breast.jpg)
 
 ### 3 - Video content
 
-![Figure: Adam Cogan and Matt Goldman's discussion on "Avoiding the Technical Debt Spiral" at SSW TV](sswtv-v2.jpg)
+![Figure: Adam Cogan and Matt Goldman's discussion on "Avoiding the Technical Debt Spiral" at SSW TV](/rules/type-of-content-marketing-you-should-post/sswtv-v2.jpg)
 
 ### 4 - Events that your company organized
 
-![Figure: Azure Superpowers - Paid training promotion on SSW's social media](promo-azure.jpg)
+![Figure: Azure Superpowers - Paid training promotion on SSW's social media](/rules/type-of-content-marketing-you-should-post/promo-azure.jpg)
 
-![Figure: Angular Hack Day post-event post](sswevents.jpg)
+![Figure: Angular Hack Day post-event post](/rules/type-of-content-marketing-you-should-post/sswevents.jpg)
 
 ### 5 - External events that you and your team attended to
 
-![Figure: SSW’s team in our booth at NDC Sydney 2019 with Alumnus Tiago Passos](ndc.jpg)
+![Figure: SSW’s team in our booth at NDC Sydney 2019 with Alumnus Tiago Passos](/rules/type-of-content-marketing-you-should-post/ndc.jpg)
 
 ### 6 - Team members profiles
 
-![Figure: In profile photos, you can show your employees in action](kikisprofile.png)
+![Figure: In profile photos, you can show your employees in action](/rules/type-of-content-marketing-you-should-post/kikisprofile.png)
 
-![Figure: Another example of an employee action shot](tom-profile.png)
+![Figure: Another example of an employee action shot](/rules/type-of-content-marketing-you-should-post/tom-profile.png)
 
 ### 7 - Employees' blogs posts
 
-![Figure: Use the same image from the blog post for consistency](tim-blog.png)
+![Figure: Use the same image from the blog post for consistency](/rules/type-of-content-marketing-you-should-post/tim-blog.png)
 
 ### 8 - Business blog posts
 
-![Figure: When you promote your own business' blog post on your social media, try to use the same design & branding](blogpostssw.jpeg)
+![Figure: When you promote your own business' blog post on your social media, try to use the same design & branding](/rules/type-of-content-marketing-you-should-post/blogpostssw.jpeg)
 
 ### 9 - General content written/followed by your team
 
@@ -68,27 +68,27 @@ It can be a blog post or one of the many useful SSW Rules - these are best pract
 
 If your company follows an SSW rule, then share it on your social media too. Use **\#ssw** and **\#sswrules** so readers can find more!
 
-![Figure: Even though some of your content won't have a photo, you can either take one like this, or add a relevant one from a free stock photo service](rules-v2.png)
+![Figure: Even though some of your content won't have a photo, you can either take one like this, or add a relevant one from a free stock photo service](/rules/type-of-content-marketing-you-should-post/rules-v2.png)
 
 ### 10 - Employment opportunities
 
-![Figure: Hiring post following branding guidelines](hiring-v2.png)
+![Figure: Hiring post following branding guidelines](/rules/type-of-content-marketing-you-should-post/hiring-v2.png)
 
 ### 11 - Teamwork, parties, etc.
 
-![Figure: A team shot just before NDC with part of the SSW China office](teamwork2.jpeg)
+![Figure: A team shot just before NDC with part of the SSW China office](/rules/type-of-content-marketing-you-should-post/teamwork2.jpeg)
 
-![Figure: SSW Melbourne - Following COVID-19 safety guidelines](covid-teamwork.png)
+![Figure: SSW Melbourne - Following COVID-19 safety guidelines](/rules/type-of-content-marketing-you-should-post/covid-teamwork.png)
 
 ### 12 - Relevant news for your industry
 
-![Figure: If you don't have a catchy photo to represent your news, try free stock photo websites like Pexels or Unsplash](technews-2022.jpg)
+![Figure: If you don't have a catchy photo to represent your news, try free stock photo websites like Pexels or Unsplash](/rules/type-of-content-marketing-you-should-post/technews-2022.jpg)
 
 ### 13 - Memes (if they suit your industry)
 
 To see best practices for sharing memes on your socials, check out [Do you know why you should use memes as part of your business social media content?](/do-you-know-why-you-should-use-memes-as-part-of-your-business-social-media-content)
 
-![Figure: A meme once a week on weekends can help you boost your social media engagement](meme.png)
+![Figure: A meme once a week on weekends can help you boost your social media engagement](/rules/type-of-content-marketing-you-should-post/meme.png)
 
 ### 14 - Application upgrades/updates
 
@@ -97,5 +97,5 @@ When you do a major (or minor) upgrade to an application, you should let people 
 Whether your upgrade is to take advantage of a new feature, fix a bug, or even just to keep yourself on the latest and greatest version, your followers might want to know why you upgraded. You should put a short announcement on Twitter, Facebook, and/or LinkedIn. Your followers may not know about the changes and the ones who are grateful are likely to retweet or like your post.
 
 ::: good
-![Figure: Good example - Announcing the upgrade with a short note of the new feature](octopus_upgrade.png)
+![Figure: Good example - Announcing the upgrade with a short note of the new feature](/rules/type-of-content-marketing-you-should-post/octopus_upgrade.png)
 :::

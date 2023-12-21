@@ -21,9 +21,9 @@ As per rule ["Do you have separate development, testing, and production environm
 
 ### CRM
 
-![Figure: Staging uses blue background](ssw staging 2.png)  
+![Figure: Staging uses blue background](/rules/do-you-identify-development-test-and-production-crm-web-servers-by-colors/ssw staging 2.png)  
 
-![Figure: Production uses red background](ssw production 2.png)  
+![Figure: Production uses red background](/rules/do-you-identify-development-test-and-production-crm-web-servers-by-colors/ssw production 2.png)  
 
 The way to change the default background color is to edit the CRM CSS files. These changes aren't supported and may be overwritten when CRM Rollups are applied.
 
@@ -31,11 +31,11 @@ The way to change the default background color is to edit the CRM CSS files. The
 
 Using theme feature to change the environment color.
 
-![Figure: Changing CRM 2016 UI by using theme feature](CRM2015Theme.JPG)  
+![Figure: Changing CRM 2016 UI by using theme feature](/rules/do-you-identify-development-test-and-production-crm-web-servers-by-colors/CRM2015Theme.JPG)  
 
 ### CRM 2013
 
-Edit `{{ CRM WEBSITE ROOT }}\_controls\navbar\navbar.css`:
+Edit `{{ CRM WEBSITE ROOT }}_controls\navbar\navbar.css`:
 
 ``` css
 .navigationControl
@@ -51,13 +51,13 @@ Edit `{{ CRM WEBSITE ROOT }}\_controls\navbar\navbar.css`:
 
 **Figure: Edit the background color to reflect the environment**
 
-![Figure: CRM 2013 with a green navigation bar](crm2013\_greenbar.jpg)  
+![Figure: CRM 2013 with a green navigation bar](/rules/do-you-identify-development-test-and-production-crm-web-servers-by-colors/crm2013_greenbar.jpg)  
 
 <!--endintro-->
 
 ### CRM 2011
 
-Edit `{{ CRM WEBSITE ROOT }}\_static\css\1033\cui.css`, locate and modify the section ms-cui-tabBody so that it reads:
+Edit `{{ CRM WEBSITE ROOT }}_static\css\1033\cui.css`, locate and modify the section ms-cui-tabBody so that it reads:
 
 ``` css
 background-color : #ffffff;
@@ -69,11 +69,11 @@ Change color to a suitable color for the environment:
 background-color : #bbffaa;
 ```
 
-![Figure: CRM Ribbon color green to signify production environment](CRM2011_ColorCodedRibbon.jpg)
+![Figure: CRM Ribbon color green to signify production environment](/rules/do-you-identify-development-test-and-production-crm-web-servers-by-colors/CRM2011_ColorCodedRibbon.jpg)
 
 ### CRM 4
 
-Edit, `{{ CRM WEBSITE ROOT }}\_common\styles\global.css.aspx`
+Edit, `{{ CRM WEBSITE ROOT }}_common\styles\global.css.aspx`
 
 ``` css
 body.stage
@@ -96,13 +96,13 @@ body.stage
 }
 ```
 
-**Figure: In `C:\Inetpub\wwwroot\\_common\styles\global.css.aspx` comment out and change the reference in yellow so the users know what server they are on**
+**Figure: In `C:\Inetpub\wwwroot\_common\styles\global.css.aspx` comment out and change the reference in yellow so the users know what server they are on**
 
-![Figure: Color of CRM Development Server - Red](CRM\_DevelopmentColor.jpg)  
+![Figure: Color of CRM Development Server - Red](/rules/do-you-identify-development-test-and-production-crm-web-servers-by-colors/CRM_DevelopmentColor.jpg)  
 
-![Figure: Color of CRM Test Server - Yellow](CRM\_TestColor.jpg)  
+![Figure: Color of CRM Test Server - Yellow](/rules/do-you-identify-development-test-and-production-crm-web-servers-by-colors/CRM_TestColor.jpg)  
 
-![Figure: Color of CRM Production Server - Default](CRM\_ProductionColor.jpg)  
+![Figure: Color of CRM Production Server - Default](/rules/do-you-identify-development-test-and-production-crm-web-servers-by-colors/CRM_ProductionColor.jpg)  
 
 ### SharePoint online
 
@@ -113,12 +113,14 @@ Here is what we change:
 * Site Settings | Change The Look
 * Test – Orange
 
-![Figure: Selecting Orange theme for test](sharepoint-orange-theme.jpg)  
+![Figure: Selecting Orange theme for test](/rules/do-you-identify-development-test-and-production-crm-web-servers-by-colors/sharepoint-orange-theme.jpg)  
 
-![Figure: orange theme applied](sharepoint-orange-applied.jpg)  
+![Figure: orange theme applied](/rules/do-you-identify-development-test-and-production-crm-web-servers-by-colors/sharepoint-orange-applied.jpg)  
 
 ### Production - Office
 
-![Figure: Selecting Office theme for Production](sharepoint-office-theme.jpg)  
+![Figure: Selecting Office theme for Production](/rules/do-you-identify-development-test-and-production-crm-web-servers-by-colors/sharepoint-office-theme.jpg)  
 
-![Figure: office (blue) theme applied](sharepoint-office-applied.jpg)
+![Figure: office (blue) theme applied](/rules/do-you-identify-development-test-and-production-crm-web-servers-by-colors/sharepoint-office-applied.jpg)
+
+

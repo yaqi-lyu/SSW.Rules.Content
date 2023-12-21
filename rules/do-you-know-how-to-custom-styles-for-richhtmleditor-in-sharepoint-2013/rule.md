@@ -21,7 +21,7 @@ This rule outlines how to use custom styles in the SharePoint  RichHTMLEditor.
 
 In SharePoint, we can use the below way to apply custom styles:
 
-![Figure: custom RichHtmlEditor styles give your content editors a visual preview of your custom styles](CustomStylesInSharePoint.png) 
+![Figure: custom RichHtmlEditor styles give your content editors a visual preview of your custom styles](/rules/do-you-know-how-to-custom-styles-for-richhtmleditor-in-sharepoint-2013/CustomStylesInSharePoint.png) 
 
 <!--endintro-->
 
@@ -171,3 +171,4 @@ background-color:#f0f0f0;
 ```
 
 After finishing the definitions of custom styles, make a package and deploy to a SharePoint site, Create a page using the page layout or master page which you added custom RichHtmlField style, then you should be able to see the custom styles in the ribbon.
+

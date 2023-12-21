@@ -26,9 +26,9 @@ Also, make sure your embedded **video is at the top of the post**, so users will
 :::
 
 ::: bad
-![Bad example: From the title, you would be unable to tell that this has a video](Stevo-Bad-blog.png)
+![Bad example: From the title, you would be unable to tell that this has a video](/rules/do-you-clearly-highlight-video-posts/Stevo-Bad-blog.png)
 :::
 
 ::: good
-![Good example: From the title, it is easy to see that this includes a video](Chris-Good-blog.png)
+![Good example: From the title, it is easy to see that this includes a video](/rules/do-you-clearly-highlight-video-posts/Chris-Good-blog.png)
 :::

@@ -19,5 +19,6 @@ It is always good to provide the user with an option to have their username and 
 
 
 ::: good  
-![Figure: 'Remember me' checkbox in a Web Form](sugarlearning-rememberme.jpg)  
+![Figure: 'Remember me' checkbox in a Web Form](/rules/authentication-do-you-have-a-remember-me-checkbox/sugarlearning-rememberme.jpg)  
 :::
+

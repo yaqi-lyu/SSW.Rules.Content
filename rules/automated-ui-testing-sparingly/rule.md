@@ -20,11 +20,11 @@ While automated UI testing has its place in an overall test strategy (involving 
 
 <!--endintro-->
 
-![Figure: Remember that sometimes you need a drill, not a hammer](hammer-not-drill.jpg)
+![Figure: Remember that sometimes you need a drill, not a hammer](/rules/automated-ui-testing-sparingly/hammer-not-drill.jpg)
 
 It's worth looking at Mike Cohn's automated test pyramid:
 
-![Figure: Mike Cohn's automated test pyramid (2009)](test-pyramid-cohn.jpg)
+![Figure: Mike Cohn's automated test pyramid (2009)](/rules/automated-ui-testing-sparingly/test-pyramid-cohn.jpg)
 
 The topmost layer of the pyramid is deliberately small and represents the relatively small amount of end-to-end UI-based automated checks that should be written and executed against the system. 
 
@@ -45,3 +45,4 @@ Focusing automated UI testing on important user workflows in your system can be 
 
 You can read more about best practices for automated UI testing at [Do you do automated UI testing?](/automated-ui-testing)
 :::
+

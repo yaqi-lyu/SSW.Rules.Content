@@ -30,7 +30,7 @@ Unfortunately, you can't kill the TFVC repository and make Git the default one, 
 
 <!--endintro-->
 
-![](2017-04-05_10-02-58.png)
+![](/rules/do-you-know-what-to-do-after-migrating-from-tfvc-to-git/2017-04-05_10-02-58.png)
 
 
 ::: bad
@@ -43,7 +43,7 @@ Figure: Bad Example - Can't delete the now deprecated TFVC repository
 
 Go into the repository, delete any existing files. Add a new document saying "\_Migrated\_to\_Git.md". This will stop people from getting the wrong code.
 
-![](2017-04-05_10-24-52.png)
+![](/rules/do-you-know-what-to-do-after-migrating-from-tfvc-to-git/2017-04-05_10-24-52.png)
  **Figure: Clean up TFVC so developers can't accidentally get the wrong source code
 ** **
 ** 
@@ -54,7 +54,7 @@ Go into the repository, delete any existing files. Add a new document saying "\_
 
 In the TFVC repository, click Security
 
-![](2017-04-05_10-43-51.png)
+![](/rules/do-you-know-what-to-do-after-migrating-from-tfvc-to-git/2017-04-05_10-43-51.png)
  **Figure: Configure the security of the TFVC repository
 ** 
 Then deny check-ins to  **Contributors** , P **roject Administrators** and  **Project Collection Administrators** . This should stop anyone from committing new code to the repository.
@@ -64,7 +64,7 @@ Then deny check-ins to  **Contributors** , P **roject Administrators** and  **Pr
 
 Next step is to update the dashboard to let new developers know.
 
-![](2017-04-05_10-30-43.png)
+![](/rules/do-you-know-what-to-do-after-migrating-from-tfvc-to-git/2017-04-05_10-30-43.png)
 
 
 ::: good
@@ -86,7 +86,7 @@ Figure: Good example - Let new users know that the source control is now on Git
 Having any of these suggestions will avoid the confusion on this screen
 
 
-![](2017-04-05_10-06-12.png)
+![](/rules/do-you-know-what-to-do-after-migrating-from-tfvc-to-git/2017-04-05_10-06-12.png)
 
 
 
@@ -94,3 +94,4 @@ Having any of these suggestions will avoid the confusion on this screen
 Figure: Bad Exmaple - This is confusing for a new dev
 
 :::
+

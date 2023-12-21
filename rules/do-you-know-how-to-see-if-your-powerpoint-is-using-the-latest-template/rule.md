@@ -13,8 +13,8 @@ Unfortunately, there is no easy solution to this. What we need is a 'version' fi
 
 <!--endintro-->
 
-![Figure: This feature is broken on PowerPoint - the template field could show as an uncomprehensive code](template-field.png)
+![Figure: This feature is broken on PowerPoint - the template field could show as an uncomprehensive code](/rules/do-you-know-how-to-see-if-your-powerpoint-is-using-the-latest-template/template-field.png)
 
 We recommend to store the template version number on a slide on the PowerPoint template, which the presenter could remove.  
 
-![Figure: Version number is on the slide](template-version.png)
+![Figure: Version number is on the slide](/rules/do-you-know-how-to-see-if-your-powerpoint-is-using-the-latest-template/template-version.png)

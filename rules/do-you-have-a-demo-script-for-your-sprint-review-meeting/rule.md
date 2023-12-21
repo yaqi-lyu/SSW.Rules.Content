@@ -25,4 +25,5 @@ The demo script helps if you are going back and want to know what has been done 
 2. Steps to show what has been done aka Demo script itself
 3. Give an overview of upcoming PBIs, so that everyone has an idea before you go into the Sprint Planning Meeting
 
-![](StoreDemoScriptInTFS.jpg)**Figure: Store the demo scripts on TFS**
+![](/rules/do-you-have-a-demo-script-for-your-sprint-review-meeting/StoreDemoScriptInTFS.jpg)**Figure: Store the demo scripts on TFS**
+

@@ -38,5 +38,6 @@ First you must download the IIS URL Rewrite module from Web Platform Component I
 
 6. Apply | Back to Rules
 
-![Figure: HTTP to HTTPS redirect using IIS URL Rewrite module](IISURLRewrite.jpg)
+![Figure: HTTP to HTTPS redirect using IIS URL Rewrite module](/rules/do-you-use-url-rewrite-to-redirect-http-to-https/IISURLRewrite.jpg)
+
 

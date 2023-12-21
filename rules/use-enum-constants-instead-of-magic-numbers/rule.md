@@ -19,10 +19,11 @@ Using "Magic numbers" in your code makes it confusing and really hard to maintai
 
 
 ::: bad  
-![Figure: Bad example - "Magic Number" works, but is a bad idea](MagicNumberBad.jpg)  
+![Figure: Bad example - "Magic Number" works, but is a bad idea](/rules/use-enum-constants-instead-of-magic-numbers/MagicNumberBad.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example - No Magic Number, looks good and is easy to manage](MagicNumberGood.jpg)  
+![Figure: Good example - No Magic Number, looks good and is easy to manage](/rules/use-enum-constants-instead-of-magic-numbers/MagicNumberGood.jpg)  
 :::
+

@@ -17,12 +17,13 @@ Hyperlinks are the foundation to website navigation. Without       it, the Inter
 
 
 ::: bad  
-![Figure: Bad Example - I have no way of knowing that this link allows me to edit my details](../../assets/Websites\_NotIntuitiveHyperlinks.gif)  
+![Figure: Bad Example - I have no way of knowing that this link allows me to edit my details](/rules/do-you-make-your-links-intuitive/Websites_NotIntuitiveHyperlinks.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - I'm pretty certain where this link will take me...](../../assets/Websites\_IntuitiveHyperlinks.gif)  
+![Figure: Good Example - I'm pretty certain where this link will take me...](/rules/do-you-make-your-links-intuitive/Websites_IntuitiveHyperlinks.gif)  
 :::
 
 This rule also has relevance to     [improve your Google ranking](http://www.ssw.com.au/SSW/Standards/Rules/RulesToBetterGoogleRankings.aspx#Relevancy).
+

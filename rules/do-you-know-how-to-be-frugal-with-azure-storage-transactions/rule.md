@@ -34,17 +34,17 @@ Having Diagnostics enabled can contribute 25 transactions per minute, this is 36
 
 Question for Microsoft: Is this per Web Role?
 
-![Figure: Check the properties of your web and worker role configuration files](azure-check-properties.jpg)
+![Figure: Check the properties of your web and worker role configuration files](/rules/do-you-know-how-to-be-frugal-with-azure-storage-transactions/azure-check-properties.jpg)
 
-![Figure: Disable diagnostics](azure-disable-diagnostics.jpg)
+![Figure: Disable diagnostics](/rules/do-you-know-how-to-be-frugal-with-azure-storage-transactions/azure-disable-diagnostics.jpg)
 
 ### Disable IntelliTrace and Profiling
-![Figure: When publishing, ensure that IntelliTrace and Profiling are both disabled](azure-publishing-settings.jpg) 
+![Figure: When publishing, ensure that IntelliTrace and Profiling are both disabled](/rules/do-you-know-how-to-be-frugal-with-azure-storage-transactions/azure-publishing-settings.jpg) 
 
 ### Robots.txt 
 
 Search bots crawling your site to index it will lead to a lot of transactions. Especially for web "applications" that do not need to be searchable, use Robot.txt to save transactions.
-![Figure: Place robots.txt in the root of your site to control search engine indexing](azure-robots.jpg)
+![Figure: Place robots.txt in the root of your site to control search engine indexing](/rules/do-you-know-how-to-be-frugal-with-azure-storage-transactions/azure-robots.jpg)
 
 ### Continuous Deployment
 
@@ -56,3 +56,4 @@ If you have enabled continuous deployment to Azure, you will need to monitor you
 
 * [Understanding Windows Azure Storage Billing – Bandwidth, Transactions, and Capacity](https://technet2.github.io/Wiki/blogs/windowsazurestorage/understanding-windows-azure-storage-billing-bandwidth-transactions-and-capacity.html)
 * [Does Windows Azure hosted service use storage transactions](https://serverfault.com/questions/363803/does-windows-azure-hosted-service-use-storage-transactions)
+

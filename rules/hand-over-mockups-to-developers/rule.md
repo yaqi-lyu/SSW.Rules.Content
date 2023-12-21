@@ -38,9 +38,10 @@ Developers, clients, or any other collaborators can use Figma to view mockups wi
 Team members can easily add and reply to comments on files and prototypes using the browser or Figma desktop and even on Figma mobile app. Figma also allows you to pin your comment to a selected location on the canvas. You can also mention collaborators in your messages.
 
 ::: good
-![Figure: Good example - Feedback pinned to a location, mentioned a designer and using change from X to Y rule](figma-feedback.png)
+![Figure: Good example - Feedback pinned to a location, mentioned a designer and using change from X to Y rule](/rules/hand-over-mockups-to-developers/figma-feedback.png)
 :::
 
 When you've reached an agreement or solved an issue, remember to resolve the comment. Figma will remove the comment icon from the prototype to keep your canvas clean and tidy. 
 
 **Note:** Resolved comments can be turned back on by showing resolved comments on the prototype.
+

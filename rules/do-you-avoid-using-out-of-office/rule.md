@@ -27,19 +27,19 @@ When you are on leave, you need to make sure that your mailbox is monitored. The
 The use of 'Out of Office - Automated Response' emails should be avoided unless you plan to be away for more than a week, and unable to check your emails while away. In this case, it is also good to mention one or two alternative contact(s).
 
 ::: bad
-![Figure: Bad example – Outlook OWA setting the automatic reply](owa-auto-reply.png)
+![Figure: Bad example – Outlook OWA setting the automatic reply](/rules/do-you-avoid-using-out-of-office/owa-auto-reply.png)
 :::
 
 ::: bad
-![Figure: Bad example – This appointment has “Out Of Office” status which will change other peoples Teams status (unless every person was to change it to "Free")](bad-out-of-office.png)
+![Figure: Bad example – This appointment has “Out Of Office” status which will change other peoples Teams status (unless every person was to change it to "Free")](/rules/do-you-avoid-using-out-of-office/bad-out-of-office.png)
 :::
 
 ::: good
-![Figure: Good example - Step 1 - Click on "Schedule out of office"](step1-good.png)
+![Figure: Good example - Step 1 - Click on "Schedule out of office"](/rules/do-you-avoid-using-out-of-office/step1-good.png)
 :::
 
 ::: good
-![Figure: Good example – Step 2 – Enter your reason and an end date. This message will be seen by your colleagues when they email or message you in Teams](step2-good.png)
+![Figure: Good example – Step 2 – Enter your reason and an end date. This message will be seen by your colleagues when they email or message you in Teams](/rules/do-you-avoid-using-out-of-office/step2-good.png)
 :::
 
 ### Use Teams to let people know you are not around
@@ -51,5 +51,5 @@ In case you use Outlook and Microsoft Teams, there’s a quick way to do this. Y
 By using this feature, your Teams status will be synchronized to Outlook, showing the whole organization that you are not available for calls or meetings. You can even set up an automatic message to be sent when someone tries to reach you on Microsoft Teams.
 
 ::: good
-![Figure: Good example - Your new status on Teams will be shared across your Outlook calendar, and your team will see you are not around](teams-status.jpg)
+![Figure: Good example - Your new status on Teams will be shared across your Outlook calendar, and your team will see you are not around](/rules/do-you-avoid-using-out-of-office/teams-status.jpg)
 :::

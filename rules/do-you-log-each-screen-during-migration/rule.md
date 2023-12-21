@@ -18,4 +18,5 @@ As per rule [Installation - Do you log each screen which is different to the def
 <!--endintro-->
 
 
-![Log Screen For Required Components](../../assets/CRM_LogScreenForRequiredComponent.gif)Figure: Log Screen For Required Components
+![Log Screen For Required Components](/rules/do-you-log-each-screen-during-migration/CRM_LogScreenForRequiredComponent.gif)Figure: Log Screen For Required Components
+

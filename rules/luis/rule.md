@@ -44,29 +44,30 @@ In order to make LUIS' recognition more precise, some of the best practises are:
 * **Do** define distinct intents
 
 ::: bad
-![Figure: Bad example - Separated intents with overlapping vocabulary](bad-example-distinct-intents.png)
+![Figure: Bad example - Separated intents with overlapping vocabulary](/rules/luis/bad-example-distinct-intents.png)
 :::
 
 ::: good 
-![Figure: Good example - Combine intents that have same vocabulary and use entities](good-example-distinct-intents.png)
+![Figure: Good example - Combine intents that have same vocabulary and use entities](/rules/luis/good-example-distinct-intents.png)
 :::
 
 * **Do** assign features for intents.
 
 ::: bad
-![Figure: Bad example - An intent with no feature can lead to low accuracy](bad-example-features.png)
+![Figure: Bad example - An intent with no feature can lead to low accuracy](/rules/luis/bad-example-features.png)
 :::
 
 ::: good 
-![Figure: Good example - An intent with features can help LUIS predict more accurately](good-example-features.png)
+![Figure: Good example - An intent with features can help LUIS predict more accurately](/rules/luis/good-example-features.png)
 :::
 
 * **Do** add examples to None intent (the fallback intent if LUIS doesn't recognize the user input as any intent)
 
 ::: bad
-![Figure: Bad example - An empty None intent means no "emergency replies" for unrecognized inputs](bad-example-none.png)
+![Figure: Bad example - An empty None intent means no "emergency replies" for unrecognized inputs](/rules/luis/bad-example-none.png)
 :::
 
 ::: good 
-![Figure: Good example - Add example utterances to None intent with an approximately 1:10 ratio to the utterances in the rest of your LUIS app](good-example-none.png)
+![Figure: Good example - Add example utterances to None intent with an approximately 1:10 ratio to the utterances in the rest of your LUIS app](/rules/luis/good-example-none.png)
 :::
+

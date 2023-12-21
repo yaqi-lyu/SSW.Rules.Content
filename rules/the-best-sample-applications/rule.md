@@ -24,7 +24,7 @@ Before starting a software project and evaluating a new technology, it is import
 
 ### Northwind Schema
 
-![](northwind_schema.png)
+![](/rules/the-best-sample-applications/northwind_schema.png)
 
 ### SQL Server
 

@@ -40,10 +40,11 @@ Back in the day, people used to keep physical diaries to keep track of what work
 
 
 ::: bad  
-![Figure: Bad Example – Physical Diaries are no longer needed](diary.jpg)  
+![Figure: Bad Example – Physical Diaries are no longer needed](/rules/do-you-know-the-best-ways-to-keep-track-of-your-time/diary.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example – TFS Check in comments are a very accurate recording of what work was done](TFS-comments.png)  
+![Figure: Good Example – TFS Check in comments are a very accurate recording of what work was done](/rules/do-you-know-the-best-ways-to-keep-track-of-your-time/TFS-comments.png)  
 :::
+

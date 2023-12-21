@@ -24,13 +24,14 @@ Creating a responsive website? It's important to make sure the browser renders y
 Your website's viewport should be the same width as any given device's screen. Specify this with the content attribute `_device-width_`. 
 
 ::: bad  
-![Figure: Bad example - No viewport meta tag](viewport-bad.png)
+![Figure: Bad example - No viewport meta tag](/rules/do-you-set-device-width-when-designing-responsive-web-applications/viewport-bad.png)
 :::
 
 ::: good  
-![Figure: Good example - Correct viewport meta tag](viewport-good.png)
+![Figure: Good example - Correct viewport meta tag](/rules/do-you-set-device-width-when-designing-responsive-web-applications/viewport-good.png)
 :::
 
 ### Resize Text
 
 The viewport meta tag should **not** set `_user-scaling=no_` or a `_maximum-scaling_` value less than 2. This allows us to meet accessibility standards for scalable content. [See WCAG 1.4.4](https://www.w3.org/WAI/WCAG21/Understanding/resize-text.html).
+

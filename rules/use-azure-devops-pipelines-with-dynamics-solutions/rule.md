@@ -36,8 +36,9 @@ Check out the guide on     [GitHub](https://github.com/microsoft/PowerApps-Sampl
 4. Build the 'Release Pipeline' (Deploy to Production)
 
 
-![Figure: Sample Azure Pipeline to export solution and commit to source control](sample-azure-1.png)  
+![Figure: Sample Azure Pipeline to export solution and commit to source control](/rules/use-azure-devops-pipelines-with-dynamics-solutions/sample-azure-1.png)  
 
-![Figure: Sample Azure Pipeline to create a managed solution from source](sample-azure-2.png)  
+![Figure: Sample Azure Pipeline to create a managed solution from source](/rules/use-azure-devops-pipelines-with-dynamics-solutions/sample-azure-2.png)  
 
-![Figure: Sample Release Pipeline to deploy the managed solution to production](sample-azure-3.png)
+![Figure: Sample Release Pipeline to deploy the managed solution to production](/rules/use-azure-devops-pipelines-with-dynamics-solutions/sample-azure-3.png)
+

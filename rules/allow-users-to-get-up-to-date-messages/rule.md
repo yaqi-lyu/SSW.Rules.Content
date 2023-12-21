@@ -24,4 +24,5 @@ Software is often deployed without any mechanism to insert a message into older 
 
 Messages might include notifications to update or simply helpful tips. Eg. Sometimes customers are not aware that their CRM installation is several years old.
 
-![Figure: Visual Studio 2019 has helpful notifications to indicate which parts need updating](VisualStudioUpdateNotifications.png)
+![Figure: Visual Studio 2019 has helpful notifications to indicate which parts need updating](/rules/allow-users-to-get-up-to-date-messages/VisualStudioUpdateNotifications.png)
+

@@ -21,14 +21,15 @@ The exception to this is if you are using open-source data. [SSW.People](https:/
 
 <!--endintro-->
 
-![Figure: "New" and "Edit" links allow SSW Employees to maintain testimonial entries easily](MaintenanceDemo.gif)  
+![Figure: "New" and "Edit" links allow SSW Employees to maintain testimonial entries easily](/rules/make-your-site-easy-to-maintain/MaintenanceDemo.gif)  
 
-![Figure: "Edit" button on WordPress admin bar](wordpress-edit.png)  
+![Figure: "Edit" button on WordPress admin bar](/rules/make-your-site-easy-to-maintain/wordpress-edit.png)  
 
 ::: good  
-![Figure: Good Example - "Edit" button on an Open Source page](github-edit.png)  
+![Figure: Good Example - "Edit" button on an Open Source page](/rules/make-your-site-easy-to-maintain/github-edit.png)  
 :::
 
 From Github, you can edit and submit a pull request. See https://github.com/SSWConsulting/SSW.People.Profiles/wiki (SSW People) or https://github.com/SSWConsulting/SSW.Rules.Content/wiki (SSW Rules) for more details.
 
 This is better than sending a ['Change from X to Y' email](/do-you-ask-for-content-changes-using-from-x-to-y) as the work can be done immediately with less work and management requirements.
+

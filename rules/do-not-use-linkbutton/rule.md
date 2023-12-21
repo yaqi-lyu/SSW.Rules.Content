@@ -18,9 +18,9 @@ If we want to refresh and data bind the same page from client side, we can use t
 
 <!--endintro-->
 
-![Figure: Right click the link with \_\_doPostBack event](RightClickLink.gif)  
+![Figure: Right click the link with \_\_doPostBack event](/rules/do-not-use-linkbutton/RightClickLink.gif)  
 
-![Figure: New window with incorrect URL](PostBack.gif)  
+![Figure: New window with incorrect URL](/rules/do-not-use-linkbutton/PostBack.gif)  
 
 
 ``` aspnet
@@ -74,3 +74,4 @@ Good code
 :::
 
 We have a program called [SSW Code Auditor](https://www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.
+

@@ -28,7 +28,7 @@ You then have this pretty white flower with a green stem standing on a water pon
 Figure: Bad example - Here we have text describing a flower
 
 ::: good  
-![Figure: Good example - Here we have a picture (could be a screen capture) which avoids a thousand words](flower.jpg)  
+![Figure: Good example - Here we have a picture (could be a screen capture) which avoids a thousand words](/rules/figures-do-you-use-images-to-reduce-the-words/flower.jpg)  
 :::
 
 What else can you do?
@@ -37,3 +37,4 @@ What else can you do?
       [Do you add useful and bold figure text (aka a caption) to avoid a lot of text over images?](/add-useful-and-concise-figure-captions)
 * Use good HTML - See 
       [Do you use the right HTML/CSS code to add the useful figure/caption?](/use-the-right-html-figure-caption)
+

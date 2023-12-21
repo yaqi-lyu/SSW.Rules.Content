@@ -16,7 +16,7 @@ The fastest method is the Auto Chapter Links method (see below)
 
 <!--endintro-->
 
-![Figure: Good example - Chapter Links created for a Tech News](chapter-links.png)
+![Figure: Good example - Chapter Links created for a Tech News](/rules/premiere-pro-markers-as-youtube-chapter-links/chapter-links.png)
 
 ### How to use the Auto Chapter Links method 
 
@@ -25,27 +25,27 @@ This method is basically exporting Adobe Premiere Pro Markers as YouTube Chapter
 Make sure you know which hotkey in Premiere Pro hotkey is for markers. The default is set to ‘M’ on your keyboard.
 
 1. Add an Introduction Marker (00:00). YouTube requires every video to have an introduction marker if you want the chapter links to take effect.
-   ![Figure: Introduction marker for 00:00](introduction-marker.png)
+   ![Figure: Introduction marker for 00:00](/rules/premiere-pro-markers-as-youtube-chapter-links/introduction-marker.png)
 2. Create your chapter markers for every new topic/section in the talk
-   ![Figure: Markers appear above the timeline](markers.png)
+   ![Figure: Markers appear above the timeline](/rules/premiere-pro-markers-as-youtube-chapter-links/markers.png)
 3. Select your sequence | File | Export | Markers
-   ![Figure: File | Export | Markers](export-markers.png)
+   ![Figure: File | Export | Markers](export-/rules/premiere-pro-markers-as-youtube-chapter-links/markers.png)
 4. File type – CSV | Destination – Export Folder 
-   ![Figure: It is good practice to save it to an export folder](export-folder.png)
+   ![Figure: It is good practice to save it to an export folder](/rules/premiere-pro-markers-as-youtube-chapter-links/export-folder.png)
 5. Click on this [spreadsheet](https://docs.google.com/spreadsheets/d/1JumI4F9eIvolz31MB7wsIaqlwVdaa2ipNNcSO6Cv_OM/edit#gid=1066692544) to find the Premiere Markers to Youtube Annotation (Sample)
 
    [Alternate spreadsheet link for Premiere Markers to Youtube Annotation](https://docs.google.com/spreadsheets/d/1T58oqSCajCMkbpPuIi6lU4nVPFwYooQY9RiKOeDKu5c/edit?usp=sharing)
 6. Make a copy of this excel spreadsheet and save it in your google drive
-   ![Figure: File | Make a copy | Save in your Google Drive](save-spreadsheet.png)
+   ![Figure: File | Make a copy | Save in your Google Drive](/rules/premiere-pro-markers-as-youtube-chapter-links/save-spreadsheet.png)
 7. Copy the text from your Premiere Pro exported CSV file
-   ![Figure: CSV file exported from Premiere Pro](premiere-pro-csv.png)
+   ![Figure: CSV file exported from Premiere Pro](/rules/premiere-pro-markers-as-youtube-chapter-links/premiere-pro-csv.png)
 8. Paste the text into your copy of the Premiere Markers to Youtube Annotation excel spreadsheet
-   ![Figure: Paste text into cell A1 of this sheet](spreadsheet-paste.png)
+   ![Figure: Paste text into cell A1 of this sheet](/rules/premiere-pro-markers-as-youtube-chapter-links/spreadsheet-paste.png)
 9. Click over to the Output: YouTube Chapter Links and copy the relevant content
-   ![Figure: Click the second sheet “Youtube Chapter Links”](output-tab.png)
+   ![Figure: Click the second sheet “Youtube Chapter Links”](/rules/premiere-pro-markers-as-youtube-chapter-links/output-tab.png)
 10. Paste into your YouTube video description
-    ![Figure: Editing the description of a YouTube video](youtube-description.png)
+    ![Figure: Editing the description of a YouTube video](/rules/premiere-pro-markers-as-youtube-chapter-links/youtube-description.png)
 11. The description should look as such
-    ![Figure: YouTube Chapter Links](youtube-chapters.png)
+    ![Figure: YouTube Chapter Links](/rules/premiere-pro-markers-as-youtube-chapter-links/youtube-chapters.png)
 
     **Note:** The website links were added afterwards manually

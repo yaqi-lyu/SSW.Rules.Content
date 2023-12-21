@@ -20,7 +20,7 @@ Information tells you what happened. Lots of data is available and its easy to r
 
 In this hypothetical example, we can see the following information about how many people used the new profile pic feature in light mode and how many used it in dark mode.
 
-![Figure: The results of the A/B testing showing how many people activated the profile pic feature in light mode vs how many activated it in dark mode](rewards-abresults.png)
+![Figure: The results of the A/B testing showing how many people activated the profile pic feature in light mode vs how many activated it in dark mode](/rules/information-intelligence-wisdom/rewards-abresults.png)
  
 ### Level 2: Intelligence
  
@@ -28,7 +28,7 @@ Intelligence tells you why something happened. Having lots of data is awesome, b
 
 A simple analysis of the above A/B results shows that significantly more people use the profile picture feature in dark mode than in light mode. However, we can add some context:
 
-![Figure: A hypothetical announcement from SSW Chief Architect Adam Cogan about the new profile picutre feature and the new dark mode feature](adamcogan-faketweet.png)
+![Figure: A hypothetical announcement from SSW Chief Architect Adam Cogan about the new profile picutre feature and the new dark mode feature](/rules/information-intelligence-wisdom/adamcogan-faketweet.png)
 
 With this additional context, we can look at the figure above and see that the feature got a boost in both light mode AND dark mode after this tweet. So it seems like the tweet did more to bost adoption of this feature than discoverability in dark mode did.
  
@@ -52,3 +52,4 @@ However, the key gem of wisdom here is to isolate test variables so that we don'
 | Our app service goes offline every day at 3am | Increased demand between 2am, and 4am often pushes the system beyond peak capacity | Automate your infrastructure to scale out on a schedule to meet increased demand |
 | We got 30% fewer clicks from our social media advertising in July than we did in June. | In July we diverted advertising budget away from social media platform A to social media platform B. Platform A generates more clicks than platform B | Should we focus all our advertising on platform A? No, because while platform B generates fewer clicks, it generates higher quality clicks (i.e. 70% higher conversions than platform A). | 
 | What is this? It’s a hot dog. | Can I eat the hot dog? Yes. | Should I eat the hot dog? Probably not. |
+

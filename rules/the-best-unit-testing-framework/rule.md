@@ -20,7 +20,7 @@ When getting started with unit testing, it is important to use the right tools f
 <!--endintro-->
 
 ::: bad  
-![Bad Example: MS Test was the default testing library for previous versions of .NET and Visual Studio but lacked many features that were available in more complete tools like NUnit](bestunittest-bad1.png)  
+![Bad Example: MS Test was the default testing library for previous versions of .NET and Visual Studio but lacked many features that were available in more complete tools like NUnit](/rules/the-best-unit-testing-framework/bestunittest-bad1.png)  
 :::
 
 ::: ok
@@ -30,3 +30,4 @@ OK Example: NUnit - For previous versions of .NET, NUnit was the best testing li
 ::: good  
 Good Example: XUnit comes out of the box with .NET Core and includes most of the great features of NUnit, while also being supported out of the box with Team Foundation Server and Visual Studio Team Services
 :::
+

@@ -19,7 +19,7 @@ This seriously limits the attack surface and also helps to stop compromised devi
 <!--endintro-->
 
 ::: bad 
-![Figure: Bad Example - no locations setup](locationsbadexample.png)
+![Figure: Bad Example - no locations setup](/rules/conditional-access-policies/locationsbadexample.png)
 :::
 
 ### Configure locations
@@ -29,10 +29,10 @@ First you need to add any locations that you require for your office.
 1. Go to https://endpoint.microsoft.com | Endpoint security | Conditional Access | Named locations
 2. Click "+ Countries location and add required countries
 
-   ![Figure: Add a location](locations1.png)
+   ![Figure: Add a location](/rules/conditional-access-policies/locations1.png)
 3. Add as many as you require for your users to access
 
-   ![Figure: Every location that your users work from](locationsadded.png)
+   ![Figure: Every location that your users work from](/rules/conditional-access-policies/locationsadded.png)
 
 ### Configure policies
 
@@ -41,35 +41,35 @@ Now configure some policies to implement these rules
 1. Go to Go to https://endpoint.microsoft.com | Endpoint security | Conditional Access | Policies
 2. Select New policy | Create new policy
 
-   ![Figure: Add a conditional access policy](conditionalaccess2.png)
+   ![Figure: Add a conditional access policy](/rules/conditional-access-policies/conditionalaccess2.png)
 3. Give it a name then select Cloud apps or actions | Select All cloud apps
 
-   ![Figure: Add all cloud apps](conditionalaccess3.png)
+   ![Figure: Add all cloud apps](/rules/conditional-access-policies/conditionalaccess3.png)
 4. Select Conditions | Locations 
    Then set configure to yes and Include to "Any location"
 
-   ![Figure: Choose any location](conditionalaccess4.png)
+   ![Figure: Choose any location](/rules/conditional-access-policies/conditionalaccess4.png)
 5. On Exclude choose Selected locations and then exclude your workers countries (i.e. Australia)  
 
    **Note:** This must be done this way as the user must not meet a block access rule ever if they are to login.
 
-  ![Figure: Exclude good locations](conditionalaccess5.png)
+  ![Figure: Exclude good locations](/rules/conditional-access-policies/conditionalaccess5.png)
 
 6. Now select block access for this rule
 
-   ![Figure: Block access](conditionalaccess6.png)
+   ![Figure: Block access](/rules/conditional-access-policies/conditionalaccess6.png)
 
 ### Create a grant rule
 
 7. Similarly create a rule that applies to all cloud apps as above
 8. This will be exactly the same as the above rule except that you should not have conditions and should Grant access with MFA
 
-   ![Figure: Add a grant with MFA](conditionalaccess7.png)
+   ![Figure: Add a grant with MFA](/rules/conditional-access-policies/conditionalaccess7.png)
 9. You will notice that each of these rules have a 'Report only' mode or enforce.  You should leave it on report mode and monitor the audit logs. 
 
    **Check for any failures and only apply the rules to a small subset of your users before changing them to 'On'. This is very important as you can stop everyone including yourself from logging in.**
 
-    ![Figure: Choose report only until you are sure that your rules work](conditionalaccess8.png)
+    ![Figure: Choose report only until you are sure that your rules work](/rules/conditional-access-policies/conditionalaccess8.png)
 
 ### Exclude travelling users
 
@@ -77,4 +77,4 @@ When a user goes overseas and needs access to the company resources, you should 
 
 Otherwise they will get this message:
 
-![Figure: You cannot access this right now](conditionalaccess.jpg)
+![Figure: You cannot access this right now](/rules/conditional-access-policies/conditionalaccess.jpg)

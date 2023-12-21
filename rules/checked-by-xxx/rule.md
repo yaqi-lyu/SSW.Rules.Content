@@ -32,7 +32,7 @@ Simply ask for that person to come over and check it on your computer or call th
 **Warning:** Don't forget to Cc the person who checked your email.
 :::
 
-![Figure: Consider this the "four-eye principle" (also known as the "two-person rule" or "dual control")](four-eyes.jpg)
+![Figure: Consider this the "four-eye principle" (also known as the "two-person rule" or "dual control")](/rules/checked-by-xxx/four-eyes.jpg)
 
 Scenarios where having someone review your emails is recommended:
 
@@ -80,3 +80,4 @@ When you action a task for adding or making **big changes to web content** (such
 Once you confirm there are no errors, you may add the content to the site.
 
 After that, run [SSW CodeAuditor](https://codeauditor.com) in order to keep 0 broken links and other web errors on that page.
+

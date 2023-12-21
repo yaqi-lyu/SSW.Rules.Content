@@ -31,10 +31,11 @@ People should only join the team if they have 100+ emails.
 
 To determine which people are in the team, create a report that tracks which employees have the most emails and make it someone's responsibility to check this once a week.
 
-![Figure: Have the people with the biggest inboxes join the team first](report-mockup.png)
+![Figure: Have the people with the biggest inboxes join the team first](/rules/inbox-management-team/report-mockup.png)
 
 Whenever someone changes team, their inbox should be checked to see if it's 100+.
 
 ## When do people leave the team?
 
 When they are in sync with the Product Owner and both agree all the important emails are done, they should join a standard Scrum team.
+

@@ -16,11 +16,11 @@ If you have a dedicated tester embedded in the Scrum team, they are not solely r
 
 <!--endintro-->
 
-![Figure: The whole team needs to take on responsibility to achieve great quality (source: infamous-labyrinth.flywheelsites.com/about/microsoft-awards)](award-winners.jpg)
+![Figure: The whole team needs to take on responsibility to achieve great quality (source: infamous-labyrinth.flywheelsites.com/about/microsoft-awards)](/rules/whole-team-quality/award-winners.jpg)
 
 The idea of adopting a "whole team approach to quality" is to **build quality into** the software rather than trying to **test the problems out** of it at the end.
 
-![Figure: Wise words from Deming on achieving higher quality](build-quality-in.jpg)
+![Figure: Wise words from Deming on achieving higher quality](/rules/whole-team-quality/build-quality-in.jpg)
 
 ### So, what is "quality"?
 
@@ -120,7 +120,7 @@ Deliberately adding an item for testing and quality onto your Sprint Retro agend
 ### The Agile Testing Manifesto
 
 Many of the mindset shifts required to think in terms of a whole team approach to quality are nicely encapsulated in the Agile Testing Manifesto (which is deliberately phrased in a similar way to the [Agile Manifesto](https://agilemanifesto.org/)).
-![Figure: The Agile Testing Manifesto, by Karen Greaves & Samantha Laing](agile-testing-manifesto.jpg)
+![Figure: The Agile Testing Manifesto, by Karen Greaves & Samantha Laing](/rules/whole-team-quality/agile-testing-manifesto.jpg)
 
 ### Some anti-patterns
 

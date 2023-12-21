@@ -23,4 +23,4 @@ Occasionally, one server and its drives will not have sufficient space to store 
 
 So how do you get around this problem? The answer is in the **Distributed File System (DFS)**. Instead of having several server-specific file share locations, you can have a domain-wide setup location that offers a seamless experience to your users. DFS will even track a history of when and where file locations were moved.
 
-![Figure: The Distributed File System consolidates many separate file shares into one convenient location for your users](Network\_DistributedFileSystem.gif)
+![Figure: The Distributed File System consolidates many separate file shares into one convenient location for your users](/rules/use-the-distributed-file-system-for-your-file-shares/Network_DistributedFileSystem.gif)

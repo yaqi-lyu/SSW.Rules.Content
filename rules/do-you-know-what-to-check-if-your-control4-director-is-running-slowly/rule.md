@@ -20,10 +20,11 @@ If your Control4 system is running slowly, there's a System Diagnostics tool tha
 
 To access Control4 System Diagnostics, open Composer.
 
-![](Composer-Tools-System-Dianostics.png)
+![](/rules/do-you-know-what-to-check-if-your-control4-director-is-running-slowly/Composer-Tools-System-Dianostics.png)
 
 Select Tools &gt; System Diagnostics. 
 
  
 
-![](Composer-System-Dianostics.png)
+![](/rules/do-you-know-what-to-check-if-your-control4-director-is-running-slowly/Composer-System-Dianostics.png)
+

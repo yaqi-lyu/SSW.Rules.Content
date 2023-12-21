@@ -19,7 +19,7 @@ Azure is Microsoft's Cloud service. However, you have to pay for every little bi
 
 Before diving in, it is good to have an understanding of the basic built-in user roles:
 
-![Figure: Roles in Azure](tabl.png)  
+![Figure: Roles in Azure](/rules/do-you-have-an-azure-spend-master/tabl.png)  
 
 **More info:** https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles
 
@@ -30,9 +30,10 @@ The best practice is to have an **Azure Spend Master**. This person will control
 Also, keep in mind that you should be giving access to security groups and not individual users. It is easier, simpler, and keeps things much better structured.
 
 ::: bad  
-![Figure: Bad example - Contributor access to the Developers group](tabl3.png)  
+![Figure: Bad example - Contributor access to the Developers group](/rules/do-you-have-an-azure-spend-master/tabl3.png)  
 :::
 
 ::: good  
-![Figure: Good example - Reader access to the Developers group](tabl2.png)  
+![Figure: Good example - Reader access to the Developers group](/rules/do-you-have-an-azure-spend-master/tabl2.png)  
 :::
+

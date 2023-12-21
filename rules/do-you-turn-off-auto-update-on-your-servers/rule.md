@@ -39,7 +39,7 @@ So recommendations for managing updates are as follows:
 
 
 ::: good  
-![Good Example: Scheduled email showing clear action points and WSUS stats](WSUSReport.png)  
+![Good Example: Scheduled email showing clear action points and WSUS stats](/rules/do-you-turn-off-auto-update-on-your-servers/WSUSReport.png)  
 :::
 
 ###  Related Rules
@@ -47,3 +47,4 @@ So recommendations for managing updates are as follows:
 
 * [Do you enable automatic Windows Update Installations?](/do-you-disable-automatic-windows-update-installations) [for PCs]
 * [Do you use Group Policy to manage your Windows Update Policy?](/do-you-use-group-policy-to-manage-your-windows-update-policy) [for both PCs and Servers]
+

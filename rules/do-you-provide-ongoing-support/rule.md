@@ -21,7 +21,7 @@ redirects: []
 
 Just like a car, applications need servicing and tuning every now and then to stay in top condition. They might need alterations to deal with new business problems, or just tuning to increase efficiency.
 
-![Figure: What happens after the software has been delivered and the development team moves on. The next phase is maintenance](sucessful-project-and-now.jpeg)  
+![Figure: What happens after the software has been delivered and the development team moves on. The next phase is maintenance](/rules/do-you-provide-ongoing-support/sucessful-project-and-now.jpeg)  
 
 <!--endintro-->
 
@@ -42,3 +42,4 @@ Once the Sprint Review is complete, the Product Owner has half the Sprint period
 1. The warranty period pauses when the client reports a bug that stops them testing further. The warranty period resumes when a new version is sent. For example, the client may report a bug on a Wednesday morning on "Day 4" of the warranty. The bug is fixed on Friday and a new version is sent late in the afternoon. The warranty period resumes on Monday morning, at "Day 4". Therefore Wednesday through Friday was not included in the warranty.
 2. During the warranty period, all feedback from clients should be moved to backlog unless they fall into the [bug definition](/management-is-your-client-clear-on-the-definition-of-a-bug).
 3. There is no warranty on a time & materials contract.
+

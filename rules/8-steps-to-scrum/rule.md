@@ -25,7 +25,7 @@ Scrum is easier than it seems, we'll explain how in these 8 simple steps.
 
 ::: good
 
-![Figure: This Scrum image includes all the important steps from the Initial Meeting to the Sprint Review and Retro](8stepstoscrum-v5-2.jpg)
+![Figure: This Scrum image includes all the important steps from the Initial Meeting to the Sprint Review and Retro](/rules/8-steps-to-scrum/8stepstoscrum-v5-2.jpg)
 
 :::
 
@@ -74,3 +74,4 @@ At the end of the Sprint, there is a Sprint Review, where the Developers demo or
 Lastly, there is the Sprint Retrospective, and this is the best part! The Scrum Team discusses what went well, what didn't, and what to improve, always inspecting and adapting.
 
 From here, another Sprint Planning session commences, and the wheel keeps turning, getting better and better with every revolution.
+

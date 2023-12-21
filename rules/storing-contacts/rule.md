@@ -20,7 +20,7 @@ Where you choose to store your contacts will depend on the devices and accounts 
 
 Whichever one you choose, there are ways to sync you contacts across devices - for example, if you mostly use Apple devices, you should keep your contacts in iCloud. If you also use Outlook on a Windows device, you can install [iCloud for Windows](https://support.apple.com/en-au/HT204283) to sync the contacts there.
 
-![Figure: iCloud for Windows](icloud.jpg)
+![Figure: iCloud for Windows](/rules/storing-contacts/icloud.jpg)
 
 ### Keep your work contacts in your work account
 
@@ -28,8 +28,9 @@ The exception to the above is your work contacts - if you use a work email addre
 
 Client contact information should be kept where your organization can access it, so it is not lost if you ever leave the organization. Note that you should not need to save your colleagues' contact details, as they should be available in your Global Address List - in fact, if you are using Microsoft 365, you can search for a colleague in Bing and see their info there.
 
-![Figure: Colleague contact details in Bing](bingcontact.png)
+![Figure: Colleague contact details in Bing](/rules/storing-contacts/bingcontact.png)
 
 ### Keep your contacts updated and organized
 
 Once you have your contacts in one place and synced between your devices, you should make sure they are updated and organized. You can do this by deleting any duplicates or outdated contacts, adding any missing information such as names, phone numbers, email addresses, etc., and grouping or labeling your contacts by categories such as family, friends, colleagues, clients, etc. This can help you find the right contact quickly and easily when you need to communicate with them.
+

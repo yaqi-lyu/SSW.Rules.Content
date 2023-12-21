@@ -48,5 +48,6 @@ AI pair programming has so much to offer, here are the 3 key benefits:
 3. **Confidence** - Higher confidence and less wasted time when working in unfamiliar languages or areas
 
 ::: good
-![Figure: Good example - GitHub Copilot saves you oodles of time!](ThePowerOfCopilot.gif)
+![Figure: Good example - GitHub Copilot saves you oodles of time!](/rules/ai-pair-programming/ThePowerOfCopilot.gif)
 :::
+

@@ -59,5 +59,6 @@ Good example - A sample of an email that informs the client that the estimate wi
 :::
 
 
-![Figure: When communicating to clients - talk at 80% not 110%!](AI-image-for-Adam.png)
+![Figure: When communicating to clients - talk at 80% not 110%!](/rules/inform-clients-about-estimates-overrun/AI-image-for-Adam.png)
+
 

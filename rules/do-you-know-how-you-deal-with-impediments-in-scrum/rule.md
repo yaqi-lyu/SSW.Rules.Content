@@ -25,11 +25,11 @@ This exercise uses the VS2010 planning poker deck of cards & TFS
 
 Separate out these as Chance Cards
 
-![Figure: Chance cards](chance-cards.jpg)
+![Figure: Chance cards](/rules/do-you-know-how-you-deal-with-impediments-in-scrum/chance-cards.jpg)
 
 Separate out these as Point Cards
 
-![Figure: Point cards](point-cards.jpg)
+![Figure: Point cards](/rules/do-you-know-how-you-deal-with-impediments-in-scrum/point-cards.jpg)
 
 # Set Timeboxes
 
@@ -142,3 +142,4 @@ Students and PO do a standard Scrum retro for the exercise.
 ### Stakeholder Interferes - Stakeholders are contacting the Team to change priorities and requirements  
 
 * The team handles the Stakeholders
+

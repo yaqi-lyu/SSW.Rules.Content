@@ -30,17 +30,18 @@ It might be fantastic under the covers, but if the user interface is not intuiti
 Do yourself a favor, take some time to think about UI first.
 
 ::: bad  
-![Figure: Bad example - An example of a poor UI](../../assets/badui2.jpg)  
+![Figure: Bad example - An example of a poor UI](/rules/less-is-more-do-you-realize-that-when-it-comes-to-interface-design-less-is-more/badui2.jpg)  
 :::
 
 ::: bad  
-![Figure: Bad example - Functional overload (a programmer probably designed this one)](../../assets/bad-functionaloverload1.jpg)  
+![Figure: Bad example - Functional overload (a programmer probably designed this one)](/rules/less-is-more-do-you-realize-that-when-it-comes-to-interface-design-less-is-more/bad-functionaloverload1.jpg)  
 :::
 
 ::: bad  
-![Figure: Bad example - Another example of Functional overload](../../assets/bad-functionaloverload2.jpg)  
+![Figure: Bad example - Another example of Functional overload](/rules/less-is-more-do-you-realize-that-when-it-comes-to-interface-design-less-is-more/bad-functionaloverload2.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - Outlook.com (the replacement to Hotmail), streamlined functionality and minimal](OutlookCom.png)  
+![Figure: Good example - Outlook.com (the replacement to Hotmail), streamlined functionality and minimal](/rules/less-is-more-do-you-realize-that-when-it-comes-to-interface-design-less-is-more/OutlookCom.png)  
 :::
+

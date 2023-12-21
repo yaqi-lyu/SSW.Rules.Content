@@ -18,7 +18,7 @@ Understanding the concepts of Scrum is easy... implementing it is hard!
 
 <!--endintro-->
 
-![Figure: It's handy to know who the pigs and chickens are. The word "commit" and this silly chicken and pig story, were removed from the Scrum Guide 2011](ScrumChickenPig.jpg)
+![Figure: It's handy to know who the pigs and chickens are. The word "commit" and this silly chicken and pig story, were removed from the Scrum Guide 2011](/rules/scrum-guide/ScrumChickenPig.jpg)
 
 Everyone should:
 

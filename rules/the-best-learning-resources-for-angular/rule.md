@@ -21,7 +21,7 @@ guid: 43488c4e-11ba-4b7a-8882-d64a8cf9cd04
 ---
 Here are the best collection of resources for Angular.
 
-![Figure: Download the Little Book of Angular](The-Little-Book-of-Angular-v1-8.jpg)
+![Figure: Download the Little Book of Angular](/rules/the-best-learning-resources-for-angular/The-Little-Book-of-Angular-v1-8.jpg)
 
 <!--endintro-->
 
@@ -46,3 +46,4 @@ Here are the best collection of resources for Angular.
 
 * **[Angular Hack Day](https://angularhackday.com)**
 * **Your local JavaScript or Angular User Group** - [Find on Meetup](https://www.meetup.com)
+

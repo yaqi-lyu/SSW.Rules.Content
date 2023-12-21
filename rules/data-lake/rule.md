@@ -26,7 +26,7 @@ These days, [data lakes](/understanding-data-lakes) make it easy to consolidate 
 <!--endintro-->
 
 ::: img-medium
-![](datalake-infographic.png)
+![](/rules/data-lake/datalake-infographic.png)
 :::
 
 ### The Solution - A Data Lake
@@ -46,7 +46,7 @@ A data lake serves as a single source of truth for all company data, helping to 
 4. **Elimination of Data Duplication:** It enables easy sharing of datasets across the company, eliminating data duplication
 5. **Smooth Transition:** Existing Microsoft products like Azure Synapse Analytics, Azure Data Factory, and Azure Data Explorer connect seamlessly with Fabric, allowing a smooth transition
 
-![Figure: Microsoft Fabric combines all your analytics platforms into one source of truth](MicrosoftFabric.jpg)
+![Figure: Microsoft Fabric combines all your analytics platforms into one source of truth](/rules/data-lake/MicrosoftFabric.jpg)
 
 #### Microsoft Fabric and AI
 
@@ -60,3 +60,4 @@ Microsoft Fabric integrates neatly with AI, meaning you can leverage tools like 
 **Video: How Microsoft Fabric fits into AI (1 min)**
 
 In conclusion, every company should have a data lake as a single source of truth, enhanced by Microsoft Fabric. It not only solves the pain of managing data in silos but also improves efficiency, reduces costs, and leads to better, data-driven decisions.
+

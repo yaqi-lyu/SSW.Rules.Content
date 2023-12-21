@@ -17,13 +17,13 @@ guid: de9846d4-5b51-417b-afdc-946cc096243e
 
 When discussing a PBI/Issue, Pull Request, or a project in general, it is important to do it in the right place.
 
-![](Kanban-on-Screen.jpg)  
+![](/rules/discuss-the-backlog/Kanban-on-Screen.jpg)  
 
 <!--endintro-->
 
 
 ::: bad  
-![Figure: Bad Example – don't use emails to discuss tasks](bad-mention-pbi.jpg)  
+![Figure: Bad Example – don't use emails to discuss tasks](/rules/discuss-the-backlog/bad-mention-pbi.jpg)  
 :::
 
 ### For code
@@ -34,7 +34,7 @@ This should be done in the Pull Request, if possible comment directly on the lin
 
 
 ::: good  
-![Figure: You can add a comment on a specific line of code](comment on code in pull request.png)  
+![Figure: You can add a comment on a specific line of code](/rules/discuss-the-backlog/comment on code in pull request.png)  
 :::
 
 ### For a new PBI/Issue
@@ -46,7 +46,7 @@ As per[Do you know when you use @ mentions in a PBI?](/when-you-use-mentions-in-
 
 
 ::: good  
-![Figure: Good Example - When adding a GitHub issue, @ mention the Product Owner and other related people so they receive a notification e.g, an email](Create-Issue.png)  
+![Figure: Good Example - When adding a GitHub issue, @ mention the Product Owner and other related people so they receive a notification e.g, an email](/rules/discuss-the-backlog/Create-Issue.png)  
 :::
 
 ### For an existing PBI/Issue
@@ -55,7 +55,7 @@ Discuss it in the existing PBI/Issue.
 
 
 ::: good  
-![Figure: You can discuss an existing issue, even when it has been closed](existing issue discussion.png)  
+![Figure: You can discuss an existing issue, even when it has been closed](/rules/discuss-the-backlog/existing issue discussion.png)  
 :::
 
 ### For other topics (brainstorm ideas, general discussion, etc.)
@@ -70,7 +70,7 @@ You can:
 
 
 ::: good  
-![Figure: You can create discussions on your project using the Discussion tab in your GitHub repository](Discussion Tab in GitHub.png)  
+![Figure: You can create discussions on your project using the Discussion tab in your GitHub repository](/rules/discuss-the-backlog/Discussion Tab in GitHub.png)  
 :::
 
 * In the team channel in Teams
@@ -78,7 +78,8 @@ You can:
 
 
 ::: good  
-![Figure: You can discuss your idea in Teams on the team channel](Team channel.png)  
+![Figure: You can discuss your idea in Teams on the team channel](/rules/discuss-the-backlog/Team channel.png)  
 :::
 
 In summary, Email should be the last resort.
+

@@ -27,4 +27,5 @@ All UPS's come with management software or hardware that can perform these actio
 
 For example, your company might use APC UPS' and they have physical management cards (hardware), which are able to send emails. The event categories are "severe", "warning" and "informational".
 
-![Figure: Good Example - APC UPS have a physical management card with some options](UPSexample.png)
+![Figure: Good Example - APC UPS have a physical management card with some options](/rules/ups-send-email/UPSexample.png)
+

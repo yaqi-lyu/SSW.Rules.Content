@@ -51,11 +51,12 @@ For SQL Server with Docker you have a couple of choices being:
 ✅ **Cross-Platform:** These days developers in a team have different Operating Systems. The Docker engine runs on many operating systems, making it ideal for diverse development environments
 
 ::: bad
-![Figure: Bad example - Running a SQL Server environment outside a container](runningsqllocally.png)
+![Figure: Bad example - Running a SQL Server environment outside a container](/rules/containerize-sql-server/runningsqllocally.png)
 :::
 
 ::: good
-![Figure: Good example - Using Docker to containerize a SQL Server environment](dockersql.png)
+![Figure: Good example - Using Docker to containerize a SQL Server environment](/rules/containerize-sql-server/dockersql.png)
 :::
 
 Now you've done this, the next step is to [containerize the entire project](/dev-containers).
+

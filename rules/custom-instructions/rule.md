@@ -75,9 +75,9 @@ Figure: Good example - Starter custom instruction. Add and remove to your liking
 :::
 
 ::: bad
-![Figure: Bad example - No custom instructions](custom-bad.png)
+![Figure: Bad example - No custom instructions](/rules/custom-instructions/custom-bad.png)
 :::
 
 ::: good
-![Figure: Good example - Add custom instructions to save time and get better responses](custom-good.png)
+![Figure: Good example - Add custom instructions to save time and get better responses](/rules/custom-instructions/custom-good.png)
 :::

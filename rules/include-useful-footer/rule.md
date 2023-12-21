@@ -30,7 +30,7 @@ You should always include a useful and informative footer at the bottom of your 
 :::
 
 ::: good  
-![Figure: Good example - Useful and informative information should be displayed in your report footer](RSRulesGoodFooter.gif)
+![Figure: Good example - Useful and informative information should be displayed in your report footer](/rules/include-useful-footer/RSRulesGoodFooter.gif)
 :::
 
 Use these handy report expressions to show the above information.
@@ -42,7 +42,7 @@ Use these handy report expressions to show the above information.
 | Page x of y                     | ="Page " + Globals!PageNumber.ToString() + " of " + Globals!TotalPages.ToString()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Page 3 of 10                                            |
 
 ::: good  
-![Figure: Good example - Footer in visual studio designer](footerInDesigner.gif)
+![Figure: Good example - Footer in visual studio designer](/rules/include-useful-footer/footerInDesigner.gif)
 :::
 
 Tip: Copy and Paste this XML into the <PageFooter> for the recommended footer of all your *.rdl files.
@@ -73,3 +73,4 @@ A quick workaround is to add a user function to fallback the error to a nice mes
 ```
 
 Use above function to replace your reference to Report.User!UserID will allow the subscription to work correctly.
+

@@ -21,6 +21,7 @@ Let's see how to fix the issue:
 
 To avoid this problem, only one person (the "Schema Master") or the release pipeline should have permissions to upgrade the database.
 
-![Figure: The db_owner role is granted for one person only – the "Schema Master"](FullPermission.jpg)
+![Figure: The db_owner role is granted for one person only – the "Schema Master"](/rules/the-application-do-you-understand-the-danger-and-change-permissions-so-schema-changes-can-only-be-done-by-the-schema-master/FullPermission.jpg)
 
-![Figure: And here is the "Schema Master" at SSW](nick.png)
+![Figure: And here is the "Schema Master" at SSW](/rules/the-application-do-you-understand-the-danger-and-change-permissions-so-schema-changes-can-only-be-done-by-the-schema-master/nick.png)
+

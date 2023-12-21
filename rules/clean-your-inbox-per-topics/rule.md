@@ -23,5 +23,6 @@ Your inbox should be a [task list](/dones-is-your-inbox-a-task-list-only) and sh
 <!--endintro-->
 
 ::: good  
-![Figure: Good example - Search for "SugarLearning", reply 'done' to all emails and delete them](clean-inbox-by-topic-outlook-search.png)  
+![Figure: Good example - Search for "SugarLearning", reply 'done' to all emails and delete them](/rules/clean-your-inbox-per-topics/clean-inbox-by-topic-outlook-search.png)  
 :::
+

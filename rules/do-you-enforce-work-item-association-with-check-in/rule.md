@@ -25,18 +25,19 @@ One of the big advantage of using TFS is end to end traceability, however this r
 
 <!--endintro-->
 ::: bad
-![Figure: Bad Example: No work item is associated with changeset](WorkItemAss-1.jpg)
+![Figure: Bad Example: No work item is associated with changeset](/rules/do-you-enforce-work-item-association-with-check-in/WorkItemAss-1.jpg)
 :::
 
 ::: good
-![Figure: Good Example: No work item is associated with changeset  ](WorkItemAss-2.jpg)
+![Figure: Good Example: No work item is associated with changeset  ](/rules/do-you-enforce-work-item-association-with-check-in/WorkItemAss-2.jpg)
 :::
 
 **More Information**
 In order to achieve this, developers need to choose the Work Item tab when check-in and "associate" code with a related work item.
 
-![Figure: Associate Work Item with Changeset](WorkItemAss-3.jpg)
+![Figure: Associate Work Item with Changeset](/rules/do-you-enforce-work-item-association-with-check-in/WorkItemAss-3.jpg)
 
 As the project administrator, you can take one step further to enable "Work Item Check-in Policy" to enforce this rule in your team.
 
-![Figure: Always enable the “Work Items check-in policy”](WorkItemAss-4.jpg)
+![Figure: Always enable the “Work Items check-in policy”](/rules/do-you-enforce-work-item-association-with-check-in/WorkItemAss-4.jpg)
+

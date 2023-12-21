@@ -31,10 +31,11 @@ If you use the Clean Architecture template developed by SSW's @JasonTaylorDev, t
 
 
 ::: good  
-![Figure: Good Example - NSwag Studio lets you customise your nswag config](nswag-studio.png)  
+![Figure: Good Example - NSwag Studio lets you customise your nswag config](/rules/the-best-way-to-generate-your-entities-from-swagger/nswag-studio.png)  
 :::
 
 
 ::: good  
-![Figure: Good Example - @JasonTaylorDev's Clean Architecture templace comes with this built in](jt-nswag.png)  
+![Figure: Good Example - @JasonTaylorDev's Clean Architecture templace comes with this built in](/rules/the-best-way-to-generate-your-entities-from-swagger/jt-nswag.png)  
 :::
+

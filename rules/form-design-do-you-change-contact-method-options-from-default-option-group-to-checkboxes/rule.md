@@ -16,7 +16,7 @@ redirects: []
 As per our rule [Do you know when to use CheckBox?](/control-choice-do-you-know-when-to-use-checkboxes). Checkboxes should be used instead of the option group since the answer is a boolean type.
 
 ::: bad  
-![Figure: Bad Example - By default CRM uses option group for contact's and account's contact methods.](CRMContactMethods.jpg)  
+![Figure: Bad Example - By default CRM uses option group for contact's and account's contact methods.](/rules/form-design-do-you-change-contact-method-options-from-default-option-group-to-checkboxes/CRMContactMethods.jpg)  
 :::
 
 <!--endintro-->
@@ -31,16 +31,17 @@ You can change the option group to checkboxes by:
 6. Select a contact method field, i.e. Email
 7. Click "Change Properties"
                           
-![Figure: Select and change the email field's properties.](CRMChangeContactMethodsFieldProperties.jpg)            
+![Figure: Select and change the email field's properties.](/rules/form-design-do-you-change-contact-method-options-from-default-option-group-to-checkboxes//rules/form-design-do-you-change-contact-method-options-from-default-option-group-to-checkboxes/CRMChangeContactMethodsFieldProperties.jpg)            
             
 8. Click "Formatting" tab
 9. Change layout from "Two Columns" to "One Column" and select "Check box" as control formatting
             
-![Figure: Change layout and control formatting of email field to one column type and check box.](CRMChangeContactMethodsFieldProperties.jpg)  
+![Figure: Change layout and control formatting of email field to one column type and check box.](/rules/form-design-do-you-change-contact-method-options-from-default-option-group-to-checkboxes//rules/form-design-do-you-change-contact-method-options-from-default-option-group-to-checkboxes/CRMChangeContactMethodsFieldProperties.jpg)  
             
 10. Repeat steps 6-9 for other contact method
 11. Repeat steps 3-9 for account entity
 
 ::: good  
-![Figure: Good example - Checkboxes are used for contact methods because they're clear and simple.](CRMContactMethodsWithCheckboxes.jpg)  
+![Figure: Good example - Checkboxes are used for contact methods because they're clear and simple.](/rules/form-design-do-you-change-contact-method-options-from-default-option-group-to-checkboxes/CRMContactMethodsWithCheckboxes.jpg)  
 :::
+

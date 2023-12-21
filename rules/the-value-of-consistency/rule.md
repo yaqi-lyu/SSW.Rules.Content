@@ -18,7 +18,7 @@ If you need to do something more than once, then there should be a standard for 
 
 <!--endintro-->
 
-![](consitency.png)
+![](/rules/the-value-of-consistency/consitency.png)
 
 Say we are creating a windows forms application. We can expect to:
 
@@ -75,3 +75,4 @@ What you do in your model is not nearly as important as doing what you do the sa
 **Figure: 'The Barber' describes an inconsistent experience** 
 
 Standards don't need to come at the expense of creativity. Following standards means less time doing the administrative stuff and more time for the creative. Of course, standards are works in progress, and so we are always on the lookout for improvements. That's why standards should be shared with everyone.
+

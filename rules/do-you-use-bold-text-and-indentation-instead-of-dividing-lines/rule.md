@@ -32,12 +32,12 @@ We recommend using bold instead of dividing lines because:
 
 
 ::: bad  
-![Figure: Bad Example - This is the Tools - Options from Internet Explorer and it groups each section in a groupbox - busy UI.](../../assets/ToolsOptionforIE.gif)  
+![Figure: Bad Example - This is the Tools - Options from Internet Explorer and it groups each section in a groupbox - busy UI.](/rules/do-you-use-bold-text-and-indentation-instead-of-dividing-lines/ToolsOptionforIE.gif)  
 :::
 
 
 ::: bad  
-![Figure: Bad Example - This is the Tools - Options from Outlook and it uses dividing lines for each section.](../../assets/ToolsOptionforOutlook.gif)  
+![Figure: Bad Example - This is the Tools - Options from Outlook and it uses dividing lines for each section.](/rules/do-you-use-bold-text-and-indentation-instead-of-dividing-lines/ToolsOptionforOutlook.gif)  
 :::
 
 
@@ -47,5 +47,6 @@ We recommend using bold instead of dividing lines because:
 
 
 ::: good  
-![Figure: Good Example - This is the new screen from Code Auditor - the bold title and indenting are the best way to show the sections.](../../assets/GoodDivider.jpg)  
+![Figure: Good Example - This is the new screen from Code Auditor - the bold title and indenting are the best way to show the sections.](/rules/do-you-use-bold-text-and-indentation-instead-of-dividing-lines/GoodDivider.jpg)  
 :::
+

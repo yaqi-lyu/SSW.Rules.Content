@@ -32,14 +32,15 @@ It is a simple 4 step process:
 2. Make sure you get [Terms and Conditions](http://www.ssw.com.au/ssw/standards/forms/ConsultingOrderTermsConditions.aspx) signed before you start work on this.
 3. **Specification Review** - You will create a backlog of tasks, and some form of document (word or ppt) to present to the client explaining your proposed approach.
 
-![](ms-ppt-word-logos.jpg)  
+![](/rules/do-you-ensure-an-excellent-1st-date-aka-winning-customers-via-a-smaller-specification-review/ms-ppt-word-logos.jpg)  
 
 4. Present the Spec Review results to the client (in a meeting with all stakeholders) on site if possible, or over the phone if not, but never just by email.
 
 ::: good  
-![Figure: Good Example - The backlog is constructed during the Spec Review](ProductBacklog.jpg)  
+![Figure: Good Example - The backlog is constructed during the Spec Review](/rules/do-you-ensure-an-excellent-1st-date-aka-winning-customers-via-a-smaller-specification-review/ProductBacklog.jpg)  
 :::
 
 ::: good  
-![Figure: Good Example - CRM Record showing the sales stage of the Opportunity after the Spec Review has been booked](CRMOpportunitySalesStage.jpg)  
+![Figure: Good Example - CRM Record showing the sales stage of the Opportunity after the Spec Review has been booked](/rules/do-you-ensure-an-excellent-1st-date-aka-winning-customers-via-a-smaller-specification-review/CRMOpportunitySalesStage.jpg)  
 :::
+

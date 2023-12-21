@@ -25,7 +25,7 @@ A Data Warehouse is a centralized repository of data that is used for analysis a
 <!--endintro-->
 
 ::: img-medium
-![](datawarehouse.jpg)
+![](/rules/do-you-use-a-data-warehouse/datawarehouse.jpg)
 :::
 
 Data Warehouses act as a central repository that consolidate vast amounts of data from transactional systems, operational databases, external sources, and more. This consolidated data is then transformed and optimized for efficient reporting, analytics, and business intelligence purposes.
@@ -99,3 +99,4 @@ After defining business goals and assessing data, the next step is to develop a 
 * (On prem) [SQL Server Analysis Services](https://learn.microsoft.com/en-us/analysis-services/ssas-overview?view=asallproducts-allversions)
 
 Remember, the decision to use a Data Warehouse should be based on the specific needs and requirements of your organization. Consider factors such as data volume, complexity, analytical needs, and long-term data retention before opting for a Data Warehouse solution.
+

@@ -32,7 +32,7 @@ Your slides should illustrate your point. They should not describe your point.
 The slides are not there to convey all the information you plan to present, they are there to support the information you plan to present.
 
 ::: bad
-![Figure: Bad example - Sentences on slides mean the audience isn't listening](my-day-bad.png)
+![Figure: Bad example - Sentences on slides mean the audience isn't listening](/rules/no-text-slides/my-day-bad.png)
 :::
 
 Now let's look at some strategies to make this information more digestible.
@@ -45,7 +45,7 @@ PowerPoint has a built in designer that can help you make your slides look bette
 It suggests alternative layouts and even icons to make points more illustrative.
 
 ::: good
-![Figure: Good example - Use the designer to make slides more interesting](design-ideas-ppt.gif)
+![Figure: Good example - Use the designer to make slides more interesting](/rules/no-text-slides/design-ideas-ppt.gif)
 :::
 
 See the docs for more info on the designer
@@ -58,11 +58,11 @@ It allows you to easily try different visuals to display your information.
 It even has a built-in icon library to make your content more beautiful.
 
 ::: bad
-![Figure: Bad example - Bullet points make the intent unclear](ugly-timeline.png)
+![Figure: Bad example - Bullet points make the intent unclear](/rules/no-text-slides/ugly-timeline.png)
 :::
 
 ::: good
-![Figure: Good example - SmartArt easily converts bullets into a timeline](cool-timeline.png)
+![Figure: Good example - SmartArt easily converts bullets into a timeline](/rules/no-text-slides/cool-timeline.png)
 :::
 
 #### Using animations
@@ -72,5 +72,6 @@ You can use animations to enhance your messaging, for example, reveal points one
 Animations help avoid a wall of text.
 
 ::: good
-![Figure: Good example - Animations](animations-pros-cons.gif)
+![Figure: Good example - Animations](/rules/no-text-slides/animations-pros-cons.gif)
 :::
+

@@ -21,10 +21,11 @@ Bitly helps you easily save & share links over the web. You can:
 
 <!--endintro-->
 
-![Figure: bit.ly provides a detailed stats page for all your links](bitly-stats-general.jpg)  
+![Figure: bit.ly provides a detailed stats page for all your links](/rules/do-you-use-bit-ly-to-manage-your-url-shortening/bitly-stats-general.jpg)  
 
-![Figure: bit.ly provides a detailed stats page for a single link](bitly-stats.jpg)
+![Figure: bit.ly provides a detailed stats page for a single link](/rules/do-you-use-bit-ly-to-manage-your-url-shortening/bitly-stats.jpg)
 
 ::: info
 **Tip:** Use a single general bit.ly account for **all** shortening in your company/department, so you can easily report on which links are getting the most clicks.
 :::
+

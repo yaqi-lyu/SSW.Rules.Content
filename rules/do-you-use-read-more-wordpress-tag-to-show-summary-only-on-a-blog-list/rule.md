@@ -31,7 +31,7 @@ Figure: Bad example - changing source PHP files is complicated and require devel
 :::
 
 ::: good  
-![Figure: Good example - click on the "Read More" tag on the post visual editor](readmore-tag.png)  
+![Figure: Good example - click on the "Read More" tag on the post visual editor](/rules/do-you-use-read-more-wordpress-tag-to-show-summary-only-on-a-blog-list/readmore-tag.png)  
 :::
 
 **Note:** This is out-of-the-box with WordPress. You won't need a plugin.
@@ -50,7 +50,8 @@ To customize the message, simply add a space after  **&lt;!--more** and insert t
 Many WordPress themes will have an option to not show the full blog content on the homepage. E.g. in Avada (one of the most popular themes) it has this:
 
 ::: good  
-![Figure: Many WordPress themes make it easier for you](excerpt.png)  
+![Figure: Many WordPress themes make it easier for you](/rules/do-you-use-read-more-wordpress-tag-to-show-summary-only-on-a-blog-list/excerpt.png)  
 :::
 
 Always check theme options before going back through posts to add in the Read More tags manually.
+

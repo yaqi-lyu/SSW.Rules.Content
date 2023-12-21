@@ -26,7 +26,7 @@ So to ensure the migration process did not miss any items, ensure nobody modifie
 
 1. Navigate to "Site Settings" | "Audit log reports" which will take you there:  
 
-![Figure: check nobody was modifying the intranet during the long migration](no-intranet-modifications.jpg)  
+![Figure: check nobody was modifying the intranet during the long migration](/rules/check-the-audit-log-for-modification/no-intranet-modifications.jpg)  
 
 2. Click "Content Modifications"
 3. Order the generated Excel data by modification date ("Occurred" ) and look for modifications done by users.
@@ -61,8 +61,9 @@ Regards,
 
 After you export to Excel, follow this example:
 
-![Figure: Modifications are done on the old SharePoint intranet during the migration process (hence not migrated to the cloud)](old-sharepoint-modification.jpg)  
+![Figure: Modifications are done on the old SharePoint intranet during the migration process (hence not migrated to the cloud)](/rules/check-the-audit-log-for-modification/old-sharepoint-modification.jpg)  
 
 - **Green:** non-important data (automated logging info) - ignore
 - **Orange:** potentially important data (user made changes) – ask the user
 - **Red:**  critical data (invoices !) – Migrate these documents
+

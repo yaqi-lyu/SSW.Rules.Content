@@ -19,9 +19,9 @@ By placing a little visual cue on your slide, you can remind yourself to show a 
 The icon allows you to skip it when running short on time, without upsetting the audience.
 
 ::: bad
-![Figure: Bad example - Demo text shown in a slide](demobad.jpg)
+![Figure: Bad example - Demo text shown in a slide](/rules/do-you-know-the-right-way-to-do-a-demo-slide/demobad.jpg)
 :::
 
 ::: good
-![Figure: Good example - Use a subtle icon to indicate a "demo time"](demogood.jpg)
+![Figure: Good example - Use a subtle icon to indicate a "demo time"](/rules/do-you-know-the-right-way-to-do-a-demo-slide/demogood.jpg)
 :::

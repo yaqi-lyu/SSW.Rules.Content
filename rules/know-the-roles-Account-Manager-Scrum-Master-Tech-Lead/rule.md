@@ -22,7 +22,7 @@ Medium to large software development projects have people on them with varying r
 
 Scrum already covers the roles of the **[Developers](https://www.youtube.com/watch?v=vLqCkj0PvtE)**, the **[Product Owner](/do-you-know-the-how-to-be-a-good-product-owner)**, and the **[Scrum Master](/the-team-do-you-help-your-scrum-master-not-scrummaster-protect-and-serve-the-team)**, but from a consultancy’s side, there’s also the **Tech Lead** and the **Account Manager** to consider.
 
-![Figure: 5 roles in a Tech Project](roles-in-bricks-squared.png)
+![Figure: 5 roles in a Tech Project](/rules/know-the-roles-Account-Manager-Scrum-Master-Tech-Lead/roles-in-bricks-squared.png)
 
 <!--endintro-->
 
@@ -49,7 +49,7 @@ Scrum already covers the roles of the **[Developers](https://www.youtube.com/wat
 * Keeps on top of the budget and timelines
 
 ::: good
-![Figure: Don't forget! You can use reports to identify projects that are being worked on without Tech Leads](tech-lead-report.png)
+![Figure: Don't forget! You can use reports to identify projects that are being worked on without Tech Leads](/rules/know-the-roles-Account-Manager-Scrum-Master-Tech-Lead/tech-lead-report.png)
 :::
 
 ::: email-template
@@ -74,3 +74,4 @@ As you can see, you are the Tech Lead for {{Client Name}}.
 ::: good
 Figure: Good Example - copy this as email template and send to the Tech Lead so they know what is involved
 :::
+

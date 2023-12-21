@@ -26,5 +26,6 @@ You will need to have 2 things:
 2. A function to change the number of seconds lapsed to words - see the "1 minute, 9 seconds" in the above messagebox - this requires a `SecondsToWords()` function shown
 
 ::: good  
-![Figure: Good example - Code Auditor message warning this is a long process](lengthyoperation.jpg)  
+![Figure: Good example - Code Auditor message warning this is a long process](/rules/warn-users-before-starting-a-long-process/lengthyoperation.jpg)  
 :::
+

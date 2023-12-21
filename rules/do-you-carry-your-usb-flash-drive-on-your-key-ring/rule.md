@@ -18,4 +18,5 @@ Always carry your USB drive with you - in your pocket, on your key chain or even
 
 <!--endintro-->
 
-![Figure: USB drives are a very convenient way to transfer medium to large files](USB.jpg)
+![Figure: USB drives are a very convenient way to transfer medium to large files](/rules/do-you-carry-your-usb-flash-drive-on-your-key-ring/USB.jpg)
+

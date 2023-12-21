@@ -29,13 +29,13 @@ Outlook makes this easy:
 * Option 3: Use the ribbon as below
 
 
-![Figure: Open the appointment in your Calendar (You should already have Invited all the required people to attend)](Outlook 1.png)  
+![Figure: Open the appointment in your Calendar (You should already have Invited all the required people to attend)](/rules/how-to-reply-all-to-an-appointment/Outlook 1.png)  
 
-![Figure: Click on "Contact Attendees" | "Reply to All with Email" if you created the appointment, or "Respond" | "Reply All" if you were invited](Outlook 2.png)  
+![Figure: Click on "Contact Attendees" | "Reply to All with Email" if you created the appointment, or "Respond" | "Reply All" if you were invited](/rules/how-to-reply-all-to-an-appointment/Outlook 2.png)  
 
 
 ::: good  
-![Figure: Good example – This friendly reminder has the right history (the appointment)](Outlook 3.png)  
+![Figure: Good example – This friendly reminder has the right history (the appointment)](/rules/how-to-reply-all-to-an-appointment/Outlook 3.png)  
 :::
 
 Reasons you might want to "Reply All" to an Appointment include:
@@ -43,3 +43,4 @@ Reasons you might want to "Reply All" to an Appointment include:
 1. Continuing the conversation after a meeting
 2. Reminding someone about an upcoming meeting (especially if you know they have unwieldy calendars)
 3. Getting more information before a meeting
+

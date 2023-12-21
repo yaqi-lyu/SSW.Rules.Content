@@ -17,10 +17,11 @@ Your site visitors should never see  **Untitled Page** on     their browser. Whe
 
 
 ::: bad  
-![Figure: Bad example - A page with the default title](../../assets/BadTitle.jpg)  
+![Figure: Bad example - A page with the default title](/rules/do-you-remember-to-change-the-default-title-of-a-newly-created-page/BadTitle.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example - A page with a good title](../../assets/GoodTitle.jpg)  
+![Figure: Good example - A page with a good title](/rules/do-you-remember-to-change-the-default-title-of-a-newly-created-page/GoodTitle.jpg)  
 :::
+

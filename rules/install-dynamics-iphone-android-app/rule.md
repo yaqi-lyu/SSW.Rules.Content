@@ -18,4 +18,5 @@ You should have Dynamics 365 installed on your phone.
 
 <!--endintro-->
 
-![](dynamics365-app.png)
+![](/rules/install-dynamics-iphone-android-app/dynamics365-app.png)
+

@@ -33,7 +33,7 @@ As a general rule, we wait 4 weeks before installing a new Service Pack, and tel
 
 
 
-![](holdyourhorses.jpg)
+![](/rules/do-you-wait-before-applying-service-packs-or-upgrades/holdyourhorses.jpg)
 
 
  **Figure 1 - Even though managers and users might be pressing you to install a Service Pack - tell them to hold their horses!** 
@@ -55,3 +55,4 @@ After the 4 week period has expired perform the following tasks before installin
 
 
 Following this rule should prevent disaster in the event that a Service Pack is troublesome.
+

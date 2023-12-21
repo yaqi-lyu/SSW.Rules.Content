@@ -47,10 +47,11 @@ This is bad code because we removed one coupling but added another one (the cont
 Figure: Good example - code showing using dependency injection. No static dependencies. 
 Even better, use Annotate so you can enlighten the developer.
 
-![bad.png](Code against interfaces - bad.png)
+![bad.png](/rules/do-you-know-the-common-design-patterns-part-2-example/Code against interfaces - bad.png)
 **Figure: Bad Example - Referencing the concrete EF context**
 
-![](Code against interfaces - good.png)
+![](/rules/do-you-know-the-common-design-patterns-part-2-example/Code against interfaces - good.png)
 **Figure: Good Example - Programming against the interface**
 
 It is important to know when the use of a pattern is appropriate.  Patterns can be useful, but they can also be harmful if used incorrectly.
+

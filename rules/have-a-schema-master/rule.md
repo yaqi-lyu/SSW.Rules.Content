@@ -20,11 +20,11 @@ When developing an application, all members can code. However schema changes bei
 
 To avoid this problem, only one person (the "Schema Master") or the release pipeline should have permissions to upgrade the database.
 
-![Figure: The db_owner role is granted for one person only – the "Schema Master"](fullpermission.jpg)
+![Figure: The db_owner role is granted for one person only – the "Schema Master"](/rules/have-a-schema-master/fullpermission.jpg)
 
 Who is the "Schema Master"? What do they do?   
 
-![Figure: One person should be the 'Schema Master', on an average sized project (of 5-10 devs)](Nick.png)
+![Figure: One person should be the 'Schema Master', on an average sized project (of 5-10 devs)](/rules/have-a-schema-master/Nick.png)
 
 If your project has a database, you need to select a "Schema Master". This is the one person who should review all modifications to the database. These include:
 
@@ -33,6 +33,6 @@ If your project has a database, you need to select a "Schema Master". This is th
 * Modify [Controlled Lookup Data](/do-you-deploy-controlled-lookup-data)
 
 The "Schema Master" in a development shop is often the lead programmer on the team. They are in charge of all database changes and scripts. Team members should still feel free to make changes, just get them double checked by the Schema Master.
-![Figure: The Applications Database stores version info in a table called _zsVersion](zsVersionTable.png)  
+![Figure: The Applications Database stores version info in a table called _zsVersion](/rules/have-a-schema-master/zsVersionTable.png)  
 
-![Figure: Only a "Schema Master" checks in the .sql files](SQLScriptInTFS.png)
+![Figure: Only a "Schema Master" checks in the .sql files](/rules/have-a-schema-master/SQLScriptInTFS.png)

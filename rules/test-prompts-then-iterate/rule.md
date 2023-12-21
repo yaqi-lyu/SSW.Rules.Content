@@ -33,8 +33,8 @@ Figure: Bad example - You might start with a prompt like this, get sub-optimal o
 Figure: Good example - The prompt has been iterated to be more specific and clear
 :::
 
-![Figure: Click this button to edit any prompt you've already submitted](edit-prompt.png)
+![Figure: Click this button to edit any prompt you've already submitted](/rules/test-prompts-then-iterate/edit-prompt.png)
 
-![Figure: You can still go back to look at previous versions of the prompt and response](post-edit-prompt.png)
+![Figure: You can still go back to look at previous versions of the prompt and response](post-/rules/test-prompts-then-iterate/edit-prompt.png)
 
 By testing and iterating on your prompts, you can improve the quality of ChatGPT's responses and ensure that you receive the information or assistance you're seeking.

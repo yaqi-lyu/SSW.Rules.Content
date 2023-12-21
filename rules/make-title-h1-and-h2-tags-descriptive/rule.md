@@ -22,14 +22,15 @@ The  **&lt;title&gt;** ,  **&lt;h1&gt;** , and  **&lt;h2&gt;** tags need to be d
 
 
 ::: bad  
-![Figure: Bad Example - non-descriptive title/headings](bad-title-headings.png)  
+![Figure: Bad Example - non-descriptive title/headings](/rules/make-title-h1-and-h2-tags-descriptive/bad-title-headings.png)  
 :::
 
 
 ::: good  
-![Figure: Good Example - descriptive title/headings](good-title-headings.png)  
+![Figure: Good Example - descriptive title/headings](/rules/make-title-h1-and-h2-tags-descriptive/good-title-headings.png)  
 :::
 
 We have a program called     [SSW Code Auditor](http://codeauditor.com/) to check for this rule.
 
 We have a program called     [SSW Link Auditor](https://sswlinkauditor.com/) to check for this rule.
+

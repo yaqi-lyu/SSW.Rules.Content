@@ -21,9 +21,10 @@ When messaging someone, it's often tempting to send a big block of text, instead
 When you separate your messages, the people you are messaging will be able to respond or interact with each message separately!
 
 ::: bad
-![Figure: Bad example - This message contains many different subjects! It's informative, but hard to respond to.](./separate-messages-bad.png)
+![Figure: Bad example - This message contains many different subjects! It's informative, but hard to respond to.](/rules/separate-messages/separate-messages-bad.png)
 :::
 
 ::: good
-![Figure: Good example - Here, each message is separate, making them individually available for responses.](./separate-messages-good.png)
+![Figure: Good example - Here, each message is separate, making them individually available for responses.](/rules/separate-messages/separate-messages-good.png)
 :::
+

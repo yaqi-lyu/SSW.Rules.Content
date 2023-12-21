@@ -29,10 +29,10 @@ We are now seeing biometric security using facial recognition, fingerprints, or 
 Nearly any service you use now will support MFA, either through an authenticator app, SMS, call or even email if you have no other option. **Ensure that it is enabled for everything you use.**
 
 ::: ok
-![Figure: OK example - SMS is less secure than other methods](mfa-sms.png)
+![Figure: OK example - SMS is less secure than other methods](/rules/using-mfa/mfa-sms.png)
 :::
 
-![Figure: Microsoft's Authenticator app in action](microsoft-authenticator-steps.gif)
+![Figure: Microsoft's Authenticator app in action](/rules/using-mfa/microsoft-authenticator-steps.gif)
 
 ### P﻿asswordless sign-in
 
@@ -46,7 +46,7 @@ Now that it is enabled, you will need to change your default - next time you nee
 1. Instead of typing your password, select **Use an app instead** or **Other ways to sign in**
 2. Select **Approve a request on my Microsoft Authenticator app**
 
-![Figure: MFA sign-in | Use an app instead](azure-mfa-useapp.png)
+![Figure: MFA sign-in | Use an app instead](/rules/using-mfa/azure-mfa-useapp.png)
 
 :::greybox
 **Note:** The above option "Use an app instead" takes some time to reflect on your login prompt after you have made changes in your Authenticator App.
@@ -55,7 +55,7 @@ Now that it is enabled, you will need to change your default - next time you nee
 S﻿ee [detailed instructions from Microsoft](https://support.microsoft.com/en-us/account-billing/sign-in-to-your-accounts-using-the-microsoft-authenticator-app-582bdc07-4566-4c97-a7aa-56058122714c).
 
 ::: good
-![Figure: Good example - Microsoft Authenticator app with Passwordless sign-in (recommended)](authenticator-app.gif)
+![Figure: Good example - Microsoft Authenticator app with Passwordless sign-in (recommended)](/rules/using-mfa/authenticator-app.gif)
 :::
 
 ### Use 2FA in Keeper
@@ -65,5 +65,6 @@ S﻿ee [detailed instructions from Microsoft](https://support.microsoft.com/en-u
 Keeper works as a password entry authenticator with support for Google Authenticator, Microsoft Authenticator, and other Authenticator apps. To set up this integration, go to your password entry and click the Add Two-Factor Code button under the Custom Fields and File or Photo options. You can then upload a QR code or manually set up a connection to your account to authenticate via a time-based one-time password app. 
 
 ::: good
-![Figure: Good example - Google authenticator 2FA enabled and saved in Keeper](2022-11-21_10-30-59.jpg)
+![Figure: Good example - Google authenticator 2FA enabled and saved in Keeper](/rules/using-mfa/2022-11-21_10-30-59.jpg)
 :::
+

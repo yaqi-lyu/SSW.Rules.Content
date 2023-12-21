@@ -23,12 +23,13 @@ If someone gives you feedback and you think it is worth incorporating into the c
 
 
 ::: bad  
-![Figure: Bad example, a static blog post. Does not look like it has been updated.](RulesBloggingAcknowledgeBad.jpg)  
+![Figure: Bad example, a static blog post. Does not look like it has been updated.](/rules/acknowledge-who-give-feedback/RulesBloggingAcknowledgeBad.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example, dated and attributed updates give your posts credibility and make them seam alive.](RulesBloggingAcknowledgeGood.jpg)  
+![Figure: Good example, dated and attributed updates give your posts credibility and make them seam alive.](/rules/acknowledge-who-give-feedback/RulesBloggingAcknowledgeGood.jpg)  
 :::
 
 Make sure that the follow-up and aggregate Twitter and Facebook users as well. Make all your readers feel included and you will create loyalty within your readership.
+

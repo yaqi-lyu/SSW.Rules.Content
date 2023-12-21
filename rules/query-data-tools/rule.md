@@ -66,27 +66,28 @@ These days, it has been replaced by several other tools:
 
 ::: bad
 
-![Figure: Bad Example - SQL Server Enterprise Manager is old and outdated](enterprise_manager.png)
+![Figure: Bad Example - SQL Server Enterprise Manager is old and outdated](/rules/query-data-tools/enterprise_manager.png)
 
 :::
 
 ::: good
 
-![Figure: Good Example - SSMS is feature rich](ssms.png)
-
-
-:::
-
-::: good
-
-![Figure: Good Example - Azure Data Studio is lightweight and cross-platform](azuredatastudio.png)
+![Figure: Good Example - SSMS is feature rich](/rules/query-data-tools/ssms.png)
 
 
 :::
 
 ::: good
 
-![Figure: Good Example - The VS Code MSSQL extension is embedded right in VS Code](vscodemssqlextension.png)
+![Figure: Good Example - Azure Data Studio is lightweight and cross-platform](/rules/query-data-tools/azuredatastudio.png)
 
 
 :::
+
+::: good
+
+![Figure: Good Example - The VS Code MSSQL extension is embedded right in VS Code](/rules/query-data-tools/vscodemssqlextension.png)
+
+
+:::
+

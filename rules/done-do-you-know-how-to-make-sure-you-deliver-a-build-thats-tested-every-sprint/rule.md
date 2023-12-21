@@ -22,14 +22,14 @@ What happens when you leave all the testing to the end of the Sprint? You find t
 
 <!--endintro-->
 
-![](RuleBuildEverySprintBad.png) 
+![](/rules/done-do-you-know-how-to-make-sure-you-deliver-a-build-thats-tested-every-sprint/RuleBuildEverySprintBad.png) 
 
 ::: bad
  **Figure: Bad example - if you don’t complete all the tasks the customer will not receive a build in the Sprint** 
 :::
 One way to mitigate this is to aim for a “ ***test please*** ” to occur a few days before the end of the  **Sprint** but you still run the risk of not having enough time to make sure everything is  ***done.*** 
 
-![](RuleBuildEverySprintOK.png)
+![](/rules/done-do-you-know-how-to-make-sure-you-deliver-a-build-thats-tested-every-sprint/RuleBuildEverySprintOK.png)
 
 
 ::: good
@@ -40,7 +40,7 @@ It is preferable to conduct a  **Smoke Test** to make sure that you are comforta
 
 In this scenario the “ **test please** ” with the customer happens outside of the current Sprint. 
 
-![](RuleBuildEverySprintGOOD.png)
+![](/rules/done-do-you-know-how-to-make-sure-you-deliver-a-build-thats-tested-every-sprint/RuleBuildEverySprintGOOD.png)
 
 
 ::: good
@@ -51,5 +51,6 @@ If you are doing  **Scrum** then you should have a  **User Story** fleshed out w
 
 Any changes found during  **the Sprint Review** get added to the  **Product Backlog** to be prioritised by the  **Product Owner** . 
 
-![](RuleBuildEverySprintUltimate.png)
+![](/rules/done-do-you-know-how-to-make-sure-you-deliver-a-build-thats-tested-every-sprint/RuleBuildEverySprintUltimate.png)
 **Figure: Ultimate example – Create a Test (could be Coded UI) for each of the Acceptance Criteria agreed with the Product Owner**
+

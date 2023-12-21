@@ -35,13 +35,14 @@ Hold their hand by promoting up to four elements which can be:
 * Another channel
 * A link to an approved website
 
-![Figure: To add an end screen, go to VIDEO MANAGER | Videos | (select your video) | End screens and Annotations | Add element](end screen.png)
+![Figure: To add an end screen, go to VIDEO MANAGER | Videos | (select your video) | End screens and Annotations | Add element](/rules/do-you-add-end-screen-to-your-youtube-videos/end screen.png)
 
 Keep in mind that end screens must include at least one video or playlist element (i.e. you can’t just display a subscribe button on its own).
 Your end screen shouldn’t overlap actual video content so you should leave up to 20 seconds for this to fit into at the end of your video (note that 20 seconds is the maximum duration of an end screen). This should just show background content such as an image, plain screen, or some unobtrusive background video content.
 
 ::: good
-![Good example: An example of an end screen featuring a Subscribe button (the SSW logo) and a playlist (which the video is from)](end screen example.png)
+![Good example: An example of an end screen featuring a Subscribe button (the SSW logo) and a playlist (which the video is from)](/rules/do-you-add-end-screen-to-your-youtube-videos/end screen example.png)
 :::
 
 You can see a demo at the end of our [LINQPad: Insights from its creator Joseph Albahari (2017 NDC Sydney)](https://www.youtube.com/watch?v=4Hpl4Gq-yNE) video (from 6:39).
+

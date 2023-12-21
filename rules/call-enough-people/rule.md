@@ -18,4 +18,4 @@ All sales are a numbers game. Outbound calling is a game of attitude and numbers
 
 So, when you're starting your outbound calls, you need to swallow that lump in your throat and fire away. Along the way, you'll feel disheartened and rejected, but sooner or later it will start to click. As you become more confident, you become a better telemarketer.
 
-![](car-sales-meme.jpg)
+![](/rules/call-enough-people/car-sales-meme.jpg)

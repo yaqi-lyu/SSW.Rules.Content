@@ -27,10 +27,11 @@ Exception: Only use them in the following scenarios:
 
 
 ::: bad  
-![Figure: Bad example - could the information in this message box be moved into the panel on the right](../../assets/MoveErrorMSG.jpg)  
+![Figure: Bad example - could the information in this message box be moved into the panel on the right](/rules/messages-do-you-avoid-message-boxes-at-all-costs/MoveErrorMSG.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example - An error message that does not pop up and block your user](../../assets/oneplacemailerror.png)  
+![Figure: Good example - An error message that does not pop up and block your user](/rules/messages-do-you-avoid-message-boxes-at-all-costs/oneplacemailerror.png)  
 :::
+

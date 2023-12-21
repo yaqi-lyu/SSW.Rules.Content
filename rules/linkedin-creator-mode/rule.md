@@ -28,11 +28,11 @@ You can turn on creator mode to get access to [additional tools and features](ht
 For example, you can add topics you post the most about in the form of hashtags so users can find your profile when they are searching for a topic they want to learn more about.
 
 ::: bad
-![Figure: Bad example - no hashtags](Picture1.png)
+![Figure: Bad example - no hashtags](/rules/linkedin-creator-mode/Picture1.png)
 :::
 
 ::: good
-![Figure: Good example - profile with hashtags](Gert.png)
+![Figure: Good example - profile with hashtags](/rules/linkedin-creator-mode/Gert.png)
 :::
 
 #### **How to turn on creator mode**
@@ -40,15 +40,16 @@ For example, you can add topics you post the most about in the form of hashtags 
 1. Go to your LinkedIn profile
 2. Scroll down and click 'Creator mode'
 
-![Figure: Where to find 'creator mode' on LinkedIn](Picture222.png)
+![Figure: Where to find 'creator mode' on LinkedIn](/rules/linkedin-creator-mode/Picture222.png)
 
 3. Include relevant hashtags
 4. Click 'turn on'
 
 ::: good
-![Figure: Good example - Hashtags to include on Creator mode](Picture3.png)
+![Figure: Good example - Hashtags to include on Creator mode](/rules/linkedin-creator-mode/Picture3.png)
 :::
 
 ::: good
-![Figure: Good example - Profile with Creator mode enabled](Picture4.png)
+![Figure: Good example - Profile with Creator mode enabled](/rules/linkedin-creator-mode/Picture4.png)
 :::
+

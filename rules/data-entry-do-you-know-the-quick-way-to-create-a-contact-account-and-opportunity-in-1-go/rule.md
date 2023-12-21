@@ -26,11 +26,11 @@ The process is:
 2. Convert it into an Opportunity, Contact and Account using the Qualify button.
 
 
-![Figure: Create a Lead, then become familiar with the time saving "Qualify" button](CRM\_ConvertLead.jpg)  
+![Figure: Create a Lead, then become familiar with the time saving "Qualify" button](/rules/data-entry-do-you-know-the-quick-way-to-create-a-contact-account-and-opportunity-in-1-go/CRM_ConvertLead.jpg)  
 
 Clicking on the "Qualify" button allows the automatic generation of Accounts, Contacts and Opportunities, and also allows you to check for potential duplicates being created.
 
-![Figure: CRM 2013 also checks for existing records before creating new ones](CRM\_ConvertLeadDialg.jpg)  
+![Figure: CRM 2013 also checks for existing records before creating new ones](/rules/data-entry-do-you-know-the-quick-way-to-create-a-contact-account-and-opportunity-in-1-go/CRM_ConvertLeadDialg.jpg)  
 
 This will:
 
@@ -44,3 +44,4 @@ This will:
 
 
 Note: You have just learned that a lead is a transitory thing. There is, however, one other case where you might want to use leads: [Do you know the one case where you use a CRM lead?](/do-you-know-the-one-case-where-you-use-a-crm-lead)
+

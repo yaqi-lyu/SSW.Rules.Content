@@ -22,9 +22,10 @@ When using [Snagit](http://www.techsmith.com/snagit.html) to show actions on a s
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example – There is no visual difference between different actions](snagit-actions-bad.jpg)  
+![Figure: Bad example – There is no visual difference between different actions](/rules/screenshots-do-you-know-how-to-show-wanted-actions/snagit-actions-bad.jpg)  
 :::
 
 ::: good  
-![Figure: Good example – This screenshot tells that the user should be on the "Message" tab, click on "Attach File" and edit the subject to be "Button types"](snagit-actions-good.jpg)  
+![Figure: Good example – This screenshot tells that the user should be on the "Message" tab, click on "Attach File" and edit the subject to be "Button types"](/rules/screenshots-do-you-know-how-to-show-wanted-actions/snagit-actions-good.jpg)  
 :::
+

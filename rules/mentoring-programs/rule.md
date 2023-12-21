@@ -75,7 +75,7 @@ Once a pairing has been established, the mentor is responsible for scheduling a 
 
 As a mentee, add what you are learning to your Teams Status. Mentors - you can do the same, let people know what you're mentoring.
 
-![Figure: Let your colleagues know what knowledge you are sharing and learning... subtly 🙂](mentoring-teams-status.png)
+![Figure: Let your colleagues know what knowledge you are sharing and learning... subtly 🙂](/rules/mentoring-programs/mentoring-teams-status.png)
 
 ### Initial Meeting
 
@@ -103,4 +103,5 @@ It is motivating to know that you will be checking-in with your mentor regularly
 
 It's nice to be thankful, so add this new skill to your GitHub profile, make a social media post or even add it to your LinkedIn. Remember to give your mentor an @mention.
 
-![Figure: Tell people subtly that you are into mentoring. E.g. 👨‍🎓 Exploration: I'm exploring leadership with @adamcogan](screen-shot-2021-09-23-at-3.53.35-pm.png)
+![Figure: Tell people subtly that you are into mentoring. E.g. 👨‍🎓 Exploration: I'm exploring leadership with @adamcogan](/rules/mentoring-programs/screen-shot-2021-09-23-at-3.53.35-pm.png)
+

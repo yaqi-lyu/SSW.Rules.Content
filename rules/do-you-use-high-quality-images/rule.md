@@ -24,9 +24,10 @@ For this reason, we encourage you to choose only high quality photos and to avoi
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - Low quality image](low-quality.jpg)  
+![Figure: Bad example - Low quality image](/rules/do-you-use-high-quality-images/low-quality.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - High quality image](high-quality.jpg)  
+![Figure: Good example - High quality image](/rules/do-you-use-high-quality-images/high-quality.jpg)  
 :::
+

@@ -61,5 +61,6 @@ Figure: Bad example - The user encounters an issue and has to email someone abou
 :::
 
 ::: good  
-![Figure: Good example - The 'Wiki...' link in the bottom left, takes the user to a wiki page with common issues and workarounds for this form (e.g. Creating a Project Portal)](../../assets/InterfacesWiki.png)  
+![Figure: Good example - The 'Wiki...' link in the bottom left, takes the user to a wiki page with common issues and workarounds for this form (e.g. Creating a Project Portal)](/rules/help-do-you-have-a-wiki-for-each-page-or-form/InterfacesWiki.png)  
 :::
+

@@ -27,9 +27,9 @@ So that **\[some reason]**
 
 <!--endintro-->
 
-![Figure: Example User Story in an Azure DevOps PBI](user-story-azuredevops.png)
+![Figure: Example User Story in an Azure DevOps PBI](/rules/spec-do-you-use-user-stories/user-story-azuredevops.png)
 
-![Figure: Example User Story in a GitHub Issue](userstory-github.png)
+![Figure: Example User Story in a GitHub Issue](/rules/spec-do-you-use-user-stories/userstory-github.png)
 
 ::: greybox
 I want to be able to search for customers.

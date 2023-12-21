@@ -26,5 +26,6 @@ Animating the items on your Summary slide ensures they are listening to you, not
 
 
 ::: good  
-![Good Example: Animate the points on your Summary slide](summary-animation.gif)  
+![Good Example: Animate the points on your Summary slide](/rules/animate-your-summary-slide/summary-animation.gif)  
 :::
+

@@ -32,14 +32,14 @@ Follow these steps to start recording using Camtasia:
 
 If your screen resolution is too low then it will be difficult for people to follow the video, and you may need to record it again.
 
-![Figure: Set your screen resolution as high as possible without exceeding 1920 x 1080](screen resolution.png)  
+![Figure: Set your screen resolution as high as possible without exceeding 1920 x 1080](/rules/production-do-you-know-how-to-start-recording-with-camtasia/screen resolution.png)  
 
 ::: bad  
-![Figure: Bad example - Screen resolution is set to 800 x 600](poor resolution screenshot.jpg)  
+![Figure: Bad example - Screen resolution is set to 800 x 600](/rules/production-do-you-know-how-to-start-recording-with-camtasia/poor resolution screenshot.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - Screen resolution set to 1920 x 1080](good resolution screenshot.jpg)  
+![Figure: Good example - Screen resolution set to 1920 x 1080](/rules/production-do-you-know-how-to-start-recording-with-camtasia/good resolution screenshot.jpg)  
 :::
 
 ### Camtasia
@@ -78,3 +78,4 @@ If your screen resolution is too low then it will be difficult for people to fol
 ::: greybox
 **Tip:** Alternatively, you can use [Loom](https://www.useloom.com/), which works as a Google Chrome extension.
 :::
+

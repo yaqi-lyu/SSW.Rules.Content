@@ -26,9 +26,9 @@ Instead, please use 'Publish' utility to deploy your website or Web application.
 
 To access this dialog box, please open a website that you want to deploy and click **Build** menu, then click **Publish Website** .
 
-![Figure: How to open Publish Website dialog box](PublishWebsite.jpg)  
+![Figure: How to open Publish Website dialog box](/rules/avoid-deploying-source-code-on-the-production-server/PublishWebsite.jpg)  
 
-![Figure: Publish Website dialog box](PublishWebsiteDialog.JPG)  
+![Figure: Publish Website dialog box](/rules/avoid-deploying-source-code-on-the-production-server/PublishWebsiteDialog.JPG)  
 
 See more about [Publishing Websites](https://docs.microsoft.com/en-us/previous-versions/20yh9f1b(v=vs.140)?redirectedfrom=MSDN).
 
@@ -38,8 +38,9 @@ The **Publish Web** dialog box enables you to build and publish a Web applicatio
 
 To access this dialog box, open a Web application project that you want to publish and click **Publish** ApplicationName on the  **Build** menu.
 
-![Figure: How to open Publish Web dialog ('WebApp' is the name of this application)](PublishWebApp.jpg)  
+![Figure: How to open Publish Web dialog ('WebApp' is the name of this application)](/rules/avoid-deploying-source-code-on-the-production-server/PublishWebApp.jpg)  
 
-![Figure: Publish Web dialog box](PublishWebAppDialog.JPG)  
+![Figure: Publish Web dialog box](/rules/avoid-deploying-source-code-on-the-production-server/PublishWebAppDialog.JPG)  
 
 See more about [How to Publish Web Applications](https://docs.microsoft.com/en-us/previous-versions/aspnet/aa983453(v=vs.100)?redirectedfrom=MSDN).
+

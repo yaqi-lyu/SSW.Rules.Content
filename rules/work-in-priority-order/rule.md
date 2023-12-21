@@ -21,4 +21,5 @@ Although the team will always strive to complete all the items on the Sprint Bac
 
 Whenever you are choosing your next task, always work from the top down, only skipping items if there is a dependency or another good reason why a lower item needs to be done first.
 
-![Figure: a good example of a team working in priority order. Mid-way through the Sprint, the top items have been completed, the middle items are being worked on, and the bottom items have yet to be looked at](priority-order.jpg)
+![Figure: a good example of a team working in priority order. Mid-way through the Sprint, the top items have been completed, the middle items are being worked on, and the bottom items have yet to be looked at](/rules/work-in-priority-order/priority-order.jpg)
+

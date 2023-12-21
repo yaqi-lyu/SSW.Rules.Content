@@ -73,7 +73,7 @@ Figure: Bad example - Developers could forget to pass a variable to the Name pro
 ```
 
 ::: good  
-![Figure: Good example - The IDE warns developers if they forget the Name parameter](ide-warning.png)
+![Figure: Good example - The IDE warns developers if they forget the Name parameter](/rules/editor-required-blazor-component-parameters/ide-warning.png)
 
 :::
 
@@ -93,10 +93,11 @@ You should configure this warning (RZ2012) as an error so your IDE will fail to 
 ```
 
 ::: good
-![Figure: Good example - Build fails with an error](build-error.png)
+![Figure: Good example - Build fails with an error](/rules/editor-required-blazor-component-parameters/build-error.png)
 
 :::
 
 ### References
 
 - [EditorRequired attribute vs C# required modifier](https://github.com/dotnet/aspnetcore/issues/44974)
+

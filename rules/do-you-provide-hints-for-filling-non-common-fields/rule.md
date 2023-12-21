@@ -21,5 +21,6 @@ If you have form fields that require some further information, you can provide a
 
 
 ::: good  
-![Figure: Good example - Field hints can make the user more comfortable](field-hints.jpg)  
+![Figure: Good example - Field hints can make the user more comfortable](/rules/do-you-provide-hints-for-filling-non-common-fields/field-hints.jpg)  
 :::
+

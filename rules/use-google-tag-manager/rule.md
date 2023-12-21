@@ -23,26 +23,26 @@ Google Tag Manager is a tag management system (TMS) that allows you to quickly a
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example – Vimeo tracking code added in the head of the source code](tracking-code-bad.png)
+![Figure: Bad example – Vimeo tracking code added in the head of the source code](/rules/use-google-tag-manager/tracking-code-bad.png)
 :::
 
 ::: good
-![Figure: Good example – Reference to the Google Tag Manager](tracking-code-reference-google-tag-manager.png)
+![Figure: Good example – Reference to the Google Tag Manager](/rules/use-google-tag-manager/tracking-code-reference-google-tag-manager.png)
 :::
 
 ::: good
-![Figure: Good example – Vimeo tracking code added through Google Tag Manager](tracking-code-good.png)
+![Figure: Good example – Vimeo tracking code added through Google Tag Manager](/rules/use-google-tag-manager/tracking-code-good.png)
 :::
 
 Multiple marketing tools can be added in a website using Google Tag manager.
 
-![Figure: All tags are added in new SSW.Website using GTM](trracking-all-tags.png)
+![Figure: All tags are added in new SSW.Website using GTM](/rules/use-google-tag-manager/trracking-all-tags.png)
 
 Data and analytics result has recorded by Google Analytics on new SSW.Website. Universal Analytics and GA4 are configured in Google Tag Manager.
 
-![Figure: Universal Analytics is collecting data from the website](tracking-universal-analytics.png)
+![Figure: Universal Analytics is collecting data from the website](/rules/use-google-tag-manager/tracking-universal-analytics.png)
 
-![Figure: GA4 is collecting data from the website](tracking-ga4.png)
+![Figure: GA4 is collecting data from the website](/rules/use-google-tag-manager/tracking-ga4.png)
 
 Learn more on [Google Tag Manager official site](https://marketingplatform.google.com/about/tag-manager/benefits/).
 

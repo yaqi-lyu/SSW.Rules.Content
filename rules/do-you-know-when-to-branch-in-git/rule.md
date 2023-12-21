@@ -21,7 +21,7 @@ redirects: []
 
 ---
 
-![](finishing-a-feature-with-world-class-flow.jpg)  
+![](/rules/do-you-know-when-to-branch-in-git/finishing-a-feature-with-world-class-flow.jpg)  
 
 The best way to handle continuous development and deployment is following [GitHub Flow](https://guides.github.com/introduction/flow/). The basic idea is to always deploy from  **master** , and to create a feature branch for every feature. When the feature is complete, it is merged back to master via a pull request, which provides a trigger for other developers to build.
 
@@ -36,14 +36,14 @@ Using this strategy, **master** is always production-ready and deployable.
 `youtube: https://www.youtube.com/embed/9bP4-ly2qtQ?rel=0`
  
 ::: bad  
-![Figure: Bad example - Committing to master](commit-master-bad.jpg)  
+![Figure: Bad example - Committing to master](/rules/do-you-know-when-to-branch-in-git/commit-master-bad.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - Committing to a new branch](commit-branch-good.jpg)  
+![Figure: Good example - Committing to a new branch](/rules/do-you-know-when-to-branch-in-git/commit-branch-good.jpg)  
 :::
 
-![Figure: Great diagram from GitHub](github-flow.jpg)  
+![Figure: Great diagram from GitHub](/rules/do-you-know-when-to-branch-in-git/github-flow.jpg)  
 
 ### The process
 
@@ -124,25 +124,26 @@ Some prefer to move this step to after the merge, especially when using a releas
 Once everyone is happy and everything is tested, complete the pull request, which will merge back to **master**. Ensure you are not using the "Fast Forward" merge option (git), or details about the branch will be lost - it will appear as though all work was done in **master**. Being able to see the feature branches in the git log is very useful.
 
 ::: good  
-![Figure: Good example - Each change is well described, small and in its own feature branch](GoodGitHistory.png)  
+![Figure: Good example - Each change is well described, small and in its own feature branch](/rules/do-you-know-when-to-branch-in-git/GoodGitHistory.png)  
 :::
 
 After you completed the pull request, make sure you also delete the branch that you made the pull request of. Deleting your completed branch will not just help yourself in the long run, but also everyone else. Having too many branches especially a stale one will confuse developers on what "may" be in progress, moreover it would cause so much pain to the future developer when they have to do a clean-up and the branch author has left.
 
 ::: bad
-![Figure: Bad example - Lots of stale branches that could cause confusion or potentially take a long time to resolve conflicts when merging](bad-figure-stale-branches2.png)
+![Figure: Bad example - Lots of stale branches that could cause confusion or potentially take a long time to resolve conflicts when merging](/rules/do-you-know-when-to-branch-in-git/bad-figure-stale-branches2.png)
 :::
 
 Otherwise, you can do it before you complete the pull request by ticking delete branch option.
 
 ::: good
-![Figure: Good example - Automatically delete the branch after the pull request completion in Azure Devops](delete-branch-in-devops.png)
+![Figure: Good example - Automatically delete the branch after the pull request completion in Azure Devops](/rules/do-you-know-when-to-branch-in-git/delete-branch-in-devops.png)
 :::
 
 ::: good
-![Figure: Good example - Set the whole project to auto-delete branch after merging in GitHub](github-settings.png)
+![Figure: Good example - Set the whole project to auto-delete branch after merging in GitHub](/rules/do-you-know-when-to-branch-in-git/github-settings.png)
 :::
 
 ::: greybox
 Once merged, **master** should immediately and automatically be deployed (in a perfect world, to production).  
 :::
+

@@ -81,8 +81,9 @@ Figure: Good example - Sending a 'v2' when you need to make an update
 
 ::: greybox
 **Tip:** If you are doing a lot of these, you can add the 'Resend This Message' button to 'Quick Access' toolbar in Outlook.
-![Figure: 'Resend This Message' on the 'Quick Access' toolbar](microsoftteams-image.png)
+![Figure: 'Resend This Message' on the 'Quick Access' toolbar](/rules/email-send-a-v2/microsoftteams-image.png)
 :::
 
 `youtube: https://www.youtube.com/embed/2WoDQBhJCVQ`
 **Video: Some jobs give no chance for a v2**
+

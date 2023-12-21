@@ -15,24 +15,25 @@ When a user looks at a test result, they want to be quickly informed. Therefore,
 
 <!--endintro-->
 
-* For a pass, the message should be green in color, and a tick next to the message. ![](../../assets/Success-lg.gif)
-* For a fail, the message should be red in color, and a cross next to the message. ![](../../assets/Fail-lg.gif)
-* For a warning, the message should be yellow/orange in color, and an exclamation mark next to the message. ![](../../assets/Warning-lg.gif)
+* For a pass, the message should be green in color, and a tick next to the message. ![](/rules/messages-do-you-clearly-show-a-pass-fail-or-warning/Success-lg.gif)
+* For a fail, the message should be red in color, and a cross next to the message. ![](/rules/messages-do-you-clearly-show-a-pass-fail-or-warning/Fail-lg.gif)
+* For a warning, the message should be yellow/orange in color, and an exclamation mark next to the message. ![](/rules/messages-do-you-clearly-show-a-pass-fail-or-warning/Warning-lg.gif)
 
 
 
 ::: bad  
-![Figure: Bad Example - Pass and fail are not clear](../../assets/RulesT1.gif)  
+![Figure: Bad Example - Pass and fail are not clear](/rules/messages-do-you-clearly-show-a-pass-fail-or-warning/RulesT1.gif)  
 :::
 
-![Figure: Green text and tick for pass, red text and cross for fail (Better)](../../assets/RulesT2.gif)  
+![Figure: Green text and tick for pass, red text and cross for fail (Better)](/rules/messages-do-you-clearly-show-a-pass-fail-or-warning/RulesT2.gif)  
 
 
 ::: good  
-![Figure: Good Example - Status on windows forms](../../assets/RulesT4.gif)  
+![Figure: Good Example - Status on windows forms](/rules/messages-do-you-clearly-show-a-pass-fail-or-warning/RulesT4.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Microsoft Update uses 3 icons to indicate different status, and good quality of Images too](../../assets/MicrosoftUpdate.gif)  
+![Figure: Good Example - Microsoft Update uses 3 icons to indicate different status, and good quality of Images too](/rules/messages-do-you-clearly-show-a-pass-fail-or-warning/MicrosoftUpdate.gif)  
 :::
+

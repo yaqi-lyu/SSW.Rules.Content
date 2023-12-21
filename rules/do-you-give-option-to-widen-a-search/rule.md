@@ -34,7 +34,7 @@ Bad: Search is not reminding the user about the fact that a built-in filter is a
 
 
 
-![](SearchOption-Good.png)
+![](/rules/do-you-give-option-to-widen-a-search/SearchOption-Good.png)
 
 
 
@@ -42,3 +42,4 @@ Bad: Search is not reminding the user about the fact that a built-in filter is a
 Good: Search reminds the user that the search criteria can be widen to show more result
 
 :::
+

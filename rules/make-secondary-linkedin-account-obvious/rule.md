@@ -13,15 +13,15 @@ If you’re working with LinkedIn Talent Hub solutions and don’t want to use y
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example - Bryden Oliver showing twice on LinkedIn Search](linkedin-secondary-profile.png)
+![Figure: Bad example - Bryden Oliver showing twice on LinkedIn Search](/rules/make-secondary-linkedin-account-obvious/linkedin-secondary-profile.png)
 :::
 
 Unfortunately there is no way to disable/hide your secondary profile if it is associated with Talent Hub: 
 
-![Figure: LinkedIn doesn’t let you disable/hibernate an account that has a Recruiter License](linkedin-unable-hibernate.png)
+![Figure: LinkedIn doesn’t let you disable/hibernate an account that has a Recruiter License](/rules/make-secondary-linkedin-account-obvious/linkedin-unable-hibernate.png)
 
 The only workaround is to make your secondary account more obvious by adding a clear description:
 
 ::: good
-![Figure: Good example - Secondary account clearly states that this is a 'Recruitment account' and is not current](linkedin-clear-second-account.png)
+![Figure: Good example - Secondary account clearly states that this is a 'Recruitment account' and is not current](/rules/make-secondary-linkedin-account-obvious/linkedin-clear-second-account.png)
 :::

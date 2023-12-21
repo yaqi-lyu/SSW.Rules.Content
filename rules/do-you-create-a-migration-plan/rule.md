@@ -38,7 +38,7 @@ If your app has 3rd party dependencies (e.g. with a financial system, reporting 
 
 If you host your app on premise, it's also worth checking your infrastructure to ensure it has the necessary runtimes.
 
-![Figure: Install necessary .NET 8 runtimes](related-runtimes.png)
+![Figure: Install necessary .NET 8 runtimes](/rules/do-you-create-a-migration-plan/related-runtimes.png)
 
 ## Breaking changes
 
@@ -70,7 +70,7 @@ try-convert --keep-current-tfms
 **Note:** For Web applications, we'll update at a later stage based on [migrating Web Apps to .NET](/migrating-web-apps-to-dotnet/).
 :::
 
-![Figure: The differences between the legacy csproj file and the new SDK csproj file](legacy-vs-sdk.png)
+![Figure: The differences between the legacy csproj file and the new SDK csproj file](/rules/do-you-create-a-migration-plan/legacy-vs-sdk.png)
 
 ### Target multiple Target Framework Monikers (TFM)
 
@@ -106,7 +106,7 @@ In all your project files, change the `TargetFramework` tag to `TargetFrameworks
 <TargetFrameworks>net472;net8.0</TargetFrameworks>
 ```
 
-![Figure: Bad and good examples when targeting multiple target frameworks](good-example-vs-bad-example-tfms.png)
+![Figure: Bad and good examples when targeting multiple target frameworks](/rules/do-you-create-a-migration-plan/good-example-vs-bad-example-tfms.png)
 
 ### Creating the migration backlog
 
@@ -135,3 +135,4 @@ While this guide aims to give you a high-level view of migrating your app, there
 * [Migrating web apps to .NET Core](/migrating-web-apps-to-dotnet/)
 * [Do you know how to migrate from System.Web to modern alternatives?](/migrate-from-system-web-to-modern-alternatives/)
 * [Do you know how to migrate from EDMX to EF Core?](/migrate-from-edmx-to-ef-core/)
+

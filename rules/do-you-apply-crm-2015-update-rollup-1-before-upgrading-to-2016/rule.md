@@ -16,7 +16,7 @@ Make sure CRM 2015 update rollup 1 has been applied before upgrading to CRM 2016
 
 <!--endintro-->
 
-![Figure: version after applying CRM 2015 update rollup 1](updaterollup1.png)
+![Figure: version after applying CRM 2015 update rollup 1](/rules/do-you-apply-crm-2015-update-rollup-1-before-upgrading-to-2016/updaterollup1.png)
 
 **Note:** You might come accross the error below while applying CRM 2015 update rollup 1.
 
@@ -67,3 +67,4 @@ Database update install failed for orgId = 011d5962-3475-4df9-a123-c3ecaf88b048.
 * Restore the file MetadataDiffs.xml to its original state using the backup taken at step 1
 
 **Source:** [Error updating Microsoft Dynamics CRM 2015 0.1](https://community.dynamics.com/forums/thread/details/?threadid=8f9d9ec1-541e-4562-a813-f548550061e4)
+

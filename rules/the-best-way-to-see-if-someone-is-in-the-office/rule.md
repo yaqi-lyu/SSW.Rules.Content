@@ -23,14 +23,15 @@ You should create an **#in-and-out** channel on Slack and use the employees' MAC
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad Example – Scream out “Where is Marlon?”](shout.jpg)  
+![Figure: Bad Example – Scream out “Where is Marlon?”](/rules/the-best-way-to-see-if-someone-is-in-the-office/shout.jpg)  
 :::
 
 ::: good  
-![Figure: Good Example – Using in/out functionality with Slack and Ubiquity Access Point](Slack-in-out.jpg)  
+![Figure: Good Example – Using in/out functionality with Slack and Ubiquity Access Point](/rules/the-best-way-to-see-if-someone-is-in-the-office/Slack-in-out.jpg)  
 :::
 
 Although there is one bug with the solution:
 
 `youtube: https://www.youtube.com/embed/F5CPH03WPMU`
 **Figure: Ubiquity Access Point Bug**
+

@@ -28,19 +28,19 @@ People can send tasks in different ways:
 1. Send a simple email with no priority indication  
 
 ::: bad
-![Figure: Bad example - An email with requirements does not indicate the priority](Email sign.jpg)
+![Figure: Bad example - An email with requirements does not indicate the priority](/rules/give-emails-a-business-value/Email sign.jpg)
 :::
 
 2. Put the task straight into the backlog in the desired priority order, but send no email
 
 ::: bad
-![Figure: Bad example - The developer does not get a chance to ask questions and refine it before it hits the backlog](straight to scrum.jpg)
+![Figure: Bad example - The developer does not get a chance to ask questions and refine it before it hits the backlog](/rules/give-emails-a-business-value/straight to scrum.jpg)
 :::
 
 3. Send an email indicating its priority. The recipient reviews it and places it into the backlog, based off the specified Business Value
 
 ::: good
-![Figure: Good example - Email tasks with a Business Value, allow the developer to review before putting it in the backlog](Developer entered.jpg)
+![Figure: Good example - Email tasks with a Business Value, allow the developer to review before putting it in the backlog](/rules/give-emails-a-business-value/Developer entered.jpg)
 :::
 
 ### The perfect email workflow
@@ -48,7 +48,7 @@ People can send tasks in different ways:
 Before you email a task to someone, think about how important it is to you. Then draft your email, add the Business Value using the same scale that you would use to estimate your PBIs.
 
 ::: good
-![Figure: Good example - The best workflow for sending an email](Email Diagram.jpg)
+![Figure: Good example - The best workflow for sending an email](/rules/give-emails-a-business-value/Email Diagram.jpg)
 :::
 
 ### What if you need to write an email to multiple recipients?  
@@ -56,5 +56,6 @@ Before you email a task to someone, think about how important it is to you. Then
 Assign each person a Business Value. In the case of "To Myself" emails, you can also add the amount of 'Effort' required too.
 
 ::: good
-![Figure: Good example - The best workflow for sending an email with multiple recipients](Email screenshot.jpg)
+![Figure: Good example - The best workflow for sending an email with multiple recipients](/rules/give-emails-a-business-value/Email screenshot.jpg)
 :::
+

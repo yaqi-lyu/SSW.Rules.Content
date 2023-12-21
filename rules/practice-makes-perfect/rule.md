@@ -68,8 +68,9 @@ You can use PowerPoint's built-in AI "Rehearse with Coach" to get help with some
 
 To get started you'll need a Microsoft PowerPoint presentation. Click the Slide Show tab | Rehearse with Coach | Start Rehearsing.
 
-![Figure: Starting a rehearsal](start-rehearsing-dialog.png)
+![Figure: Starting a rehearsal](/rules/practice-makes-perfect/start-rehearsing-dialog.png)
 
-![Figure: After rehearsal, you get a nice report with recommendations on what language you used and how you delivered it](rehearsal-report.png)
+![Figure: After rehearsal, you get a nice report with recommendations on what language you used and how you delivered it](/rules/practice-makes-perfect/rehearsal-report.png)
 
 You can find more information on Microsoft's support page, [Rehearse your slide show with Speaker Coach](https://support.microsoft.com/en-us/office/rehearse-your-slide-show-with-speaker-coach-cd7fc941-5c3b-498c-a225-83ef3f64f07b).
+

@@ -22,10 +22,11 @@ Luckily, it’s very easy in Dynamics 365 to merge duplicates. All you have to d
 
 
 ::: bad  
-![Figure: Bad Example – a developer would not know which record to use to track timesheets against](crm-duplicate-bad.jpg)  
+![Figure: Bad Example – a developer would not know which record to use to track timesheets against](/rules/merge-duplicate-accounts-or-contacts/crm-duplicate-bad.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example – records merged to remove duplicates](crm-duplicate-good.jpg)  
+![Figure: Good Example – records merged to remove duplicates](/rules/merge-duplicate-accounts-or-contacts/crm-duplicate-good.jpg)  
 :::
+

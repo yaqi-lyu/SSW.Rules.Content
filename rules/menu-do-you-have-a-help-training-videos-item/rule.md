@@ -18,7 +18,8 @@ Training Videos provide a straightforward way to help the user look into your pr
 
 
 ::: good  
-![Figure: It's better to provide such a "Training Videos..." menu item](../../assets/TrainingVideos.jpg)  
+![Figure: It's better to provide such a "Training Videos..." menu item](/rules/menu-do-you-have-a-help-training-videos-item/TrainingVideos.jpg)  
 :::
 
 See our suggestion to Visual Studio to [provide "Training Videos" menu item in the help menu](http://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/VisualStudio.aspx#TrainingVideos).
+

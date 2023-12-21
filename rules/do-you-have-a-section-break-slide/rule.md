@@ -16,5 +16,5 @@ You should have a good cover slide for each section of your presentation. They a
 <!--endintro-->
 
 ::: good
-![Figure: Good example - This is very clear that we are up to part 2 of the presentation](sectionbreak.jpg)
+![Figure: Good example - This is very clear that we are up to part 2 of the presentation](/rules/do-you-have-a-section-break-slide/sectionbreak.jpg)
 :::

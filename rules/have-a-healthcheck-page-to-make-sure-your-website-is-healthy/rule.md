@@ -42,20 +42,21 @@ It also includes UI (which is themable) and the UI supports automatic discovery 
  
 Best of all they have a [Release Gate available on the DevOps market place](https://marketplace.visualstudio.com/items?itemName=luisfraile.vss-services-aspnetcorehealthcheck-extensions) for the release pipelines.
 
-![Figure: Sample Health Checks page](ui-branding.png)  
+![Figure: Sample Health Checks page](/rules/have-a-healthcheck-page-to-make-sure-your-website-is-healthy/ui-branding.png)  
 
-![Figure: Sample Health of an endpoint being viewed in a timeline, so I can see when a resource was last healthy](timeline.png)  
+![Figure: Sample Health of an endpoint being viewed in a timeline, so I can see when a resource was last healthy](/rules/have-a-healthcheck-page-to-make-sure-your-website-is-healthy/timeline.png)  
 
 ### Other products using validation status
 
-![Figure: Microsoft Service Health - admin.microsoft.com/servicestatus](microsoft-service-health.jpg)  
+![Figure: Microsoft Service Health - admin.microsoft.com/servicestatus](/rules/have-a-healthcheck-page-to-make-sure-your-website-is-healthy/microsoft-service-health.jpg)  
 
-![Figure: Google Workspace Status Dashboard - www.google.com/appsstatus/dashboard](google-workspace-status.jpg)  
+![Figure: Google Workspace Status Dashboard - www.google.com/appsstatus/dashboard](/rules/have-a-healthcheck-page-to-make-sure-your-website-is-healthy/google-workspace-status.jpg)  
 
-![Figure: Apple System Status - www.apple.com/au/support/systemstatus](apple-system-status.jpg)  
+![Figure: Apple System Status - www.apple.com/au/support/systemstatus](/rules/have-a-healthcheck-page-to-make-sure-your-website-is-healthy/apple-system-status.jpg)  
 
-![Figure: MailChimp status - status.mailchimp.com](mailchimp-status.jpg)  
+![Figure: MailChimp status - status.mailchimp.com](/rules/have-a-healthcheck-page-to-make-sure-your-website-is-healthy/mailchimp-status.jpg)  
 
 See [Do you have a HealthCheck page to test your website dependencies?](/have-a-healthcheck-page-to-test-your-website-dependencies)
 
-![Figure: Check everything with care](check-everything.JPG)
+![Figure: Check everything with care](/rules/have-a-healthcheck-page-to-make-sure-your-website-is-healthy/check-everything.JPG)
+

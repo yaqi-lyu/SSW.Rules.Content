@@ -16,4 +16,4 @@ guid: 019c2aca-4ddf-4fc7-bcb9-2726dfe7932f
 
 <!--endintro-->
 
-![Figure: A Twitter hashtag allows the attendees to have a backchannel that can be used to talk about your presentation, during your presentation](hashtag.jpg)
+![Figure: A Twitter hashtag allows the attendees to have a backchannel that can be used to talk about your presentation, during your presentation](/rules/prior-do-you-setup-a-twitter-backchannel-beforehand/hashtag.jpg)

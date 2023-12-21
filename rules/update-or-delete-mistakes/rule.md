@@ -18,4 +18,5 @@ If you noticed the message you typed in Microsoft Teams has a mistake, make sure
 
 <!--endintro-->
 
-![Figure: "Edit" and "Delete" are options after you type a message](Screen Shot 2018-12-11 at 1.52.42 PM.png)
+![Figure: "Edit" and "Delete" are options after you type a message](/rules/update-or-delete-mistakes/Screen Shot 2018-12-11 at 1.52.42 PM.png)
+

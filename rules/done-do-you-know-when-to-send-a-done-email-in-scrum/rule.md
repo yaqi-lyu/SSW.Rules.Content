@@ -59,7 +59,8 @@ E.g.: Here is the [Definition of Done](/definition-of-done) we followed:
 Then add an illustration to show this.
 
 ::: good  
-![Figure: Good example - This is proof you have met your 'Done criteria'](ProveDoneCriteria.png)  
+![Figure: Good example - This is proof you have met your 'Done criteria'](/rules/done-do-you-know-when-to-send-a-done-email-in-scrum/ProveDoneCriteria.png)  
 :::
 
 This is all designed to help you Scrum Team members (Product Owner, Scrum Master and Team) keep a certain quality bar on completion of each chunk of work. Remember that a task is not done until your team determines it is done.
+

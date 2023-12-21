@@ -26,7 +26,7 @@ When a prospect/client is ready to move forward (typically after a Specification
 2. Create a SharePoint project site
 
    You can do both of these at the same time by creating a Azure DevOps project and use a SharePoint dashboard.
-   ![Figure: Choose to create a new SharePoint site when creating Azure DevOps project](createnewspsite.jpeg)
+   ![Figure: Choose to create a new SharePoint site when creating Azure DevOps project](/rules/when-to-create-team-project-and-azure-devops-portal/createnewspsite.jpeg)
 
 **Note:** It is also possible to [create a new SharePoint site afterwards and attach it to a Azure DevOps project, via this hack](/how-to-create-Project-Portal)
 
@@ -39,4 +39,5 @@ A few other things to do frequently do right away:
 * Check permissions and access rights
 * Consider synchronizing the project documents offline via Outlook or SharePoint Workspaces
 * Edit the SharePoint site landing wiki-page and upload some pictures of the team
-  ![Figure: Once your 'TFS Portal' is ready, add a picture of the team site, prior to letting them know about the new site](addimgtoteamsite.jpeg)
+  ![Figure: Once your 'TFS Portal' is ready, add a picture of the team site, prior to letting them know about the new site](/rules/when-to-create-team-project-and-azure-devops-portal/addimgtoteamsite.jpeg)
+

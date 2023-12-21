@@ -27,10 +27,11 @@ Once you have qualified the lead, your aim for the remainder of the call should 
 2. Send a [Pre-Initial Meeting](BriefProposal-PreInitialMeeting.docx) email.
 3. Send an appointment to the client and everyone attending the meeting (copy the email above).
 
-![Figure: Send an appointment for your initial meeting](meeting-request.jpg)  
+![Figure: Send an appointment for your initial meeting](/rules/do-you-manage-your-inbound-leads-effectively/meeting-request.jpg)  
 
 If the client wants to commence ad-hoc work (e.g. Consulting) without a meeting, you should immediately:
 
 1. Enter a contract with the client.
 2. Enter the contact information for the lead into your corporate database.
 3. Book it in by sending an appointment (set regarding to the client if you're using CRM)
+

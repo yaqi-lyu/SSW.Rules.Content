@@ -19,7 +19,8 @@ guid: 0143603c-e91a-4db7-a644-8aab1080826b
 A professional report should have the feedback information, then users can give suggestions directly to the designers.
 
 ::: good  
-![Figure: Good example - Include feedback information](ReportFeedback.gif)
+![Figure: Good example - Include feedback information](/rules/include-feedback-information-in-report/ReportFeedback.gif)
 :::
 
 See how AI is used in Power BI to provide feedback in Reports in [this rule](/rules-to-better-power-bi/)
+

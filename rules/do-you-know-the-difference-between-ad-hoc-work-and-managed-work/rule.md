@@ -29,7 +29,7 @@ There should be an agreement of the time allowed to be spent ahead of time, even
 
 
 ::: good  
-![Good example: Work is done as needed, when needed](work-done-as-needed-when-needed.png)  
+![Good example: Work is done as needed, when needed](/rules/do-you-know-the-difference-between-ad-hoc-work-and-managed-work/work-done-as-needed-when-needed.png)  
 :::
 
 ### B. Managed Work (using Scrum, the Client is agreeing to an outcome that the consulting company controls)
@@ -41,15 +41,16 @@ This method is recommended for any work which is substantial and where the clien
 
 
 ::: good  
-![Good example: Scope and tasks are arranged ahead of time during the Spec Review process](scope-tasks-spec-review.png)  
+![Good example: Scope and tasks are arranged ahead of time during the Spec Review process](/rules/do-you-know-the-difference-between-ad-hoc-work-and-managed-work/scope-tasks-spec-review.png)  
 :::
 
 
 ::: good  
-![Good example: A Product Backlog is created with individual Product Backlog Items sized in effort](product-backlog-example.png)  
+![Good example: A Product Backlog is created with individual Product Backlog Items sized in effort](/rules/do-you-know-the-difference-between-ad-hoc-work-and-managed-work/product-backlog-example.png)  
 :::
 
 
 ::: good  
-![Good Example: A Sprint is created for the week with the Product Backlog Items ready to be tracked](sprint-example.png)  
+![Good Example: A Sprint is created for the week with the Product Backlog Items ready to be tracked](/rules/do-you-know-the-difference-between-ad-hoc-work-and-managed-work/sprint-example.png)  
 :::
+

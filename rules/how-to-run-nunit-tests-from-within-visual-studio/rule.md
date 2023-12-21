@@ -36,7 +36,7 @@ In Visual Studio:
 
 
 ::: bad  
-![Figure: Bad Example - NUnit In Visual Studio](NUnitInVStudio.jpg)  
+![Figure: Bad Example - NUnit In Visual Studio](/rules/how-to-run-nunit-tests-from-within-visual-studio/NUnitInVStudio.jpg)  
 :::
 
 ### Option 2: Test Driven .net
@@ -44,9 +44,9 @@ In Visual Studio:
 
 TestDriven.net has better NUnit integration – from both code and Solution Explorer windows.
 
-![Figure: Better way - Use TestDriven.Net - it has a 'Run Test(s)' command for a single test (above) or...](UseTestDriven.jpg)  
+![Figure: Better way - Use TestDriven.Net - it has a 'Run Test(s)' command for a single test (above) or...](/rules/how-to-run-nunit-tests-from-within-visual-studio/UseTestDriven.jpg)  
 
-![Figure: ...you can right-click on a project and select 'Test With &gt; NUnit' to bring up the GUI. It is certainly more convenient](GUIBringUpAction.jpg)  
+![Figure: ...you can right-click on a project and select 'Test With &gt; NUnit' to bring up the GUI. It is certainly more convenient](/rules/how-to-run-nunit-tests-from-within-visual-studio/GUIBringUpAction.jpg)  
 
 To run unit testing: Tools &gt; NUnit GUI to launch NUnit and run the tests.
 
@@ -54,3 +54,4 @@ To run unit testing: Tools &gt; NUnit GUI to launch NUnit and run the tests.
 
 
 Other Visual Studio tools including Resharper and Coderush have their own integration with NUnit. If you’re already using one of these, installing TestDriven.net is unnecessary.
+

@@ -18,26 +18,27 @@ There are 3 places to check for Usage reports in SharePoint:
 
 1. Page Usage
 
-![Figure: Access page usage from any page by clicking "Analytics"](sharepoint-page-usage.jpg)  
+![Figure: Access page usage from any page by clicking "Analytics"](/rules/sharepoint-usage/sharepoint-page-usage.jpg)  
 
 2. Site Usage
 
 Site owners can access global site usage reports:
 
-![Figure: Access site level usage via "Settings" | "Site Usage"](sharepoint-site-usage.jpg)  
+![Figure: Access site level usage via "Settings" | "Site Usage"](/rules/sharepoint-usage/sharepoint-site-usage.jpg)  
 
 3. Tenant Usage
 
 This is by far the most interesting and import report. You need special (tenant-level) permissions to access those usage reports 
 
-![Figure: Access tenant level usage via "Office 365 Admin Center" | "Reports" | "Usage" | "View More" (under SharePoint section)](sharepoint-tenant-usage.jpg)  
+![Figure: Access tenant level usage via "Office 365 Admin Center" | "Reports" | "Usage" | "View More" (under SharePoint section)](/rules/sharepoint-usage/sharepoint-tenant-usage.jpg)  
 
 ---
 
 Now enjoy the full power of SharePoint usage analytics !
 
-![Figure: Plenty of very useful reports in this dashboard](sharepoint-tenant-usage-home.jpg)  
+![Figure: Plenty of very useful reports in this dashboard](/rules/sharepoint-usage/sharepoint-tenant-usage-home.jpg)  
 
 ::: info
 You will need SysAdmin help to get access to those reports.
 :::
+

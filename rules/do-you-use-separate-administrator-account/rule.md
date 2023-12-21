@@ -20,4 +20,5 @@ When using a single account for normal user login and admin tasks the first thin
 
 To prevent this, at SSW we create a separate Administrator account, with the prefix Admin. This signifies that it is an Admin account and does have administrator privileges. The Admin account is also placed in a separate OU to ensure that it is not receiving unnecessary Group Policies. This allows us to setup permissions easier, only provide access to machines required, and also makes the user aware that they are doing something dangerous so they are inheritably more careful. A standard account (Non Admin prefix account) does not and should not have access to any servers.
 
-![Figure: SSW AD Users and Computers showing Admin accounts in separate OU](image001.png)
+![Figure: SSW AD Users and Computers showing Admin accounts in separate OU](/rules/do-you-use-separate-administrator-account/image001.png)
+

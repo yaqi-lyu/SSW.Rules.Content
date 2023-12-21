@@ -25,11 +25,11 @@ Check in on your home or office from your smartphone using the Control4 App - Th
 Throw away your remote controls and move on to technological freedom!
 
 ::: bad img-medium
-![Figure: Bad example - Using any pysical remote control instead of the Control4 app](Bad-example-C4.jpg)
+![Figure: Bad example - Using any pysical remote control instead of the Control4 app](/rules/use-control4-app/Bad-example-C4.jpg)
 :::
 
 ::: good img-medium
-![Figure: Good Example - Turning on the air conditioner using Control4](boardroomac.jpg)
+![Figure: Good Example - Turning on the air conditioner using Control4](/rules/use-control4-app/boardroomac.jpg)
 :::
 
 ### Installing Control4 on your phone
@@ -41,13 +41,13 @@ To use Control4 on your phone and remotely control all services, you will need t
   - [Google Play](https://play.google.com/store/apps/details?id=com.control4.app)
 
 ::: img-medium
-![Figure: Download App](control4iosappstore.jpg)
+![Figure: Download App](/rules/use-control4-app/control4iosappstore.jpg)
 :::
 
 2.Select "Add System" button
 
 ::: img-medium
-![Figure: Add system button](control4start.jpg)
+![Figure: Add system button](/rules/use-control4-app/control4start.jpg)
 :::
 
 3. Contact your SysAdmin to set you up with an account for logging in
@@ -57,7 +57,7 @@ To use Control4 on your phone and remotely control all services, you will need t
 5. Use your credentials to sign into Control4
 
 ::: img-medium
-![Figure: Add system details](control4add.jpg)
+![Figure: Add system details](/rules/use-control4-app/control4add.jpg)
 :::
   
 ::: info
@@ -69,7 +69,7 @@ To use Control4 on your phone and remotely control all services, you will need t
 Once logged in, you will have access to your site's controls. These apps are customisable, but the ones we have at SSW are:
 
 ::: img-medium
-![Figure: SSW reception controls](control4reception-notes.jpg)
+![Figure: SSW reception controls](/rules/use-control4-app/control4reception-notes.jpg)
 :::
 
 ### Changing Users
@@ -79,23 +79,24 @@ If you need to change the user or sign in with new credentials, you can use the 
 1. Tap the Control4 logo to open the menu
 
 ::: img-medium
-![Figure: Tap logo](control4receptionLogo.jpg)
+![Figure: Tap logo](/rules/use-control4-app/control4receptionLogo.jpg)
 :::
 
 2. Scroll to the bottom and select the settings button
 
 ::: img-medium
-![Figure: Select "settings"](control4menusettings.png)
+![Figure: Select "settings"](/rules/use-control4-app/control4menusettings.png)
 :::
 
 3. Select your System
 
 ::: img-medium
-![Figure: Select your system](control4settings.jpg)
+![Figure: Select your system](/rules/use-control4-app/control4settings.jpg)
 :::
 
 4. Select "Delete". This will reset the account and allow you to enter new credentials.
 
 ::: img-medium
-![Figure: Select "remove"](control4delete.jpg)
+![Figure: Select "remove"](/rules/use-control4-app/control4delete.jpg)
 :::
+

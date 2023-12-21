@@ -53,7 +53,7 @@ In Scrum, there are 4 meetings in total that you need to know about:
 
 #### What if you can't attend the Sprint Review
 
-![Figure: Playing golf](Golf-holiday.png)  
+![Figure: Playing golf](/rules/do-you-know-what-happens-at-a-sprint-review-meeting/Golf-holiday.png)  
 
 If you can't attend your team's Sprint Review (e.g. you're on leave, working part-time, or in a different timezone), you should give the team a summary of where you're at, so they can inform the stakeholders on your behalf.
 
@@ -88,3 +88,4 @@ I won't be able to make the Sprint Review because {{ REASON }}. Here's an update
 Even if your client does **not** want to do Scrum (they might have had a bad experience in the past) you should still do this step, just under a different name.
 E.g. _"Hey Bob, let’s schedule a catch up on Friday. Then I'll show you what I have done this week"_.
 :::
+

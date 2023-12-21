@@ -18,13 +18,13 @@ Advice like this can be a minefield, and is constantly in flux, but there are so
 
 <!--endintro-->
 
-![Figure: Default ASP.NET Core project is package management done wrong](package1.jpg)  
+![Figure: Default ASP.NET Core project is package management done wrong](/rules/use-package-managers-appropriately/package1.jpg)  
 
-![Figure: Project using good package management](package2.jpg)  
+![Figure: Project using good package management](/rules/use-package-managers-appropriately/package2.jpg)  
 
 ### Bower is dead
 
-![Figure: Bower is dead](package3.jpg)  
+![Figure: Bower is dead](/rules/use-package-managers-appropriately/package3.jpg)  
 
 File-New Project in Visual Studio comes with bower packages, and there are a lot of old blog posts that  recommend bower for client side libraries, but bower is dead. Angular2 is discouraging its use, and npm has all the same packages, and more. Prefer npm over bower, even for client-side dependencies.
 
@@ -41,3 +41,4 @@ Theoretically, everything in npm is using semantic versioning.  In practice, peo
 ### Track your dev dependencies and dependencies separately
 
 All package managers distinguish between those used for development, and those used for the application.  Use this feature – it will save you time.
+

@@ -83,7 +83,7 @@ Start with these examples showing typical "Definitions of Done" from beginner te
 * Sending a Done email with screenshots
 
 ::: good  
-![Figure: Good example - Add check-in policies to enforce your Definition of Done](CheckinPolicy.jpg)  
+![Figure: Good example - Add check-in policies to enforce your Definition of Done](/rules/definition-of-done/CheckinPolicy.jpg)  
 :::
 
 ### Team - Level 4
@@ -95,7 +95,7 @@ Start with these examples showing typical "Definitions of Done" from beginner te
 * Sending a Done email (with video recording using SnagIt)
 
 ::: good  
-![Figure: Organize tests in suites with built-in E2E traceability across requirements, test artifacts and defects](TestPlanning-1.png)  
+![Figure: Organize tests in suites with built-in E2E traceability across requirements, test artifacts and defects](/rules/definition-of-done/TestPlanning-1.png)  
 :::
 
 `youtube: https://www.youtube.com/embed/JJCgP7XcpNA`
@@ -130,3 +130,4 @@ Figure: Good example - Done video showing the features worked on
 Congratulations! You are frequently deploying to production. This is called “Continuous Delivery” and allows you to gather quick feedback from your end users.
 
 You might have everything deployed to production, but it might not yet be visible to the end user. This can be achieved by having “[Feature toggles](https://martinfowler.com/bliki/FeatureToggle.html)” in place. The actual release of the functionality is a decision that the Product Owner and business takes.
+

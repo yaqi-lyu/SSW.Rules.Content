@@ -53,12 +53,12 @@ Here are a few valuable benefits of doing this:
 ✅ **Scaling up** – If your business is growing, you will be able to manage your LinkedIn presence under a single page and your business will look bigger as it grows! 
 
 ::: good
-![Figure: Good example - Microsoft's LinkedIn page shows their jobs from all around the world and their offices 🌍 🏢](microsoft-jobs-on-linkedin-international.png)
+![Figure: Good example - Microsoft's LinkedIn page shows their jobs from all around the world and their offices 🌍 🏢](/rules/managing-linkedin-for-international-companies/microsoft-jobs-on-linkedin-international.png)
 :::
 
-![Figure: Language, job function, location and industry are some of the options you can select to do a targeted post on your LinkedIn](targetting-options-available-linkedin.png)
+![Figure: Language, job function, location and industry are some of the options you can select to do a targeted post on your LinkedIn](/rules/managing-linkedin-for-international-companies/targetting-options-available-linkedin.png)
 
-![Figure: LinkedIn will use your profile information to show targeted posts to you. For example, if you set your language to English, you will be targeted only for English content.](picture1-language.jpg)
+![Figure: LinkedIn will use your profile information to show targeted posts to you. For example, if you set your language to English, you will be targeted only for English content.](/rules/managing-linkedin-for-international-companies/picture1-language.jpg)
 
 ## Why create targeted posts in different languages?
 
@@ -80,11 +80,11 @@ Here is how you can create Targeted Company Posts:
 
 1. On the “All Pages” or “Home” tab of your Super or Content admin view, draft your post  
 
-  ![Figure: LinkedIn’s draft post window](linkedin-post-how-to.png)
+  ![Figure: LinkedIn’s draft post window](/rules/managing-linkedin-for-international-companies/linkedin-post-how-to.png)
 
 2. As the default setting is “Anyone”, you can adjust the privacy settings by clicking on the 🌏 dropdown & selecting the correct audience for your post 
 
-  ![Figure: For a targeted company post, you would select “Targeted audience”](linkedin-targeted-post-how-to.png)
+  ![Figure: For a targeted company post, you would select “Targeted audience”](/rules/managing-linkedin-for-international-companies/linkedin-targeted-post-how-to.png)
 
   🗒️ For comment settings, click “Anyone” at the bottom of the “Create a post" window – select your preferred settings (Anyone or No one) & click save to apply your changes. 
 
@@ -92,11 +92,11 @@ Here is how you can create Targeted Company Posts:
    **Note:** You can add up to 150 different locations!
 
 ::: bad
-![Figure: Bad example - LinkedIn’s Target audience is too narrow](target-audience-settings-narrow-bad-example.png)
+![Figure: Bad example - LinkedIn’s Target audience is too narrow](/rules/managing-linkedin-for-international-companies/target-audience-settings-narrow-bad-example.png)
 :::
 
 ::: good
-![Figure: Good example - Target Audience Settings Page after your criteria reaches enough target followers](linkedin-targeted-post-good-example.png)
+![Figure: Good example - Target Audience Settings Page after your criteria reaches enough target followers](/rules/managing-linkedin-for-international-companies/linkedin-targeted-post-good-example.png)
 :::
 
 4. Click the ‘Save’ button and you are all ready to post!
@@ -109,7 +109,8 @@ Here is how you can add new languages to your LinkedIn company page:
    **Note:** you will need to have admin access to be able to do this
 2. On the left column, scroll down and you will see ‘Manage languages’
 
-  ![Figure: If you have a multilingual business, you can select the different languages your clients may speak in this section on LinkedIn](multilingual-pages-on-linkedin.png)
+  ![Figure: If you have a multilingual business, you can select the different languages your clients may speak in this section on LinkedIn](/rules/managing-linkedin-for-international-companies/multilingual-pages-on-linkedin.png)
 
 3. Then you can add a tagline and a description. Please note that LinkedIn does not offer all languages in the world, so you need to verify if the needed language is covered by LinkedIn 🌐 
 4. After adding that information, you can choose your default language and your LinkedIn company page will be ready to reach new markets! 💥
+

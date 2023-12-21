@@ -20,13 +20,14 @@ Consistent naming is important so that users of your GitHub account can easily f
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example – Repository names are not consistently formatted](name-github-bad.png)  
+![Figure: Bad example – Repository names are not consistently formatted](/rules/do-you-know-how-to-name-a-github-repository/name-github-bad.png)  
 :::
 
 ::: ok
-![Figure: OK example – Repositories are following the lower-cased hyphenated format that is common for open source projects](name-github-ok.png)  
+![Figure: OK example – Repositories are following the lower-cased hyphenated format that is common for open source projects](/rules/do-you-know-how-to-name-a-github-repository/name-github-ok.png)  
 :::
 
 ::: good  
-![Figure: Good example – Repository names are name-spaced in the format [CompanyName].[ProjectName]](name-github-good.png)  
+![Figure: Good example – Repository names are name-spaced in the format [CompanyName].[ProjectName]](/rules/do-you-know-how-to-name-a-github-repository/name-github-good.png)  
 :::
+

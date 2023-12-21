@@ -21,12 +21,12 @@ We want to keep clear and simple file structure in our solution. Never put any f
 
 
 ::: bad  
-![Bad example - HTML file in \Images Folder.](OnlyImageBad.gif)  
+![Bad example - HTML file in \Images Folder.](/rules/do-you-keep-images-folder-image-only/OnlyImageBad.gif)  
 :::
 
 
 ::: good  
-![Good example - Images only, clean \Images folder.](OnlyImageGood.gif)  
+![Good example - Images only, clean \Images folder.](/rules/do-you-keep-images-folder-image-only/OnlyImageGood.gif)  
 :::
 
 
@@ -34,3 +34,4 @@ We want to keep clear and simple file structure in our solution. Never put any f
 
 | We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx) to check for this rule. |
 | --- |
+

@@ -20,7 +20,7 @@ There are a few different ways to solve this.
 
 It can be very frustrating when CSS classes overwrite and behave differently to how we want them to.
 
-![Figure: Overwritten CSS can make our site styles break](overwritten-style.png)  
+![Figure: Overwritten CSS can make our site styles break](/rules/scoped-css/overwritten-style.png)  
 
 Debugging this can be a nightmare on larger projects with huge amounts of styling as you need to comb through the entire file to find what's overwriting the style.
 
@@ -130,3 +130,4 @@ This will then render the element with a component specific class, differentiate
 ```html
 <h1 class="Component_heading__nEBhk">Bold Heading Here</h1>
 ```
+

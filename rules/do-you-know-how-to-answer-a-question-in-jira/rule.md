@@ -22,17 +22,18 @@ You can open the relevant task in two ways:
 
 Once the task is displayed:
 
-![](TaskToAnswer.png)
+![](/rules/do-you-know-how-to-answer-a-question-in-jira/TaskTo/rules/do-you-know-how-to-answer-a-question-in-jira/Answer.png)
 
 You decide whether it is still required or not. 
 If it isn't - select Close and choose a relevant resolution:
 
-![](ClosingFromQuestion.png)
+![](/rules/do-you-know-how-to-answer-a-question-in-jira/ClosingFromQuestion.png)
 
 Otherwise, if it is still required, select Answer and complete the fields as shown, please read the description of the fields carefully:
 
-![](Answer.png)
+![](/rules/do-you-know-how-to-answer-a-question-in-jira/Answer.png)
 
 Once you have completed all required fields and pressed the Answer button, the task will be saved and put back on the Assignee's "New" queue.
 
 You can see how this is part of the [workflow](/do-you-really-know-what-a-jira-workflow-is).
+

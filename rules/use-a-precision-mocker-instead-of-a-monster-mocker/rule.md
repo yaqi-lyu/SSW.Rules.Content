@@ -34,7 +34,7 @@ This type of mocking framework is very powerful and allows replacing code that w
 
 
 ::: bad  
-![Figure: Bad Example – Our class is tightly coupled to our authentication provider, and as we add each test we are adding \*more\* dependencies on this provider. This makes our codebase less and less maintainable. If we ever want to change our authentication provider “OAuthWebSecurity”, it will need to be changed in the controller, and every test that calls it](monster-mocker.jpg)  
+![Figure: Bad Example – Our class is tightly coupled to our authentication provider, and as we add each test we are adding \*more\* dependencies on this provider. This makes our codebase less and less maintainable. If we ever want to change our authentication provider “OAuthWebSecurity”, it will need to be changed in the controller, and every test that calls it](/rules/use-a-precision-mocker-instead-of-a-monster-mocker/monster-mocker.jpg)  
 :::
 
 ### The Precision Mocker (e.g. NSubstitute)
@@ -45,15 +45,16 @@ This mocking framework takes advantage of well written, loosely coupled code.
 The mocking framework creates substitute items to inject into the code under test.
 
 ::: good
-![Figure: Good Example - An interface describes the methods available on the provider](nsubstitute-1.png)  
+![Figure: Good Example - An interface describes the methods available on the provider](/rules/use-a-precision-mocker-instead-of-a-monster-mocker/nsubstitute-1.png)  
 :::
 
 
 ::: good  
-![Figure: Good Example - The Product Repository is injected into the ProductService class (via constructor injection)](nsubstitute-2.png)  
+![Figure: Good Example - The Product Repository is injected into the ProductService class (via constructor injection)](/rules/use-a-precision-mocker-instead-of-a-monster-mocker/nsubstitute-2.png)  
 :::
 
 
 ::: good  
-![Figure: Good Example - The code is loosely coupled. The ProductService is dependent on an interface of the Product Repository, which is injected into the ProductService via its constructor. The unit test can easily create a mock object of the Product Repository and substitute it for the dependency. NSubstitute is one of the most popular mocking libraries.](nsubstitute-3.png)  
+![Figure: Good Example - The code is loosely coupled. The ProductService is dependent on an interface of the Product Repository, which is injected into the ProductService via its constructor. The unit test can easily create a mock object of the Product Repository and substitute it for the dependency. NSubstitute is one of the most popular mocking libraries.](/rules/use-a-precision-mocker-instead-of-a-monster-mocker/nsubstitute-3.png)  
 :::
+

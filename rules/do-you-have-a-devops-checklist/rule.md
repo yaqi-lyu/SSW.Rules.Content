@@ -31,10 +31,11 @@ A DevOps checklist is a simple document that allows development teams to note al
 
 Actions or Tasks follow a basic format of: Action / Task Name |  Where the task can be performed | Quality Metric
 
-![](Action-Table.png)
+![](/rules/do-you-have-a-devops-checklist/Action-Table.png)
 
 ::: good
 Figure: Good example of a Basic Action Table format  
 :::
 
 This can be stored in the Repo's README or the wiki to make it visible (so you don't forget). Learn more about [awesome documentation](/awesome-documentation/).
+

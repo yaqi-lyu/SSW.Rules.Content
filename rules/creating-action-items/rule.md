@@ -20,13 +20,13 @@ The aim of most meetings should be to come up with next steps. These should be s
 It is a good idea to have a scribe who is drafting the action points during the meeting and **assigning them directly to those responsible for completing the tasks**. If it's not already clear who the scribe is, say "Who will be the scribe?" at the beginning of any meeting. And now in Microsoft Teams, when in a meeting, the scribe can use the **Notes** tab to add details and list follow-up tasks during the meeting.
 
 ::: good
-![Figure: Good example - Use the Notes tab during the meeting to track assignments](MicrosoftTeams-Meeting-Notes.jpeg)
+![Figure: Good example - Use the Notes tab during the meeting to track assignments](/rules/creating-action-items/MicrosoftTeams-Meeting-Notes.jpeg)
 :::
 
 The meeting organiser should allow time after the meeting to check the action points before their next meeting. This can seen as a summary page at the end of the meeting.
 
 ::: good
-![Figure: Good example - Review the meeting summary for follow-ups](Meeting-Notes-Tasks.jpeg)
+![Figure: Good example - Review the meeting summary for follow-ups](/rules/creating-action-items/Meeting-Notes-Tasks.jpeg)
 :::
 
 The scribe should also document the decision-making process by writing down each person's arguments. After everyone comments on the options, the notes can be reviewed as a group and often the best course of action is clear. 

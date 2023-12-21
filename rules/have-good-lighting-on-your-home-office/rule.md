@@ -29,13 +29,14 @@ Here are some tips:
 * On general principle, you always want the subject to be the brightest and most well-lit subject in the frame.
 
 ::: bad
-![Figure: Bad example - Overexposed kitchen](overexposed-kitchen.png)
+![Figure: Bad example - Overexposed kitchen](/rules/have-good-lighting-on-your-home-office/overexposed-kitchen.png)
 :::
 
 ::: good
-![Figure: Good example - Person is the brightest subject in the frame](good-example.png)
+![Figure: Good example - Person is the brightest subject in the frame](/rules/have-good-lighting-on-your-home-office/good-example.png)
 :::
 
 A good tip from [The Spruce blog](https://www.thespruce.com/tips-for-better-home-office-lighting-1812436) is to position your home office station facing north or south so that the sunlight doesn't throw a shadow at any point during the day, making you move your setup frequently.
 
-![Figure: See how different lighting setups can impact remote meetings videos](lightning-impacts.png)
+![Figure: See how different lighting setups can impact remote meetings videos](/rules/have-good-lighting-on-your-home-office/lightning-impacts.png)
+

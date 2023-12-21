@@ -30,7 +30,7 @@ This doesn't just happen in elevators, this can happen when you meet a new clien
 
 Although not everybody is in sales, we all will have to convince others at different times.
 
-![Figure: Imagine you jump in an elevator and someone says "What does your company do?"](microsoftteams-image-5-.png)
+![Figure: Imagine you jump in an elevator and someone says "What does your company do?"](/rules/elevator-pitch/microsoftteams-image-5-.png)
 
 ## How to form an elevator pitch
 
@@ -87,3 +87,4 @@ Let's take a look at some examples of an elevator pitch for SSW:
 
 `youtube: https://www.youtube.com/watch?v=2eSUJRwDWUk`
 **Video: Matt does an elevator pitch**
+

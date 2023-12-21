@@ -20,4 +20,5 @@ You can track progress on this at: [NET-48](/do-you-know-how-to-login-to-jira)
 
 See screen below for sign in details
 
-![Alternate Text](SignIn.png)
+![Alternate Text](/rules/do-you-know-how-to-login-to-jira/SignIn.png)
+

@@ -17,7 +17,7 @@ redirects: []
 
 You may know that it is quite easy to sort view by a column through the UI.
 
-![Figure: Change view column sort from web UI](SortInView.png)
+![Figure: Change view column sort from web UI](/rules/do-you-know-how-to-sort-in-view-by-a-column-through-code/SortInView.png)
 
 But when you are trying to do that via code, you may find a pretty tricky issue.
 
@@ -52,3 +52,4 @@ view.Update();
 ::: good
 Good example - The Ascending attribute is using capital charactors as it is case-sensitive  
 :::
+

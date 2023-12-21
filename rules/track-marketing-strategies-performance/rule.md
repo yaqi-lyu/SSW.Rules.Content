@@ -39,7 +39,7 @@ To do this, you first need to decide how frequently you’d like to collect your
 
 Here is a diagram outlining some of the ways you can track your performance:
 
-![](mkt-performance-diagram.png)
+![](/rules/track-marketing-strategies-performance/mkt-performance-diagram.png)
 
 A simple way of tracking this, is to have a spreadsheet that holds all of your data. Measurement can be as simple or as complicated as you make it. Don’t measure simply for the sake of having some numbers to present to your upper management. If you aren’t certain what you should be measuring, ask yourself these two questions:
 
@@ -48,4 +48,5 @@ A simple way of tracking this, is to have a spreadsheet that holds all of your d
 
 Unless you can answer “yes” to the questions above, you likely don’t need to be collecting the data — at least at first.   
 
-![Figure: An example of a results tracking system for marketing data, it tracks the growth and what it cost to get it!](results-tracking-system.png)
+![Figure: An example of a results tracking system for marketing data, it tracks the growth and what it cost to get it!](/rules/track-marketing-strategies-performance/results-tracking-system.png)
+

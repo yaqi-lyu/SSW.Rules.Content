@@ -21,9 +21,10 @@ Videos are also important for services, but for products, it should be **on the 
 
 
 ::: good  
-![Good Example - Dropbox homepage has no text but a video that shows nicely how it works](dropbox-homepage.jpg)  
+![Good Example - Dropbox homepage has no text but a video that shows nicely how it works](/rules/videos-do-you-have-a-video-on-the-homepage-of-products-websites/dropbox-homepage.jpg)  
 :::
 
 ### Videos are also good for SEO
 
 By embedding videos onto your website it will help get the videos more views, which is a determinant for Google nowadays.
+

@@ -29,12 +29,12 @@ It should be placed on the &lt;head&gt; section of your page. The most used prop
 ```
 
 ::: bad  
-![Figure: Bad example - Shared link has no image and the title was "guessed" by LinkedIn](open-graph-bad.jpg)  
+![Figure: Bad example - Shared link has no image and the title was "guessed" by LinkedIn](/rules/use-open-graph/open-graph-bad.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example - Shared link has a nice image and title, both defined via Open Graph tags](opengraph-good.jpg)  
+![Figure: Good example - Shared link has a nice image and title, both defined via Open Graph tags](/rules/use-open-graph/opengraph-good.jpg)  
 :::
 
 ::: info
@@ -45,3 +45,4 @@ It should be placed on the &lt;head&gt; section of your page. The most used prop
 :::
 
 More information and other properties can be found at [The Open Graph protocol](https://ogp.me/).
+

@@ -33,17 +33,18 @@ It is a good practice to also include screenshots into the PBIs.
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - An important task is missing context](no-email-attached.png)  
+![Figure: Bad example - An important task is missing context](/rules/attach-and-copy-emails-to-the-pbi/no-email-attached.png)  
 :::
 
 ::: good  
-![Figure: Good example - Email is copied to the description](email-in-the-description.png)  
+![Figure: Good example - Email is copied to the description](/rules/attach-and-copy-emails-to-the-pbi/email-in-the-description.png)  
 :::
 
 ::: good  
-![Figure: Good example - Related emails are attached to the PBI](email-attached-to-the-pbi.png)  
+![Figure: Good example - Related emails are attached to the PBI](/rules/attach-and-copy-emails-to-the-pbi/email-attached-to-the-pbi.png)  
 :::
 
 ::: info
 When attaching an email to the PBI, consider whether or not a response to the email is required. The sender will usually expect a response when the issue is resolved. If a response is required, update the Acceptance Criteria with a note. E.g. _"Send a 'done' email in reply to the original email (attached)."_
 :::
+

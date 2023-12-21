@@ -38,7 +38,7 @@ To add references to COM objects:
 * On the Project menu, select Add Reference and then click the COM tab.
 * Select the component you want to use from the list of COM objects.
 
-   ![](UserCOM.gif)  
+   ![](/rules/use-interoperability-mechanism-for-com-object/UserCOM.gif)  
 
 * To access to the interoperability assembly in your application, add an Imports statement to the top of the class or module in which you will
 use the COM object.
@@ -46,3 +46,4 @@ use the COM object.
 You can also create interoperability assemblies using the Tlbimp command line utility.
 
 We have a program called [SSW Code Auditor](https://www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#Interoper) to check for this rule.
+

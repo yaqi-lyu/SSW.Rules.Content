@@ -15,21 +15,21 @@ When [using service accounts](/do-you-use-service-accounts), you should have a s
 
 ::: bad
 
-![Figure: Bad example - using the default Administrator account](defaultadministrationaccount.jpeg)
+![Figure: Bad example - using the default Administrator account](/rules/run-services-on-their-own-ad-accounts/defaultadministrationaccount.jpeg)
 :::
 
 ::: ok\
-![Figure: Better example - At least don't use the Administrator account, create a new account](createnewaccount.jpeg)
+![Figure: Better example - At least don't use the Administrator account, create a new account](/rules/run-services-on-their-own-ad-accounts/createnewaccount.jpeg)
 :::
 
 ::: good
-![Figure: Best example - A specific AD account for each major server](specificadaccount.jpeg)
+![Figure: Best example - A specific AD account for each major server](/rules/run-services-on-their-own-ad-accounts/specificadaccount.jpeg)
 :::
 
 ::: bad 
-![Figure: Bad example - using the network admin's name](networkadminname.jpeg)
+![Figure: Bad example - using the network admin's name](/rules/run-services-on-their-own-ad-accounts/networkadminname.jpeg)
 :::
 
 ::: good
-![Figure: Good example - a specific SQL Server account being used (Suggestion: Make the text box wider and link to the one in 'Services')](sqlserveraccount.jpeg)
+![Figure: Good example - a specific SQL Server account being used (Suggestion: Make the text box wider and link to the one in 'Services')](/rules/run-services-on-their-own-ad-accounts/sqlserveraccount.jpeg)
 :::

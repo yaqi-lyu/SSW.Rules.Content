@@ -14,7 +14,7 @@ guid: b4fe89a4-32bd-4e31-b1f5-bf238dff24e2
 
 If you enter data and then look at reports you will see stale data!!!
 
-![Figure: The report footer tells you that the TFS Warehouse is not up to date](refresh1.jpg)
+![Figure: The report footer tells you that the TFS Warehouse is not up to date](/rules/how-to-refresh-the-cube/refresh1.jpg)
 
 The UI does not provide an easy option. However you have 2 \*hard\* ways of updating the TFS Data Warehouse.
 
@@ -33,15 +33,15 @@ Follow these instructions to reprocess the data warehouse using the web services
 6. "Browse website"
 7. Browse to <http://localhost:8080/tfs/TeamFoundation/Administration/v3.0/WarehouseControlService.asmx>
 
-   ![Figure: You will need to call 2 of these web services](refresh2.jpg)
+   ![Figure: You will need to call 2 of these web services](/rules/how-to-refresh-the-cube/refresh2.jpg)
 
 8. Invoke "ProcessWarehouse" with the parameter "DefaultCollection" (or whatever your collection is called)
 
-   ![Figure: Call "ProcessWarehouse" web service with parameter "DefaultCollection"](refresh3.jpg)
+   ![Figure: Call "ProcessWarehouse" web service with parameter "DefaultCollection"](/rules/how-to-refresh-the-cube/refresh3.jpg)
 
 9. Invoke "ProcessAnalysisDatabase" with parameter "Full"
 
-   ![Figure: Call "ProcessAnalysisDatabase" with parameter "Full"](refresh4.jpg)
+   ![Figure: Call "ProcessAnalysisDatabase" with parameter "Full"](/rules/how-to-refresh-the-cube/refresh4.jpg)
 
 10. Now once the the reprocess is completed, the reports are up to date
 

@@ -23,4 +23,5 @@ SSW's [Rules to Better Scrum using Azure DevOps](/rules-to-better-scrum-using-az
 >
 > * Adam Cogan, SSW Chief Architect
 
-![Figure: Classic stories of Project Management](projectmanagementsummary_small.jpg)
+![Figure: Classic stories of Project Management](/rules/deadlines-and-sprints/projectmanagementsummary_small.jpg)
+

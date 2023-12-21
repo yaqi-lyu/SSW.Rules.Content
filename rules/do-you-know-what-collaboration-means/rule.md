@@ -19,10 +19,11 @@ Among other things, it means never sending attachments in an email. Once an atta
  SharePoint changes this by allowing you to easily email a link to a SharePoint file. This means all recipients review and edit the single "master version" of the file. 
 
 ::: good  
-![](share-link1.jpg)  
+![](/rules/do-you-know-what-collaboration-means/share-link1.jpg)  
 :::
- ![](share-link2.jpg) 
+ ![](/rules/do-you-know-what-collaboration-means//rules/do-you-know-what-collaboration-means/share-link2.jpg) 
 
 ::: good  
-![Figure: Good example: Email a link, not a file](share-link2.jpg)  
+![Figure: Good example: Email a link, not a file](/rules/do-you-know-what-collaboration-means//rules/do-you-know-what-collaboration-means/share-link2.jpg)  
 :::
+

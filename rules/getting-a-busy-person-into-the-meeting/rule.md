@@ -40,4 +40,5 @@ Teams | Participants | Request to Join
 
 This will remind the team that the meeting has started just in case they missed the calendar reminder.
 
-![Figure: In Microsoft Teams, add someone to the call by Show Participants | Request to join](teams-request-to-join.png)
+![Figure: In Microsoft Teams, add someone to the call by Show Participants | Request to join](/rules/getting-a-busy-person-into-the-meeting/teams-request-to-join.png)
+

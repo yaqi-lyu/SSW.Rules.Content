@@ -28,11 +28,11 @@ If you're sending to a client, either get them to share a publically available l
 When sharing documents it's best to keep the work alive and the best way to do that is to have it hosted in one place where all working parties can access it. Using SharePoint will also help minimize broken links.
 
 ::: bad
-![Figure: Bad example - Don't attach documents to emails when sending internally](bad-example-email-attachments.png)
+![Figure: Bad example - Don't attach documents to emails when sending internally](/rules/do-you-know-not-to-send-attachments-in-emails/bad-example-email-attachments.png)
 :::
 
 ::: good
-![Figure: Good example - The file is shared from SharePoint and everyone can work on the same document](good-example-sharepoint.png)
+![Figure: Good example - The file is shared from SharePoint and everyone can work on the same document](/rules/do-you-know-not-to-send-attachments-in-emails/good-example-sharepoint.png)
 :::
 
 ### External Docs
@@ -40,11 +40,11 @@ When sharing documents it's best to keep the work alive and the best way to do t
 When communicating with external contacts, it's often easier to attach the file than share a link due to permission issues. This also allows them to share the document internally and always have access to the copy.
 
 ::: bad
-![Figure: Bad example – Added the file as a link. This requires maintenance as we would need to add them as guests to Teams or would have to make the file an anonymous link](email-bad-example.png)
+![Figure: Bad example – Added the file as a link. This requires maintenance as we would need to add them as guests to Teams or would have to make the file an anonymous link](/rules/do-you-know-not-to-send-attachments-in-emails/email-bad-example.png)
 :::
 
 ::: good
-![Figure: Good example – Added the file as an attachment](email-external-good-example.png)
+![Figure: Good example – Added the file as an attachment](/rules/do-you-know-not-to-send-attachments-in-emails/email-external-good-example.png)
 :::
 
 #### Benefits
@@ -54,3 +54,4 @@ When communicating with external contacts, it's often easier to attach the file 
 ✅ They can forward it to whoever they want
 
 ✅ There is a paper trail of changes and feedback that they can share internally on their end.
+

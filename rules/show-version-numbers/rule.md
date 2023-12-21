@@ -23,7 +23,7 @@ It is very important to have your Word, PowerPoint, PDFs, and design documents u
 <!--endintro-->
 
 ::: good
-![Figure: Good example - Version number on the RHS of a design document](scrum-image-version-number.png)
+![Figure: Good example - Version number on the RHS of a design document](/rules/show-version-numbers/scrum-image-version-number.png)
 :::
 
 See [how you increase the version number](/semantic-versioning):
@@ -57,3 +57,4 @@ codeauditor\file_v3.pdf
 ::: good
 Figure: Good example - File names show the version information  
 :::
+

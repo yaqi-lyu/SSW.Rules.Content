@@ -20,9 +20,10 @@ You can install Web Essentials from the  **Tools** |  **Extensions and Updates**
 
 
 ::: good  
-![Good Example: Web Essentials is in the Installed list.](SSW - Rules - Web Essentials.png)  
+![Good Example: Web Essentials is in the Installed list.](/rules/do-you-use-web-essentials/SSW - Rules - Web Essentials.png)  
 :::
 
 Be sure to make sure your visual studio version and your web essentials version are the same.
 
 You can find more information at the extensions website found here: http://vswebessentials.com/
+

@@ -16,7 +16,7 @@ While there can be great value in using automation in testing, human capabilitie
 
 <!--endintro-->
 
-![Figure: Bill Lumbergh might well ask someone to "automate all the testing" (from the movie Office Space)](automate-everything.jpg)
+![Figure: Bill Lumbergh might well ask someone to "automate all the testing" (from the movie Office Space)](/rules/why-testing-cannot-be-completely-automated/automate-everything.jpg)
 
 ### Remember the difference between testing and checking
 
@@ -101,3 +101,4 @@ Check out Huib Schoots and Paul Holland talking about "Automation Addiction" in 
 `youtube: https://www.youtube.com/watch?v=c1KKOyQUSWI&t=17s`
 
 **Video: Huib Schoots & Paul Holland - Automation Addiction (52 min)**
+

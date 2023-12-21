@@ -72,14 +72,14 @@ Even the most seasoned analysts might occasionally overlook certain details in a
   :::
 
   ::: good
-  ![Figure: Good example - Visualizing complex system infrastructure using Mermaid for clarity](mermaid.jpg)
+  ![Figure: Good example - Visualizing complex system infrastructure using Mermaid for clarity](/rules/use-ai-to-generate-spec-reviews/mermaid.jpg)
   :::
   
 * **From Architecture to Specification:** 
   Entrust your AI with an architecture blueprint. See it draft an initial Specification Review, ready for human refinement.
 
   ::: good 
-  ![Figure: Good example - Using AI to generate a Specification Review on existing architecture](chatgpt_azure.jpg)
+  ![Figure: Good example - Using AI to generate a Specification Review on existing architecture](/rules/use-ai-to-generate-spec-reviews/chatgpt_azure.jpg)
   :::
 
 ## Example
@@ -111,3 +111,4 @@ Figure: Good example - A good prompt to get the conversation started
 :::
 
 In harnessing AI, it's pivotal to recognize its value as a tool. Its true strength emerges when combined with our expertise, elevating the final output to unmatched quality.
+

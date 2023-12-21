@@ -23,7 +23,7 @@ To avoid confusion, add as much relevant details as possible into the subject fi
 
 An example expense is outlined below:
 
-![Figure: New Expense claim required fields](xero-me-example-blank.png)
+![Figure: New Expense claim required fields](/rules/how-to-enter-an-expensify-receipt/xero-me-example-blank.png)
 
 To enter the expense claim in Xero Me, follow the steps below:
 1. Open Xero Me
@@ -44,7 +44,7 @@ To enter the expense claim in Xero Me, follow the steps below:
 Xero Me has a smart scan function which will read the amount, supplier name and invoice date directly from the invoice. The subject field ("What was it for?"), reimbursable field, categorize field and office field will need to be added in manually.
 
 ::: bad
-![Figure: Bad example - The Subject field and Office field are blank](xero-me-bad-example.png)
+![Figure: Bad example - The Subject field and Office field are blank](/rules/how-to-enter-an-expensify-receipt/xero-me-bad-example.png)
 
 :::
 
@@ -59,4 +59,5 @@ If the expense is not reimbursable, i.e. has been paid on the company's credit c
 ![Figure: Non-reimbursable expense](https://user-images.githubusercontent.com/96279310/158093384-b11ab4ac-8e38-433b-b753-a7e8026d3a63.png)
 
 A detailed step-by-step Xero process on how to enter expense claims in Xero Me from from your phone or desktop can be found [here](https://central.xero.com/s/article/Create-a-new-expense?userregion=true#android). 
+
 

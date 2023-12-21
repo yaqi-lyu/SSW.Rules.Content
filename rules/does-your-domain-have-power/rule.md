@@ -23,9 +23,10 @@ Here are a few things:
 * **Using auto-renewal** - Setting the domain to auto-renew is a smart practice to ensure you don't accidentally lose control of your domain due to expiration. Don’t be like Australian PM Scott Morrison [who lost control of his domain name](https://www.sbs.com.au/news/pm-s-website-taken-over-by-troll-plays-loop-of-scotty-doesn-t-know) to a prankster.
 
 ::: bad
-![Figure: Bad example - What happens when you lose your domain to a prankster and you are the PM](tweet.jpg)
+![Figure: Bad example - What happens when you lose your domain to a prankster and you are the PM](/rules/does-your-domain-have-power/tweet.jpg)
 :::
 
 ::: good
-![Figure: Good Example - This website has its main product 'car' in its domain](car.jpg)
+![Figure: Good Example - This website has its main product 'car' in its domain](/rules/does-your-domain-have-power/car.jpg)
 :::
+

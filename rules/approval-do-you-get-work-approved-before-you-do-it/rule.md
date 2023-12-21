@@ -27,7 +27,7 @@ Let's see how to live without stomach ulcers...
 
 <!--endintro-->
 
-![Figure: Get work approved and spend less time putting out fires](SuccessfulProjects\_PuttingOutFires.jpg)  
+![Figure: Get work approved and spend less time putting out fires](/rules/approval-do-you-get-work-approved-before-you-do-it/SuccessfulProjects_PuttingOutFires.jpg)  
 
 Get permission for the work you do      **\*before\*** you do it. Usually get permission verbally,     [confirmed with an email](/dones-do-you-send-yourself-emails) (or with a     [signature](/do-you-ask-clients-to-initial-your-work), although that's sometimes a whole lot harder).
 
@@ -55,3 +55,4 @@ This rule is not generally applicable if:
       [ad hoc](/do-you-know-the-difference-between-ad-hoc-work-and-managed-work) basis on a client managed project
 * The task is an obvious task which you would 
       [reasonably assume the client would approve](/approval-do-you-assume-necessary-tasks-will-get-approval) and is not likely to take more than half an hour.
+

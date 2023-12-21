@@ -25,7 +25,7 @@ Bad example of a constant message
 :::
 
 ::: good\
-![Figure: Saving constant message in Resource](BetterCode_ConstantMessages.gif)
+![Figure: Saving constant message in Resource](/rules/use-resource-file-to-store-messages/BetterCode_ConstantMessages.gif)
 :::
 
 ```vbnet
@@ -35,3 +35,4 @@ Module Startup Sub Main() Console.Write(My.Resources.Messages.Constant_HelloWorl
 ::: good
 Good example of a constant message 
 :::
+

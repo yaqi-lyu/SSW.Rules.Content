@@ -25,4 +25,5 @@ Over the years, SSW has trained thousands of developers and we have found that t
 
 Of course, there are other ways of learning and the chart below discusses the effectiveness of each.
 
-![](learn-rate.png)
+![](/rules/the-best-way-to-learn/learn-rate.png)
+

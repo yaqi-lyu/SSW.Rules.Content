@@ -21,5 +21,6 @@ Therefore change the Title Bar to have the current document/customer/job/project
 
 
 ::: good  
-![Figure: Good Example - Application with a standard title bar caption](../../assets/imgTitleBarCaption.gif)  
+![Figure: Good Example - Application with a standard title bar caption](/rules/title-bar-do-you-put-the-current-document-project-name-as-the-first-word-of-your-title-bar/imgTitleBarCaption.gif)  
 :::
+

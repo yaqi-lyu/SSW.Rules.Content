@@ -18,13 +18,13 @@ Always indicate which fields are required. Users get frustrated when they experi
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - No visual indication for required fields when a user first sees the form](Required-field\_Bad-example.jpg)  
+![Figure: Bad example - No visual indication for required fields when a user first sees the form](/rules/forms-do-you-indicate-which-fields-are-required-and-validate-them/Required-field_Bad-example.jpg)  
 :::
 
 A designer will know the best way to indicate required field depending on the layout. However if you are in doubt and don’t have a designer around, a red asterisk is definitely the best option.
 
 ::: good  
-![Figure: Good Example - A visual indication of what fields are required (use a red asterisk if you are not a designer)](Redstar\_Good-example.jpg)  
+![Figure: Good Example - A visual indication of what fields are required (use a red asterisk if you are not a designer)](/rules/forms-do-you-indicate-which-fields-are-required-and-validate-them/Redstar_Good-example.jpg)  
 :::
 
 ### More information on ASP.NET implementation
@@ -52,3 +52,4 @@ Figure: Good example - An ASP.NET validator in use, to indicate the fields requi
 ::: greybox
 **Note:** For ASP.NET Dynamic Data although validation is done differently (under the covers it is using a field template + the ASP.NET validator).
 :::
+

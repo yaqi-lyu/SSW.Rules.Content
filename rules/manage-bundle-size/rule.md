@@ -29,7 +29,7 @@ Depcheck is a great CLI tool that scans your project to automatically detect unu
 npx depcheck
 ```
 
-![Figure: A list of the unused dependencies in a project](depcheck.png)
+![Figure: A list of the unused dependencies in a project](/rules/manage-bundle-size/depcheck.png)
 
 **Note:** It is important to be mindful when using this tool of packages that are still in use in the project, either in the build steps or otherwise (e.g. `tailwindcss` in the example above is not explicitly imported in the project, but is still used behind the scenes).
 
@@ -41,7 +41,7 @@ You can also upload a package.json file to display a list of packages in your pr
 
 
 
-![Figure: The list of packages from the package.json file, sorted by size](bundlephobia_list.png)
+![Figure: The list of packages from the package.json file, sorted by size](/rules/manage-bundle-size/bundlephobia_list.png)
 
 **Note:** It is important to understand that not all of the packages in your `package.json` file are shipped to the client, this is primarily a tool used to assess specific client-side packages that you suspect may have a large bundle size (for example, some packages may only be used by the server or within the build steps of the project i.e. `typescript` or `tailwindcss`). 
 
@@ -49,7 +49,7 @@ You can also upload a package.json file to display a list of packages in your pr
 
 The Import Cost extension for VSCode, developed by Wix shows the size of each NPM package you import, which can provide useful visual feedback on how large the packages you importing actually are. You search the extension on the Visual Studio Code Extension Marketplace at [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost). 
 
-![Figure: The extension in action - shows you how large each package is, as you import it](import-cost.png)
+![Figure: The extension in action - shows you how large each package is, as you import it](/rules/manage-bundle-size/import-cost.png)
 
 
 ## Webpack Bundle Analyzer 
@@ -60,4 +60,4 @@ If your JavaScript project is using Webpack (most React/NextJS projects will be)
 If you are using NextJS, it is advised to use Next's custom implementation of the package - [`@next/bundle-analyzer`](https://www.npmjs.com/package/@next/bundle-analyzer).
 
 
-![Figure: The bundle map for the NextJS SSW Website](webpack-bundle-analyzer.png)
+![Figure: The bundle map for the NextJS SSW Website](/rules/manage-bundle-size/webpack-bundle-analyzer.png)

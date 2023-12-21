@@ -19,7 +19,8 @@ If you know which machine the database is going to be installed from within your
 
 
 ::: good  
-![Good example – an application should never automatically delete a database, not even a sample database](../../assets/InterfacesDBAlreadyExists.gif)  
+![Good example – an application should never automatically delete a database, not even a sample database](/rules/sample-do-you-avoid-dropping-a-users-database-when-you-attempt-to-create-a-database/InterfacesDBAlreadyExists.gif)  
 :::
 
 If you cannot be sure of the machine that the database is going to be installed on then you should make use of third party .sql script execution managers such as [SSW SQL Deploy](http://www.ssw.com.au/ssw/SQLDeploy) to ensure that when you attempt creation of databases where the database already exists then things will run smoothly.
+

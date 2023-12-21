@@ -18,7 +18,7 @@ After upgrading TFS, you should do a quick [smoke test](http://en.wikipedia.org/
 
 <!--endintro-->
 
-![Figure: New TFS Title using our existing url](tfs title.png)
+![Figure: New TFS Title using our existing url](/rules/do-a-quick-test-after-the-upgrade-finishes-tfs2015-migration/tfs title.png)
 
 1. Navigate to the web access URL for your new TFS server.
 2. If it loads correctly, click "Browse all..." to check all your Team Projects were migrated across correctly
@@ -27,3 +27,4 @@ In Visual Studio, connect to TFS, then:
 
 3. Do a Get Latest on a project or file
 4. Make a change, and ensure you can Check In
+

@@ -52,7 +52,7 @@ Keep in mind, that the more control you have, the more maintenance will be requi
 
   * Consumer responsible for only App configuration
 
-![Figure: The different levels of control](control.png)
+![Figure: The different levels of control](/rules/choose-azure-services/control.png)
 
 ### 1.2 Location - Where do I need the app to run?
 

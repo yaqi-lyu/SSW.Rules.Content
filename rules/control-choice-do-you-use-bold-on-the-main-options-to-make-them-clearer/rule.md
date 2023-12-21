@@ -18,9 +18,10 @@ Make the options clearer by using bold.
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad Example - Main options text not in bold](../../assets/OptionsTextNotInBold.gif)  
+![Figure: Bad Example - Main options text not in bold](/rules/control-choice-do-you-use-bold-on-the-main-options-to-make-them-clearer/OptionsTextNotInBold.gif)  
 :::
 
 ::: good  
-![Figure: Good Example - Main options text in bold](../../assets/OptionsTextInBold.gif)  
+![Figure: Good Example - Main options text in bold](/rules/control-choice-do-you-use-bold-on-the-main-options-to-make-them-clearer/OptionsTextInBold.gif)  
 :::
+

@@ -17,10 +17,10 @@ DevOps and Scrum compliment each other very well. Scrum is about inspecting and 
 
 <!--endintro-->
 
-![Figure: Traditional Scrum process](2016-06-08\_14-33-24.png)  
+![Figure: Traditional Scrum process](/rules/do-you-know-how-devops-fits-in-with-scrum/2016-06-08_14-33-24.png)  
 
 ::: good  
-![Figure: Scrum with DevOps](2016-06-08\_14-30-33.png)  
+![Figure: Scrum with DevOps](/rules/do-you-know-how-devops-fits-in-with-scrum/2016-06-08_14-30-33.png)  
 :::
 
 With DevOps, we add tools to help us automate slow process like build and deployment then add metrics to give us numbers to help quantify our processes. Then we gather the metrics and figure out what can be done to improve.
@@ -38,3 +38,4 @@ The problem with the above is that not all exceptions are equal, and most of the
 4. Prioritize the exceptions on the backlog
 
 The goal here is to make sure you're not missing important and to reduce the noise. You want these tools to help support your efforts and make your more productive and not just be another time sink.
+

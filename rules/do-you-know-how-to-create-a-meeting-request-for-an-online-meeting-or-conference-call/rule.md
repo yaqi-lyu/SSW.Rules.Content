@@ -34,6 +34,7 @@ To create an online meeting or conference call meeting request, follow these ste
       [Set options for online meetings and conference calls](http://office.microsoft.com/en-us/communicator-help/set-options-for-online-meetings-and-conference-calls-HA102000107.aspx?CTT=5&origin=HA101990914).
 
 
-![Figure: Creating a Lync Online meeting from outlook.](lync-online-meeting.jpg)  
+![Figure: Creating a Lync Online meeting from outlook.](/rules/do-you-know-how-to-create-a-meeting-request-for-an-online-meeting-or-conference-call/lync-online-meeting.jpg)  
 
 Read more about     [implementing Microsoft Lync](http://www.ssw.com.au/ssw/Consulting/Lync.aspx).
+

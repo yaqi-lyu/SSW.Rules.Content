@@ -23,5 +23,6 @@ Websites should do the same by giving more information instead of just say “40
 
 
 ::: good  
-![Figure: Good example - If you don’t match anything on Amazon, it gives you some other choices to click on](amazon-search.jpg)  
+![Figure: Good example - If you don’t match anything on Amazon, it gives you some other choices to click on](/rules/search-results-do-you-always-give-more-information-when-searching-doesnt-find-anything/amazon-search.jpg)  
 :::
+

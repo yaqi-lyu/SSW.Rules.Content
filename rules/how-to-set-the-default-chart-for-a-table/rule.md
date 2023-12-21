@@ -19,29 +19,29 @@ Model-driven apps allow you to create multiple charts per table, ordinarily, the
 
 <!--endintro-->
 
-![Figure: The first chart in the list is the default](default-chart-1.png)  
+![Figure: The first chart in the list is the default](/rules/how-to-set-the-default-chart-for-a-table/default-chart-1.png)  
 
 In the example above “Leads by Rating" is the be the default system-level chart of the Lead table. Some additional work is required to change the default. The easiest way of doing this is with     [XRMToolBox](https://www.xrmtoolbox.com/) and the     [Advanced Chart Editor](https://crmchartguy.com/2017/06/10/edit-charts-in-the-xrmtoolbox-for-dynamics-365/) plugin.
 
 1. Open the Advanced Chart Editor, Load Entities, and Navigate to the table
 
-![](default-chart-2.png)  
+![](/rules/how-to-set-the-default-chart-for-a-table/default-chart-2.png)  
 
 2. If changing the default chart to Leads by Source, select chart and export it
 
-![](default-chart-3.png)  
+![](/rules/how-to-set-the-default-chart-for-a-table/default-chart-3.png)  
 
 3. Open the exported XML file in the text editor of your choice, and change the  **isdefault** element to “true" and save the file
 
-![](default-chart-4.png)  
+![](/rules/how-to-set-the-default-chart-for-a-table/default-chart-4.png)  
 
 4. Import the modified XML back into the Advanced Chart Editor and publish the changes
 
-![](default-chart-5.png)  
+![](/rules/how-to-set-the-default-chart-for-a-table/default-chart-5.png)  
 
 5. Refresh the Table view, the updated chart should be the default chart in the list
 
-![](default-chart-6.png)  
+![](/rules/how-to-set-the-default-chart-for-a-table/default-chart-6.png)  
 
 
 
@@ -53,4 +53,5 @@ For example, if “Lead by Rating" and “Lead by Source" are both set as defaul
 
 This can be desirable in some instances.
 
-![Figure: Two sorts, first alphabetical sort for the defaults, second alphabetical sort for the remaining charts](default-chart-7.png)
+![Figure: Two sorts, first alphabetical sort for the defaults, second alphabetical sort for the remaining charts](/rules/how-to-set-the-default-chart-for-a-table/default-chart-7.png)
+

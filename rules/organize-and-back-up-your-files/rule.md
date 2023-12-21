@@ -27,21 +27,21 @@ When building projects, ensure that [files and folders are labeled clearly and c
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - The project is messy, without any meaningful or specific labels](structure-back-up-files-bad-example-1.jpg)  
+![Figure: Bad example - The project is messy, without any meaningful or specific labels](/rules/organize-and-back-up-your-files/structure-back-up-files-bad-example-1.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - Folders are clearly labeled, the root file also includes the date](structure-back-up-files-good-example-1.jpg)  
+![Figure: Good example - Folders are clearly labeled, the root file also includes the date](/rules/organize-and-back-up-your-files/structure-back-up-files-good-example-1.jpg)  
 :::
 
 A good file structure should also include storing finished projects separately from the working files. In a team environment, this system can also incorporate file ownership with different users.
 
 ::: bad  
-![Figure: Bad example - A singular project folder, with some project, files also sitting outside it](structure-back-up-files-bad-example-2.jpg)  
+![Figure: Bad example - A singular project folder, with some project, files also sitting outside it](/rules/organize-and-back-up-your-files/structure-back-up-files-bad-example-2.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - There are dedicated folders for projects that are in progress and completed](structure-back-up-files-good-example-2.jpg)  
+![Figure: Good example - There are dedicated folders for projects that are in progress and completed](/rules/organize-and-back-up-your-files/structure-back-up-files-good-example-2.jpg)  
 :::
 
 File names are also very important - they are the principal identifier of a file. They need to include information about the content and context of the file.
@@ -49,9 +49,10 @@ File names are also very important - they are the principal identifier of a file
 Always use version numbers when saving – **don’t use the word ‘final’**. It is much easier to follow the progression of a project with numbers, both to find the latest version or to revert back to a previous one if needed.
 
 ::: bad  
-![Figure: Bad example - Items are not named clearly and it is difficult to know what file is the correct export](structure-back-up-files-bad-example-3.jpg) 
+![Figure: Bad example - Items are not named clearly and it is difficult to know what file is the correct export](/rules/organize-and-back-up-your-files/structure-back-up-files-bad-example-3.jpg) 
 :::
 
 ::: good  
-![Figure: Good example - Each file has an appropriate version number](structure-back-up-files-good-example-3.jpg)  
+![Figure: Good example - Each file has an appropriate version number](/rules/organize-and-back-up-your-files/structure-back-up-files-good-example-3.jpg)  
 :::
+

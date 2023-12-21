@@ -26,11 +26,11 @@ If you have a wearable device like an Apple Watch/ Fitbit/ Microsoft Band that c
 
 <!--endintro-->
 
-![Figure: With an Apple Watch, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call](apple-iwatch-incoming-call.jpg)  
+![Figure: With an Apple Watch, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call](/rules/do-you-have-your-mobile-phone-on-vibrate/apple-iwatch-incoming-call.jpg)  
 
-![Figure: With a Fitbit, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call](fitbit-band-incoming-call.jpg)  
+![Figure: With a Fitbit, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call](/rules/do-you-have-your-mobile-phone-on-vibrate/fitbit-band-incoming-call.jpg)  
 
-![Figure: With a Microsoft Band, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call](microsoft-band-incoming-call.jpg)  
+![Figure: With a Microsoft Band, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call](/rules/do-you-have-your-mobile-phone-on-vibrate/microsoft-band-incoming-call.jpg)  
 
 This has the following advantages:
 
@@ -48,3 +48,4 @@ This has the following advantages:
 
  **Figure: Should the person you’re meeting get priority...or the person ringing in?
 **
+

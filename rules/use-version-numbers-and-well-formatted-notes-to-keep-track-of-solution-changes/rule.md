@@ -33,10 +33,11 @@ This gives you a quick and easy reference for the changes that have happened in 
 
 
 ::: bad  
-![Bad Example: Version 1.0.0.0, No changelog](change-log-bad.png)  
+![Bad Example: Version 1.0.0.0, No changelog](/rules/use-version-numbers-and-well-formatted-notes-to-keep-track-of-solution-changes/change-log-bad.png)  
 :::
 
 
 ::: good  
-![Good Example: Solution has up to date versioning with detailed changelog](change-log-good.png)  
+![Good Example: Solution has up to date versioning with detailed changelog](/rules/use-version-numbers-and-well-formatted-notes-to-keep-track-of-solution-changes/change-log-good.png)  
 :::
+

@@ -37,25 +37,25 @@ Don't surprise users! Use icons next to links to show different types of links/f
 | **[External link](/do-you-make-external-links-clear)** | [This is an external link](https://www.microsoft.com/)                                     | ...                      |
 | **YouTube**                                                       | [This is a link to a YouTube video](https://www.youtube.com/watch?v=gp_F43lx6iM) | ...                     |
 | **Email (mailto:)**                                               | [This link will send an email](mailto:example@mail.com)                          | ...                     |
-| **PDF**                                                           | [This is a PDF file](Sample-PDF.pdf)                                             | ![](pdf-icon.png)       |
-| **DOC**                                                           | [This is a Word Document file](Sample-DOC.docx)                                  | ![](docx-icon.png)      |
-| **XLS**                                                           | [This is an Excel Spreadsheet file](Sample-XLS.xlsx)                             | ![](xls-file.png)       |
-| **PPT**                                                           | [This is a PowerPoint file](Sample-PPT.pptx)                                     | ![](ppt-file.png)       |
-| **TXT**                                                           | [This is a text file](Sample-TXT.txt)                                            | ![](txt-file.png)       |
-| **AVI, MOV, MPG, etc.**                                           | [This is a video file](https://www.ssw.com.au/ssw/include/consulting/img/CRM_background.mp4)               | ![](video-file.png)                      |
-| **WAV, WMA, MP3, etc.**                                           | [This is an audio file](sample-AUDIO.mp3)                                         | ![](audio-file.png)    |
-| **ICS or VCS**                                                    | [This is a calendar file](Sample-ICS.ics)                                        | ![](calendar-icon-png.png)                     |
-| **ZIP**                                                           | [This is a zip file](Sample-ZIP.zip)                                             | ![](zip-file.png) |
-| **Google Maps**                                                           | [This is a Google Map link](https://www.google.com/maps/place/SSW+Sydney+-+Enterprise+Software+Development/@-33.8305685,151.2193249,15z/data=!4m6!3m5!1s0x6b12ae97d5dce3c1:0xae8cb5f05af0e28d!8m2!3d-33.8305685!4d151.2193249!16s%2Fg%2F1tdy4mhr?entry=ttu)                                             | ![](map-icon.png) |
+| **PDF**                                                           | [This is a PDF file](Sample-PDF.pdf)                                             | ![](/rules/use-icons-to-not-surprise-users/pdf-icon.png)       |
+| **DOC**                                                           | [This is a Word Document file](Sample-DOC.docx)                                  | ![](/rules/use-icons-to-not-surprise-users/docx-icon.png)      |
+| **XLS**                                                           | [This is an Excel Spreadsheet file](Sample-XLS.xlsx)                             | ![](/rules/use-icons-to-not-surprise-users/xls-file.png)       |
+| **PPT**                                                           | [This is a PowerPoint file](Sample-PPT.pptx)                                     | ![](/rules/use-icons-to-not-surprise-users/ppt-file.png)       |
+| **TXT**                                                           | [This is a text file](Sample-TXT.txt)                                            | ![](/rules/use-icons-to-not-surprise-users/txt-file.png)       |
+| **AVI, MOV, MPG, etc.**                                           | [This is a video file](https://www.ssw.com.au/ssw/include/consulting/img/CRM_background.mp4)               | ![](/rules/use-icons-to-not-surprise-users/video-file.png)                      |
+| **WAV, WMA, MP3, etc.**                                           | [This is an audio file](sample-AUDIO.mp3)                                         | ![](/rules/use-icons-to-not-surprise-users/audio-file.png)    |
+| **ICS or VCS**                                                    | [This is a calendar file](Sample-ICS.ics)                                        | ![](/rules/use-icons-to-not-surprise-users/calendar-icon-png.png)                     |
+| **ZIP**                                                           | [This is a zip file](Sample-ZIP.zip)                                             | ![](/rules/use-icons-to-not-surprise-users/zip-file.png) |
+| **Google Maps**                                                           | [This is a Google Map link](https://www.google.com/maps/place/SSW+Sydney+-+Enterprise+Software+Development/@-33.8305685,151.2193249,15z/data=!4m6!3m5!1s0x6b12ae97d5dce3c1:0xae8cb5f05af0e28d!8m2!3d-33.8305685!4d151.2193249!16s%2Fg%2F1tdy4mhr?entry=ttu)                                             | ![](/rules/use-icons-to-not-surprise-users/map-icon.png) |
 
 :::
 
 ::: bad
-![Figure: Bad example - Users would expect all these hyperlinks to work the same way](link-with-icons-bad.png)
+![Figure: Bad example - Users would expect all these hyperlinks to work the same way](/rules/use-icons-to-not-surprise-users/link-with-icons-bad.png)
 :::
 
 ::: good
-![Figure: Good example - The PDF icon indicates one of the links is not a webpage](link-with-icons-good.png)
+![Figure: Good example - The PDF icon indicates one of the links is not a webpage](/rules/use-icons-to-not-surprise-users/link-with-icons-good.png)
 :::
 
 ## How to add icons to links via CSS
@@ -108,3 +108,4 @@ padding-left: 20 px;
 ```
 
 **Figure: Replace the path in background URL with each icon image**
+

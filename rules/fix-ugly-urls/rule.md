@@ -54,5 +54,6 @@ Figure: OK example - create a static route if you only have a few rewrites**
 2. Use the URL Rewriting Module for IIS7 
 
 ::: good  
-![Figure: Good example - An IIS7 Rewrite is much easier to manage](IIS7Rewrite.jpg)  
+![Figure: Good example - An IIS7 Rewrite is much easier to manage](/rules/fix-ugly-urls/IIS7Rewrite.jpg)  
 :::
+

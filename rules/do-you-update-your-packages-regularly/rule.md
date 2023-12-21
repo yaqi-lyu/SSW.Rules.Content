@@ -23,4 +23,5 @@ Updating often can help mitigate this risk by ensuring that each individual upda
 
 Recommended practice is to apply package updates at the start of a Sprint so that there is time to find and resolve issues introduced by the update.
 
-![Figure: Nuget package updates](update-nuget.png)
+![Figure: Nuget package updates](/rules/do-you-update-your-packages-regularly/update-nuget.png)
+

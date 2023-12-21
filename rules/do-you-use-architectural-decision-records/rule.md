@@ -76,10 +76,11 @@ log4brains preview
 
 ## ADR Examples
 
-![Figure: Example ADR from SSW.CleanArchitecture](adr.png)
+![Figure: Example ADR from SSW.CleanArchitecture](/rules/do-you-use-architectural-decision-records/adr.png)
 
 You can see more examples of ADRs with log4brains in action on our [SSW.CleanArchitecture template](https://sswconsulting.github.io/SSW.CleanArchitecture/).
 
 ## Related Articles
 
 * [Dan Does Code - Demystifying Architectural Decision Records Why Every Project Needs Them](https://www.dandoescode.com/blog/demystifying-architectural-decision-records-why-every-project-needs-them)
+

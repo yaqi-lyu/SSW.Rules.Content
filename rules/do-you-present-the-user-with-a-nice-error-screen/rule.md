@@ -27,15 +27,15 @@ Your users should never see the “yellow screen of death”. Errors should be c
 <!--endintro-->
 
 ::: bad
-![Figure: Bad Example – ASP.NET Yellow Screen of Death](error-screen-bad.png)
+![Figure: Bad Example – ASP.NET Yellow Screen of Death](/rules/do-you-present-the-user-with-a-nice-error-screen/error-screen-bad.png)
 :::
 
 ::: bad 
-![Figure: Bad Example - Default exception page](net-core-default.png)
+![Figure: Bad Example - Default exception page](/rules/do-you-present-the-user-with-a-nice-error-screen/net-core-default.png)
 :::
 
 ::: good  
-![Figure: Good Example - GitHub custom error page](error-screen-good.png)
+![Figure: Good Example - GitHub custom error page](/rules/do-you-present-the-user-with-a-nice-error-screen/error-screen-good.png)
 :::
 
 However, as a developer you still want to be able to view the detail of the exception in your local development environment. 
@@ -62,7 +62,8 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 ```
 
 ::: good  
-![Figure: This is how you set it up in .NET 5](net-core-development.png)
+![Figure: This is how you set it up in .NET 5](/rules/do-you-present-the-user-with-a-nice-error-screen/net-core-development.png)
 :::
 
 Find out more about exception handling in .NET Core 5 [here](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/error-handling?view=aspnetcore-5.0).
+

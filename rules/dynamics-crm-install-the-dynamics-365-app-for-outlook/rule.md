@@ -33,19 +33,20 @@ Follow these steps:
 2. Select Settings (cog) | Advanced Settings
 3. Select Settings (cog) | Apps For Dynamics 365
 
-![Figure: Select Settings (cog) | Apps for Dynamics 365 ﻿menu﻿ item](crm-addins_1.png)  
+![Figure: Select Settings (cog) | Apps for Dynamics 365 ﻿menu﻿ item](/rules/dynamics-crm-install-the-dynamics-365-app-for-outlook/crm-addins_1.png)  
 
 4. Install the App.
 From this page, you should have the option to Download Dynamics 365 for Outlook and then follow the prompts to finish the configuration.
 You can optionally install the new App (ask your SysAdmin for help if you're unable to get it working)
 
-  ![Figure: Dynamics 365 apps for Outlook﻿](Dynamics-app-download.png)
+  ![Figure: Dynamics 365 apps for Outlook﻿](/rules/dynamics-crm-install-the-dynamics-365-app-for-outlook/Dynamics-app-download.png)
 
 5. You should now see the Dynamics 365 plugins available within Outlook﻿ (e.g. emails & appointments)
 
-   ![Figure: In Outlook open a new Email and see Dynamics 365 app that opens a Dynamics sidebar](Dynamics-app-boxes.jpg)
+   ![Figure: In Outlook open a new Email and see Dynamics 365 app that opens a Dynamics sidebar](/rules/dynamics-crm-install-the-dynamics-365-app-for-outlook/Dynamics-app-boxes.jpg)
 
 Now you can get up-and-running using CRM:
 
 * [Scheduling - Do you know how to book developers for a project?](/scheduling-do-you-know-how-to-book-developers-for-a-project)
 * [Sales - Do you track all sales-related activities in CRM?](/sales-do-you-track-all-sales-related-activities-in-crm)
+

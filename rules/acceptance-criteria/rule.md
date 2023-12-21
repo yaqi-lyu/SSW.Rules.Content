@@ -39,7 +39,7 @@ Product Owners should make an effort to specify all of their requirements for a 
 
 They must be specified in the Acceptance Criteria if required for the story to be considered complete.
 
-![Figure: A User Story PBI with Acceptance Criteria in Azure DevOps](acceptance-criteria-detail.jpg)
+![Figure: A User Story PBI with Acceptance Criteria in Azure DevOps](/rules/acceptance-criteria/acceptance-criteria-detail.jpg)
 
 ::: greybox
 When I enter ‘Adam’ in the search box and click 'Search' I will see all entries starting with 'Adam' in the grid
@@ -127,5 +127,6 @@ The Acceptance Criteria are the source of truth for what functionality needs to 
 Any discussion that changes the story and/or the Acceptance Criteria should be noted in the Discussion section of the PBI for reference.
 
 ::: good
-![Figure: Good example - Discussion about changes to the story and Acceptance Criteria captured in the PBI](acceptance-criteria-discussion.png)
+![Figure: Good example - Discussion about changes to the story and Acceptance Criteria captured in the PBI](/rules/acceptance-criteria/acceptance-criteria-discussion.png)
 :::
+

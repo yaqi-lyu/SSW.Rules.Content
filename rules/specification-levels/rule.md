@@ -45,7 +45,7 @@ The details have been fleshed out and allow developers to write Functional and T
 * Password should be at least 8 characters
 * .NET is already used for the existing site so that is what this should use of course
 
-![Figure: Detailed Requirements have more of the details you want](LoginInterface.jpg)
+![Figure: Detailed Requirements have more of the details you want](/rules/specification-levels/LoginInterface.jpg)
 
 ### 4. Functional Specification
 
@@ -73,10 +73,11 @@ This is the blueprint for the application. There should be no unanswered questio
 * Password should be at least 8 characters
 * Site uses .NET 4 and this interface must be added to existing project
 * Define the data model explicitly   
-  ![](Table.jpg)
+  ![](/rules/specification-levels/Table.jpg)
 * Must work with IE7, IE8, IE9, and FF3
 * Must display correctly at 1024x768 resolution
 * Must support ANSI characters for Username and Password
 * Will not support mobile browsers
 * Will not be tested with localization (assumes en-us local on US versions of software)
 * SQL Membership provider will be leveraged
+

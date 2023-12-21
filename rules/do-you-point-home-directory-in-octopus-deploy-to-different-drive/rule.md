@@ -21,7 +21,7 @@ When you run Octopus Deploy setup the application installs to you %Program Files
 
 
 
-![](2016-05-30_12-18-02.png)
+![](/rules/do-you-point-home-directory-in-octopus-deploy-to-different-drive/2016-05-30_12-18-02.png)
 
 
 
@@ -33,10 +33,11 @@ Example - Home directory is pointing to %SystemDrive%
 
 
 
-![](2016-05-30_12-29-09.png)
+![](/rules/do-you-point-home-directory-in-octopus-deploy-to-different-drive/2016-05-30_12-29-09.png)
 
 
 
 ::: good
 Good Example - Home directory is pointing to another drive  
 :::
+

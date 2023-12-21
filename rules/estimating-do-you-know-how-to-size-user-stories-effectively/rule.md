@@ -52,7 +52,7 @@ This method is popular with Microsoft teams, but it has the problem of not easil
 **Note:** In some teams which only use Small, Medium and Large the following numbering is applyed respectively 2, 4 and 8.
 
 ::: bad  
-![Figure: Bad example - Estimation using T-Shirt sizes](size-stories-bad-example.jpg)  
+![Figure: Bad example - Estimation using T-Shirt sizes](/rules/estimating-do-you-know-how-to-size-user-stories-effectively/size-stories-bad-example.jpg)  
 :::
 
 ### Fibonacci Extended (1-100)
@@ -60,7 +60,7 @@ This method is popular with Microsoft teams, but it has the problem of not easil
 Planning Poker is a very effective Product Backlog estimation technique and the most common method is using Fibonacci numbers (1,2,3,5,8,13, etc.). This was made popular by Mike Cohn.
 
 ::: good  
-![Figure: OK example - Estimation using Planning Poker with large numbers](size-stories-ok-example.jpg)  
+![Figure: OK example - Estimation using Planning Poker with large numbers](/rules/estimating-do-you-know-how-to-size-user-stories-effectively/size-stories-ok-example.jpg)  
 :::
 
 ### Fibonacci (1-21)
@@ -70,7 +70,7 @@ Mike Cohn introduced changes to the original 7 cards, by changing the 21 to 20 a
 Ken Schwaber (the father of Scrum) says in his Scrum Certification course, that he is not a fan of the extra cards and says he prefers teams keep to the original 7 cards.
 
 ::: good  
-![Figure: OK example - Estimation using Planning Poker with only small numbers](size-stories-good-example.jpg)  
+![Figure: OK example - Estimation using Planning Poker with only small numbers](/rules/estimating-do-you-know-how-to-size-user-stories-effectively/size-stories-good-example.jpg)  
 :::
 
 ### Doubling (recommended)
@@ -102,7 +102,7 @@ This is particularly useful if you don't have Planning Poker cards. Instead of F
 
 The action is done in the same method as the game 'Rock, Paper, Scissors'. The options the developer can estimate is 1,2,3,4,5.
 
-![Figure: PBI estimates using the "Thrown method"](fist-method.jpg)  
+![Figure: PBI estimates using the "Thrown method"](/rules/estimating-do-you-know-how-to-size-user-stories-effectively/fist-method.jpg)  
 
 ### Other Tips
 
@@ -135,3 +135,4 @@ PBIs of greater than 2 days are a smell and PBIs greater than 4 days are a stenc
 
 **#5 Use Spikes** 
 If you do find a very large PBI, consider using a Spike (aka. an investigation task) to help work out how much work will be involved.
+

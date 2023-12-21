@@ -26,7 +26,7 @@ It tells people 3 things:
 
 <!--endintro-->
 
-![Figure: When people chat with you, they can see what you’re up to](teams-status-message.jpg)  
+![Figure: When people chat with you, they can see what you’re up to](/rules/use-the-status-message-in-teams/teams-status-message.jpg)  
 
 ### More information
 
@@ -35,7 +35,7 @@ To update the status message, follow these steps:
 * On the top right, click on your photo
 * Click on the pencil icon to edit the status message
 
-![Figure: Edit the Teams status message each day](edit-teams-status.jpg)  
+![Figure: Edit the Teams status message each day](/rules/use-the-status-message-in-teams/edit-teams-status.jpg)  
 
 The status message is helpful when it contains:
 
@@ -49,4 +49,5 @@ The status message is helpful when it contains:
 * For “Clear status message after”, select Never (to prevent Microsoft from deleting the status message)
 * Click Done once complete
 
-![Figure: Edit the status message](edit-teams-status-2.jpg)  
+![Figure: Edit the status message](/rules/use-the-status-message-in-teams/edit-teams-status-2.jpg)  
+

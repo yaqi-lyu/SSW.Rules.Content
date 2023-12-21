@@ -33,19 +33,19 @@ d.              Make sure you have access to coffee while it's upgrading your Pr
 
 
 
-![](depending size.png)
+![](/rules/do-you-know-how-to-upgrade-your-tfs2013-update-4-system-the-big-one/depending size.png)
 
 **Figure: Depending on the size of your collections, the Project Collection upgrade process takes the longest out of all steps**
 
 
 
-![coffee.png](coffee2.png)
+![coffee.png](/rules/do-you-know-how-to-upgrade-your-tfs2013-update-4-system-the-big-one/coffee2.png)
 
 **Figure: Wait for the Project Collection upgrade to complete**
 
 
 
-**![](success.png)
+**![](/rules/do-you-know-how-to-upgrade-your-tfs2013-update-4-system-the-big-one/success.png)
 **
 
 **Figure: TFS Upgrade wizard success!**
@@ -57,3 +57,4 @@ Now you're almost done! That covers the core upgrade of your TFS server, your TF
 
 
 Next, you'll need to make sure that additional services like XAML Build Configuration and SharePoint integration are configured before testing.
+

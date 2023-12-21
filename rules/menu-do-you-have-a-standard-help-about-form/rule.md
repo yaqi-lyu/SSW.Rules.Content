@@ -26,12 +26,13 @@ Tip: This should be consistent with your standard description on the product box
 
 
 ::: bad  
-![Figure: Bad Example - This "About" dialog does not provide enough information about the product and/or company](../../assets/BadHelpAboutForm.jpg)  
+![Figure: Bad Example - This "About" dialog does not provide enough information about the product and/or company](/rules/menu-do-you-have-a-standard-help-about-form/BadHelpAboutForm.jpg)  
 :::
 
-![Figure: This "Help | About" form contains all 5 elements, but has room for aesthetic improvements (old SSW design)](../../assets/SSWHelpAbout.gif)  
+![Figure: This "Help | About" form contains all 5 elements, but has room for aesthetic improvements (old SSW design)](/rules/menu-do-you-have-a-standard-help-about-form/SSWHelpAbout.gif)  
 
 
 ::: good  
-![Figure: Good Example - This "Help | About" has the 5 elements presented better,](../../assets/Rego9.png)  
+![Figure: Good Example - This "Help | About" has the 5 elements presented better,](/rules/menu-do-you-have-a-standard-help-about-form/Rego9.png)  
 :::
+

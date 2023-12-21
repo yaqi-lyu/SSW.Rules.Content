@@ -54,7 +54,7 @@ As per our conversation, we need more developers. I just lost 3 months of work (
 
 For more proof, check out our current bookings:
 
-![Figure: The people who are not booked above are SysAdmins or Work Experience](current-bnooking-hire-more-people.jpg)
+![Figure: The people who are not booked above are SysAdmins or Work Experience](/rules/when-to-hire-more-people/current-bnooking-hire-more-people.jpg)
 
 See the [Power BI report](https://app.powerbi.com/groups/456358f7-5b12-46f5-b952-2a37fa9bb5e8/reports/a4069dc4-86c1-4cba-bf81-161bb108c5c2/ReportSection)
 
@@ -65,3 +65,4 @@ See the [Power BI report](https://app.powerbi.com/groups/456358f7-5b12-46f5-b952
 ::: good
 Figure: Good example – Shows current bookings to give weight to the decision. This email shows you are out of resources
 :::
+

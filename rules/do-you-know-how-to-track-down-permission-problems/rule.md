@@ -29,8 +29,9 @@ To hunt down a problem where say the IIS server couldn’t write to a directory,
 3. Rejoice
 
 
-![Figure: Apply filter to only show "ACCESS DENIED" results](process-monitor-filter.jpg)  
+![Figure: Apply filter to only show "ACCESS DENIED" results](/rules/do-you-know-how-to-track-down-permission-problems/process-monitor-filter.jpg)  
 
-![Figure: And here we have the offending account](event-properties.jpg)  
+![Figure: And here we have the offending account](/rules/do-you-know-how-to-track-down-permission-problems/event-properties.jpg)  
 
 <!--endintro-->
+

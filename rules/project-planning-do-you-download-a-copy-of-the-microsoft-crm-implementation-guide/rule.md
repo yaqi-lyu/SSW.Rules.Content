@@ -19,4 +19,5 @@ The [Microsoft Dynamics 365 Implementation Guide](https://www.d365implementation
 
 <!--endintro-->
 
-![Figure: Searching the PDF version of the implementation guide is much nicer than the Word document](microsoft-dynamics-365-implementation-guide-screenshot-contents.png)
+![Figure: Searching the PDF version of the implementation guide is much nicer than the Word document](/rules/project-planning-do-you-download-a-copy-of-the-microsoft-crm-implementation-guide/microsoft-dynamics-365-implementation-guide-screenshot-contents.png)
+

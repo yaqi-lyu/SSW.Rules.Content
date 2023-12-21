@@ -20,15 +20,16 @@ You should use PowerApps for your forms.
 
 
 ::: bad  
-![Figure: Bad example - Using Nintext](nintex.jpg)  
+![Figure: Bad example - Using Nintext](/rules/the-best-forms-solution/nintex.jpg)  
 :::
 
 
 ::: bad  
-![Figure: Bad example - Using Infopath](infopath.jpg)  
+![Figure: Bad example - Using Infopath](/rules/the-best-forms-solution/infopath.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example - Using PowerApps](powerapps.jpg)  
+![Figure: Good example - Using PowerApps](/rules/the-best-forms-solution/powerapps.jpg)  
 :::
+

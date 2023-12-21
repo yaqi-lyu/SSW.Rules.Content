@@ -18,5 +18,6 @@ Then you enable your Hyper-V role on your cluster.
 <!--endintro-->
 
 First refer to all rules listed in "[Rules to Better Hyper-V](/rules-to-better-hyper-v)" as these are the basics for Hyper-V.
-![hyper-v feature matrix](Feature-matrix.jpg)**Figure: The following rules are referring to the 2nd column on [Hyper-V](http://www.ssw.com.au/ssw/Consulting/HyperV.aspx) (this also tells you why choose Hyper-V Live Migration over VMWare VMotion)** 
+![hyper-v feature matrix](/rules/do-you-first-get-your-cluster-and-san-going/Feature-matrix.jpg)**Figure: The following rules are referring to the 2nd column on [Hyper-V](http://www.ssw.com.au/ssw/Consulting/HyperV.aspx) (this also tells you why choose Hyper-V Live Migration over VMWare VMotion)** 
 Let's continue with the rules specially for clustering...
+

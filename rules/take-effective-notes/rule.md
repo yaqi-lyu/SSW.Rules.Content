@@ -19,14 +19,15 @@ Here are a few examples of how this can be done:
 ### Example 1 - On an Invoice page with a notes field
   
 ::: good
-![Figure: Good Example - The invoice notes have date and name followed by details](invoice-notes.png)
+![Figure: Good Example - The invoice notes have date and name followed by details](/rules/take-effective-notes/invoice-notes.png)
 :::
 
 ### Example 2 - On your phone contacts
 
 ::: good
-![Figure: Good Example - The phone contact notes have date and name followed by details](contact-notes.png)
+![Figure: Good Example - The phone contact notes have date and name followed by details](/rules/take-effective-notes/contact-notes.png)
 :::
 
 
 By following these tips and developing a system that works for you, you can take more effective notes that will help you stay organized and remember important information.
+

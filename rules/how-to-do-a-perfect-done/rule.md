@@ -27,5 +27,6 @@ To reply to a bug effectively and efficiently in your emails, you need to includ
 
 
 ::: good  
-![Figure: Good Example - Reply to a bug showing all steps](better_emails_reply_bug_small.jpg)  
+![Figure: Good Example - Reply to a bug showing all steps](/rules/how-to-do-a-perfect-done/better_emails_reply_bug_small.jpg)  
 :::
+

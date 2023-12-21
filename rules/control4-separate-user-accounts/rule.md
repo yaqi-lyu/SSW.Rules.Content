@@ -27,6 +27,7 @@ If everyone is using an individual account, it is as simple as disabling (or del
 
 
 
-![](ManageUser.png)
+![](/rules/control4-separate-user-accounts/ManageUser.png)
 
 **Figure: Use the Customer Portal to add accounts for all users**
+

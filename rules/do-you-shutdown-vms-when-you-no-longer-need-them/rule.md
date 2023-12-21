@@ -23,4 +23,5 @@ Please note that is for [Visual Studio subscriptions](https://azure.microsoft.co
 
 You can shutdown the VM by either making a remote desktop connection to the VM and shutdown server or using Azure portal to shutdown the VM.
 
-![Figure: Azure Portal](Azure.jpg)
+![Figure: Azure Portal](/rules/do-you-shutdown-vms-when-you-no-longer-need-them/Azure.jpg)
+

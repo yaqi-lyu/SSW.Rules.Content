@@ -23,7 +23,7 @@ There needs to be consistency between all of your developers' timesheets, so you
 * Be accurate
 
     ::: good  
-    ![Figure: Good example - Inform accurately how much time you spent for each client](timesheet-accuracy.jpg)  
+    ![Figure: Good example - Inform accurately how much time you spent for each client](/rules/do-you-follow-policies-for-recording-time/timesheet-accuracy.jpg)  
     :::
 
 * [Describe the work you have done?](/do-you-know-how-to-describe-the-work-you-have-done-while-avoiding-the-word-bug)
@@ -31,3 +31,4 @@ There needs to be consistency between all of your developers' timesheets, so you
 * If you are working with another employee, ensure your times are consistent, in both time and category
 * If you are providing telephone support, count your time in 15 minute blocks
 * If you work for a client 4 times in a day for 15 minutes each, feel free to enter one timesheet for 1 hour, listing the 4 things you did. The extra information adds no value and only serves to clutter up invoices
+

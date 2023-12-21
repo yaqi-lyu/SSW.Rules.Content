@@ -15,7 +15,7 @@ redirects:
 The best apps predict what the user is trying to do from context and does it for them.
 
 <!--endintro-->
-![](lastphototaken.png)
+![](/rules/do-you-have-a-last-taken-option/lastphototaken.png)
 
 ::: good
 Figure: Good Example – “Use Last Photo Taken” is a simple example from Slack.  
@@ -24,3 +24,4 @@ Figure: Good Example – “Use Last Photo Taken” is a simple example from Sla
 This is generally referred to as an “adaptive system.”
 
 Smashing magazine has a much more detailed article regarding [adaptive systems](http://www.smashingmagazine.com/2012/12/10/creating-an-adaptive-system-to-enhance-ux/) from 2012 along with advanced examples.
+

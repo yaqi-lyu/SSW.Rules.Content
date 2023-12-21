@@ -11,17 +11,19 @@ redirects: []
 
 ---
 
-![Optical alignment](../../assets/opticalalignment.jpg)**Figure: In the first example, although the text is technically aligned, it does not 'look' it. In the second one, the "V" has been moved into the margin, but the optical alignment is now correct** 
+![Optical alignment](/rules/do-you-consider-optical-alignment/opticalalignment.jpg)**Figure: In the first example, although the text is technically aligned, it does not 'look' it. In the second one, the "V" has been moved into the margin, but the optical alignment is now correct** 
 <!--endintro-->
 
 Not only relevant in typography, optical alignment can also be used in forms and web.
 
 
 ::: bad  
-![Figure: Bad example - The fields are aligned to the radio buttons, but it doesn't "look" good enough](../../assets/bad\_opticalalignment.jpg)  
+![Figure: Bad example - The fields are aligned to the radio buttons, but it doesn't "look" good enough](/rules/do-you-consider-optical-alignment/bad_opticalalignment.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example - It seems neater, even though it is no longer technically aligned](../../assets/good\_opticalalignment.png)  
+![Figure: Good example - It seems neater, even though it is no longer technically aligned](/rules/do-you-consider-optical-alignment/good_opticalalignment.png)  
 :::
+
+

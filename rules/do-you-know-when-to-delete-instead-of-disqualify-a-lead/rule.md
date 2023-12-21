@@ -17,4 +17,5 @@ When going through leads to see if they should be converted to an Account/Contac
 
 <!--endintro-->
 
-![Figure: Delete rubbish lead](CRMDeleteLead.jpg)
+![Figure: Delete rubbish lead](/rules/do-you-know-when-to-delete-instead-of-disqualify-a-lead/CRMDeleteLead.jpg)
+

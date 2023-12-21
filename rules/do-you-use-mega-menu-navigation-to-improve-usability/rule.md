@@ -25,12 +25,13 @@ Of course, don't use a mega dropdown menu just because you can. Turning your nor
 
 
 ::: bad  
-![Figure: Bad Example - Long drop down menu requires scrolling and difficult to see at a glance.](../../assets/longmenu.jpg)  
+![Figure: Bad Example - Long drop down menu requires scrolling and difficult to see at a glance.](/rules/do-you-use-mega-menu-navigation-to-improve-usability/longmenu.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Links are grouped into distinct category](megamenu.jpg)  
+![Figure: Good Example - Links are grouped into distinct category](/rules/do-you-use-mega-menu-navigation-to-improve-usability/megamenu.jpg)  
 :::
 
-![Figure: Bear in mind that mobile menus are limited](mobilemenu.jpg)
+![Figure: Bear in mind that mobile menus are limited](/rules/do-you-use-mega-menu-navigation-to-improve-usability/mobilemenu.jpg)
+

@@ -20,5 +20,6 @@ This lets the users see what is available and what isn't, without being overbear
 
 
 ::: good  
-![Figure: Good Example - The "Check broken links" checkbox in this case is not an option, but showing it gives the user context](../../assets/BadScanOptions.gif)  
+![Figure: Good Example - The "Check broken links" checkbox in this case is not an option, but showing it gives the user context](/rules/give-context-do-you-include-extra-information-e-g-checkboxes/BadScanOptions.gif)  
 :::
+

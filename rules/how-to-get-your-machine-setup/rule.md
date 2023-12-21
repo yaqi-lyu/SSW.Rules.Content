@@ -23,7 +23,7 @@ When developing Angular or React, there are lots of choices for code editors. Th
 
 
 ::: good  
-![Figure: Good Example - Visual Studio Code is a free, lightweight IDE that runs on Windows, Linux and macOS. Visual Studio Code is the IDE of choice for many Angular developers and has lots of great extensions for Angular](angular-machine-setup-1.png)  
+![Figure: Good Example - Visual Studio Code is a free, lightweight IDE that runs on Windows, Linux and macOS. Visual Studio Code is the IDE of choice for many Angular developers and has lots of great extensions for Angular](/rules/how-to-get-your-machine-setup/angular-machine-setup-1.png)  
 :::
 
 Many experienced teams are using Visual Studio for their C# backend and loving using Visual Studio Code for their Angular or React projects.
@@ -36,7 +36,7 @@ See     https://github.com/johnpapa/vscode-angular-essentials.
 
 
 ::: good  
-![Figure: Good Example – the Angular Essentials extension will install a great suite of extensions to support Angular development](angular-machine-setup-2.png)  
+![Figure: Good Example – the Angular Essentials extension will install a great suite of extensions to support Angular development](/rules/how-to-get-your-machine-setup/angular-machine-setup-2.png)  
 :::
 
 You can find more extensions at [Visual Studio | Marketplace](https://marketplace.visualstudio.com/).
@@ -45,6 +45,7 @@ You can find more extensions at [Visual Studio | Marketplace](https://marketplac
 
 This extension is for those times where you have a project open in      **Visual Studio** and you want to be able to quickly open it in      **Visual Studio Code**.
 
-![Figure: Get to Visual Studio Code quickly from within Visual Studio -        Open in Visual Studio Code extension](open-in-vscode.png)  
+![Figure: Get to Visual Studio Code quickly from within Visual Studio -        Open in Visual Studio Code extension](/rules/how-to-get-your-machine-setup/open-in-vscode.png)  
 
 **More:** [Why do others love VS Code?](https://stackshare.io/posts/why-developers-love-visual-studio-code)
+

@@ -43,11 +43,11 @@ Figure: Bad example - Broad email asking what’s been happening
 Teams can keep you abreast of all the events happening on your project.
 
 ::: good
-![Figure: Good example - Look on Teams for conversations, builds, and deployments](Teams-Notifications.png)
+![Figure: Good example - Look on Teams for conversations, builds, and deployments](/rules/how-to-see-what-is-going-on-in-your-project/Teams-Notifications.png)
 :::
 
 ::: good
-![Figure: Good example - Look back over the Sprints you missed to see what was worked on and completed](sprint-backlog.png)
+![Figure: Good example - Look back over the Sprints you missed to see what was worked on and completed](/rules/how-to-see-what-is-going-on-in-your-project/sprint-backlog.png)
 :::
 
 ::: greybox
@@ -62,3 +62,4 @@ Figure: Good example - Informed chat message to get the [TLDR](https://www.dicti
 :::
 
 You can also add Bots to communicate on your channel, or even better, Connectors! You can add Connectors that, for example, notify you of any new pull requests in Azure DevOps or GitHub. Microsoft used to have several social media Connectors, but these have been retired. It is possible, but more difficult, to add social media notifications with Power Automate, or with a third-party service such as [IFTTT](https://ifttt.com).
+

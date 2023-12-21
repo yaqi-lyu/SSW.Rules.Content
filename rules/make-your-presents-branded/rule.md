@@ -20,4 +20,4 @@ In case you go for a virtual gift, e.g. An e-voucher (usually sent via email), y
 **Tip:** Remember to make your gift extra special! You should personalize it by purchasing something for your client related to a hobby, for example.
 :::
 
-![Figure: stickers added to wine bottles as a Christmas present for clients](branded-gifts.jpg)
+![Figure: stickers added to wine bottles as a Christmas present for clients](/rules/make-your-presents-branded/branded-gifts.jpg)

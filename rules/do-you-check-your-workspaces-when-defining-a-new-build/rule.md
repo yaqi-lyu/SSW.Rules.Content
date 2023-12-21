@@ -24,9 +24,10 @@ If you have a number of Team Projects open from the same TFS Project Collection,
 
 
 ::: bad
-![Figure: Bad example – Several workspaces from other team projects are included by default](bad_workspace.png)
+![Figure: Bad example – Several workspaces from other team projects are included by default](/rules/do-you-check-your-workspaces-when-defining-a-new-build/bad_workspace.png)
 :::
 
 ::: good
-![Figure: Good example – Only the relevant workspace has been included in this build definition](good_workspace.png)
+![Figure: Good example – Only the relevant workspace has been included in this build definition](/rules/do-you-check-your-workspaces-when-defining-a-new-build/good_workspace.png)
 :::
+

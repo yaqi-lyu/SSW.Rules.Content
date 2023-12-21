@@ -32,7 +32,7 @@ Frequently developers work on long or difficult features/bugs and leave code che
 
 <!--endintro-->
 
-![Figure: Eating one big meal every three days gives you a bellyache... (aka check in small portions regularly, one large check-in after a few days will give you a headache)](Check-InRegularly.jpg)  
+![Figure: Eating one big meal every three days gives you a bellyache... (aka check in small portions regularly, one large check-in after a few days will give you a headache)](/rules/check-in-before-lunch-and-dinner-do-you-work-in-small-chunks-check-in-after-completing-each-one/Check-InRegularly.jpg)  
 
 That's why source code should be checked in regularly. We recommend a check-in:
 
@@ -44,3 +44,4 @@ That's why source code should be checked in regularly. We recommend a check-in:
 Another good reason to check-in regularly is that it makes it easier to merge your changes with other developers. If all developers check-in lots of changes in one go, you will spend a lot of your time resolving conflicts instead of doing work.
 
 Tip: How can you enforce regular check-ins? Monitor them using a     [report to see who has not checked in](/tfs-master-do-you-have-a-report-to-see-who-has-not-checked-in).
+

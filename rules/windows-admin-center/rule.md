@@ -23,11 +23,11 @@ An alternative to RDM is Windows Admin Center (WAC), a web-based management tool
 Unlike RDM, WAC can be installed on a server or client system and accessed remotely through a browser, providing a more user-friendly and secure solution for managing Windows systems. This makes WAC the better choice for organizations looking to simplify their management workflows and improve security.
 
 :::bad
-![Figure: Remote Desktop manager – Third party application](2023-02-27_14-34-48.jpg)
+![Figure: Remote Desktop manager – Third party application](/rules/windows-admin-center/2023-02-27_14-34-48.jpg)
 :::
 
 :::good
-![Figure: Windows Admin center – All the servers in a web-based management tool](figure-4-1.png)
+![Figure: Windows Admin center – All the servers in a web-based management tool](/rules/windows-admin-center/figure-4-1.png)
 :::
 
 Some of the key features of Windows Admin Center include:
@@ -39,3 +39,4 @@ Some of the key features of Windows Admin Center include:
 5. Security: Windows Admin Center supports role-based access control (RBAC) and multi-factor authentication (MFA) to secure access to servers and clusters. It also provides built-in security features, such as security baselines and security alerts.
 
 Overall, Windows Admin Center provides a powerful and flexible management tool for Windows servers and clusters that simplifies administration, improves security, and enhances performance monitoring and management.
+

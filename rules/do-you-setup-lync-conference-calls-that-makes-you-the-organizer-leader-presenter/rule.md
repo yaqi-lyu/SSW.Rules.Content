@@ -30,6 +30,7 @@ Application sharing allows audience members to follow along with mouse movements
 
 Application sharing allows presenters to share control of software on their desktops without losing sight of participant feedback or text questions.
 
-![Figure: Application sharing, note the ability to view questions from participants](lync-app-sharing.jpg)  
+![Figure: Application sharing, note the ability to view questions from participants](/rules/do-you-setup-lync-conference-calls-that-makes-you-the-organizer-leader-presenter/lync-app-sharing.jpg)  
 
 Presenters can delegate control to meeting participants. Presenters can customize the color depth and screen resolution to better engage with participants who have varying desktop capabilities.
+

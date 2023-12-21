@@ -22,7 +22,7 @@ Follow these stages and steps in order on project creation:
 
 ## Stage 1 - Connect to the Controller
 
-![](stage1.jpg)
+![](/rules/control4-project-creation-steps/stage1.jpg)
 
 **Step 1: Add the Controller**   
 Discover the Controller in the Composer software using Simple Device Discovery Protocol (SDDP).
@@ -37,7 +37,7 @@ Register the controller online.
 
 ## Stage 2 - Set Up Project Properties
 
-![](stage2.jpg)
+![](/rules/control4-project-creation-steps/stage2.jpg)
 
 **Step 4: Set Project Information**   
 1. Open the Composer software and create a new project.
@@ -53,7 +53,7 @@ Configure the lighting color defaults based on the customer's preference.
 
 ## Stage 3 - Build the Project
 
-![](stage3.jpg)
+![](/rules/control4-project-creation-steps/stage3.jpg)
 
 **Step 7: Add Rooms**    
 Create a list of all the rooms in the customer's home that will be controlled through the Control4 system e.g. Kichen, Bedroom, Foyer.
@@ -68,7 +68,7 @@ Tweak and change the driver properties for each device - don't forget to read th
 
 ## Stage 4 - Make Network Connections
 
-![](stage4.jpg)
+![](/rules/control4-project-creation-steps/stage4.jpg)
 
 **Step 10: Identify IP Devices**  
 Identify the IP devices in the system via the Network tab in Composer.
@@ -81,7 +81,7 @@ Start joining your Zigbee devices into the project by the 4-tap method.
 
 ## Stage 5 - Map Physical Connections
 
-![](stage6.jpg)
+![](/rules/control4-project-creation-steps/stage6.jpg)
 
 **Step 13: Make Control/AV Connections**  
 Connect your devices to each other via the various available connections in each.
@@ -93,7 +93,7 @@ Determine which devices are your endpoints in each room.
 
 ## Stage 6 - Design the Experience
 
-![](stage7.jpg)
+![](/rules/control4-project-creation-steps/stage7.jpg)
 
 **Step 15: Interact with the client**  
 An iterative process where the installer works together with the client to give them the best interface and home experience.
@@ -109,3 +109,4 @@ An iterative process where the installer works together with the client to give 
 
 * **Programming**   
   Program and design the automation and interactions.
+

@@ -31,7 +31,7 @@ The quickest and simplest way of performing a background check is to use the Lin
 * Do they have mutual connections
 
 
-![Figure: Make sure you know who you're going into business with](Wanted-Poster.jpg)
+![Figure: Make sure you know who you're going into business with](/rules/do-you-perform-a-background-check/Wanted-Poster.jpg)
 
 For a more in-depth check or to see if their company is legitimate, do a Google search:
 

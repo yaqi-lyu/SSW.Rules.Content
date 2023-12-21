@@ -35,5 +35,6 @@ You can delve deep on it here: https://docs.microsoft.com/en-us/azure/governance
 
 
 ::: good  
-![Figure: Good Example - A fully compliant initiative in Azure Policy"](compliant-initiative-azure-policy.png)  
+![Figure: Good Example - A fully compliant initiative in Azure Policy"](/rules/use-azure-policies/compliant-initiative-azure-policy.png)  
 :::
+

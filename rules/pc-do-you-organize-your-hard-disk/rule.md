@@ -16,7 +16,7 @@ Using a standard file structure for storing user data on laptops makes locating 
 
 Remember, the expectation is for all the questions to be answered with "YES" by the end of this checklist.
 
-![](data-backup.jpg)
+![](/rules/pc-do-you-organize-your-hard-disk/data-backup.jpg)
 
 <!--endintro-->
 
@@ -53,11 +53,11 @@ When you choose a location in OneDrive, it will always create the main root fold
 E.g. Create a folder with your username in the root of C: prefix the folder with Data, for example, "C:\DataKaiqueBiancatti", and choose that folder to be your main OneDrive folder. It will automatically create a new folder inside it:
 
 ::: good
-![Figure: Good example - Location of Data{{ YourUserName }} with OneDrive - {{ YourOrganization }} folder in it](onedrive.png)
+![Figure: Good example - Location of Data{{ YourUserName }} with OneDrive - {{ YourOrganization }} folder in it](/rules/pc-do-you-organize-your-hard-disk/onedrive.png)
 :::
 
 ::: good
-![Figure: Good example - Backup is being done automatically](OneDrive.jpg)
+![Figure: Good example - Backup is being done automatically](/rules/pc-do-you-organize-your-hard-disk/OneDrive.jpg)
 :::
 
 **3. Do you keep your desktop clean?** {{ YES/NO }}  
@@ -93,3 +93,4 @@ Install the OneDrive (or your other selected backup application) app on your pho
 * If Yes and iOS, then use iCloud, OneDrive or your selected backup application on your phone to back them up automatically.
 * If Yes and Android, then use Google Drive, OneDrive or your selected backup application on your phone to back them up!
 * If you don't care about losing your photos, do nothing!
+

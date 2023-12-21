@@ -40,7 +40,7 @@ To follow or unfollow a group in Outlook:
 2. Go to **Group Settings** in the ribbon
 3. Choose which items you would like to receive in your inbox
 
-![Figure: Outlook | Group Settings | Follow in Inbox](group-follow.png)
+![Figure: Outlook | Group Settings | Follow in Inbox](/rules/following-microsoft-365-groups/group-follow.png)
 
 :::info
 Note: This functionality is not available on Outlook for Mac. If you want to change these settings, use the [OWA](https://outlook.office.com/mail)
@@ -54,7 +54,7 @@ When you set up a new Microsoft 365 group, you can choose the default behaviour 
 2. Go to **Settings**
 3. Check or uncheck **Send copies of team emails and events to the team members' inboxes**
 
-![Figure: Microsoft 365 admin center | Teams & groups | Settings](group-admin.png)
+![Figure: Microsoft 365 admin center | Teams & groups | Settings](/rules/following-microsoft-365-groups/group-admin.png)
 
 :::info
 **Note:** This will not change the behaviour for existing members. For this, you will need to use PowerShell (see below).
@@ -85,3 +85,4 @@ Get-UnifiedGroupLinks -Identity {{ group }} -LinkType Subscribers
 Add-UnifiedGroupLinks -Identity {{ group }} -LinkType Subscribers -Links {{ User }}
 Remove-UnifiedGroupLinks -Identity {{ group }} -LinkType Subscribers -Links {{ User }}
 ```
+

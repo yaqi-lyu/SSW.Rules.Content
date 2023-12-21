@@ -55,11 +55,11 @@ Remember the first few words of your description also appear in Google results s
 :::
 
 ::: bad
-![Figure: Bad example - Short descriptions are not SEO-optimized](description_bad.png)
+![Figure: Bad example - Short descriptions are not SEO-optimized](/rules/optimize-videos-for-youtube/description_bad.png)
 :::
 
 ::: good
-![Figure: Good example - Treat your video description as a blog post and give info but keep the details for your video!](description_good.png)
+![Figure: Good example - Treat your video description as a blog post and give info but keep the details for your video!](/rules/optimize-videos-for-youtube/description_good.png)
 :::
 
 ### 3. Optimize video tags
@@ -75,3 +75,4 @@ Nowadays, Google (and therefore YouTube) can “listen” to videos. As a result
 ---
 
 **Images:** Courtesy of [Brian Dean](https://backlinko.com/grow-youtube-channel).
+

@@ -40,5 +40,6 @@ For services or apps, you should use the "Watch Video" one. Video is flooding th
 
 
 ::: good  
-![Figure: Good Example - Take the Facebook visitor to watch your video](watch-video-facebook.png)  
+![Figure: Good Example - Take the Facebook visitor to watch your video](/rules/do-you-create-a-call-to-action-on-your-facebook-page/watch-video-facebook.png)  
 :::
+

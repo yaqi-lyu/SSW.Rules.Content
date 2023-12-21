@@ -18,7 +18,7 @@ Localization makes your web application ready to work more than one language —
 
 <!--endintro-->
 
-![Figure: SSW LinkAuditor application is available in Chinese](SSW-Link-Auditor-Chinafy.jpg)
+![Figure: SSW LinkAuditor application is available in Chinese](/rules/do-you-know-how-to-better-localize-your-application/SSW-Link-Auditor-Chinafy.jpg)
 
 * Set your application default language to automatically change to local language. For more information see "[Set your application default language](/do-you-set-your-application-default-language-to-automatically-change-to-local-language)".
 * Always give the user an option to change the locale and remember this choice for the future visits. For more information see "[Always give the user an option to change the locale](/do-you-always-give-the-user-an-option-to-change-the-locale)".
@@ -30,3 +30,4 @@ Localization makes your web application ready to work more than one language —
 * Provide numerous comments in application resources that define context. For more information see "[Provide numerous comments in application resources that define context](/do-you-provide-numerous-comments-in-application-resources-that-define-context)".
 * Get native speakers to test the application to make sure that the language reads properly and is true to the intent.
 * Make sure that your social media presence covers the countries you have translated your application into. For more information see "[Definition of implementing social media campaigns](/do-you-follow-a-definition-of-social-media)"
+

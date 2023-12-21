@@ -22,11 +22,11 @@ You've met a potential client and they search you up on LinkedIn. They're intere
 Adding relevant links to the contact info section on LinkedIn serves multiple purposes. It solidifies your credibility by providing additional platforms where people can learn more about you. It also increases your general online visibility which is a step in the right direction for networking and a competitive advantage in the online social marketplace.
 
 ::: bad
-![Figure: Bad Example - There is nowhere to learn more about you](seth-bad.png)
+![Figure: Bad Example - There is nowhere to learn more about you](/rules/linkedin-contact-info/seth-bad.png)
 :::
 
 ::: good
-![Figure: Good example – You can put your Twitter and company profile page as a link](adam-good.png)
+![Figure: Good example – You can put your Twitter and company profile page as a link](/rules/linkedin-contact-info/adam-good.png)
 :::
 
 ## How to add links to your contact info
@@ -44,11 +44,11 @@ Adding relevant links to the contact info section on LinkedIn serves multiple pu
 If you have LinkedIn premium, you can add a cool link to your X (Twitter) page.
 
 ::: bad
-![Figure: Bad Example - No link](seth-bad-2.png)
+![Figure: Bad Example - No link](/rules/linkedin-contact-info/seth-bad-2.png)
 :::
 
 ::: good
-![Figure: Good example – Clear button that links to Twitter](good-twitter-link.png)
+![Figure: Good example – Clear button that links to Twitter](/rules/linkedin-contact-info/good-twitter-link.png)
 :::
 
 ## How to add a custom link (Premium only)
@@ -57,3 +57,4 @@ If you have LinkedIn premium, you can add a cool link to your X (Twitter) page.
 2. Click on the pencil on the right side of your bio
 3. Scroll to the section called **Custom Actions**
 4. Add a link
+

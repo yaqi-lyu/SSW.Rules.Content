@@ -20,7 +20,7 @@ Luckily Microsoft provides excellent tooling for supporting your great leap into
 
 The [.NET Upgrade Assistant](https://dotnet.microsoft.com/en-us/platform/upgrade-assistant) is a .NET global tool that helps you incrementally upgrade your .NET Framework-based Windows applications. It's available on [GitHub](https://github.com/dotnet/upgrade-assistant) as a public repository.
 
-![Figure: Use the CLI version of Upgrade Assistant](upgrade-assistant-CLI.png)
+![Figure: Use the CLI version of Upgrade Assistant](/rules/dotnet-upgrade-assistant/upgrade-assistant-CLI.png)
 
 
 ## ✅ Benefits
@@ -46,3 +46,4 @@ The [.NET Upgrade Assistant](https://dotnet.microsoft.com/en-us/platform/upgrade
 * **Code modernization** - The tool will not upgrade the code style or use modern C# patterns. The bulk of code will remain identical which will still look distinctly .NET Framework-like code with some of the namespaces and minor refactors.
 
 If your project is overly complex or encounters significant challenges with .NET 8 Upgrade Assistant, you may need to revert to the original project and then continue with the instructions on [how to handle complex .NET migrations](/dotnet-upgrade-for-complex-projects).
+

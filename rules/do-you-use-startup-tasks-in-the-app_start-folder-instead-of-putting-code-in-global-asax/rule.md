@@ -38,5 +38,6 @@ Figure: Bad example – Logic is implemented in the Application\_Start method wh
 :::
 
 ::: good  
-![Figure: Good example – Startup tasks are called from the Application\_Start method but are located in the App\_Start folder](startup-task.jpg)  
+![Figure: Good example – Startup tasks are called from the Application\_Start method but are located in the App\_Start folder](/rules/do-you-use-startup-tasks-in-the-app_start-folder-instead-of-putting-code-in-global-asax/startup-task.jpg)  
 :::
+

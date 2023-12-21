@@ -14,9 +14,9 @@ Small images are hard to see. Remember your audience sitting at the back of the 
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example - the image doesn't cover the whole slide](smallbad.jpg)
+![Figure: Bad example - the image doesn't cover the whole slide](/rules/do-you-use-the-full-slide-for-screenshots/smallbad.jpg)
 :::
 
 ::: good
-![Figure: Good example - Cover the whole slide with your image to make it easier for people to see from the back row](goodbig.jpg)
+![Figure: Good example - Cover the whole slide with your image to make it easier for people to see from the back row](/rules/do-you-use-the-full-slide-for-screenshots/goodbig.jpg)
 :::

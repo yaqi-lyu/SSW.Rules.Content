@@ -31,7 +31,7 @@ Other definitions of exploratory testing focus on the idea of learning, test des
 
 Exploratory testing affords testers the opportunity to use their skills and experience to unearth deeper problems in the software under test. 
 
-![Figure: Explore to learn about the "unknown unknowns"](unknowns.png)
+![Figure: Explore to learn about the "unknown unknowns"](/rules/what-is-exploratory-testing/unknowns.png)
 
 Rather than constraining the testing to "known knowns" (from requirements, user stories, etc.), exploration allows different kinds of risks to be investigated and "unknown unknowns" to be revealed. 
 
@@ -41,7 +41,7 @@ It is often the case that the most serious problems in the software reside in th
 
 No matter how you currently perform testing within your team, your approach will belong somewhere on a continuum from a purely scripted form of testing to a fully exploratory form of testing:
 
-![Figure: The continuum from pure scripted to full exploratory testing](continuum.jpg)
+![Figure: The continuum from pure scripted to full exploratory testing](/rules/what-is-exploratory-testing/continuum.jpg)
 
 A purely scripted approach is favoured by the "factory" school of testing, where scripts are created in advance based on the requirements documentation and are then executed against the software later, potentially by someone different than the author. The idea here is that everything can be known in advance and coverage is known and guaranteed via the prescriptive steps in the test case. This approach is obviously very rigid and does not account well for when unexpected things happen during execution of the script or for the fact that different testers will execute the exact same steps differently (breaking the so-called benefit of "reproducibility" in purely scripted testing).
 
@@ -107,3 +107,4 @@ Josh Gibbs has written on this topic in his article [Exploratory Testing in a Re
 * James Bach & Michael Bolton - [History of Definitions of ET](https://www.satisfice.com/blog/archives/1504)
 * James Bach & Michael Bolton - [Exploratory Testing 3.0](https://www.satisfice.com/blog/archives/1509)
 * Ministry of Testing - [Exploratory Testing resources](https://www.ministryoftesting.com/search?q=exploratory&filters%5Btopics%5D%5B%5D=exploratory-testing)
+

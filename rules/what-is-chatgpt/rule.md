@@ -26,7 +26,7 @@ ChatGPT is a conversational language model from OpenAI, accessible both on web a
 
 It also saves your message history so that you can go back and look at your conversations later!  
 
-![Figure: ChatGPT provides human like responses!](chatgptfindnorthwind.png)
+![Figure: ChatGPT provides human like responses!](/rules/what-is-chatgpt/chatgptfindnorthwind.png)
 
 ### Why is ChatGPT cool?
 
@@ -44,3 +44,4 @@ Accuracy: With its vast knowledge base and language processing capabilities, Cha
 Overall, the ability of ChatGPT to understand and generate human-like text has made it a popular tool for businesses and individuals looking to enhance their conversational interfaces and improve their productivity.
 :::
 **Figure: ChatGPT's response when asked "Why is ChatGPT cool?"**
+

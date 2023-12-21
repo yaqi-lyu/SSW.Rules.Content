@@ -37,7 +37,7 @@ The best tweets will use a combination of @mentions and #hashtags where appropri
 
 **Tip #1:** Encourage people to use the correct hashtag by adding the hashtag to your sidebar or footer.
 
-![Figure: On www.ssw.com.au/ssw/netug you can see the sidebar shows a feed with the hashtag used](hashtag-stream.jpg)
+![Figure: On www.ssw.com.au/ssw/netug you can see the sidebar shows a feed with the hashtag used](/rules/do-you-know-to-use-hash-tags/hashtag-stream.jpg)
 
 **Tip #2:** When creating your own hashtag to promote a service, product or event, check if it isn't already in use for anything else.
 
@@ -57,3 +57,4 @@ The best tweets will use a combination of @mentions and #hashtags where appropri
 * **\#SSWTraining** - For our training programs
 * **\#NETUG** - For our .NET User Groups
 * **\#AngularHackDay** or **\#AIHackDay** - For one of our "Hack Day" training events
+

@@ -27,13 +27,14 @@ It is possible to get the number into Word for the version of the document on th
 :::
 
 ::: good  
-![Figure: Good example, you see the formatted SharePoint version number](VersionInWord.jpg)  
+![Figure: Good example, you see the formatted SharePoint version number](/rules/do-you-know-how-to-get-the-sharepoint-document-version-in-word/VersionInWord.jpg)  
 :::
 
 ::: bad  
-![Bad Example](BadVersioning.png)  
+![Bad Example](/rules/do-you-know-how-to-get-the-sharepoint-document-version-in-word/BadVersioning.png)  
 :::
 
 ::: good  
-![Good Example](GoodVersioning.png)  
+![Good Example](/rules/do-you-know-how-to-get-the-sharepoint-document-version-in-word/GoodVersioning.png)  
 :::
+

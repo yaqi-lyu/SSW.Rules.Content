@@ -13,7 +13,7 @@ guid: 812032fc-e91b-4fa1-8aa3-7a10fc3d3cc1
 ---
 Data in Azure Storage accounts is protected by replication. Deciding how far to replicate it is a balance between safety and cost.
 
-![Figure: It is important to balance safety and pricing when choosing the right replication strategy for Azure Storage Accounts](azure-graphic.jpg)
+![Figure: It is important to balance safety and pricing when choosing the right replication strategy for Azure Storage Accounts](/rules/do-you-know-when-to-use-geo-redundant-storage/azure-graphic.jpg)
 
 <!--endintro-->
 
@@ -53,3 +53,4 @@ Data in Azure Storage accounts is protected by replication. Deciding how far to 
 **More information:**
 
 * [Azure Storage Redundancy Option](https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy)
+

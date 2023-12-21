@@ -24,5 +24,6 @@ Configure login security auditing:
 
 <!--endintro-->
 
-![Figure: Enable Auditing for SQL Server logins](TurnOnSqlSecurityAuditing.png)  
+![Figure: Enable Auditing for SQL Server logins](/rules/turn-on-security-auditing/TurnOnSqlSecurityAuditing.png)  
 **Note:**  You can turn on a trace for SQL DDL operations statements.
+

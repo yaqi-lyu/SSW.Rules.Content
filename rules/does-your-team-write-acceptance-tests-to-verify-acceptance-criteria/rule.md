@@ -31,17 +31,18 @@ Suppose we have a user story to implement searching on customers with the follow
 
 The PBI for this User Story in Azure DevOps would look like this, with the Acceptance Criteria clearly defined and the Acceptance Test cases linked to the PBI:
 
-![Figure: Acceptance test cases on a PBI (in Azure DevOps)](acceptance-tests.jpg)
+![Figure: Acceptance test cases on a PBI (in Azure DevOps)](/rules/does-your-team-write-acceptance-tests-to-verify-acceptance-criteria/acceptance-tests.jpg)
 
 **Note:** The acceptance test cases need to be linked to the PBI with the link type **Tested By**.
 
 The Acceptance Test cases can be seen in Azure Test Plans for the appropriate Sprint:
 
-![Figure: The tester sees the acceptance test cases in Azure Test Plans](acceptance-tests-test-plan.jpg)
+![Figure: The tester sees the acceptance test cases in Azure Test Plans](/rules/does-your-team-write-acceptance-tests-to-verify-acceptance-criteria/acceptance-tests-test-plan.jpg)
 
 The tester then runs each Acceptance Test case:
 
-![Figure: Open the Test Runner using the "Run" menu item from test case(s)](acceptance-tests-run.jpg)
+![Figure: Open the Test Runner using the "Run" menu item from test case(s)](/rules/does-your-team-write-acceptance-tests-to-verify-acceptance-criteria/acceptance-tests-run.jpg)
 
 ![Figure: In the Test Runner, the tester follows each of the test steps and passes or fails them as appropriate (using the tick or cross button)
 ](acceptance-tests-run-steps.jpg)
+

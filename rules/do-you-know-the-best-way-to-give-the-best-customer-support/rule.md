@@ -24,7 +24,7 @@ For supporting end users' workstation machines remotely, here is the order you s
 
 * [Microsoft Teams](https://products.office.com/en-AU/microsoft-teams/group-chat-software) - (recommended) 
       
-![Figure: Teams allow you to give remote control, making it the best option for giving support](Teams-give-control.png)  
+![Figure: Teams allow you to give remote control, making it the best option for giving support](/rules/do-you-know-the-best-way-to-give-the-best-customer-support/Teams-give-control.png)  
 
 * [TeamViewer](http://www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaTeamViewer.aspx)
 * [Skype](http://www.skype.com/) - via screen share
@@ -40,7 +40,7 @@ For supporting end users' workstation machines remotely, here is the order you s
 
 For server machines, we recommend using either Windows' built-in Remote Desktop (also knows as "Terminal Services") or a VNC-based tool. Remote Desktop provides each authenticated user a Windows login session that is not shared. If your client lives in a place where the time zone is different, Remote Desktop should be your first choice as it doesn't need the client's interaction once Remote Desktop is enabled (typically it should have been enabled for a server for the ease for remote maintenance and monitoring). For servers, Remote Desktop is usually enabled via a group policy (AD GPO), although it can also be enabled through Windows System Properties.
 
-![Figure: Enable Remote Desktop](remoteconnection.png)  
+![Figure: Enable Remote Desktop](/rules/do-you-know-the-best-way-to-give-the-best-customer-support/remoteconnection.png)  
 
 Remote Desktop works for workstations, but it's not recommended due to a security risk if Remote Support isn't disabled. Also, because of the End User License Agreement (EULA), only allows 1 user at a time, if you log in to client's Windows machine, the client will be logged off.
 
@@ -49,3 +49,4 @@ If you can't use TeamViewer, Skype, or Remote Desktop, you can try VNC. There ar
 The VNC tools we prefer: [TightVNC](http://www.ssw.com.au/ssw/Redirect/tightvnc.htm) and [Ultra VNC](http://www.ssw.com.au/ssw/Redirect/ultravnc.htm).
 
 Read [SSW Remote Support Standard](http://www.ssw.com.au/ssw/Standards/Support/RemoteSupportSampleScript.aspx).
+

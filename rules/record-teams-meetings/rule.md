@@ -32,10 +32,10 @@ After recording find the link to the recording in the meeting chat
 
 1. Click the 'Copy to' button and move the file to a relevant Team's channel
 
-![Figure: Click 'Copy to'](copy-to-button-stream.png)
+![Figure: Click 'Copy to'](/rules/record-teams-meetings/copy-to-button-stream.png)
 
 2. Move the recording to a relevant Team's channel
 
-![Figure: Move recording to a better](stream-move-to-team.png)
+![Figure: Move recording to a better](/rules/record-teams-meetings/stream-move-to-team.png)
 
 3. If you are going to share the video, upload it to YouTube and send the link

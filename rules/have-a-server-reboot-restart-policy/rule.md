@@ -67,15 +67,15 @@ Here is the summary of the outage plan:
 
 **Risk Lookup Table by Probability and Impact:** 
 
-![Figure: Clearly showing the potential risks](risk-table.jpg)
+![Figure: Clearly showing the potential risks](/rules/have-a-server-reboot-restart-policy/risk-table.jpg)
 
 **Note:** The following servers will be affected:
 
-![](rule-outage-1.jpg)
+![](/rules/have-a-server-reboot-restart-policy/rule-outage-1.jpg)
 
 and
 
-![](rule-outage-2.jpg)
+![](/rules/have-a-server-reboot-restart-policy/rule-outage-2.jpg)
 
 ### To myself,
 
@@ -113,19 +113,19 @@ Immediately before the scheduled downtime, check for logged in users, file acces
 
 Open 'Windows Task Manager' (Run &gt; taskmgr) and select the 'Users' tab. Check with users if they have active connections, then have them log off.
 
-![Figure: Connected users can be viewed in Task Manager](rule-outage-3.png)
+![Figure: Connected users can be viewed in Task Manager](/rules/have-a-server-reboot-restart-policy/rule-outage-3.png)
 
 ### Files
 
 Open 'Computer Management' (Run &gt; compmgmt.msc), then 'System Tools &gt; Shared Folders'. Check 'Session' and 'Open Files' for user connections.
 
-![Figure: Computer Management 'Open Files' View](rule-outage-4.png)
+![Figure: Computer Management 'Open Files' View](/rules/have-a-server-reboot-restart-policy/rule-outage-4.png)
 
 ### Database
 
 Open SQL Server Management Studio on the server. Connect to the local SQL Server. Expand 'Management' and double-click 'Activity Manager'.
 
-![Figure: SQL Management Studio 'Active Connections' View](rule-outage-5.gif)
+![Figure: SQL Management Studio 'Active Connections' View](/rules/have-a-server-reboot-restart-policy/rule-outage-5.gif)
 
 Once these have been checked for active users, and users have logged off, maintenance can be carried out.
 
@@ -138,3 +138,4 @@ Once these have been checked for active users, and users have logged off, mainte
 If a scheduled shutdown is required, use the PsShutdown utility from [Microsoft's Sys Internals](https://docs.microsoft.com/en-us/sysinternals/downloads/psshutdown) page.
 
 **Always reply 'Done' when you finish the task.**
+

@@ -44,7 +44,7 @@ Things that go under each main folder:
 
 It is also very important to keep your shared resources and servers organized.
 
-![Figure: An efficient way for a team to structure their server and common files/folders](folders-structure.png)
+![Figure: An efficient way for a team to structure their server and common files/folders](/rules/post-production-do-you-know-how-to-structure-your-files/folders-structure.png)
 
 Things that go under each folder: 
 

@@ -23,7 +23,7 @@ A great automated way to migrate your create-react-app site to Next.js is by usi
 npx @next/codemod cra-to-next
 ```
 
-![Figure: example terminal output in converting CRA applications to Next.js](migration-terminal.png)
+![Figure: example terminal output in converting CRA applications to Next.js](/rules/migrate-react-to-nextjs/migration-terminal.png)
 
 This tool is a great starting point, but make sure to check all intended functionality has been ported correctly. 
 
@@ -36,14 +36,15 @@ It is also important to understand that when moving over the client-side functio
 It is important to keep in mind that Next.js uses file-based routing, so there must be additional care in migrating React applications that use `react-router` or `react-router-dom`. While these libraries will still function as intended in Next.js by running this code on the client, many of the advantages of using Next's file-based routing will not be realised. 
 
 ::: bad
-![Figure: Bad example - keeping `react-router-dom` in the Next.js app](react-router-dom.png)
+![Figure: Bad example - keeping `react-router-dom` in the Next.js app](/rules/migrate-react-to-nextjs/react-router-dom.png)
 :::
 
 ::: good
-![Figure: Good example - adapting your project to use Next.js file-based routing](next-routing.png)
+![Figure: Good example - adapting your project to use Next.js file-based routing](/rules/migrate-react-to-nextjs/next-routing.png)
 :::
 
 By using the `[id].tsx`, we can create a [dynamic route](https://nextjs.org/docs/pages/building-your-application/routing/dynamic-routes), where the ID can be accessed via props. This can then be used by either client-side React code or the Next.js specific server-side functions `getStaticProps` and `getSeverSideProps` to fetch data based on the request URL.  
+
 
 
 

@@ -27,8 +27,9 @@ There are a number of things you can do to make your content more search-friendl
 
 You can use the [IIS SEO](http://www.iis.net/extensions/SEOToolkit) Toolkit to find most of your problems.
 
-![Figure: Analyzing your site is easy](AnalyseSite.jpg)  
+![Figure: Analyzing your site is easy](/rules/know-the-iis-things-to-do/AnalyseSite.jpg)  
 
-![](ProblemsYouHave.jpg)  
+![](/rules/know-the-iis-things-to-do/ProblemsYouHave.jpg)  
 
 See [ScottGu's post on IIS Search Engine Optimization Toolkit](http://weblogs.asp.net/scottgu/archive/2009/06/03/iis-search-engine-optimization-toolkit.aspx) for more information
+

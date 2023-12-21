@@ -26,7 +26,7 @@ Managing up is providing your manager with an active request or an option to app
 
 <!--endintro-->
 
-![Figure: Hard decision - This guy needs to state why he recommends this option](complexity-and-false-hope.jpg)  
+![Figure: Hard decision - This guy needs to state why he recommends this option](/rules/do-you-manage-up/complexity-and-false-hope.jpg)  
 
 ::: greybox
 What do you want to charge for David's rate?
@@ -77,4 +77,5 @@ Figure: Good example - Multiple options with reasons and a recommendation
 ::: info
 **Note:** When presenting choices, it is important to avoid using the term "version" as it pertains to specific iterations or editions. Always use "options" which refer to selectable variations or customizable features.
 :::
+
 

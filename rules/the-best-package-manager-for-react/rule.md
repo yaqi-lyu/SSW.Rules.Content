@@ -23,7 +23,7 @@ While all three package managers have their strengths, the choice often boils do
 
 ## 1. [npm](https://www.npmjs.com/)
 
-![](npm-logo.jpg)
+![](/rules/the-best-package-manager-for-react/npm-logo.jpg)
 
 Overview: npm has long been the backbone of JavaScript development. It is the default package manager for the Node.js JavaScript runtime environment and has been widely adopted by the developer community.
 
@@ -39,7 +39,7 @@ Overview: npm has long been the backbone of JavaScript development. It is the de
 
 ## 2. [Yarn](https://yarnpkg.com/) (Recommended)
 
-![](yarn-logo.jpg)
+![](/rules/the-best-package-manager-for-react/yarn-logo.jpg)
 
 Overview: Introduced by Facebook, Yarn was developed as an alternative to npm, addressing some of the issues developers faced with npm.
 
@@ -51,7 +51,7 @@ Overview: Introduced by Facebook, Yarn was developed as an alternative to npm, a
 
 ## 3. [pnpm](https://pnpm.io/) (Recommended)
 
-![](pnpm-logo.png)
+![](/rules/the-best-package-manager-for-react/pnpm-logo.png)
 
 Overview: pnpm is a newer entrant in the package manager arena, but it brings unique features to the table.
 
@@ -60,3 +60,4 @@ Overview: pnpm is a newer entrant in the package manager arena, but it brings un
 - **Efficiency**: pnpm's installation speed is even faster than Yarn's and npm's due to its unique approach of linking packages from a global cache.
 - **Disk Space Savings**: By linking to a global cache, pnpm ensures packages aren't redundantly stored across multiple projects.
 - **Strict Package Isolation**: pnpm ensures that projects get exactly what they need and no additional, potentially conflicting packages.
+

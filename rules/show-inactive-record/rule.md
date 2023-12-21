@@ -21,5 +21,6 @@ Make it clear when something is inactive of disabled. Reducing the opacity is a 
 <!--endintro-->
 
 ::: good  
-![Figure: Good example - Microsoft Teams clearly shows inactive users](inactive-record.png)  
+![Figure: Good example - Microsoft Teams clearly shows inactive users](/rules/show-inactive-record/inactive-record.png)  
 :::
+

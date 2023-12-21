@@ -20,10 +20,11 @@ While "OK" buttons were the standard convention with operating systems of the pa
 
 
 ::: bad  
-![Figure: Bad example - web application button labeled as "OK"](OKBadExample.png)  
+![Figure: Bad example - web application button labeled as "OK"](/rules/do-you-avoid-ok-buttons-and-use-the-specific-action-as-labels-instead/OKBadExample.png)  
 :::
 
 
 ::: good  
-![Figure: Good example - button is labeled with the specific action](OKGoodExample.png)  
+![Figure: Good example - button is labeled with the specific action](/rules/do-you-avoid-ok-buttons-and-use-the-specific-action-as-labels-instead/OKGoodExample.png)  
 :::
+

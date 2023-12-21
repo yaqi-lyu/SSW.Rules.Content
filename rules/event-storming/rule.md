@@ -67,7 +67,7 @@ There are multiple levels that Event Storming workshops can be run at. Each leve
 * All relevant concepts are captured and documented
 * The software design phase can proceed using methods from Domain-Driven Design (DDD), [Clean Architecture](/rules-to-better-clean-architecture) and [CQRS](/use-the-mediator-pattern-with-cqrs). Each sticky note can potentially turn into a Product Backlog Item during the software development phase.
 
-![Figure: Levels of Event Storming](event-storming-levels.png)
+![Figure: Levels of Event Storming](/rules/event-storming/event-storming-levels.png)
 
 Notice as you traverse the levels from top to bottom that new concepts are introduced that help describe the domain or process which gets us closer to being able to build a concrete software solution.  
 
@@ -99,6 +99,7 @@ Different colored sticky notes should be used to denote different concepts:
 
 You can use whatever colors you can find, as long as a legend is always visible to the team.
 
-![Figure: Example of Domain Events, Commands, Actors, etc. arranged underneath the Aggregate](event-storming-example-stickies.png)
+![Figure: Example of Domain Events, Commands, Actors, etc. arranged underneath the Aggregate](/rules/event-storming/event-storming-example-stickies.png)
 
-![Figure: Example events and timeline of a booking system](event-storming-03.jpeg)
+![Figure: Example events and timeline of a booking system](/rules/event-storming/event-storming-03.jpeg)
+

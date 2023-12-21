@@ -19,7 +19,7 @@ It's important to know how to handle these failures appropriately.
 
 <!--endintro-->
 
-![Figure: How not to handle automated test failures (Sander van der Wel from Netherlands, CC BY-SA 2.0, via Wikimedia Commons)](head-in-sand.jpg)
+![Figure: How not to handle automated test failures (Sander van der Wel from Netherlands, CC BY-SA 2.0, via Wikimedia Commons)](/rules/dangers-of-tolerating-test-failures/head-in-sand.jpg)
 
 ### Some anti-patterns in handling automated test failures
 

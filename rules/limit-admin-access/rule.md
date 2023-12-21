@@ -28,9 +28,9 @@ e.g. You do not want developers to have force-push permissions on the main branc
 See GitHub docs [Repository permission levels for an organization](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/repository-permission-levels-for-an-organization)
 
 ::: bad
-![Bad Example: All members are Admins](tooManyAdmins.png)
+![Bad Example: All members are Admins](/rules/limit-admin-access/tooManyAdmins.png)
 :::
 
 ::: good
-![Good Example: Most users have push access, some can maintain the repo](notManyAdmins.png)
+![Good Example: Most users have push access, some can maintain the repo](/rules/limit-admin-access/notManyAdmins.png)
 :::

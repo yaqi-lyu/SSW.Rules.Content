@@ -33,7 +33,7 @@ Automation can be an awesome part of a test strategy, but not all tests are good
 
 <!--endintro-->
 
-![Figure: Making wise decisions about what to automate can prevent you from wasting valuable time automating less valuable tests](to-automate-or-not-ssw.jpg)
+![Figure: Making wise decisions about what to automate can prevent you from wasting valuable time automating less valuable tests](/rules/good-candidate-for-test-automation/to-automate-or-not-ssw.jpg)
 
 > If you try to "automate" bad testing, you’ll find yourself doing bad testing faster and worse than you've ever done it before.  
 >        - Michael Bolton
@@ -166,3 +166,4 @@ Good example - Testing a save button
 ### Further reading
 
 - [When Should a Test Be Automated?](https://www.stickyminds.com/sites/default/files/article/file/2014/When%20Should%20a%20Test%20Be%20Automated.pdf) by Brian Marick
+

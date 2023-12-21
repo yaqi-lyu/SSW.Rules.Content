@@ -22,10 +22,11 @@ Because SharePoint server will create quite a few databases, it’s easier to ma
 
 
 ::: bad  
-![Bad example - mixed with other systems' database](sharepoint-database-bad.png)  
+![Bad example - mixed with other systems' database](/rules/keep-sharepoint-databases-in-a-separate-sql-instance/sharepoint-database-bad.png)  
 :::
 
 
 ::: good  
-![Good example - SharePoint related databases are in a separate SQL instance from other systems' databases](sharepoint-database-good.png)  
+![Good example - SharePoint related databases are in a separate SQL instance from other systems' databases](/rules/keep-sharepoint-databases-in-a-separate-sql-instance/sharepoint-database-good.png)  
 :::
+

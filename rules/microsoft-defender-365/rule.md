@@ -32,7 +32,7 @@ Points are given as per the following actions: 
 * Remediating vulnerabilities  
 * Addressing the improvement action with a third-party application or software, or an alternate mitigation
 
-![Figure: Microsoft Secure score  ](secure_score-2022-08-10.jpg)
+![Figure: Microsoft Secure score  ](/rules/microsoft-defender-365/secure_score-2022-08-10.jpg)
 
 ### How to increase Secure Score: 
 
@@ -51,18 +51,18 @@ The exposure score is continuously calculated on each device in the organization
 * Likelihood of the device getting breached given its current security posture  
 * Value of the device to the organization given its role and content 
 
-![Figure:❌Bad Example - High exposure level  ](badexample_exposure-2022-08-10.jpg)
+![Figure:❌Bad Example - High exposure level  ](/rules/microsoft-defender-365/badexample_exposure-2022-08-10.jpg)
 
-![Figure: ✅ Good Example – No High exposure level](goodexample_exposure-2022-08-10.jpg)
+![Figure: ✅ Good Example – No High exposure level](/rules/microsoft-defender-365/goodexample_exposure-2022-08-10.jpg)
 
 For all the high exposure level devices, address the discovered vulnerabilities starting with Critical severity recommendations. Once remediated, we can get those devices or servers from High exposure to Low exposure.
 
-![Figure: Severity level – High Exposure ](discoveredvulner-2022-08-10.jpg)
+![Figure: Severity level – High Exposure ](/rules/microsoft-defender-365/discoveredvulner-2022-08-10.jpg)
 
 ### Security Recommendations
 
 The Microsoft Defender portal has security recommendations for exposed devices which can be remediated manually after doing the needful (maybe a simple update).
 
-![Figure: Security Recommendation - Request remediation ](security_recommendation-2022-08-10.jpg)
+![Figure: Security Recommendation - Request remediation ](/rules/microsoft-defender-365/security_recommendation-2022-08-10.jpg)
 
 When you request remediation, you will need to add notes, which should show the remediation activity details.

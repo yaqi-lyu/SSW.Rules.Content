@@ -18,5 +18,6 @@ Too often error messages are a summary at the top or the bottom of the page. Ins
 
 
 ::: good  
-![Figure: Good example - Provide red errors next to the field](red-error.jpg)  
+![Figure: Good example - Provide red errors next to the field](/rules/do-you-provide-red-errors-next-to-the-field/red-error.jpg)  
 :::
+

@@ -30,7 +30,7 @@ The User Profile is simply a layer of information on top of Active Directory pro
 
 Office 365 User Profile Service is a good tool at managing fields related to users, but it does not offer any functionality to maintain related data such as responsibilities and projects. Therefore it cannot be used as a single source of truth if you have complex profile data. Think of all the stuff you see on LinkedIn. Maybe this will change in the future now that Microsoft owns LinkedIn.
 
-![Figure: AD, UserProfile and O365 Services interactions](onpremisesad1.png)  
+![Figure: AD, UserProfile and O365 Services interactions](/rules/the-right-place-to-store-employee-data/onpremisesad1.png)  
 
 **Tip:** Keep User Profiles up-to-date with     [hyperfish.com](https://www.hyperfish.com/)
 
@@ -38,7 +38,7 @@ Office 365 User Profile Service is a good tool at managing fields related to use
 
 Companies want bots to answer more than just simple questions. If you have rich data then your bot can answer questions like "Who worked in Education and knows French". This is unfortunately not possible with AD/UserProfile custom fields and properties. In those instances, the alternative is to use Dynamics 365 (or SalesForce) as a single source of truth; and then sync back the data to simple fields in User Profile.
 
-![Figure: CRM (Dynamics 365) used a source of truth](onpremisesad2.png)  
+![Figure: CRM (Dynamics 365) used a source of truth](/rules/the-right-place-to-store-employee-data/onpremisesad2.png)  
  In this scenario, a custom sync mechanism (i.e. SSIS pipeline) will have to be implemented. Both Dynamics 365 and User Profile Service exposes APIs that can read and write properties/fields for such a system.
 Then other external systems such as the public employee pages, Power BI reports and bots can query Dynamics 365 directly.
 
@@ -51,3 +51,4 @@ Delve is more useful in companies where the “discovery” aspect is needed.
 
 TODO: [screenshot of Dynamics 365 – skills]
 TODO: [screenshot of Delve – skills]
+

@@ -44,11 +44,11 @@ Assuming that Windows is already installed, then get your SOE installed fast by 
 8. In case you lose your laptop, it is a good idea to stick a business card to the underneath
 9. For branding, stick your company sticker to the laptop - or even better, a custom skin - see [Do you brand your assets?](/brand-your-assets)
 
-![Figure: Example login/branding script](login-script.png)
+![Figure: Example login/branding script](/rules/do-you-know-the-quickest-way-to-get-your-windows-soe-up-and-running/login-script.png)
 
-![Figure: Example package manager - using chocolatey to install required software](choco.png)
+![Figure: Example package manager - using chocolatey to install required software](/rules/do-you-know-the-quickest-way-to-get-your-windows-soe-up-and-running/choco.png)
 
-![Figure: Company branding on laptop](ssw-skin.jpeg)
+![Figure: Company branding on laptop](/rules/do-you-know-the-quickest-way-to-get-your-windows-soe-up-and-running/ssw-skin.jpeg)
 
 8. If you are preparing the machine for someone else or migrating an old PC, you could send an email based on the template below. Don't forget to change the names where necessary:
 
@@ -89,3 +89,4 @@ Now I need you to do (we can do this together if you are stuck, just give me a c
 
 :::
 :::
+

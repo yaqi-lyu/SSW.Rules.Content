@@ -25,10 +25,11 @@ The package contains all the information needed for the 3rd party library to wor
 
 The concept of a package makes it very easy to upgrade and remove the libraries in the future with a single click.
 
-![Figure: Do you download a package, save it locally and then add it to your project manually?](NuGet-bad-1.jpg) 
+![Figure: Do you download a package, save it locally and then add it to your project manually?](/rules/do-you-use-nuget/NuGet-bad-1.jpg) 
 
-![Figure: Step 1 - Right click on your project in visual studio and select Manage NuGet Packages](NuGet-good-1.jpg) 
+![Figure: Step 1 - Right click on your project in visual studio and select Manage NuGet Packages](/rules/do-you-use-nuget/NuGet-good-1.jpg) 
 
-![Figure: Step 2 - Find the package you want and click install](NuGet-good-2.jpg) 
+![Figure: Step 2 - Find the package you want and click install](/rules/do-you-use-nuget/NuGet-good-2.jpg) 
 
 Now all you need to do when you want to remove or upgrade the package is go back to the NuGet package manager.
+

@@ -55,12 +55,12 @@ This Service Detector works by attempting to download the Favicon.ico file from 
 
 
 ::: bad  
-![Figure Bad Example: Attempted requests to Facebook, Google, and Youtube from China took a long time to timeout, adding significant delays to the rendering of this page](BlockedDependencies.png)  
+![Figure Bad Example: Attempted requests to Facebook, Google, and Youtube from China took a long time to timeout, adding significant delays to the rendering of this page](/rules/do-you-detect-service-availability-from-the-client/BlockedDependencies.png)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Only 4 errors on F12 in China. Using SSW.ServiceDetector, there were only short, canceled requests raised to blocked services. The site was then able to fall-back gracefully for some services and load YouKu for videos](SSW.ServiceDetector.png)  
+![Figure: Good Example - Only 4 errors on F12 in China. Using SSW.ServiceDetector, there were only short, canceled requests raised to blocked services. The site was then able to fall-back gracefully for some services and load YouKu for videos](/rules/do-you-detect-service-availability-from-the-client/SSW.ServiceDetector.png)  
 :::
 
 ### Solutions
@@ -70,8 +70,9 @@ Both these options require service detection to operate properly. Remember that 
 
 **Solution 1: Remove the content**
 
-![](youtuberemove.png)  
+![](/rules/do-you-detect-service-availability-from-the-client/youtuberemove.png)  
 
 **Solution 2: Provide an alternative to the blocked service**
 
-![](youku.png)
+![](/rules/do-you-detect-service-availability-from-the-client/youku.png)
+

@@ -17,10 +17,11 @@ The buttons that a user will typically use should not be dynamically labeled acr
 
 
 ::: bad  
-![Figure: Bad Example - Buttons are dynamically labeled "Build ..." and "Edit ..." depending on text in the text box](../../assets/DynamicallyLabelingButtonBad.gif)  
+![Figure: Bad Example - Buttons are dynamically labeled "Build ..." and "Edit ..." depending on text in the text box](/rules/do-you-avoid-dynamically-labeling-your-form-buttons/DynamicallyLabelingButtonBad.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Buttons are not dynamically labelled](../../assets/DynamicallyLabelingButtonGood.gif)  
+![Figure: Good Example - Buttons are not dynamically labelled](/rules/do-you-avoid-dynamically-labeling-your-form-buttons/DynamicallyLabelingButtonGood.gif)  
 :::
+

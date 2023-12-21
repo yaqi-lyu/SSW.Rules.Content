@@ -48,7 +48,7 @@ Systems need to have features added to them to continually remain useful (or com
 * $80 - IOU via PBI in the backlog e.g. \[FeatureName] – Technical Debt - Planned
 
 ::: good
-![Figure: Good example - Technical Debt is very visible to the Product Owner](waf-tech-debt-backlog-northwind.png)
+![Figure: Good example - Technical Debt is very visible to the Product Owner](/rules/technical-debt/waf-tech-debt-backlog-northwind.png)
 :::
 
 ### What are the consequences of Technical Debt?
@@ -101,8 +101,9 @@ At the Sprint Planning:
 
 ### Screenshots
 
-![Figure: Screenshot of code with Technical Debt comment and link to GitHub issue](techdebt-github.png)
+![Figure: Screenshot of code with Technical Debt comment and link to GitHub issue](/rules/technical-debt/techdebt-github.png)
 
-![Figure: Screenshot of Technical Debt on backlog](techdebt-backlog.png)
+![Figure: Screenshot of Technical Debt on backlog](/rules/technical-debt/techdebt-backlog.png)
 
-![Figure: SugarLearning architecture diagram](techdebt-architecture.png)
+![Figure: SugarLearning architecture diagram](/rules/technical-debt/techdebt-architecture.png)
+

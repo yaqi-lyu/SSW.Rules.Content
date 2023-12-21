@@ -18,4 +18,4 @@ You might have plenty of ideas when you are preparing your presentation. Add the
 
 <!--endintro-->
 
-![Figure: Put your working "TODO:" notes in red and highlighted](goodtodo.jpg)
+![Figure: Put your working "TODO:" notes in red and highlighted](/rules/do-you-make-todo-items-in-red/goodtodo.jpg)

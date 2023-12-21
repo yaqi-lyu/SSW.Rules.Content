@@ -34,7 +34,7 @@ When trying to explain something, think about it in the context of 3 levels of z
 
 Each level provides a little bit more context so that the listener can understand the next level down and eventually reach the core question.
 
-![Figure: Zoom and enhance!](ZoomAndEnhance.gif)
+![Figure: Zoom and enhance!](/rules/zooming-in-and-out/ZoomAndEnhance.gif)
 
 ## Scenario - Problems interacting with the database for a new view
  
@@ -150,3 +150,4 @@ If you apply these techniques, your conversations are going to be:
 * More efficient
 * Happier
 * Stress-free
+

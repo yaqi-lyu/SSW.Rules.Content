@@ -32,4 +32,5 @@ Here is how you do it in Advanced Installer:
       [|ProductName]
 
 
-![Figure: Advanced Installer - Add version to output package](installer-add-version-number.jpg)
+![Figure: Advanced Installer - Add version to output package](/rules/do-you-know-how-to-add-a-version-number-to-setup-package-in-advanced-installer/installer-add-version-number.jpg)
+

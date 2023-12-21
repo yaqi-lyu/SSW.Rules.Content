@@ -19,5 +19,5 @@ Also ensure the address starts with **https://** and NOT **http://** (without th
 Finally, you may sometimes see the address bar turn green. This indicates that the owner of the website has gone through extended verification (EV). EV is not necessary for security, however EV is part of an encryption certificate, so if you see it, then it’s an indication that the connection is encrypted.
 
 ::: good
-![Good example – SSW’s website is encrypted, which can be seen by the https address and the padlock symbol](encrypted-website-example.png)
+![Good example – SSW’s website is encrypted, which can be seen by the https address and the padlock symbol](/rules/is-site-encrypted/encrypted-website-example.png)
 :::

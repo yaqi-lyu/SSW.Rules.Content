@@ -23,6 +23,7 @@ Once you’ve identified the manual processes in [Stage 1](/things-to-measure), 
 
 See [Rules to Better Continuous Deployments with TFS](/rules-to-better-continuous-deployment-with-tfs).
 
-![Figure: In Azure DevOps you can automate application deployment to a staging environment and automatically run tests before deploying to production](2020-03-23\_14-08-39.jpg)
+![Figure: In Azure DevOps you can automate application deployment to a staging environment and automatically run tests before deploying to production](/rules/things-to-automate-stage-2/2020-03-23_14-08-39.jpg)
 
-![Figure: In GitHub actions you can automate application deployment to a multiple environments and automatically run tests before deploying to production](2022-01-21\_11-35-00.jpg)
+![Figure: In GitHub actions you can automate application deployment to a multiple environments and automatically run tests before deploying to production](/rules/things-to-automate-stage-2/2022-01-21_11-35-00.jpg)
+

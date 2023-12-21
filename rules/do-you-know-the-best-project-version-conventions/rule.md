@@ -40,9 +40,10 @@ Figure: Bad example - SVN conventions are a dated and ignore releases, hotfixes 
 Trunk is the old way, Main is the new way as per the branching guidance, and it is the way that Microsoft does things.
 
 ::: good
-![Figure: Good example - This makes a lot more sense](BranchGuidance.jpg)
+![Figure: Good example - This makes a lot more sense](/rules/do-you-know-the-best-project-version-conventions/BranchGuidance.jpg)
 :::
 
 **More Information:**
 
-![Figure: A good format for all your Products/Projects makes it easy to know where things are and what they are for](GoodFormatForInfo.jpg)
+![Figure: A good format for all your Products/Projects makes it easy to know where things are and what they are for](/rules/do-you-know-the-best-project-version-conventions/GoodFormatForInfo.jpg)
+

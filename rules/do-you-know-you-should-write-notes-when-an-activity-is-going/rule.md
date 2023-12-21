@@ -24,15 +24,16 @@ During meetings, there is a lot of communication between you and the client. It 
 
 
 ::: bad  
-![Figure: Bad example – Notepad is not a good tool as it cannot recover your content in case of disaster](write-notes-bad.jpg)  
+![Figure: Bad example – Notepad is not a good tool as it cannot recover your content in case of disaster](/rules/do-you-know-you-should-write-notes-when-an-activity-is-going/write-notes-bad.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example – Notes from the meeting with a client were written in OneNote](write-notes-good.jpg)  
+![Figure: Good example – Notes from the meeting with a client were written in OneNote](/rules/do-you-know-you-should-write-notes-when-an-activity-is-going/write-notes-good.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example – Notes from a conversation organising presenters for upcoming user groups. The sessions are listed in month order and the speakers have been tagged in their respective events.](trello-for-notetaking.jpg)  
+![Figure: Good example – Notes from a conversation organising presenters for upcoming user groups. The sessions are listed in month order and the speakers have been tagged in their respective events.](/rules/do-you-know-you-should-write-notes-when-an-activity-is-going/trello-for-notetaking.jpg)  
 :::
+

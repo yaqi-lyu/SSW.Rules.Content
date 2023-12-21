@@ -39,14 +39,15 @@ That being said, there are a couple of exceptions to this rule.
 2. If you want a consistent design feel (and there is no confusion that the link is accepting data)
 
 
-![Figure: An exception to the rule - an "Update" button inside the datagrid would look inconsistent](LinksExample.gif)  
+![Figure: An exception to the rule - an "Update" button inside the datagrid would look inconsistent](/rules/forms-do-you-know-when-to-use-links-and-when-to-use-buttons/LinksExample.gif)  
 
 
 ::: bad  
-![Figure: Bad Example - The "sign in" hyperlink should be a button](LinkVsButton.gif)  
+![Figure: Bad Example - The "sign in" hyperlink should be a button](/rules/forms-do-you-know-when-to-use-links-and-when-to-use-buttons/LinkVsButton.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - This is a perfect example of how a good sign in screen should look](Logon.gif)  
+![Figure: Good Example - This is a perfect example of how a good sign in screen should look](/rules/forms-do-you-know-when-to-use-links-and-when-to-use-buttons/Logon.gif)  
 :::
+

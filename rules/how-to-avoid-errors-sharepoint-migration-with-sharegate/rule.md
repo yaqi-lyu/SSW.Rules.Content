@@ -36,7 +36,7 @@ Copying the content to a MicroFeed list is not supported.
 
 **Source:** https://support.share-gate.com/hc/en-us/articles/115000600227
 
-![Figure: errors due to micro feed migration](errors-micro-feed-migration.png)  
+![Figure: errors due to micro feed migration](/rules/how-to-avoid-errors-sharepoint-migration-with-sharegate/errors-micro-feed-migration.png)  
 
 ### Lookup fields
 
@@ -99,3 +99,4 @@ Property Target Audiences: The Target Audience 'xxxxxxxxxxxxxx' could not be fou
 **Warning:** The Insane Mode does not support copying ASPX pages. The copy will continue without using Insane Mode.
 
 **Solution:** you should manually check ASPX pages for errors after migration.
+

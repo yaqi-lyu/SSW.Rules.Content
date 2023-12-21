@@ -26,10 +26,10 @@ guid: ff423950-2e2e-46b2-bfa5-ef9d69e83774
 
 **Video: Hear from Luke Cook about how organizing your cloud assets starts with good names and consistency!**
 
-![](icon-naming-azure.png)
+![](/rules/azure-naming-resources/icon-naming-azure.png)
 
 ::: bad
-![The scariest resource name you can find](kv-bad-name.jpg)
+![The scariest resource name you can find](/rules/azure-naming-resources/kv-bad-name.jpg)
 :::
 
 Organizing your cloud assets starts with good names. It is best to be consistent and use:
@@ -55,7 +55,7 @@ Having inconsistent resource names across projects creates all sorts of pain
 If you're looking for resources, it's much easier to have a pattern to search for. At a bare minimum, you should keep the name of the product in the resource name, so finding them in Azure is easy. One good option is to follow the "productname-environment" naming convention, and most importantly: keep it consistent!
 
 ::: bad
-![Bad Example - Inconsistent resource names. Do these belong to the same product?](bad-azure-name-example-1.png)
+![Bad Example - Inconsistent resource names. Do these belong to the same product?](/rules/azure-naming-resources/bad-azure-name-example-1.png)
 :::
 
 ### Name your resources according to their environment
@@ -63,7 +63,7 @@ If you're looking for resources, it's much easier to have a pattern to search fo
 Resource names can impact things like resource addresses/URLs. It's always a good idea to name your resources according to their environment, even when they exist in different Subscriptions/Resource Groups.
 
 ::: good
-![Good Example - Consistent names, using lowercase letters and specifying the environment. Easy to find, and easy to manage!](better-example.png)
+![Good Example - Consistent names, using lowercase letters and specifying the environment. Easy to find, and easy to manage!](/rules/azure-naming-resources/better-example.png)
 :::
 
 ### Plan for the exceptions
@@ -81,3 +81,4 @@ You can also use policies to enforce naming convention adherance, and making thi
 For more information, see our rule: [Do you know how to create Azure resources?](/azure-resources-creating)
 
 Want more Azure tips? [Check out our rule on Azure Resource Groups](/azure-naming-resource-groups).
+

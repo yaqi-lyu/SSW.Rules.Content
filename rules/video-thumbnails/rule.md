@@ -44,9 +44,10 @@ YouTube offers [resources to create better custom thumbnails](https://support.go
 Establishing a unique visual style for thumbnails is great for grouping similar videos together and encouraging click-throughs. This has the added benefit of increasing brand recognition and strengthening the connection between grouped content.
 
 ::: bad
-![Figure: Bad example - Automatically generated thumbnails are not engaging and inconsistent](custom-thumbnails-bad.png)
+![Figure: Bad example - Automatically generated thumbnails are not engaging and inconsistent](/rules/video-thumbnails/custom-thumbnails-bad.png)
 :::
 
 ::: good
-![Figure: Good example - Consistent thumbnail styles elevate branding and helps viewers identify similar content](custom-thumbnails-good.png)
+![Figure: Good example - Consistent thumbnail styles elevate branding and helps viewers identify similar content](/rules/video-thumbnails/custom-thumbnails-good.png)
 :::
+

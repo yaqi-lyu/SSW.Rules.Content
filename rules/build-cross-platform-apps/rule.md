@@ -14,7 +14,7 @@ guid: 8d03f974-6e64-4d65-a3b2-04d7e78a52f1
 ---
 
 ::: img-medium
-![Figure: There are many cross-platform technology options available](cross-platform-options.png)
+![Figure: There are many cross-platform technology options available](/rules/build-cross-platform-apps/cross-platform-options.png)
 :::
 
 If you're building installable binary apps (as opposed to web apps), it makes sense to use a cross-platform framework so that you don’t need to maintain multiple code bases. 
@@ -50,3 +50,4 @@ If you already have a .NET development team and your solution is built on .NET, 
 If you already have a strong React team, it may make sense to use **[React Native](https://reactnative.dev/)**. There is a bit of a learning curve to go from React to React Native, but it still builds upon your team’s existing skills.
  
 Choose **[Flutter](https://flutter.dev/)** if you like Dart.
+

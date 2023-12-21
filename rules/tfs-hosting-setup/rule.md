@@ -20,33 +20,33 @@ guid: 1b806cc8-71d3-43af-83fc-647cea0acbc1
 
 2. Connect your Visual Studio to the TFS Server by clicking on Connect To Team Foundation Server
 
-![Figure 1 - Click on Connect To Team Foundation Server](connecttotfs.jpeg)
+![Figure 1 - Click on Connect To Team Foundation Server](/rules/tfs-hosting-setup/connecttotfs.jpeg)
 
 3. Click on Servers | Add
 4. Enter the Server Name of tfs.ssw.com.au
 
-![Figure 2 - Enter the server name](enterservername.jpeg)
+![Figure 2 - Enter the server name](/rules/tfs-hosting-setup/enterservername.jpeg)
 
 5. Click Close
 6. In the Connect to Team Project dialog, select your Team Project Collection and tick the Team Projects you want to connect to your Visual Studio
 
-![Figure 3 - Select your Team Project Collections and associated Team Projects](teamproject.jpeg)
+![Figure 3 - Select your Team Project Collections and associated Team Projects](/rules/tfs-hosting-setup/teamproject.jpeg)
 
 7. You should now see the Team Projects you selected in the Team Explorer
 
-![Figure 4 - The Projects now appear in the Team Explorer](projectinteamexplorer.jpeg)
+![Figure 4 - The Projects now appear in the Team Explorer](/rules/tfs-hosting-setup/projectinteamexplorer.jpeg)
 
 ### How to Access a Project's SharePoint Portal
 
 The easiest way to access the SharePoint Portal for a project is to right click the project name in Visual Studio and click Show Project Portal. This will launch a browser window where you will be able to see your SharePoint Portal for the project.
 
-![Figure 5 - Right click on your Project and click Show Project Portal to launch the SharePoint Portal](findprojectportal.jpeg)
+![Figure 5 - Right click on your Project and click Show Project Portal to launch the SharePoint Portal](/rules/tfs-hosting-setup/findprojectportal.jpeg)
 
 ### How to Access a Project's Reports
 
 The easiest way to access the reports for a project is to right click on the Reports menu item under the project and click Show Reports Site. This will launch a browser window where you will be able to see the reports for the project.
 
-![Figure 6 - In your project, right click on Reports and select Show Report Site to view that projects reports](viewreport.jpeg)
+![Figure 6 - In your project, right click on Reports and select Show Report Site to view that projects reports](/rules/tfs-hosting-setup/viewreport.jpeg)
 
 ### How to Download Builds from your Build Server
 
@@ -61,7 +61,7 @@ After you have downloaded and installed FileZilla, follow these steps to connect
 3. Enter the following details: 
 
 
-![Figure 7 - Fill in Host, Port, Server Type, Login Type, User and Password](setupsftpsite.jpeg)
+![Figure 7 - Fill in Host, Port, Server Type, Login Type, User and Password](/rules/tfs-hosting-setup/setupsftpsite.jpeg)
 
 
 4. Press the **Connect** button and you will be connected to your Build Server

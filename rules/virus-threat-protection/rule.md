@@ -22,4 +22,5 @@ If it is suspected that a machine has a virus, then it pays to be extra certain 
 2. Run a full scan - This scan takes a few hours and will do a deep check on your PC to remove problems
 3. Once you don't need to use your PC, run an offline scan - This scan will take your PC offline to do a scan and ensures viruses can't reinfect you during the quarantine process
 
-![Figure: If you suspect you are infected, run a quick scan, then a full scan and then when you don’t need to use your computer do an offline scan](defenderscanoptions.png)
+![Figure: If you suspect you are infected, run a quick scan, then a full scan and then when you don’t need to use your computer do an offline scan](/rules/virus-threat-protection/defenderscanoptions.png)
+

@@ -18,11 +18,11 @@ A mnemonic for a button is the letter which has an underscore, and the user can 
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - All buttons without Mnemonic](../../assets/BadMem.gif)  
+![Figure: Bad example - All buttons without Mnemonic](/rules/being-pedantic-do-your-buttons-have-a-mnemonic/BadMem.gif)  
 :::
 
 ::: good  
-![Figure: Good example - All buttons with Mnemonic - user can easily choose which button they want without a click](../../assets/GoodMem.gif)  
+![Figure: Good example - All buttons with Mnemonic - user can easily choose which button they want without a click](/rules/being-pedantic-do-your-buttons-have-a-mnemonic/GoodMem.gif)  
 :::
 
 In Windows Applications, it is quite easy to assign a mnemonic to a button with the "&" character.
@@ -36,3 +36,4 @@ btnAbout.Text = "&About"
 ::: info
 Learn more about the [Mnemonic property on Windows Desktop](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.label.usemnemonic?view=windowsdesktop-7.0).
 :::
+

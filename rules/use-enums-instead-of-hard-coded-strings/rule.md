@@ -20,10 +20,11 @@ Use Enums instead of hard-coded strings, it makes your code lot  **cleaner** and
 
 
 ::: bad  
-![Figure: Bad example - "Hard- coded string" works, but is a bad idea](EnumBadExample.jpg)  
+![Figure: Bad example - "Hard- coded string" works, but is a bad idea](/rules/use-enums-instead-of-hard-coded-strings/EnumBadExample.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example - Used Enums, looks good and is easy to manage](EnumGoodExample.jpg)  
+![Figure: Good example - Used Enums, looks good and is easy to manage](/rules/use-enums-instead-of-hard-coded-strings/EnumGoodExample.jpg)  
 :::
+

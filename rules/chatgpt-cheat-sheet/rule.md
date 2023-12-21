@@ -109,10 +109,11 @@ It’s important to consider what a prompt is made up of. Here’s an example th
 
 For more on this prompt structure, see: [Do you know the fundamentals of Prompt Engineering?](/fundamentals-of-prompt-engineering)
 
-![Figure: Results from the 5 in 1 example prompt](5in1-prompt.png)
+![Figure: Results from the 5 in 1 example prompt](/rules/chatgpt-cheat-sheet/5in1-prompt.png)
 
 ## Chain your prompts
 
 Chain prompting is the technique of guiding GTP's responses by asking a series of related questions or prompts, building upon the previous answers to obtain more coherent and relevant information. 
 
 For an example on this, see: [Do you use chained prompting?](/chained-prompting)
+

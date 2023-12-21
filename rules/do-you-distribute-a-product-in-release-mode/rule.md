@@ -26,6 +26,7 @@ If we want line numbers, we simply need  **Debugging Information** . You can cha
 
 **Figure: Code that should only run in Debug mode, we certainly don't want this in the release version.** 
 
-![Figure: Set "Generate Debugging Information" to True on the project properties page (VS 2003)](DebugConfiguration.gif)
+![Figure: Set "Generate Debugging Information" to True on the project properties page (VS 2003)](/rules/do-you-distribute-a-product-in-release-mode/DebugConfiguration.gif)
 
-![Figure: Set "Debug Info" to "pdb-only" on the Advanced Build Settings page (VS 2005)](VS2005AdvancedBuildSettings.gif)
+![Figure: Set "Debug Info" to "pdb-only" on the Advanced Build Settings page (VS 2005)](/rules/do-you-distribute-a-product-in-release-mode/VS2005AdvancedBuildSettings.gif)
+

@@ -21,7 +21,7 @@ guid: 985df34b-7af9-4f03-a48a-cf7391411656
 Authentication and authorization are complicated, and it is risky to try and implement them yourself. Use this rule as a guide on choosing the right service or framework for your situation.
 
 ::: img-small  
-![](security-icon-ssw.jpg)  
+![](/rules/choosing-authentication/security-icon-ssw.jpg)  
 :::  
 
 <!--endintro-->
@@ -437,3 +437,4 @@ Good example: The chosen solution meets the requirements without adding unnecess
 **Note #1**: All of the following options assume you are building an ASP.NET Core application, although the commercial options listed here provide libraries for most development languages, frameworks, and platforms.
 
 **Note #2**: The information here is relevant as provided, but consider other factors that may impact your decision too. For example, cost may be a factor and saving money may be more important than the added benefits of higher-cost options. Additionally, your situation may not fit neatly into one of the scenarios we have listed and may span multiple scenarios, in which case you may need to pick the option which caters to the broadest set of requirements (avoid 'mix and match').
+

@@ -31,9 +31,9 @@ ChatGPT can be used for:
 **Warning:** Ensure you double check code integrity before deploying to production!
 :::
 
-![Figure: Asking ChatGPT to explain this code](chatgpt-code-prompt.png)
+![Figure: Asking ChatGPT to explain this code](/rules/chatgpt-can-help-code/chatgpt-code-prompt.png)
 
-![Figure: ChatGPT explains the code](chatgpt-code-response.png)
+![Figure: ChatGPT explains the code](/rules/chatgpt-can-help-code/chatgpt-code-response.png)
 
 ### Try it yourself, copy and paste this into [ChatGPT](https://chat.openai.com)
 
@@ -63,3 +63,4 @@ public async Task<IActionResult> MoveRight(string id)
 	}
 }
 ```
+

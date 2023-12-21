@@ -29,6 +29,7 @@ It will also show your Favourite Filters which are very useful.
  System Dashboard example:
 
 
-![](SystemDashboardExample.png)The specification of the dashboard is:
+![](/rules/do-you-know-how-your-system-dashboard-can-help-you-this-is-the-most-important-feature-in-jira/SystemDashboardExample.png)The specification of the dashboard is:
 
-![](SystemDashboardSpec.png)
+![](/rules/do-you-know-how-your-system-dashboard-can-help-you-this-is-the-most-important-feature-in-jira/SystemDashboardSpec.png)
+

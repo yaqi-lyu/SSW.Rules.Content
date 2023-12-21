@@ -22,7 +22,7 @@ When it comes to site search, managing various search requirements can be challe
 
 ### Algolia
 
-![](algolia.png)
+![](/rules/use-right-site-search-for-your-website/algolia.png)
 
 [Algolia](https://www.algolia.com/) is a cloud-based search platform that offers a powerful and customizable search-as-a-service solution. It is known for its excellent real-time search performance.
 
@@ -68,7 +68,7 @@ When it comes to site search, managing various search requirements can be challe
 
 ### ElasticSearch
 
-![](elasticsearch.png)
+![](/rules/use-right-site-search-for-your-website/elasticsearch.png)
 
 [Elasticsearch](https://www.elastic.co/) is a search engine based on the Lucene and designed as a backend search engine. It's a powerful, scalable, and feature-rich option suitable for large-scale and complex search needs, but it requires significant server management and expertise.
 
@@ -87,5 +87,6 @@ Selecting the right site search tool depends on your project's specific requirem
 If you have a budget, you can consider choosing Algolia. It solves the problem of complex configuration and allows you to set up on-site search quickly with just a few lines of code.
 If you prefer a free and more customized option, both Typesense and Meilisearch are good choices to consider.
 Elasticsearch is effective and particularly good at searching and analyzing logs. You can use it for on-site searches too, but unless your website is huge, using Elasticsearch might be excessive, and setting it up could get very complicated.
+
 
 

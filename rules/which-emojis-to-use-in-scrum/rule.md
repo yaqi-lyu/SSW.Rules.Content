@@ -53,9 +53,10 @@ So creating documentation that outlines the standard set of emojis to use is cru
 Try not to go overboard, keeping it simple makes it easier for developers to pick the right emoji.
 
 ::: bad
-![Figure: Bad Example - The Sprint Review is an important meeting but doesn't stand out in my calendar](srumoji - bad example.jpg)
+![Figure: Bad Example - The Sprint Review is an important meeting but doesn't stand out in my calendar](/rules/which-emojis-to-use-in-scrum/srumoji - bad example.jpg)
 :::
 
 ::: good
-![Figure: Good Example - The Daily Scrum and Sprint Review stand out and I will definitely not forget to attend](scrumoji - good example.jpg)
+![Figure: Good Example - The Daily Scrum and Sprint Review stand out and I will definitely not forget to attend](/rules/which-emojis-to-use-in-scrum/scrumoji - good example.jpg)
 :::
+

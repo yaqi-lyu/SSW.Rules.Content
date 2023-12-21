@@ -36,4 +36,5 @@ It should definitely include:
 * Metrics that will be followed
 
 
-![Figure: Marketing Content is valuable with the right approach! - Image source:        Joe Lesina](contentmkt.png)
+![Figure: Marketing Content is valuable with the right approach! - Image source:        Joe Lesina](/rules/do-you-have-a-content-marketing-strategy-for-your-business/contentmkt.png)
+

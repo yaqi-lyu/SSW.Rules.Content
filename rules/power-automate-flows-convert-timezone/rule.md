@@ -17,7 +17,7 @@ However, there are situations where using your local timezone might be more appr
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example - Comparing Datetime in default timezone: UTC with UTC](comparing-timedate-without-converting.png)
+![Figure: Bad example - Comparing Datetime in default timezone: UTC with UTC](/rules/power-automate-flows-convert-timezone/comparing-timedate-without-converting.png)
 :::
 
 - ❌ **Complex Time Zone Calculations**: Handling time zone conversions manually can become cumbersome, especially when dealing with events and meetings across multiple time zones
@@ -31,8 +31,9 @@ convertTimeZone({{ array/object }}?[{{ 'timedate variable' }}], 'UTC', 'AUS East
 ```
 
 ::: good
-![Figure: Good example - You are comparing it in local timezone (i.e AEST with AEST)](convert-timezone-expression.gif)
+![Figure: Good example - You are comparing it in local timezone (i.e AEST with AEST)](/rules/power-automate-flows-convert-timezone/convert-timezone-expression.gif)
 :::
 
 For further details on converting timezones in Power Automate Flow, refer to the [Microsoft Learn - Converting time zone](https://learn.microsoft.com/en-us/troubleshoot/power-platform/power-automate/converting-time-zone-power-automate).
 For default timezones, refer to the [Microsoft Learn - Default time zones](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/default-time-zones?view=windows-11).
+

@@ -62,7 +62,7 @@ Agenda
 :::
 :::
 
-![Figure: PBI should be marked as “Ready” before pulling it into the Sprint](pbi-marked-as-done.png)
+![Figure: PBI should be marked as “Ready” before pulling it into the Sprint](/rules/backlog-refinement-meeting/pbi-marked-as-done.png)
 
 ## What if there is an [unexpected PBI](/unexpected-requests/) that needs to be added into the Sprint?
  
@@ -76,7 +76,7 @@ In that case, you may not have time to wait for the PBI refinement meeting, and 
 3. Mark the PBI as “Ready” and pull it into the Sprint
 4. Send an email to notify the Product Owner and cc the Tech Lead
 
-![Figure: Email notifying the Product Owner of a Sprint change](pbi-refinement-email.png)
+![Figure: Email notifying the Product Owner of a Sprint change](/rules/backlog-refinement-meeting/pbi-refinement-email.png)
 
 ## Benefits of Product Backlog Refinement
 
@@ -89,3 +89,4 @@ In that case, you may not have time to wait for the PBI refinement meeting, and 
 ✅ **Engaged Developers** - Developers are more likely to stay engaged when meetings are shorter and more focused
 
 ✅ **Well-Defined PBIs** - PBIs are well-defined before being added to the Sprint
+

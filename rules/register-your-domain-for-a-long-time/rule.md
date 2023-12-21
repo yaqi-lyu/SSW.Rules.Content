@@ -20,5 +20,6 @@ If you own a domain and want Google to instantly recognize it as a permanent dom
 
 
 ::: good  
-![Figure: Good example - Domain registered for 10 years](PermanentRegister.jpg)  
+![Figure: Good example - Domain registered for 10 years](/rules/register-your-domain-for-a-long-time/PermanentRegister.jpg)  
 :::
+

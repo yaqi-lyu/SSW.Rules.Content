@@ -37,16 +37,17 @@ You may also find that some clients are unable to progress to a Spec Review unti
 
 A salesperson has 16 hours per month of developer time they can invest in this pre-sales investigation, so this time has to be used wisely.
 
-![Figure: Pre-sale meeting - use time wisely](adam-cogan-ceo-in-a-business-meeting.jpg)  
+![Figure: Pre-sale meeting - use time wisely](/rules/the-outcomes-from-your-initial-meeting/adam-cogan-ceo-in-a-business-meeting.jpg)  
 
 Never offer a fixed price at the conclusion of an Initial Meeting, make sure to choose this engagement model before the Specification Review is done. 
 
 More on the [Rules to Better Specification Reviews](/rules-to-better-specification-reviews).
 
-![Figure: Send a brief proposal](Brief-Proposal-MrNorthwind.jpg)  
+![Figure: Send a brief proposal](/rules/the-outcomes-from-your-initial-meeting/Brief-Proposal-MrNorthwind.jpg)  
 
 ### Ad-Hoc Work/Consulting
 
 In case the work is thought to be less than 3 developer days and the scope is well understood, it may be worthwhile for the developers to commence work straight away without a Specification Review. Normal standards for work should be followed, such as [daily scrums](/methodology-do-you-do-daily-scrums-aka-stand-up-meetings). This type of work is called 'ad-hoc' work.
 
 You may also immediately commence ad-hoc work if the client is a technical client and you are providing resources for an existing project under the sole direction of the client.
+

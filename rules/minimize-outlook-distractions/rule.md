@@ -20,11 +20,11 @@ Getting in the zone is pretty challenging in any work environment. Outlook in pa
 <!--endintro-->
 
 ::: good  
-![Figure: Good Example - Turn off Outlook distractions on Windows](OutlookDistractions.png)  
+![Figure: Good Example - Turn off Outlook distractions on Windows](/rules/minimize-outlook-distractions/OutlookDistractions.png)  
 :::
 
 ::: good  
-![Figure: Good Example - Turn off Outlook distractions on a Mac](minimize-outlook-distractions-mac.jpg)  
+![Figure: Good Example - Turn off Outlook distractions on a Mac](/rules/minimize-outlook-distractions/minimize-outlook-distractions-mac.jpg)  
 :::
 
 - Doesn't play a sound
@@ -38,3 +38,4 @@ Here are a few more distractions tips:
 - [Minimize Skype distractions](/minimize-skype-distractions)
 - [General working environment distractions](/do-you-deal-with-distractions)
 - [Turn off email notifications on Gmail](https://support.google.com/mail/answer/1075549)
+

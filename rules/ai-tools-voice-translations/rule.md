@@ -14,7 +14,7 @@ AI tools like[ Rask](https://app.rask.ai/auth), [Voice.ai](https://voice.ai/home
 
 ::: good
 
-![Figure: Good Example - Using Rask to translate an English voiceover into French in the speakers own voice.](rask-good-v2.png)
+![Figure: Good Example - Using Rask to translate an English voiceover into French in the speakers own voice.](/rules/ai-tools-voice-translations/rask-good-v2.png)
 
 Video -  [Fix Your Website Chatbot! - English version](https://youtube.com/shorts/vSXy1VjS_b4)
 
@@ -28,7 +28,7 @@ While these tools are incredibly helpful, they're not perfect. It's important to
 
 ::: bad
 
-![Figure: Bad Example - Relying solely on AI without any oversight can lead to errors.](rask-bad-v2.png)
+![Figure: Bad Example - Relying solely on AI without any oversight can lead to errors.](/rules/ai-tools-voice-translations/rask-bad-v2.png)
 
 :::
 

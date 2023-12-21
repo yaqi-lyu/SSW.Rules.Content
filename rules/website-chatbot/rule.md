@@ -18,7 +18,7 @@ guid: 945588b4-8053-41cf-9052-b2f871c4363d
 A chatbot is a computer program that uses artificial intelligence to engage in text or voice conversations with users, often to answer questions, provide assistance, or automate tasks. In the age of Generative AI, good chatbots have become a necessary part of the User Experience. 
 
 ::: img-small
-![Figure: A good chatbot in action](chatbot-example.png)
+![Figure: A good chatbot in action](/rules/website-chatbot/chatbot-example.png)
 :::
 
 Choosing the right chatbot service for your website can be a challenging task. With so many options available it's essential to find the one that best fits your needs and provides a good experience for your users. But what distinguishes a good chatbot from a great one? Here are some factors to consider.
@@ -135,4 +135,4 @@ While both platforms offer unique features, Chatbase stands out as the superior 
 * Chatbase's user-friendly interface makes it accessible to a wide range of users. A prompt engineer can setup, tweak and improve the system. No development required
 * Botpress lacks the intuitive interface of Chatbase, and is more prone non-sequeter conversation without extensive workflow development and testing
 
-![Figure: Although Botpress seems to have more attention online recently, this may be because it's harder to configure so people are Googling it to help with that](botpress-vs-chatbase.jpg)
+![Figure: Although Botpress seems to have more attention online recently, this may be because it's harder to configure so people are Googling it to help with that](/rules/website-chatbot/botpress-vs-chatbase.jpg)

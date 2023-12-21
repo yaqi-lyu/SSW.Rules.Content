@@ -28,9 +28,9 @@ We suggest you add a branded image or a nice photo of your first day!
 The same principle applies to [sharing new certifications or courses.](https://www.linkedin.com/help/linkedin/answer/a704787/add-learning-certificates-of-completion-and-skills-to-your-linkedin-profile) You can add an image to your post to make it an engaging announcement! 
 
 ::: bad img-medium
-![Figure: Bad example - LinkedIn offers templates without any personality, which most users will just keep scrolling and not really stop to read as they are very common ](linkedin-new-job-template.png)
+![Figure: Bad example - LinkedIn offers templates without any personality, which most users will just keep scrolling and not really stop to read as they are very common ](/rules/new-job-linkedin/linkedin-new-job-template.png)
 :::
 
 ::: good img-medium
-![Figure: Good example - The branded image made a difference in the post and had a much higher engagement 🚀](linkedin-new-job-branded.png)
+![Figure: Good example - The branded image made a difference in the post and had a much higher engagement 🚀](/rules/new-job-linkedin/linkedin-new-job-branded.png)
 :::

@@ -29,14 +29,15 @@ We recommend you **define a standard style for your visual elements by changing 
 
 See some examples of different visual elements under same branding:
 
-![Figure: Indicate someone to enter the mobile field. Do you use a red arrow?](screenshot1.png)
+![Figure: Indicate someone to enter the mobile field. Do you use a red arrow?](/rules/screenshots-add-branding/screenshot1.png)
 
-![Figure: Or do you like the red box?](screenshot2.png)
+![Figure: Or do you like the red box?](/rules/screenshots-add-branding/screenshot2.png)
 
-![Figure: Or do you like the yellow highlight?](screenshot3.png)
+![Figure: Or do you like the yellow highlight?](/rules/screenshots-add-branding/screenshot3.png)
 
 ### More Information on SSW Branding
 
 You can automatically have the [SSW Snagit presets on sign-in via a script](https://github.com/SSWConsulting/SSWSysAdmins.LoginScript).
 
 Instructions to create and use Snagit themes can be found at [Quick Style Themes Tutorial](https://www.techsmith.com/tutorial-snagit-13-quick-style-themes.html).
+

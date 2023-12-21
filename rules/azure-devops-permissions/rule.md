@@ -25,12 +25,13 @@ Example: To create Sprints in Azure DevOps, you only need two bits of permission
 b. Under "Boards" select Project configuration | Click on the ellipses (...) on Interations |  Security  
 c. Add users and assign particular permission. 
 
-![Figure: Assign limited access to a particular user to create a Sprint ](child_node.jpg)
+![Figure: Assign limited access to a particular user to create a Sprint ](/rules/azure-devops-permissions/child_node.jpg)
 
 2. You need to be a team admin, in order to add the newly created iteration to the team iterations.  
 
-![Figure: Team Administrator - Who have access to iterations in Azure DevOps](image002.png)
+![Figure: Team Administrator - Who have access to iterations in Azure DevOps](/rules/azure-devops-permissions/image002.png)
 
 By following this rule and giving people only the specific permissions they need, you can help to ensure that Azure DevOps permissions are set up in a way that maximizes productivity and minimizes the risk of errors or unwanted changes.
+
 
 

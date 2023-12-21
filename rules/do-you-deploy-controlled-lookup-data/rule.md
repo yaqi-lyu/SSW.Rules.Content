@@ -28,9 +28,9 @@ Lookup data is data that you usually see in combo boxes. It may be a Customer Ca
 
 Let's look at an example:
 
-![Figure: This combo looks innocent. However if it is "Billable" then the calendar goes yellow](TimeProDropDown.png)  
+![Figure: This combo looks innocent. However if it is "Billable" then the calendar goes yellow](/rules/do-you-deploy-controlled-lookup-data/TimeProDropDown.png)  
 
-![Figure: Billable days are shown in yellow](TimeProCalendar.png)  
+![Figure: Billable days are shown in yellow](/rules/do-you-deploy-controlled-lookup-data/TimeProCalendar.png)  
 
 
 
@@ -136,3 +136,4 @@ GO
 
 Check out [Do you check your "Controlled Lookup Data" (aka Reference Data) is still there?](/do-you-check-your-controlled-lookup-data)
 :::
+

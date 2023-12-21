@@ -31,4 +31,5 @@ To enable these policies:
 4. Click Add... and select the check-in policies above. If you don’t have SSW Code Auditor installed, [download it](https://www.ssw.com.au/ssw/codeauditor/) here.add
 
 
-![Figure: Choose check-in policies in TFS](checkin-policies.jpg)
+![Figure: Choose check-in policies in TFS](/rules/do-you-know-which-check-in-policies-to-enable1/checkin-policies.jpg)
+

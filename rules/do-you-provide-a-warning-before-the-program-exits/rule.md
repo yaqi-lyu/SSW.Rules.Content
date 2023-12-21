@@ -14,7 +14,7 @@ A product should not close without providing a warning. We use the following mes
 <!--endintro-->
 
 ::: good  
-![Figure: Good Example - Standard warning before a program exits](../../assets/CloseWarning.gif)  
+![Figure: Good Example - Standard warning before a program exits](/rules/do-you-provide-a-warning-before-the-program-exits/CloseWarning.gif)  
 :::
 
 ```cs
@@ -41,3 +41,4 @@ private void OnExit(object sender)
 ```
 
 We have an example of this in the [SSW .NET Toolkit](http://www.ssw.com.au/ssw/NETToolkit/).
+

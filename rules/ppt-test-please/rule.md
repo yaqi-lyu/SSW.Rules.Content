@@ -35,4 +35,5 @@ Have a Presentation Master review the content of your slides to refine your mess
 4. ⭐️ Test Pass - From a designer for better look and feel
 5. Show it to an audience to get feedback
 
-![Figure: Before and after... Designers can make anything look good](before-after-designer.png)
+![Figure: Before and after... Designers can make anything look good](/rules/ppt-test-please/before-after-designer.png)
+

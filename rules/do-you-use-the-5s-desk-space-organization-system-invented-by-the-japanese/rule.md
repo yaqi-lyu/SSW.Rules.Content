@@ -31,7 +31,7 @@ Here are some resources on the topic:
 
 
 ::: bad  
-![Bad example - A messy desk is a messy head](Apply-5S\_Desk-01\_GoLeanSixSigma.com\_.jpg)  
+![Bad example - A messy desk is a messy head](/rules/do-you-use-the-5s-desk-space-organization-system-invented-by-the-japanese/Apply-5S_Desk-01_GoLeanSixSigma.com_.jpg)  
 :::
 
 Photo: courtesy of goleansixsigma.com ([source](https://goleansixsigma.com/apply-5s-home-office-desk/)).
@@ -40,7 +40,8 @@ Photo: courtesy of goleansixsigma.com ([source](https://goleansixsigma.com/apply
  
 
 ::: good  
-![Good example - A clean and productive workspace following the 5S methodology](Apply-5S\_Desk-04\_GoLeanSixSigma.com\_.jpg)  
+![Good example - A clean and productive workspace following the 5S methodology](/rules/do-you-use-the-5s-desk-space-organization-system-invented-by-the-japanese/Apply-5S_Desk-04_GoLeanSixSigma.com_.jpg)  
 :::
 
 Photo: courtesy of goleansixsigma.com ([source](https://goleansixsigma.com/apply-5s-home-office-desk/)).
+

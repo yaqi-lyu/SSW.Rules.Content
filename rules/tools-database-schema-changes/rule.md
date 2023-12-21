@@ -47,7 +47,7 @@ Legacy full framework:
 * Red Gate SQL Compare + Red Gate SQL Packager (post-development model)
 
 ::: bad  
-![Figure: Bad example - Don't use Data Dude](DataDude-BadExample.jpg)  
+![Figure: Bad example - Don't use Data Dude](/rules/tools-database-schema-changes/DataDude-BadExample.jpg)  
 :::
 
 ``` cs
@@ -69,3 +69,4 @@ public partial class GenderToString : DbMigration
 ::: good
 Figure: Good example - Data motion with EF Migrations
 :::
+

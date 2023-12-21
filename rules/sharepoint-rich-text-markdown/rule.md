@@ -17,7 +17,7 @@ When creating a SharePoint Modern page, you can use many different webparts to e
 
 When you want to add plain text to a page, you have two choices: Text (or Rich Text) Webpart, or Markdown WebPart.    
 
-![Figure: The two common types of Text WebParts - "Text" and "Markdown"](md-vs-text-select.png)
+![Figure: The two common types of Text WebParts - "Text" and "Markdown"](/rules/sharepoint-rich-text-markdown/md-vs-text-select.png)
 
 <!--endintro-->
 
@@ -25,16 +25,16 @@ When you want to add plain text to a page, you have two choices: Text (or Rich T
 
 Whenever possible, you should use the Text WebPart as it offers a much nicer editing experience, but more importantly provides a detailed Version History.
 
-![Figure: You can navigate to the page version history through "Page Details" | "Version History"](version-history-nav.png)
+![Figure: You can navigate to the page version history through "Page Details" | "Version History"](/rules/sharepoint-rich-text-markdown/version-history-nav.png)
 
 Tip: Don't forget to switch "Highlight changes on the page" 
 
-![Figure: Don't forget this switch oe you won't see the detailed changes](tick-the-highlight-switch.png)
+![Figure: Don't forget this switch oe you won't see the detailed changes](/rules/sharepoint-rich-text-markdown/tick-the-highlight-switch.png)
 
 ::: bad
-![Figure: Bad Example - Markdown WebPart - No detailed history, all I can tell is that something changed on that component](bad-example-md.png)
+![Figure: Bad Example - Markdown WebPart - No detailed history, all I can tell is that something changed on that component](/rules/sharepoint-rich-text-markdown/bad-example-md.png)
 :::
 
 ::: good
-![Figure: Good example – Rich Text WebPart - I can very easily tell what's been added/removed from the content](good-example-text.png)
+![Figure: Good example – Rich Text WebPart - I can very easily tell what's been added/removed from the content](/rules/sharepoint-rich-text-markdown/good-example-text.png)
 :::

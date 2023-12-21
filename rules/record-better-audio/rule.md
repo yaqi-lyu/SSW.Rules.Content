@@ -87,11 +87,11 @@ So that your final video has the best sound quality:
 
    * Right-click the sound icon in the taskbar and select "Sounds". (You can also access the panel through by searching "Change system sounds" in the start menu)
   
-   ![Figure: Opening the System Sounds panel through the Windows taskbar.](select-sounds.jpg)
+   ![Figure: Opening the System Sounds panel through the Windows taskbar.](/rules/record-better-audio/select-sounds.jpg)
    
    * Select the "Recording" tab, and check that your desired microphone is set to default device.
 
-  ![Figure: Your default mic is indicated with a green check mark ✅](select-default.jpg)
+  ![Figure: Your default mic is indicated with a green check mark ✅](/rules/record-better-audio/select-default.jpg)
 
 2. Record the audio locally (e.g. you can use Windows' Voice Recorder app)
 
@@ -106,3 +106,4 @@ This higher quality audio should be used in post-production eg. When editing in 
 ::: good
 Figure: Good example – Brian Tyler Cohen and Adam Schiff – the setup is likely Zoom and a good mic
 :::
+

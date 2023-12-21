@@ -21,4 +21,5 @@ When creating workflows in Dynamics developers take for granted when a solution 
 
 **Tip:** When searching for Common Data Services (Current Environment) it’s very easy to pick the wrong one...
 
-![Figure: Use 'Common Data Services (Current Environment)' instead of 'Common Data Services'](common-data-services.png)
+![Figure: Use 'Common Data Services (Current Environment)' instead of 'Common Data Services'](/rules/create-a-solution-and-use-the-current-environment-when-creating-flow-for-dynamics/common-data-services.png)
+

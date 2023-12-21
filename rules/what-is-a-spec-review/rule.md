@@ -19,7 +19,7 @@ You would never build a house without getting an architect to create a plan firs
 
 As expected, it's not realistic to fully understand the complexity of a client's system, and give an accurate estimate after one brief meeting. For most business solutions, a few days are needed to obtain and document the requirements of the project’s stakeholders and, in turn, transform those ideas into a more detailed roadmap.
 
-![Figure: You would never build a house without an architect](workers022.jpg)
+![Figure: You would never build a house without an architect](/rules/what-is-a-spec-review/workers022.jpg)
 
 ## Deliverables
 
@@ -78,3 +78,4 @@ These wireframes were created during the Spec Review and provided insight into t
 ![Figure: The final product based on these wireframes](biocurate_final_product.png "Final Product")
 
 As you can see, the wireframes allow you to gain a 'glimpse into the future' and give the clearest possible depiction of the end product.
+

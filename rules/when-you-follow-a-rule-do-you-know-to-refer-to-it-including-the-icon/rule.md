@@ -18,4 +18,5 @@ When you follow a rule, remember to refer to its URL:
 
 <!--endintro-->
 
-![Good Example: Refer to the URL](RuleReferrence.jpg)
+![Good Example: Refer to the URL](/rules/when-you-follow-a-rule-do-you-know-to-refer-to-it-including-the-icon/RuleReferrence.jpg)
+

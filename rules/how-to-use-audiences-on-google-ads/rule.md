@@ -25,14 +25,14 @@ Audiences, in general, will allow you to try pulling up your ads to different gr
 * **Remarketing & Similar Audiences** – Show your ads to people who have visited your website previously before (You can choose the period) or viewed your content somewhere online. This would include remarketing lists.
 
 ::: bad\
-![Figure: Bad Example – No audiences were set up yet](audience-1.png)\
+![Figure: Bad Example – No audiences were set up yet](/rules/how-to-use-audiences-on-google-ads/audience-1.png)\
 :::
 
 ::: good\
-![Figure: Good Example – Add specific audiences and increase the engagement on your campaigns with your target audience](audience-2.png)\
+![Figure: Good Example – Add specific audiences and increase the engagement on your campaigns with your target audience](/rules/how-to-use-audiences-on-google-ads/audience-2.png)\
 :::
 
-![Figure: Find your excluded audience so you won't waste any money for useless clicks](audience-3.png)
+![Figure: Find your excluded audience so you won't waste any money for useless clicks](/rules/how-to-use-audiences-on-google-ads/audience-3.png)
 
 To be able to choose your audience and even create remarketing campaigns, you will have to use the tool “Audience Manager". Click on: Tools | Shared Library | Audience Manager
 
@@ -42,8 +42,8 @@ On Sources, you can link Google Analytics, YouTube (if you use this social media
 
 To build your In-Market and Affinity audiences, you can select from some options that Google will give you like below:
 
-![Figure: In-Market audiences that might be your right target](audience-4.png)
+![Figure: In-Market audiences that might be your right target](/rules/how-to-use-audiences-on-google-ads/audience-4.png)
 
-![Figure: Affinity audiences suggestions from Google](audience-5.png)
+![Figure: Affinity audiences suggestions from Google](/rules/how-to-use-audiences-on-google-ads/audience-5.png)
 
-![](audience-6.png)
+![](/rules/how-to-use-audiences-on-google-ads/audience-6.png)

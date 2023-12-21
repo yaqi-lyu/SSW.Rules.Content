@@ -14,7 +14,7 @@ To avoid two people working on a ticket at the same time, you should assign a ti
 
 <!--endintro-->
 
-![Figure: Assign the ticket to yourself before working on it](zendesk-assign.png)
+![Figure: Assign the ticket to yourself before working on it](/rules/zendesk-assign-your-tickets/zendesk-assign.png)
 
 It can be tempting to quickly solve a ticket and then assign it to yourself after, when you're marking the ticket as solved - especially when you receive the requests as emails. However, this can mean that two people will start working on the ticket at the same time - doing the work, and taking screenshots ready for a good response. Even for a quick ticket, this will double the amount of work done. The process should be:
 
@@ -28,4 +28,4 @@ Remember you can always re-assign the ticket to someone else if required.
 
 It's also worth noting that you can see if someone else is currently viewing a ticket. This can also help to avoid duplicating work - if you see that someone else is viewing a ticket, have a chat with them before you start working on it.
 
-![Figure: "Also on this ticket" shows who is currently viewing](zendesk-viewing.png)
+![Figure: "Also on this ticket" shows who is currently viewing](/rules/zendesk-assign-your-tickets/zendesk-viewing.png)

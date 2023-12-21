@@ -26,11 +26,12 @@ Simply ask for that person to come over and check it on your computer or IM them
 Reply to the "Done" email like below and CC the person who checked the email for you. In this way, you show it was double checked.
 
 ::: good  
-![Figure: Reply Email with "Checked by XXX"](ruleDoneCheckedBy.png)  
+![Figure: Reply Email with "Checked by XXX"](/rules/add-quality-control-to-dones/ruleDoneCheckedBy.png)  
 :::
 
 When you action a task for adding web content (such as a rule or suggestion), firstly paste the content into a new Word file and run the "Grammar & Spelling Check" to check if there are any errors. After the "Grammar & Spelling Check", you can add it to your website. After that, run [SSW LinkAuditor](http://sswlinkauditor.com/) in order to keep 0 bad links on that page.
 
 ::: good  
-![Figure: Reply to the email with grammar & spelling check and LinkAuditor check results](SpellAndLinkCheck.jpg)  
+![Figure: Reply to the email with grammar & spelling check and LinkAuditor check results](/rules/add-quality-control-to-dones/SpellAndLinkCheck.jpg)  
 :::
+

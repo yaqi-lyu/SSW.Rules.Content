@@ -18,7 +18,7 @@ In the bespoke software space, this is easy, as your clients are not buying some
 
 <!--endintro-->
 
-![Figure: High price should be balanced out by higher value](we-cant-justify-your-price.jpg)
+![Figure: High price should be balanced out by higher value](/rules/how-to-justify-your-rates/we-cant-justify-your-price.jpg)
 
 From our research, our rates are in the top 1/3<sup>rd</sup> of our Australian competitors, and I understand that this can seem high, so let's try to highlight a few reasons why we more than justify these high rates:
 
@@ -34,3 +34,4 @@ We ensure this through the following:
 * A strong focus on [rules and best practices](https://www.ssw.com.au/rules/) ensure that we are consistently delivering high-quality solutions
 * Our [community involvement](https://www.ssw.com.au/ssw/Events/) (User groups, Hack Days, MS Events, etc.)  helps us to rub shoulders with the other thought leaders in our industry  and stay ahead of the game
 * Our strong [partnership with Microsoft](https://www.ssw.com.au/ssw/Company/AboutUs.aspx) (our owner is 1 of only a few Microsoft Regional Directors in Australia) makes sure we have support when we need it
+

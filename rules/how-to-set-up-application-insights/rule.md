@@ -26,11 +26,11 @@ Lets take a look at the overview and our tips to help you get the most out of Ap
 **An overview of the setup steps** Application Insights requires that you make 2 general modifications to your application:
 
 1. On the client side, manually[add a Javascript tracker to your web page header](https://azure.microsoft.com/en-us/documentation/articles/app-insights-javascript/) (i.e. by placing directly on each page or through a "master page" or "layout template"), this modification enables the "browser page loading time" monitor and can track client-side exceptions: 
-![Browser side stats have been enabled with the JavaScript tracker](app-insights-browser-loading-time.jpg)  
+![Browser side stats have been enabled with the JavaScript tracker](/rules/how-to-set-up-application-insights/app-insights-browser-loading-time.jpg)  
 
 2. On the server side, [add the Application Insights DLL references and update web.config](https://azure.microsoft.com/en-us/documentation/articles/app-insights-start-monitoring-app-health-usage/), these modifications enable the "server response time", "server request" and "failed requests" monitors. This step can either be done within Visual Studio when right-clicking on a project in Solution Explorer, but it can also be done with the server monitoring tool on ASP.NET applications you don't have control over (e.g. SharePoint).
 3. 
-![Server side stats have been enabled now that it has been added to the ASP.NET pipeline](server-response-requests-failed-requests.jpg)  
+![Server side stats have been enabled now that it has been added to the ASP.NET pipeline](/rules/how-to-set-up-application-insights/server-response-requests-failed-requests.jpg)  
 
 
 
@@ -42,3 +42,4 @@ As soon as you have configured Application Insights, you should immediately add 
 
 **Tip #3: What if you don't have the source code of your ASP.NET application**
 [Do you know how to set up Application Insights (in SharePoint)?](/application-insights-in-sharepoint) shows that you can use the Application Insights Status Monitor to monitor an application that’s already installed and running without updating the code or redeploying it.
+

@@ -22,4 +22,4 @@ This will allow you to see users, bounce rate, sessions, events, conversions and
 
 [Google's Campaign URL Builder](https://ga-dev-tools.google/campaign-url-builder/) is a free tool that allows you to easily add campaign parameters to URLs so you can measure [Custom Campaigns](https://support.google.com/analytics/answer/1033863) in Google Analytics.
 
-![Figure: Google will provide you with a campaign URL, ready to track all the relevant data you need](google-utm-generator.png)
+![Figure: Google will provide you with a campaign URL, ready to track all the relevant data you need](/rules/track-qr-code-data-in-ga/google-utm-generator.png)

@@ -25,11 +25,12 @@ However, before starting work on a Sprint, you should always break the PBIs in t
 Azure DevOps can use the remaining hours assigned to tasks to calculate the burndown. By breaking the PBIs down into tasks with estimates, your burndown will start looking correct right from the first day of the Sprint.
 
 ::: bad
-![Figure: Bad Example - The tasks weren't estimated at the start of the Sprint](burndown_bad_example.png)
+![Figure: Bad Example - The tasks weren't estimated at the start of the Sprint](/rules/do-you-estimate-all-tasks-at-the-start-of-the-sprint/burndown_bad_example.png)
 :::
 
 ::: good
-![Figure: Good Example - The tasks were estimated from day one](burndown_good_example.png)
+![Figure: Good Example - The tasks were estimated from day one](/rules/do-you-estimate-all-tasks-at-the-start-of-the-sprint/burndown_good_example.png)
 :::
 
 **Note:** If you're not using task estimates, you can configure Azure DevOps to create a Sprint Burndown using PBI Effort instead.
+

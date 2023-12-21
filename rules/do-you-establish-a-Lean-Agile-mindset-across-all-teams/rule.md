@@ -57,7 +57,7 @@ Standardize the Lean-Agile mindset for consistent performance across teams.
 :::
 
 ::: good
-![Figure: Good Example - Consistency in mindset leads to better alignment and easier management.](Consistency.png)
+![Figure: Good Example - Consistency in mindset leads to better alignment and easier management.](/rules/do-you-establish-a-Lean-Agile-mindset-across-all-teams/Consistency.png)
 :::
 
 ### Improved Value Delivery
@@ -71,7 +71,7 @@ Adopt a Lean-Agile mindset for better value delivery.
 :::
 
 ::: bad
-![Figure: Bad Example - Teams without a Lean-Agile mindset may focus on tasks that don't deliver maximum value.](Delivery.png)
+![Figure: Bad Example - Teams without a Lean-Agile mindset may focus on tasks that don't deliver maximum value.](/rules/do-you-establish-a-Lean-Agile-mindset-across-all-teams/Delivery.png)
 :::
 
 ## Conclusion
@@ -79,3 +79,4 @@ Adopt a Lean-Agile mindset for better value delivery.
 Establishing a Lean-Agile mindset across all teams is not just a philosophical change; it's a practical approach to improving efficiency, adaptability, and value delivery. It ensures that all teams are aligned and moving in the same direction, making it easier to achieve business objectives. 
 
 As organizations continue to evolve in a rapidly changing market, embracing this mindset will be crucial for sustained success and growth.
+

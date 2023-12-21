@@ -22,10 +22,11 @@ If all members use 2FA in your organisation, the risk of unauthorised access to 
 2. Under 'Two-factor authentication', select 'Require two-factor authentication for everyone in your organization'
 3. Save
 
-![Figure: Require 2FA in your organisation](github.jpg)
+![Figure: Require 2FA in your organisation](/rules/require-2fa-to-join-organisation/github.jpg)
 
 ::: info
 Enforcing 2FA in an existing organisation will remove members that are not using 2FA.
 :::
 
 See the GitHub docs [Requiring two-factor authentication in your organization](https://docs.github.com/en/organizations/keeping-your-organization-secure/requiring-two-factor-authentication-in-your-organization)
+

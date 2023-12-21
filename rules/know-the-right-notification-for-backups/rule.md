@@ -31,15 +31,15 @@ Some important stats to log:
 Having entries logged in a database is better than having an email sent because entries are easier to see and manage, and emails might get lost in the noise.
 
 ::: bad
-![Figure: Bad example - an email is sent on completion](backup_notification_bad.jpg)
+![Figure: Bad example - an email is sent on completion](/rules/know-the-right-notification-for-backups/backup_notification_bad.jpg)
 :::
 
 ::: good
-![Figure: Good example - a record is logged on completion](backup_notification_good.jpg)
+![Figure: Good example - a record is logged on completion](/rules/know-the-right-notification-for-backups/backup_notification_good.jpg)
 :::
 
 ::: good
-![Figure: Best example - the latest completion is logged in a SharePoint list](backups.jpg)
+![Figure: Best example - the latest completion is logged in a SharePoint list](/rules/know-the-right-notification-for-backups/backups.jpg)
 :::
 Now you are able to be aware of missing backups. You can make automatically notifications based on the above table e.g. [by SQL Reporting Services data-driven subscription](https://www.ssw.com.au/ssw/KB/KB.aspx?KBID=Q1455840)
 
@@ -50,5 +50,6 @@ To see the best backup tools currently available, check [https://www.ssw.com.au/
 If you need any help with your backups or disaster recovery process, check <https://www.ssw.com.au/ssw/Consulting/Backup-Recovery.aspx>
 
 ::: good
-![Figure: Good Example - No critical or warnings in your backups](goodexamplebackups.jpg)
+![Figure: Good Example - No critical or warnings in your backups](goodexample/rules/know-the-right-notification-for-backups/backups.jpg)
 :::
+

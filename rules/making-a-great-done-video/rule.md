@@ -34,11 +34,11 @@ For a great 'Done Video' here are the key things to remember:
     Note: You can easily get a clean browser by using a guest or incognito profile.
 
 ::: bad
-![Figure: Bad example - 2 lines of irrelevant reminders in Outlook](BadExample-2-lines.jpg)
+![Figure: Bad example - 2 lines of irrelevant reminders in Outlook](/rules/making-a-great-done-video/BadExample-2-lines.jpg)
 :::
 
 ::: good
-![Figure: Good example – Clean Outlook UI](GoodExample-clean-UI.png)
+![Figure: Good example – Clean Outlook UI](/rules/making-a-great-done-video/GoodExample-clean-UI.png)
 :::
 
 13. **Resolution** - Set your screen to 1080p (1920x1080).

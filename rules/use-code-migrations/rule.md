@@ -51,7 +51,7 @@ dotnet ef database update
 If you struggle to remember the commands above, Rider has a great UI that makes creating migrations easy.  This is especially useful when you have different projects for both startup and migrations.
 
 ::: img-large  
-![Rider - EF Core Migrations](rider-ef-core.png)
+![Rider - EF Core Migrations](/rules/use-code-migrations/rider-ef-core.png)
 :::
 
 ## Executing Entity Framework Code First Migrations
@@ -85,3 +85,4 @@ Figure: Creating and executing a migration bundle during a CICD pipeline
 ::: info  
 if an `appsettings.json` file can be found the connection string can be automatically picked up.
 :::
+

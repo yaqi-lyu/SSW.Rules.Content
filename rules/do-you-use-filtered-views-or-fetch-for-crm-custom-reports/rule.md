@@ -17,7 +17,7 @@ redirects: []
 
 The built-in CRM report wizard is great for users to quickly and easily create reports in CRM.
 
-![Figure: The starting point](custom-reports-1.jpg)  
+![Figure: The starting point](/rules/do-you-use-filtered-views-or-fetch-for-crm-custom-reports/custom-reports-1.jpg)  
 
 <!--endintro-->
 
@@ -27,7 +27,7 @@ Do you use Filtered Views or Fetch?
 
 [Filtered Views](https://docs.microsoft.com/en-us/previous-versions/dynamicscrm-2013/crm.6/gg309722(v=crm.6)?redirectedfrom=MSDN) allows the report developer to query underlying SQL data directly. Filtered views are fully compliant with the Microsoft Dynamics CRM security model. When you run a report that obtains data from filtered views, the Microsoft Dynamics CRM security role determines what data you can view in the report.
 
-![Figure: Filtered Views in the CRM SQL Database](custom-reports-2.jpg)  
+![Figure: Filtered Views in the CRM SQL Database](/rules/do-you-use-filtered-views-or-fetch-for-crm-custom-reports/custom-reports-2.jpg)  
 
 [Fetch](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/use-fetchxml-construct-query) is a proprietary query language that is used in Microsoft Dynamics CRM. It is based on a schema that describes the capabilities of the language. The FetchXML language supports similar query capabilities as query expression. It is used primarily as a serialized form of query expression, used to save a query as a user owned saved view in the userquery entity or as an organization owned view in the savedquery entity.
 
@@ -65,9 +65,9 @@ More advanced users will have a boilerplate(s) for the various CRM report styles
 
 Here's an example of a before (CRM Wizard) and after (Visual Studio) for an Activity Report:
 
-![Figure: Report created using CRM Wizard](custom-reports-3.jpg)  
+![Figure: Report created using CRM Wizard](/rules/do-you-use-filtered-views-or-fetch-for-crm-custom-reports//rules/do-you-use-filtered-views-or-fetch-for-crm-custom-reports/custom-reports-3.jpg)  
 
-![Figure: Report updated in Visual Studio](custom-reports-3.jpg)  
+![Figure: Report updated in Visual Studio](/rules/do-you-use-filtered-views-or-fetch-for-crm-custom-reports//rules/do-you-use-filtered-views-or-fetch-for-crm-custom-reports/custom-reports-3.jpg)  
 
 5 enhancements that required a custom report:
 
@@ -81,3 +81,4 @@ More Information:
 
 * [Custom Reporting in Microsoft Dynamics CRM - Fetch vs. Filtered Views](https://community.dynamics.com/blogs/post/?postid=cf170dc9-95d7-440d-bd5f-888661caaaa2)
 * [Developing Fetch XML Based SSRS Reports](https://social.technet.microsoft.com/wiki/contents/articles/10234.microsoft-dynamics-crm-2011-develop-fetch-xml-based-ssrs-reports-in-visual-studio-2008.aspx)
+

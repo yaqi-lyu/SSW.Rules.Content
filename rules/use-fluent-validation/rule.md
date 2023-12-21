@@ -18,7 +18,7 @@ Client-side validation provides a great user experience but this must always be 
 
 <!--endintro-->
 
-![Figure: Client-side validation does not provide effective data security for your Web API endpoints](cartoon-client-side-validation.jpg)  
+![Figure: Client-side validation does not provide effective data security for your Web API endpoints](/rules/use-fluent-validation/cartoon-client-side-validation.jpg)  
 
 **.NET** and **.NET Core Web APIs** provide built-in support for validation using Data Annotations:
 
@@ -79,3 +79,4 @@ Good Example: Conditional validation with the .When() clause allows for complex 
 ::: good
 Good Example: This is the JSON returned from Fluent Validation when a validation rule fails. This is exactly the same format as what would be returned by the built-in ModelState validation.  
 :::
+

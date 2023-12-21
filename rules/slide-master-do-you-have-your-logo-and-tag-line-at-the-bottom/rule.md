@@ -18,13 +18,13 @@ Neither of these elements is intended to distract, so they are placed subtly in 
 <!--endintro-->
 
 ::: good
-![Figure: Include a logo and tagline at the bottom of the Slide Master for branding](goodbranding.jpg)
+![Figure: Include a logo and tagline at the bottom of the Slide Master for branding](/rules/slide-master-do-you-have-your-logo-and-tag-line-at-the-bottom/goodbranding.jpg)
 :::
 
 ### How to do it
 
 Adding the tagline and logo in the Slide Master will replicate it automatically across all slides. The master will also dictate the size and font of text present on all slides.
 
-![Figure: Step 1 - Click 'Slide Master' button on the 'View' ribbon](masterslide.png)
+![Figure: Step 1 - Click 'Slide Master' button on the 'View' ribbon](/rules/slide-master-do-you-have-your-logo-and-tag-line-at-the-bottom/masterslide.png)
 
-![Figure: Step 2 - Add your logo and tagline at bottom of the slide](addlogotagline.png)
+![Figure: Step 2 - Add your logo and tagline at bottom of the slide](/rules/slide-master-do-you-have-your-logo-and-tag-line-at-the-bottom/addlogotagline.png)

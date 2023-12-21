@@ -20,7 +20,7 @@ We do this by including deployment batch files in the solution, and specifying t
 <!--endintro-->
 
 ::: good  
-![Figure: Good example - Include deployment scripts in the solution, and execute them from the Build Process Template](deployment-scripts.jpg)  
+![Figure: Good example - Include deployment scripts in the solution, and execute them from the Build Process Template](/rules/the-reasons-why-calling-a-batch-file-from-the-build-process-template-is-better-than-deploying-directly-from-the-build/deployment-scripts.jpg)  
 :::
 
 |  | ❌ Bad example - Using Builds to Deploy | ✅ Good example - Using Batch File |
@@ -34,3 +34,4 @@ We do this by including deployment batch files in the solution, and specifying t
 :::
 
 The Web Platform Installer is great, but does not install all the Web Deploy 3.0 components required for continuous deployment.
+

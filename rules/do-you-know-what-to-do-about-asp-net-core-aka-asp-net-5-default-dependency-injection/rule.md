@@ -37,9 +37,10 @@ You can quickly flag this error and any more by using the [SSW Code Auditor](htt
 Here is an example of rewiring the default code to AutoFac with the [SSW's Music Store](https://github.com/SSWConsulting/enterprise-musicstore-ui-angular2) app:
 
 ::: bad
-![Figure: Bad Example - The default dependency injection for ASP.NET Core](SSW-DependencyInjection-Example-Default-Bad.png)
+![Figure: Bad Example - The default dependency injection for ASP.NET Core](/rules/do-you-know-what-to-do-about-asp-net-core-aka-asp-net-5-default-dependency-injection/SSW-DependencyInjection-Example-Default-Bad.png)
 :::
 
 ::: good
-![Figure: Good Example - The bad example rewired to utilize AutoFac. Red boxes outline the modified code](SSW-DependencyInjection-Example-Default-Good.png)
+![Figure: Good Example - The bad example rewired to utilize AutoFac. Red boxes outline the modified code](/rules/do-you-know-what-to-do-about-asp-net-core-aka-asp-net-5-default-dependency-injection/SSW-DependencyInjection-Example-Default-Good.png)
 :::
+

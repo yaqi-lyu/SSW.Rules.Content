@@ -26,7 +26,8 @@ When we configure networks we give all computers in the company a naming theme l
 ::: info
 At SSW we have adopted the **animal kingdom**.
 
-![Figure: We name the PCs and label them - this one is "Great Pyrenees"](SSW-computer-Great-Pyrenees.jpeg)
+![Figure: We name the PCs and label them - this one is "Great Pyrenees"](/rules/do-you-have-a-consistent-naming-convention-for-each-machine/SSW-computer-Great-Pyrenees.jpeg)
 :::
 
 While you are attaching the label, it is also a good idea to affix a business card to the underside of the computer. This way if you lose your machine, anyone who finds it can easily contact you.
+

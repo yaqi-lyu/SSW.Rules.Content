@@ -28,10 +28,10 @@ Any time you find yourself writing a long email, ask yourself whether it should 
 
 <!--endintro-->
 
-![Figure: This rule describes the choice that was made](RulesBloggingDocumentGood2.jpg)
+![Figure: This rule describes the choice that was made](/rules/document-what-you-are-doing/RulesBloggingDocumentGood2.jpg)
 
 ::: img-medium 
-![Figure: This blog post documents the task or thought process](matt-goldman-blog-good-example.jpg)
+![Figure: This blog post documents the task or thought process](/rules/document-what-you-are-doing/matt-goldman-blog-good-example.jpg)
 :::
 
 ### Does it make a rule?
@@ -45,3 +45,4 @@ Then the next time, the email to clients will need just a link to that rule.
 ### Care for SEO 
 
 Always link the blog post to the rule(s) and vice versa. For example, you could add something like this to your post: _"This blog post is consistent with the good example on the rule {{ Rule URL }}}"._ It's awesome for Search Engine Optimization.
+

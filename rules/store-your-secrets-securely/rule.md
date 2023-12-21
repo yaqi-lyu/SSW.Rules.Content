@@ -50,7 +50,7 @@ Cons:
 * Difficult to manage production and non-production config settings
 * Developers can read and access the production password
 
-![](BadSettings.png)
+![](/rules/store-your-secrets-securely/BadSettings.png)
 
 :::
 ::: bad
@@ -222,7 +222,7 @@ Cons:
 
 * Only works where Azure AD RBAC is available. NB. There are still some Azure services that don't yet support this. Most do though.
 
-![](GoodSettings.png)
+![](/rules/store-your-secrets-securely/GoodSettings.png)
 
 :::
 ::: good
@@ -240,3 +240,4 @@ The following resources show some concrete examples on how to apply the principl
 * <https://docs.microsoft.com/en-us/sql/connect/ado-net/connection-strings-and-configuration-files?view=sql-server-ver15>
 * <https://docs.microsoft.com/en-us/azure/azure-app-configuration/howto-integrate-azure-managed-service-identity?tabs=core5x>
 * <https://www.youtube.com/watch?v=F9H0txgz0ns>
+

@@ -46,7 +46,7 @@ For home offices, follow "less is more":
 :::
 
 ::: good
-![Figure: Good example – The office background](brisbane-office-background-example.png)
+![Figure: Good example – The office background](/rules/video-background/brisbane-office-background-example.png)
 :::
 
 ### Virtual backgrounds
@@ -55,3 +55,4 @@ Not ideal, but if you can't have a nice and clean background, the alternative is
 
 * **Teams** - [Custom backgrounds in Microsoft Teams make video meetings more fun, comfortable, and personal](https://www.microsoft.com/en-us/microsoft-365/blog/2020/06/12/custom-backgrounds-microsoft-teams-video-meetings-fun-comfortable-personal/)
 * **Zoom** - [Virtual Background](https://support.zoom.us/hc/en-us/articles/210707503-Virtual-Background)
+

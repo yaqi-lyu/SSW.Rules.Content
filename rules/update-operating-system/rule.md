@@ -24,5 +24,6 @@ So it is critical to always keep your operating system up to date.
 
 
 ::: good
-![Figure: Make sure your Windows is always up to date!](windowsupdate.png)
+![Figure: Make sure your Windows is always up to date!](/rules/update-operating-system/windowsupdate.png)
 :::
+

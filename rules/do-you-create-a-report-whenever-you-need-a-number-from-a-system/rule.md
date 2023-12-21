@@ -44,7 +44,7 @@ Figure: Bad example - Can't build it yourself, sending an email to your boss for
 :::
 
 ::: good
-![Figure: Good example - Sate your own curiosity with Power BI](Power BI.png) 
+![Figure: Good example - Sate your own curiosity with Power BI](/rules/do-you-create-a-report-whenever-you-need-a-number-from-a-system/Power BI.png) 
 :::
 
 See Ulysses' video on how Power BI is the best tool for this: 
@@ -52,3 +52,4 @@ See Ulysses' video on how Power BI is the best tool for this:
 `youtube: https://www.youtube.com/watch?v=Y4tvF0DWEec`
 
 **Video: Power BI - Decisions based on facts: A Real World Look at Power BI (1 h 6 m)**
+

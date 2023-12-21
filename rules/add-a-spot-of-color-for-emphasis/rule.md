@@ -16,17 +16,18 @@ When there are key words that you want people to notice, you can add a spot of c
 You should make parts of the text different colors just like you’d highlight or boldface parts of a sentence. The duo colored text will help emphasize your message. Whenever possible use the brand colors when you do this.
 
 ::: img-medium
-![Figure: The TV signage has the important words in red](sswtv-signage.jpg)
+![Figure: The TV signage has the important words in red](/rules/add-a-spot-of-color-for-emphasis/sswtv-signage.jpg)
 :::
 
 ::: img-medium
-![Figure: See bottom tag line - Don't make the important word “quality software” in red... because you already have red](quality-software-tagline.png)
+![Figure: See bottom tag line - Don't make the important word “quality software” in red... because you already have red](/rules/add-a-spot-of-color-for-emphasis/quality-software-tagline.png)
 :::
 
 ::: img-medium
-![Figure: See bottom tag line - Make the important word “quality software” in red... because you do not have red](quality-software-tagline-grey.png)
+![Figure: See bottom tag line - Make the important word “quality software” in red... because you do not have red](/rules/add-a-spot-of-color-for-emphasis/quality-software-tagline-grey.png)
 :::
 
 ::: img-medium
-![Figure: Chewing the Fat bottom text. No red word because it is the title](chewing-fat-bottom-text.png)
+![Figure: Chewing the Fat bottom text. No red word because it is the title](/rules/add-a-spot-of-color-for-emphasis/chewing-fat-bottom-text.png)
 :::
+

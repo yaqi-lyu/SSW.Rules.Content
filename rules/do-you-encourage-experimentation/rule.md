@@ -20,5 +20,6 @@ Encourage experimentation to increase comfort:
 <!--endintro-->
 
 ::: good
-![Figure: Good example - Micorosoft Word uses Live Preview to show what styles look like  ](word-tabledesign.png)
+![Figure: Good example - Micorosoft Word uses Live Preview to show what styles look like  ](/rules/do-you-encourage-experimentation/word-tabledesign.png)
 :::
+

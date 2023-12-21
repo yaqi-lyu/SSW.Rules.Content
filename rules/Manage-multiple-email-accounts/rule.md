@@ -18,7 +18,7 @@ Sometimes staff may manage more than 1 email box - a personal email and a shared
 For internal communication, when you reply to emails from a shared company email account, the receivers may have little knowledge of who sent the emails. Which can lead to confusion and inconsistency in communication. To avoid these issues, we strongly recommend that staff avoid sending emails from shared company email accounts directly.
 
 ::: bad 
-![Figure: Bad example - No one knows who made the purchase](Purchase-Please.png)    
+![Figure: Bad example - No one knows who made the purchase](/rules/Manage-multiple-email-accounts/Purchase-Please.png)    
 :::
 
 When replying to emails from shared company accounts, you have an alternative:
@@ -29,8 +29,9 @@ When replying to emails from shared company accounts, you have an alternative:
 
   At SSW, we use CodeTwo to automatically add our signatures.
 
-![Figure: Change the sender to personal email](Pic-1.png)
+![Figure: Change the sender to personal email](/rules/Manage-multiple-email-accounts/Pic-1.png)
 
 ::: good  
-![Figure: Good example - Reply from your personal email, then keep the public email cc'd so the thread is tracked](Pic-2.png)
+![Figure: Good example - Reply from your personal email, then keep the public email cc'd so the thread is tracked](/rules/Manage-multiple-email-accounts/Pic-2.png)
 :::
+

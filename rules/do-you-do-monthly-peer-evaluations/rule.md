@@ -24,4 +24,5 @@ The evaluation is done by giving constructive comments in “Start, Stop, Contin
  e.g. (Stop...) coding without a user story   
  e.g. (Continue...) with your helpful SEO comments
 
-![Figure: Example email](PeerEvaluation.png)
+![Figure: Example email](/rules/do-you-do-monthly-peer-evaluations/PeerEvaluation.png)
+

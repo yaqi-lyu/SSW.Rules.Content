@@ -18,7 +18,7 @@ If you are planning to use Workflow, use Workflow with SharePoint List instead o
 <!--endintro-->
 
 
-![](BCSDoesNotSupportWF.jpg)
+![](/rules/do-you-avoid-using-bcs-when-you-need-workflow/BCSDoesNotSupportWF.jpg)
 
 
 ::: bad
@@ -27,9 +27,10 @@ BCS doesn't have WorkFlow support
 :::
 
 
-![](WFSupportList.jpg)
+![](/rules/do-you-avoid-using-bcs-when-you-need-workflow/WFSupportList.jpg)
 
 
 ::: good
 Use WorkFlow with SharePoint List  
 :::
+

@@ -38,7 +38,7 @@ The benefits of Done Videos are:
 * User - can be included as documentation 
 
 
-![Figure: Video call with the client](images.jpg)
+![Figure: Video call with the client](/rules/do-you-send-done-videos/images.jpg)
 
 ### How to do a Done Video
 

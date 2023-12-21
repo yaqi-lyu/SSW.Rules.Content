@@ -18,13 +18,14 @@ To enable the Hibernate option in Windows 10, make sure that your system hardwar
 
 1. Open Power Options by typing *Power Options* in Start and choosing the first result.
  Alternatively, you can right-click on the Start button and select *Power Options*.
-2. Select *Choose what the power buttons* do from the left panel.![choose what power button does power options](../../assets/choose-what-power-button-does-power-options.png)
-3. Click on *Change settings that are currently unavailable*.![change unavailable settings win 10 power options](../../assets/change-unavailable-settings-win-10-power-options.png)
-4. Now check the box in front of *Hibernate – Show in Power menu* under Shutdown settings.![enable hibernate power options win 10](../../assets/enable-hibernate-power-options-win-10.png)
-5. Finally click on Save settings and you will now find the Hibernate option under the Power menu on Start or Win + X menu.![hibernate power options start 10](../../assets/hibernate-power-options-star-10.png)
+2. Select *Choose what the power buttons* do from the left panel.![choose what power button does power options](/rules/do-you-use-hibernate/choose-what-power-button-does-power-options.png)
+3. Click on *Change settings that are currently unavailable*.![change unavailable settings win 10 power options](/rules/do-you-use-hibernate/change-unavailable-settings-win-10-power-options.png)
+4. Now check the box in front of *Hibernate – Show in Power menu* under Shutdown settings.![enable hibernate power options win 10](/rules/do-you-use-hibernate/enable-hibernate-power-options-win-10.png)
+5. Finally click on Save settings and you will now find the Hibernate option under the Power menu on Start or Win + X menu.![hibernate power options start 10](/rules/do-you-use-hibernate/hibernate-power-options-star-10.png)
 
 Love hibernate? Make sure that you still properly shut down your PC once in a while to keep it working normally.
 
 If you are a Domain Administrator and need to have this done to multiple devices within AD DS then check you Do you use Group Policy to enable Hibernate Option.
 
 <!--endintro-->
+

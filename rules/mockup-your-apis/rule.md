@@ -45,11 +45,11 @@ To complete the following steps, you need to create an instance of Azure API Man
 
 1. Select **Blank API**
 
-![Figure: Create a blank API](step1-create-blank-api.png)
+![Figure: Create a blank API](/rules/mockup-your-apis/step1-create-blank-api.png)
 
 ### Step 2 - Describe your API
 
-![Figure: Describe your API](step2-describe-your-api.png)
+![Figure: Describe your API](/rules/mockup-your-apis/step2-describe-your-api.png)
 
 1. Click **Create**
 
@@ -61,14 +61,14 @@ To complete the following steps, you need to create an instance of Azure API Man
   - **Display name** is a UI friendly display name that shows up in the Operations list
   - **Name** is the programatic name of the operation that can be referenced programatically in policies
 
-![Figure: Adding a new Operation](step3-add-operation.png)
+![Figure: Adding a new Operation](/rules/mockup-your-apis/step3-add-operation.png)
 
 ### Step 4 - Add response
 
 1. Click **Add response**
 2. Select the appropriate response code (e.g 200 OK)
 
-![Figure: Add a response](step4-add-response.png)
+![Figure: Add a response](/rules/mockup-your-apis/step4-add-response.png)
 
 ### Step 5 - Add representation
 
@@ -76,23 +76,23 @@ To complete the following steps, you need to create an instance of Azure API Man
 2. Specify the **Sample** as `{ "data": "fake" }`
 3. Click **Save**
   
-![Figure: Add a representation for your response with fake data](step5-add-represtntation.png)
+![Figure: Add a representation for your response with fake data](/rules/mockup-your-apis/step5-add-represtntation.png)
 
-![Figure: Operation added successfully](step5-operation-done.png)
+![Figure: Operation added successfully](/rules/mockup-your-apis/step5-operation-done.png)
 
 ### Step 6 - Add Mock Response Policy
 
 1. Click **Add policy**
 2. Select **Mock responses**
 
-![Figure: Add the Mock Response policy](step6-add-mock-response-policy.png)
+![Figure: Add the Mock Response policy](/rules/mockup-your-apis/step6-add-mock-response-policy.png)
 
 ### Step 7 - Choose response
 
 1. Choose the response representation to return as a Mock (e.g. `200 OK, application/json`)
 2. Click **Save**
 
-![Figure: Choose the response representation](step7-choose-response-representation.png)
+![Figure: Choose the response representation](/rules/mockup-your-apis/step7-choose-response-representation.png)
 
 ### Step 8 - Test your Mocked API
 
@@ -102,14 +102,14 @@ To complete the following steps, you need to create an instance of Azure API Man
 4. Note the "Mocking is enabled" notice
 5. Click **Send**
 
-![Figure: Testing the mocked api operation](step8-test-mock-api.png)
+![Figure: Testing the mocked api operation](/rules/mockup-your-apis/step8-test-mock-api.png)
 
 ### Step 9 - Inspect Mocked API response
 
 1. Notice the 200 OK status code
 2. Notice the fake data response in the message body
 
-![Figure: Response from the mocked operation](step9-inspect-mocked-api-reponse.png)
+![Figure: Response from the mocked operation](/rules/mockup-your-apis/step9-inspect-mocked-api-reponse.png)
 
 ### Step 10 - Call your API using a REST Client
 
@@ -121,8 +121,9 @@ To complete the following steps, you need to create an instance of Azure API Man
 4. **SEND** your request
 5. Verify the `200 OK` response and the mocked data
 
-![Figure: Calling our Data API from a REST Client](step10-call-from-rest-client.png)
+![Figure: Calling our Data API from a REST Client](/rules/mockup-your-apis/step10-call-from-rest-client.png)
 
 ## Conclusion
 
 Mocking API responses is awesome! You are able to quickly add mocked responses for all your API endpoints without even having a real backend implementation, and your front-end application can make REAL API calls. 
+

@@ -18,7 +18,7 @@ A message box automatically provides this functionality so there is no need to m
 <!--endintro-->
 
 ::: good  
-![Figure: Good example - Windows message boxes plays a sound... which cannot be captured in screenshot form.](../../assets/Win7SoundError.png)  
+![Figure: Good example - Windows message boxes plays a sound... which cannot be captured in screenshot form.](/rules/sound-message-box/Win7SoundError.png)  
 :::
 
 ```csharp
@@ -43,3 +43,4 @@ DialogResult result = MessageBox.Show(this, message, caption, buttons);
 ::: good
 Figure: Good example - The code is not present in this example as it is automatically done
 :::
+

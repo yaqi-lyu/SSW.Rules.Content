@@ -25,4 +25,5 @@ However, a meeting is an expensive thing, as the operational cost of a 1 hour me
 
 Therefore, only schedule a meeting if the purpose couldn’t have instead been achieved via an email or a group chat (e.g. Microsoft Teams).
 
-![](meeting-could-be-email.jpg)
+![](/rules/make-sure-the-meeting-needs-to-exist/meeting-could-be-email.jpg)
+

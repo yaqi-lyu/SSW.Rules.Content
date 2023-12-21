@@ -18,7 +18,7 @@ redirects: []
 Usually when an employee from the company wants to make a decision about either a naming convention, a button style, using user-controls or forms, or even something as simple as changing a font; there should always be reassurance from the rest of the team that it should/should not be done.  
 
 <!--endintro-->
-![Outlook Voting](OutlookVoting.gif) Figure: Good Example - using the voting buttons option.
+![Outlook Voting](/rules/do-you-use-the-voting-option-appropriately/OutlookVoting.gif) Figure: Good Example - using the voting buttons option.
 1. The subject should start with "VOTE: ..."
 2. The sender should reply with a summary after either everyone has replied or after a certain period of time to let the group know how significant their input was.
 3. The voting options should be short, to the point, and provide a distinct difference for each option.
@@ -31,3 +31,4 @@ Usually when an employee from the company wants to make a decision about either 
 6. When making a vote, try to make the options clear enough so that voters would not have to spend too much time deciding.
 
     A good voting system is one that allows the voters to choose an option quickly and carry on with their work, unless of course it is controversial.
+

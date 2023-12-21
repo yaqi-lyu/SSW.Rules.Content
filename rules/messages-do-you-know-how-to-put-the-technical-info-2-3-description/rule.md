@@ -20,7 +20,7 @@ The description should explain *what the error was*, followed by the *why it occ
 
 
 ::: bad  
-![Figure: Bad Example - A message box that does not intuitively alert the user](../../assets/BadMessageBox.gif)  
+![Figure: Bad Example - A message box that does not intuitively alert the user](/rules/messages-do-you-know-how-to-put-the-technical-info-2-3-description/BadMessageBox.gif)  
 :::
 
 * This is confusing, because it uses different terminology to the title ("estimate" instead of "quote")
@@ -31,10 +31,11 @@ The description should explain *what the error was*, followed by the *why it occ
 
 
 ::: good  
-![Figure: Good Example - A message box that is clear, consistent and intuitive](../../assets/GoodMessageBox.gif)  
+![Figure: Good Example - A message box that is clear, consistent and intuitive](/rules/messages-do-you-know-how-to-put-the-technical-info-2-3-description/GoodMessageBox.gif)  
 :::
 
 * Terminology is consistent
 * Punctuation is present
 * "Details" indicates that this information is useful for debugging
 * The text is split across three lines, and the technical information after Details is separated from the description of the error
+

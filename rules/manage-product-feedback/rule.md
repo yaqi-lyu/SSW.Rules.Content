@@ -35,7 +35,7 @@ Effectively managing product feedback is key to improving your product. While pl
 * **[Project Boards](/scrum-in-github/)** - Use GitHub Project Boards to track the progress of feedback implementation, providing visibility to your team and users.
 
 ::: good
-![Figure: Using GitHub Discussions to gather feedback for Next.js](github-discussions.png)
+![Figure: Using GitHub Discussions to gather feedback for Next.js](/rules/manage-product-feedback/github-discussions.png)
 :::
 
 **Link:** [github.com/vercel/next.js/discussions/categories/ideas](https://github.com/vercel/next.js/discussions/categories/ideas)
@@ -45,4 +45,5 @@ GitHub’s comprehensive tools provide a more integrated and transparent approac
 
 ### More Information - Google Trends
 
-![Figure: Google Trends shows that "UserVoice" is declining in popularity (see trend line), while "GitHub Discussions" is slowly growing](uservoice-trend.jpg)
+![Figure: Google Trends shows that "UserVoice" is declining in popularity (see trend line), while "GitHub Discussions" is slowly growing](/rules/manage-product-feedback/uservoice-trend.jpg)
+

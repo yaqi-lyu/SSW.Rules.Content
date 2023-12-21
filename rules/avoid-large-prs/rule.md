@@ -34,7 +34,7 @@ This is a good option if you are concerned with legacy technical decisions impac
 * Isolated backlog – cannot see old feature or bug requests
 * Have to migrate important issues later 
 
-![Figure: Good example – Developing the new application in a new repo ](avoid-large-prs-website.png)
+![Figure: Good example – Developing the new application in a new repo ](/rules/avoid-large-prs/avoid-large-prs-website.png)
 
 ### Option 2 – Create a new folder and keep merging using small PRs 
 
@@ -55,4 +55,4 @@ This is a good option if you are not worried about the legacy application influe
 * Easier to be influenced by past legacy decisions 
 * Sharing the same backlog – can see both old and new PBIs
 
-![Figure: Good example – Developing your new application in a new folder](avoid-large-prs-portal.png)
+![Figure: Good example – Developing your new application in a new folder](/rules/avoid-large-prs/avoid-large-prs-portal.png)

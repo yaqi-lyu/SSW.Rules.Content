@@ -19,11 +19,11 @@ For argument's sake, it makes sense to refer to any text pop-up on screen as a '
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example of captions - Text is too small and hard to read.](CTA\_Bad\_Example\_2.jpg)  
+![Figure: Bad example of captions - Text is too small and hard to read.](/rules/post-production-do-you-add-captions-to-your-video/CTA_Bad_Example_2.jpg)  
 :::
 
 ::: good  
-![Figure: Good example of captions - Text is clear and legible. Provides extra value to the viewer with content not mentioned in the video](CTA\_Good\_Example\_2.jpg)  
+![Figure: Good example of captions - Text is clear and legible. Provides extra value to the viewer with content not mentioned in the video](/rules/post-production-do-you-add-captions-to-your-video/CTA_Good_Example_2.jpg)  
 :::
 
 Now you cant really have just one type of caption. Have defined styles for different types of videos.
@@ -31,7 +31,7 @@ Now you cant really have just one type of caption. Have defined styles for diffe
 E.g. Here are the styles SSW use for their videos:
 
 ::: good  
-![Figure: Example 1: SSW Infomercials - Clear, nice effects and well stylized](Why Choose SSW.jpg)  
+![Figure: Example 1: SSW Infomercials - Clear, nice effects and well stylized](/rules/post-production-do-you-add-captions-to-your-video/Why Choose SSW.jpg)  
 :::
 
 
@@ -41,12 +41,14 @@ E.g. Here are the styles SSW use for their videos:
 
 
 ::: good  
-![Figure: Example 3: SSW Rules Videos - This is a good generic title style and works well for documentary style videos](SSWRules\_LowerThirdsExample.jpg)  
+![Figure: Example 3: SSW Rules Videos - This is a good generic title style and works well for documentary style videos](/rules/post-production-do-you-add-captions-to-your-video/SSWRules_LowerThirdsExample.jpg)  
 :::
 
 
 ::: good  
-![Figure: Example 4: SSW Case Studies - This allows us to represent Scrum roles with an icon](CaseStudy\_LowerThirds.jpg)  
+![Figure: Example 4: SSW Case Studies - This allows us to represent Scrum roles with an icon](/rules/post-production-do-you-add-captions-to-your-video/CaseStudy_LowerThirds.jpg)  
 :::
 
 Remember to put any links that you've mentioned in the captions underneath your video in it's own section (with a heading such as 'Show Notes' or 'Related Content'). You can also use this section to put in links that are related to what was said in the video as evidence (similar to footnotes or a bibliography in a book). That way, you will gain more Google juice and it will make it easier for the Product Owner to review your captions.
+
+

@@ -19,15 +19,16 @@ redirects: []
 To ensure your Reporting Services is running in a healthy state, you need to check if you have all the green ticks in your "Report Server Configuration Manager".
 
 ::: bad  
-![Figure: Bad example - Reporting Services is not running in a healthy state](RsConfigRed.gif)  
+![Figure: Bad example - Reporting Services is not running in a healthy state](/rules/check-that-rs-configuration-manager-is-all-green-ticks/RsConfigRed.gif)  
 :::
 
 ::: good  
-![Figure: Good example - Reporting Services is configured correctly (on previous versions)](RsConfigAllGreen.gif)  
+![Figure: Good example - Reporting Services is configured correctly (on previous versions)](/rules/check-that-rs-configuration-manager-is-all-green-ticks/RsConfigAllGreen.gif)  
 :::
 
 ::: good  
-![Figure: Good example - Nowadays, Reporting Services does not show green ticks anymore](RsConfigAllGreen-updated.png)  
+![Figure: Good example - Nowadays, Reporting Services does not show green ticks anymore](/rules/check-that-rs-configuration-manager-is-all-green-ticks/RsConfigAllGreen-updated.png)  
 :::
 
 Note: "Report Server Configuration Manager" is only available in SQL Server 2005.
+

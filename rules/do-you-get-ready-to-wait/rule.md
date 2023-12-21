@@ -26,7 +26,7 @@ There will be a lot of small quick query's against the Sitefinity SQL database a
 We recommend disabling all modules and only enabling items that you require.
     You can access the Module list via the Sitefinity backend.
 
-![Figure: Administration -&gt; System -&gt; Modules](sitefinity-admin-module.jpg)  
+![Figure: Administration -&gt; System -&gt; Modules](/rules/do-you-get-ready-to-wait/sitefinity-admin-module.jpg)  
 
 3. Ensure that the Sitefinity database is indexed and the Statistics are updated.
 This will ensure that the Sitefinity query's remain quick: [Sitefinity Database maintenance](http://knowledgebase.progress.com/articles/Article/Sitefinity-Database-maintenance)
@@ -35,3 +35,4 @@ Using this method we determined that Sitefinity was using reflection on assembli
 
 
 **Telerik Suggestion:** Have a best practise analyser wizard that is available in the backend which will look at the project and what is used and recommend settings that could be changed, modules that are not used, and any other improvements that can be applied.
+

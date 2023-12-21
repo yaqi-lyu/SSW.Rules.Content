@@ -29,5 +29,6 @@ Twitter for Professionals is free to activate in the settings of your Twitter ac
 It is ideal to use for businesses or for content creators looking to monetize their account.
 
 ::: good
-![Figure: Twitter for Professionals - new profile information](elon-twitter.png)
+![Figure: Twitter for Professionals - new profile information](/rules/twitter-for-professionals/elon-twitter.png)
 :::
+

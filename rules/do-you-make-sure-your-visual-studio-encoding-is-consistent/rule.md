@@ -19,14 +19,15 @@ Make sure your Visual Studio encoding is consistent with Sydney to avoid encodin
 
 **Open file with Encoding:**
 
-![Figure: Use "Open With...&Figure: Use "Open With..." in Visual Studio to open the file](OpenFileWithOption.png)  
+![Figure: Use "Open With...&Figure: Use "Open With..." in Visual Studio to open the file](/rules/do-you-make-sure-your-visual-studio-encoding-is-consistent/OpenFileWithOption.png)  
 
-![Figure: Set "... Editor with Encoding" as the Default Editor](OpenFileDialog.png)  
+![Figure: Set "... Editor with Encoding" as the Default Editor](/rules/do-you-make-sure-your-visual-studio-encoding-is-consistent/OpenFileDialog.png)  
 
-![Figure: Make sure your encoding is consistent with Sydney](OpenFileEncoding.png)  
+![Figure: Make sure your encoding is consistent with Sydney](/rules/do-you-make-sure-your-visual-studio-encoding-is-consistent/OpenFileEncoding.png)  
 
 **Save file with Encoding:** (Optional - it will be saved w (Optional - it will be saved with opened encoding automatically.)
 
-![Figure: Open "Advance Save Options..." in Visual Studio before checking in](AdvancedSaveOptions.png)  
+![Figure: Open "Advance Save Options..." in Visual Studio before checking in](/rules/do-you-make-sure-your-visual-studio-encoding-is-consistent/AdvancedSaveOptions.png)  
 
-![Figure: Make sure your setting is consistent with Sydney](AdvancedSaveOptionsEncoding.png)
+![Figure: Make sure your setting is consistent with Sydney](/rules/do-you-make-sure-your-visual-studio-encoding-is-consistent/AdvancedSaveOptionsEncoding.png)
+

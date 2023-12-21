@@ -27,5 +27,5 @@ See GitHub docs [Setting permissions for deleting or transferring repositories](
 This will ensure that even Admin users cannot accidentally delete or transfer repositories
 
 ::: good
-![Figure: 'Allow members to delete or transfer repositories for this organization' is disabled](dontAllowDeletion.png)
+![Figure: 'Allow members to delete or transfer repositories for this organization' is disabled](/rules/restrict-repository-deletion/dontAllowDeletion.png)
 :::

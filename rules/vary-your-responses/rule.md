@@ -19,5 +19,6 @@ People don’t answer in the same way every time. Neither should bots! All you n
 <!--endintro-->
 
 ::: good
-![Figure: Good example - Different welcome messages from SophieBot](sophiebotvariedresponse.png)
+![Figure: Good example - Different welcome messages from SophieBot](/rules/vary-your-responses/sophiebotvariedresponse.png)
 :::
+

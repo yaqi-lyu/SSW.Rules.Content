@@ -25,13 +25,13 @@ Using a whiteboard is a great way of collaborating and brainstorming which works
 **Scenario:** Software consultants often use architecture diagrams to present a solution to the client. These graphical representations are used to help all of the stakeholders, the developers, the designers, and the clients visualize the high-level structure of the system or application to ensure it covers all of the client requirements.
 
 ::: bad
-![Figure: Bad example - When working with people online, drawing on some paper, taking a photo, and emailing it... is the least collaborative way to work](bad-paper-draw.jpg)
+![Figure: Bad example - When working with people online, drawing on some paper, taking a photo, and emailing it... is the least collaborative way to work](/rules/modern-alternatives-to-using-a-whiteboard/bad-paper-draw.jpg)
 :::
 
-![Figure: OK example - Teams Whiteboard is a good collaborating tool while working online. (Using a pen and touch device provides the best experience, using a mouse is not pleasant)](team\_whiteboard.jpg)
+![Figure: OK example - Teams Whiteboard is a good collaborating tool while working online. (Using a pen and touch device provides the best experience, using a mouse is not pleasant)](/rules/modern-alternatives-to-using-a-whiteboard/team_whiteboard.jpg)
 
 ::: good
-![Figure: Good example - An architecture diagram exists on established projects after many discussions](architecture_diagram.png)
+![Figure: Good example - An architecture diagram exists on established projects after many discussions](/rules/modern-alternatives-to-using-a-whiteboard/architecture_diagram.png)
 :::
 
 ### \#1A Casting your screen (recommended - non collaborative) ⭐️
@@ -65,7 +65,7 @@ There are 2 ways to open the Teams Whiteboard:
 
 &nbsp;
 
-![Figure: Samsung Flip can be flipped from horizontal to vertical](samsung_flip.jpg)
+![Figure: Samsung Flip can be flipped from horizontal to vertical](/rules/modern-alternatives-to-using-a-whiteboard/samsung_flip.jpg)
 
 &nbsp;
 
@@ -81,7 +81,7 @@ Old school but it is great to have a pen in hand, you can always just grab a big
 
 Bear in mind that paper is not ideal because you can’t wipe it out... you have to start again #ouch
 
-![Figure: Paper whiteboards don't work when someone is in Sydney and the other attendee is in Melbourne](paperboard.jpg)
+![Figure: Paper whiteboards don't work when someone is in Sydney and the other attendee is in Melbourne](/rules/modern-alternatives-to-using-a-whiteboard/paperboard.jpg)
 
 ### \#4 Whiteboard and marker - Low tech (ugly)
 
@@ -94,13 +94,13 @@ Sometimes they are useful and I know some people really like them (generally old
 I have seen the digital whiteboards (usually targeted at teachers) but I think they are horrible to use.
 The common scenario is for a Spec Review. I am always happy when I see devs using their device and casting to the TV. And the subsequent notes get saved to Microsoft Teams.
 
-![Figure: Whiteboards are not a sign of a modern office](whiteboard\_marker.png)
+![Figure: Whiteboards are not a sign of a modern office](/rules/modern-alternatives-to-using-a-whiteboard/whiteboard_marker.png)
 
 ### \#5 Writable wall -  Low tech (ugly)
 
 Low tech (ugly) – Paint a wall to be writable or put some writable film on an office glass wall
 
-![Figure: Writable walls can be dirty even after cleaning up](glass\_wall.jpg)
+![Figure: Writable walls can be dirty even after cleaning up](/rules/modern-alternatives-to-using-a-whiteboard/glass_wall.jpg)
 
 ---
 
@@ -119,4 +119,6 @@ There are many apps that allow you to sketch what you're talking about e.g.:
 
 **Note:** These work fine with a mouse, they work even better with touch screens, or pens/styluses
 
-![Figure: Pens/Styluses help to draw better sketches](surface-pen.jpg)
+![Figure: Pens/Styluses help to draw better sketches](/rules/modern-alternatives-to-using-a-whiteboard/surface-pen.jpg)
+
+

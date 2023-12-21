@@ -17,8 +17,8 @@ redirects:
 
 Export each single entity customization and keep each entity customization in a           separate file, like:
 
-* Account\_11022009.xml
-* Contact\_11022009.xml
+* Account_11022009.xml
+* Contact_11022009.xml
 
 
 <!--endintro-->
@@ -27,4 +27,5 @@ This way, if an entity is changed or broken on the Live environment, you can re-
 
 Instead of exporting each single entity, you can also export only your customized           entities in 1 step, and afterwards select what entities to import
 
-![Figure: You can select the single customization to import](CRM\_CUS\_01.JPG)
+![Figure: You can select the single customization to import](/rules/customization-do-you-export-only-the-customizations-of-entities-that-you-did-customize/CRM_CUS_01.JPG)
+

@@ -17,5 +17,6 @@ You should use the SharePoint portal in VSTS2012 because it provides you dashboa
 
 <!--endintro-->
 
-![](VS2012-SharePointPortal.jpg)
+![](/rules/do-you-use-the-sharepoint-portal-in-vsts-2012/VS2012-SharePointPortal.jpg)
  **Figure: SharePoint portal in VSTS 2012**
+

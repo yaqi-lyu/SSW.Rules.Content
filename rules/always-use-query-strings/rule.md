@@ -25,7 +25,7 @@ When you build a web application, any dynamic page you think a user may wish to 
 
 
 ::: good  
-![Figure: The URL should always have all the parameters the user enters. Here Google is a good example](querystring.png)  
+![Figure: The URL should always have all the parameters the user enters. Here Google is a good example](/rules/always-use-query-strings/querystring.png)  
 :::
 
 You may hear that query strings are bad and they leave you wide open to SQL Injection Attacks (especially when you use SQL statements in the URL). I don't subscribe to the security issues being the determining factor... if I am determined enough, I can write a little application to send POST data to the webpage instead of in the query string. Both methods are open to SQL injection and invalid parameters, so you need to code to prevent that either way.
@@ -33,3 +33,4 @@ You may hear that query strings are bad and they leave you wide open to SQL Inje
 The bottom line is that if you are not giving appropriate parameters in the query string then you are reducing functionality.
 
 **Note:** We all agree bookmarks are useful - it's the same for query strings.
+

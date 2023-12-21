@@ -14,7 +14,7 @@ guid: c86ca5a3-a44a-441f-8804-8b67d0b589bc
 ---
 YARP, or Yet Another Reverse Proxy, is a .NET toolkit designed for building fast proxy servers. It seamlessly integrates with ASP.NET and .NET infrastructure, offering easy customization to suit specific deployment needs. YARP operates within the ASP.NET pipeline, handling incoming requests and utilizing its sub-pipeline for proxying requests to backend servers. Users can extend functionality by adding or replacing modules as required.</br>
 YARP uses the concept of **Routes** to represent request patterns for the proxy and **Clusters** to represent the services to forward those requests.
-![](reverse-proxy.png)
+![](/rules/do-you-know-yarp-is-awesom/reverse-proxy.png)
 **Figure: YARP is a reverse proxy that acts as the public endpoint for a site or service and forwards calls to backend servers.**
 **Source: [Announcing YARP 1.0 Release](https://devblogs.microsoft.com/dotnet/announcing-yarp-1-0-release/)**
 <!--endintro-->

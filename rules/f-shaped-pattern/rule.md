@@ -29,7 +29,7 @@ These world leaders in user experience research have conducted eye-tracking stud
 1. Users read only the first few lines of content on a page
 2. Users skim down the left side of the page primarily
 
-![Figure: The F-shaped pattern reflects our tendency to skim](F-shape-diagram.png)
+![Figure: The F-shaped pattern reflects our tendency to skim](/rules/f-shaped-pattern/F-shape-diagram.png)
 
 The desire for quick efficiency drives this behaviour. Users seek to avoid the information overload today’s internet throws at them.
 
@@ -59,3 +59,4 @@ The F-shape is the most common way users read content, but other reading pattern
 - **Bypassing pattern** – Where users intentionally skip over the first word(s) of the content. Common when many lines or headings begin with the same words.
 
 Remember, understanding how users interact with content is key. Place important landmarks along the user's natural pathway to facilitate comprehension and engagement.
+

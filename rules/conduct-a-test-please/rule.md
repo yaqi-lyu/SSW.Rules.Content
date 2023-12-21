@@ -34,7 +34,7 @@ guid: 537f2847-7144-4d0d-a86d-5dcd224e8f75
 `youtube: https://www.youtube.com/embed/4MJGuRL1HP8`
 **Video: Test Test Test! | William Liebenberg | SSW Rules (2 min)**
 
-![Figure: Do you want users to have a good first impression?](good-first-impressions.png) 
+![Figure: Do you want users to have a good first impression?](/rules/conduct-a-test-please/good-first-impressions.png) 
 
 ::: greybox  
 **Does the "Test Please" principle apply to more than code?**
@@ -72,3 +72,4 @@ Figure: Good Example - Sometimes it's good to soften the blow with some humour w
 :::
 
 **Note:** If the test to be performed is quick and the tester is available on the spot, consider using a "[checked by](/do-you-know-when-to-do-use-checked-by-xxx)" style instead to save some time.
+

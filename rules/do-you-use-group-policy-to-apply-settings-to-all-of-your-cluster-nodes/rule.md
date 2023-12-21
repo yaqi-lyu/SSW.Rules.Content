@@ -21,6 +21,7 @@ When working with clustered environments it is important that settings be consis
 
 Create a policy that you would like applied to each node of the cluster using the **Group Policy Management** .
 
-![Figure: Bad example - Do not manually change settings on each node](group-policy-bad.jpg)
+![Figure: Bad example - Do not manually change settings on each node](/rules/do-you-use-group-policy-to-apply-settings-to-all-of-your-cluster-nodes/group-policy-bad.jpg)
 
-![Figure: Good example - Changing settings through Group Policy keeps node settings the same](group-policy-good.jpg)
+![Figure: Good example - Changing settings through Group Policy keeps node settings the same](/rules/do-you-use-group-policy-to-apply-settings-to-all-of-your-cluster-nodes/group-policy-good.jpg)
+

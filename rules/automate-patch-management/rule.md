@@ -16,7 +16,7 @@ To keep your systems secure, it is important to make sure everything is kept up 
 
 :::ok
 
-![Figure: WSUS is a good tool, but it only does Microsoft Updates](01_wsus-console.png)
+![Figure: WSUS is a good tool, but it only does Microsoft Updates](/rules/automate-patch-management/01_wsus-console.png)
 
 :::
 
@@ -32,7 +32,7 @@ You should consider when to automatically install updates - of course, it needs 
 
 :::good
 
-![Figure: In Patch Manager Plus, you can set the deployment date based on Patch Tuesday](patch-tuesday.png)
+![Figure: In Patch Manager Plus, you can set the deployment date based on Patch Tuesday](/rules/automate-patch-management/patch-tuesday.png)
 
 :::
 

@@ -22,15 +22,15 @@ If you find a     mistake or typo you should look and see who is the culprit bef
 
 Here is how you see the      **history** of the page:
 
-![Figure: Click on Page | Page History](Screen Shot 2018-09-28 at 3.34.38 PM-min.png)  
+![Figure: Click on Page | Page History](/rules/how-to-view-changes-made-to-a-sharepoint-page/Screen Shot 2018-09-28 at 3.34.38 PM-min.png)  
 
-![Figure: See the changes made, versions and the person who changed it](sharepoint-page-history.png)  
+![Figure: See the changes made, versions and the person who changed it](/rules/how-to-view-changes-made-to-a-sharepoint-page/sharepoint-page-history.png)  
 
 Here is how you see the  **history** on Office 365 - SharePoint Online:
 
-![Figure: Click on Show actions | Version History](Snipaste\_2018-10-08\_13-21-05.jpg)  
+![Figure: Click on Show actions | Version History](/rules/how-to-view-changes-made-to-a-sharepoint-page/Snipaste_2018-10-08_13-21-05.jpg)  
 
-![Figure: Version History listed](Snipaste\_2018-10-08\_13-22-46.jpg)  
+![Figure: Version History listed](/rules/how-to-view-changes-made-to-a-sharepoint-page/Snipaste_2018-10-08_13-22-46.jpg)  
 
 <!--endintro-->
 
@@ -41,3 +41,5 @@ Watch the video which explains how to view the version history for a page in Sha
 ### Related rules
 
 If you want to see how this is done in TFS, read [Do you know the benefits of using source control?](https://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#UsingSourceControl)
+
+

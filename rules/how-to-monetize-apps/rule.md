@@ -35,7 +35,7 @@ This is the traditional approach, where you set a price for your app or game, an
 * Your product is *not* a SaaS product (one-off payments are difficult to reconcile against ongoing cloud and hosting costs)
 
 ::: good
-![Figure: Good example - The Legend of Engadine on iOS and Android is free to play, but a one-time purchase unlocks premium features.](engadine.png)
+![Figure: Good example - The Legend of Engadine on iOS and Android is free to play, but a one-time purchase unlocks premium features.](/rules/how-to-monetize-apps/engadine.png)
 :::
 
 **More information:** [The Legend of Engadine official website](https://engadine.net).
@@ -49,7 +49,7 @@ Subscriptions have become much more popular, even for traditional desktop softwa
 * Your product has other ongoing maintenance costs (e.g. Content development)
 
 ::: good
-![Figure: Good example - Microsoft 365 is available to home and business users for a low recurring cost](microsoft365.png)
+![Figure: Good example - Microsoft 365 is available to home and business users for a low recurring cost](/rules/how-to-monetize-apps/microsoft365.png)
 :::
 
 [Microsoft 365](https://www.microsoft.com/microsoft-365) (formerly Office 365) is a suite of productivity tools that run on mobile, desktop and web. With a subscription, users get access to these apps and the connected services that tie them together in the cloud, and the cost over a 3 year period (the average time between desktop releases before Office 365) is lower than the cost of a desktop license amortized over the same period.
@@ -80,7 +80,7 @@ Most free apps are designed to make money too. There are of course exceptions (f
 **Note:** If you include ads in your app, you should consider a freemium model, so that users can pay to remove them.
 
 ::: good
-![Figure: Good example - Cronometer offers a paid and free tier. On the free tier, users see ads, but can pay to remove them](cronometer.png)
+![Figure: Good example - Cronometer offers a paid and free tier. On the free tier, users see ads, but can pay to remove them](/rules/how-to-monetize-apps/cronometer.png)
 :::
 
 ### Paid content
@@ -90,7 +90,7 @@ Some apps provide the app for free, but content within the app is paid for. This
 * You are regularly adding new content to your app
 
 ::: good
-![Figure: Good example - The Zinio app is a digital magazine platform. The app is free, but users pay to subscribe to a magazine or to purchase individual issues](zinio.png)
+![Figure: Good example - The Zinio app is a digital magazine platform. The app is free, but users pay to subscribe to a magazine or to purchase individual issues](/rules/how-to-monetize-apps/zinio.png)
 :::
 
 ### Loss leader

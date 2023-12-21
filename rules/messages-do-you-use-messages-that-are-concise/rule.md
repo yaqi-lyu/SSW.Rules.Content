@@ -28,14 +28,14 @@ It is important to use terminology that your users will understand. Do not to us
 
 
 ::: bad  
-![Figure: Bad Example - Is it OK to Cancel?](../../assets/Bad-MessageBoxZango.jpg)  
+![Figure: Bad Example - Is it OK to Cancel?](/rules/messages-do-you-use-messages-that-are-concise/Bad-MessageBoxZango.jpg)  
 :::
 
 Microsoft uses this one:
 
 
 ::: good  
-![Figure: Good Example - Microsoft error message is concise](../../assets/NotEnoughMemory.gif)  
+![Figure: Good Example - Microsoft error message is concise](/rules/messages-do-you-use-messages-that-are-concise/NotEnoughMemory.gif)  
 :::
 
 Some other message types that Microsoft uses are:
@@ -51,3 +51,4 @@ Some other message types that Microsoft uses are:
 Consider using or adapting them in your application in similar scenarios. Only include the information that the user needs and will understand.
 
 This also applies to general design principles, read our rule on [Less is more: do you know people scan, not read?](/less-is-more-do-you-know-people-scan-not-read)
+

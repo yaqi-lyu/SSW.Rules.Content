@@ -15,5 +15,6 @@ Using branded stickers on coffee cups  is a great way to promote your brand at e
 
 <!--endintro-->
 
-![Figure: SSW Take Away Coffee Cup](ssw-coffee-cup.png)
+![Figure: SSW Take Away Coffee Cup](/rules/do-you-brand-your-takeaway-coffee-cups/ssw-coffee-cup.png)
+
 

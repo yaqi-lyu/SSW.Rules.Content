@@ -23,5 +23,6 @@ Your personal message should be simple, to the point, and make sure you change i
 
 <!--endintro-->
 
-![Figure: Use your Personal Message to share the good news](Use-your-Persona- Message-to-share-good-news.jpg)  
+![Figure: Use your Personal Message to share the good news](/rules/use-your-personal-message-to-share-good-news-with-your-contacts/Use-your-Persona- Message-to-share-good-news.jpg)  
  
+

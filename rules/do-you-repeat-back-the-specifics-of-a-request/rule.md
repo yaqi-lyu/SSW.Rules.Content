@@ -18,7 +18,7 @@ Misunderstanding due to miscommunication can cause major disasters at work or in
 
 
 ::: bad  
-![Figure: KLM Flight 4805 collides with Pan Am Flight 1736 at Tenerife Los Rodeos Airport](flight-accident-1977.jpg)  
+![Figure: KLM Flight 4805 collides with Pan Am Flight 1736 at Tenerife Los Rodeos Airport](/rules/do-you-repeat-back-the-specifics-of-a-request/flight-accident-1977.jpg)  
 :::
 
 A good communication strategy when receiving instructions is to repeat back what's being said to avoid misunderstanding.
@@ -46,3 +46,4 @@ OK, I will add a red checkbox on the right
 ::: good
 Figure: Good Example - repeat back the task
 :::
+

@@ -32,12 +32,12 @@ Include the rule (Link) on the appointment. This will ensure you have quick acce
 <!--endintro-->
 
 ::: bad\
-![Figure: Bad Example - appointment subject with very little information](ApptSubjectBad_small.jpg)
+![Figure: Bad Example - appointment subject with very little information](/rules/appointments-do-you-show-all-the-necessary-information-in-the-subject/ApptSubjectBad_small.jpg)
 :::
 
 ::: good\
 
-![Figure: Good Example - Appointment subjects are better when they hold the important information and can be read quickly](snag_12bec579.png)
+![Figure: Good Example - Appointment subjects are better when they hold the important information and can be read quickly](/rules/appointments-do-you-show-all-the-necessary-information-in-the-subject/snag_12bec579.png)
 :::
 
 CRM users making bookings should [keep their naming standards consistent.](/scheduling-do-you-have-a-consistent-naming-convention-for-your-bookings)

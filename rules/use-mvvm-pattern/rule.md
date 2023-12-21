@@ -23,11 +23,11 @@ Xamarin follows the MVVM design pattern (see: [Do you use the MVVM pattern in yo
 MVVM allows for loose coupling between data, business logic, and UI. In Xamarin, UI is usually defined in XAML (although you can declaratively define your UI in C# code too). Your UI is called a 'view' - a view can be a page or a UI element, although UI elements that are not complete pages are more often referred to as     *controls*.
 
 ::: bad  
-![Figure: Bad Example - Logic and properties are in the code behind, which decreases maintainability and leads to antipatterns like async void](mvvm-bad.png)  
+![Figure: Bad Example - Logic and properties are in the code behind, which decreases maintainability and leads to antipatterns like async void](/rules/use-mvvm-pattern/mvvm-bad.png)  
 :::
 
 ::: good  
-![Figure: Good Example - Values are bound to properties of the ViewModel, and actions are bound to Commands in the ViewModel](mvvm-good.png)  
+![Figure: Good Example - Values are bound to properties of the ViewModel, and actions are bound to Commands in the ViewModel](/rules/use-mvvm-pattern/mvvm-good.png)  
 :::
 
 Xamarin supports MVVM out of the box, but there are several MVVM frameworks available that enhance this functionality. For example, some MVVM frameworks support "convention over configuration", allowing you to just code your View and ViewModel and let the framework hook them up for you. Some include:
@@ -35,3 +35,4 @@ Xamarin supports MVVM out of the box, but there are several MVVM frameworks avai
 * **[Prism](https://github.com/PrismLibrary/Prism):** Prism is an MVVM framework that was developed initially for WPF but has since been ported to Xamarin Forms. It is stable and mature. 
 * **[FreshMVVM](https://github.com/rid00z/FreshMvvm):** FreshMVVM is a framework that was built from the ground up specifically for Xamarin Forms. It is open-source and maintained by a Microsoft and Xamarin MVP. 
 * **[MVVMLight](https://github.com/lbugnion/mvvmlight):** This is another framework built especially for Xamarin, although it is not currently under active maintenance. 
+

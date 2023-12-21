@@ -32,8 +32,9 @@ Here are some examples:
 * For code quality, add getting Code Auditor and ReSharper to 0 on files you’ve changed to your [Definition of Done](/definition-of-done)
 
 * For code quality, add SonarQube and identify your technical debt and track it
-  ![](improve-processes.png)  
+  ![](/rules/continually-improve-processes/improve-processes.png)  
 
 * For application/server performance, add automated load tests, add code to auto scale up on Azure
 
 * For application usage, concentrate on features that get used the most and improve and streamline those features
+

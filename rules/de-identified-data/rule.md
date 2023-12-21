@@ -29,5 +29,6 @@ When working with client data, you should do the following:
 The [Future of Privacy Forum](https://fpf.org/blog/a-visual-guide-to-practical-data-de-identification/) has an easy guide to practical da de-identification:
 
 ::: good
-![Figure: Good Example - It's crucial to understand what de-identification is, and how to protect the identity of others](deidentify.jpg)
+![Figure: Good Example - It's crucial to understand what de-identification is, and how to protect the identity of others](/rules/de-identified-data/deidentify.jpg)
 :::
+

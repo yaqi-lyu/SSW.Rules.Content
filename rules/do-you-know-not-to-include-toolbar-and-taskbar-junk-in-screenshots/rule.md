@@ -17,12 +17,12 @@ Screenshots are a very important part of websites these days. Be careful to avoi
 
 
 ::: bad  
-![Figure: Bad Example - This screenshot includes personal browsers](Bad\_Screenshot-with-personal-data.JPG)  
+![Figure: Bad Example - This screenshot includes personal browsers](/rules/do-you-know-not-to-include-toolbar-and-taskbar-junk-in-screenshots/Bad_Screenshot-with-personal-data.JPG)  
 :::
 
 
 ::: good  
-![Figure: Good Example - This screenshot has been cropped to hide personal browsers](Good\_No-Personal-Info.jpg)  
+![Figure: Good Example - This screenshot has been cropped to hide personal browsers](/rules/do-you-know-not-to-include-toolbar-and-taskbar-junk-in-screenshots/Good_No-Personal-Info.jpg)  
 :::
 
 Tips:
@@ -33,5 +33,7 @@ Tips:
 
 
 ::: good  
-![Figure: Always have the 'Auto-hide the taskbar' option checked so you do be screen shots](Good_Auto-Hide-Taskbar.gif)  
+![Figure: Always have the 'Auto-hide the taskbar' option checked so you do be screen shots](/rules/do-you-know-not-to-include-toolbar-and-taskbar-junk-in-screenshots/Good_Auto-Hide-Taskbar.gif)  
 :::
+
+

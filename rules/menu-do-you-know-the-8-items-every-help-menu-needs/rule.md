@@ -29,10 +29,11 @@ A good help menu should have these 8 items in it:
 
 
 ::: bad  
-![Figure: Bad Example - Example of a Help menu with only "About"](../../assets/BadExampleForHelpMenu.gif)  
+![Figure: Bad Example - Example of a Help menu with only "About"](/rules/menu-do-you-know-the-8-items-every-help-menu-needs/BadExampleForHelpMenu.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Example of a Help menu with all 8 items](../../assets/GoodExampleOfHelpMenu.gif)  
+![Figure: Good Example - Example of a Help menu with all 8 items](/rules/menu-do-you-know-the-8-items-every-help-menu-needs/GoodExampleOfHelpMenu.gif)  
 :::
+

@@ -61,7 +61,7 @@ Whenever an application has a database, have a visual indicator. I recommend a d
 **Note:** The Yellow could have been Orange (kind of like traffic lights) but the color palette in Word doesn't give Orange.
 
 
-![ ](WordColorPallete.gif)  
+![ ](/rules/do-you-have-separate-development-testing-and-production-environments/WordColorPallete.gif)  
 **Figure: Colors in Word color palette**  
     
 For more information, see our rule: [Do you identify Development, Test and Production Web Servers by colors?](/do-you-identify-development-test-and-production-crm-web-servers-by-colors)
@@ -78,5 +78,6 @@ This prevents testers from accidentally entering test data into the production v
 **Static Site Tip:** Add a "THIS IS THE X ENVIRONMENT" banner header to your **non-production** websites.  
 **Windows Forms Tip:** Implement in the base form in the header   
 **ASP.NET (at least version 2.0) Tip:** Implement in the master form in the header  
-![ ](dev_test_prod_servers.gif)  
+![ ](/rules/do-you-have-separate-development-testing-and-production-environments/dev_test_prod_servers.gif)  
 **Figure: Spice up your environments with different colors**  
+

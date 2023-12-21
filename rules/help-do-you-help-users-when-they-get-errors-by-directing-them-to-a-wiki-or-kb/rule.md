@@ -17,10 +17,11 @@ Every message box should contain a link to a wiki or KB with more details about 
 
 
 ::: bad  
-![Figure - Bad Example: User now has to Google to find out how to fix this error](../../assets/NoDirectForError.jpg)  
+![Figure - Bad Example: User now has to Google to find out how to fix this error](/rules/help-do-you-help-users-when-they-get-errors-by-directing-them-to-a-wiki-or-kb/NoDirectForError.jpg)  
 :::
 
 
 ::: good  
-![Figure - Good Example: If you click on the "Get Help..." link on the bottom of the form it will take you to a wiki page with common issues and resolutions](../../assets/DirectForError.jpg)  
+![Figure - Good Example: If you click on the "Get Help..." link on the bottom of the form it will take you to a wiki page with common issues and resolutions](/rules/help-do-you-help-users-when-they-get-errors-by-directing-them-to-a-wiki-or-kb/DirectForError.jpg)  
 :::
+

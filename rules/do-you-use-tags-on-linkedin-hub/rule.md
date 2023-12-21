@@ -25,4 +25,5 @@ You can then use your tags on the profiles of your candidates to show what actio
 2. Start to type the tag you need | click on the tag in the drop down
 3. If you don't know which one to use you can "Show all tags"
 
-![Figure: Tags help you track activity in the LinkedIn Hub](linkedin-tags.jpg)
+![Figure: Tags help you track activity in the LinkedIn Hub](/rules/do-you-use-tags-on-linkedin-hub/linkedin-tags.jpg)
+

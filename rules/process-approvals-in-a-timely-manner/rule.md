@@ -18,8 +18,9 @@ redirects:
 
 Don’t leave people hanging – ensure you review your email, SugarLearning, Timepro, or Intranet accounts for items from staff and colleagues to review and approve each day
 
-![](require approval.jpg)
+![](/rules/process-approvals-in-a-timely-manner/require approval.jpg)
 
 Figure: Make sure you review and take action on any approvals daily so that they don't back up
 
 <!--endintro-->
+

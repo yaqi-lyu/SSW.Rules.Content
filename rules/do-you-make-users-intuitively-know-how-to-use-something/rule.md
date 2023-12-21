@@ -19,29 +19,30 @@ guid: 54bd2a5d-d4f8-451e-9fa7-3c746a0de88b
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example - The affordance of the checkbox makes this UI misleading](../../assets/Bad-Affordance2.jpg)
+![Figure: Bad example - The affordance of the checkbox makes this UI misleading](/rules/do-you-make-users-intuitively-know-how-to-use-something/Bad-Affordance2.jpg)
 :::
 
 ::: bad
-![Figure: Bad example - If this mop sink didn't look so much like a urinal and wasn't right next to the toilet, maybe the sign wouldn't be necessary](../../assets/Bad-FalseAffordance.jpg)
+![Figure: Bad example - If this mop sink didn't look so much like a urinal and wasn't right next to the toilet, maybe the sign wouldn't be necessary](/rules/do-you-make-users-intuitively-know-how-to-use-something/Bad-FalseAffordance.jpg)
 :::
 
 ::: bad
-![Figure: Bad example – It might not have been a good idea to place a male policeman where the exhaust pipe is](../../assets/Bad-Affordance3.jpg)
+![Figure: Bad example – It might not have been a good idea to place a male policeman where the exhaust pipe is](/rules/do-you-make-users-intuitively-know-how-to-use-something/Bad-Affordance3.jpg)
 :::
 
 ::: bad
-![Figure: Bad example - Old Microsoft Word - Because of the UI, people never knew they could use styles e.g. normal, H1, H2](../../assets/Bad-Affordance.jpg)
+![Figure: Bad example - Old Microsoft Word - Because of the UI, people never knew they could use styles e.g. normal, H1, H2](/rules/do-you-make-users-intuitively-know-how-to-use-something/Bad-Affordance.jpg)
 :::
 
 ::: good
-![Figure: Good example - New Microsoft Word - Because of the new ribbon UI, people intuitively know how to use styles](word-tool-bar.png)
+![Figure: Good example - New Microsoft Word - Because of the new ribbon UI, people intuitively know how to use styles](/rules/do-you-make-users-intuitively-know-how-to-use-something/word-tool-bar.png)
 :::
 
 ::: bad
-![Figure: Bad example - Which is the dial that controls the top-right stove?](../../assets/Bad-Mapping.jpg)
+![Figure: Bad example - Which is the dial that controls the top-right stove?](/rules/do-you-make-users-intuitively-know-how-to-use-something/Bad-Mapping.jpg)
 :::
 
 ::: good
-![Figure: Good example - In this layout, it's easy to see which dial controls which stove](../../assets/Good-Mapping.jpg)
+![Figure: Good example - In this layout, it's easy to see which dial controls which stove](/rules/do-you-make-users-intuitively-know-how-to-use-something/Good-Mapping.jpg)
 :::
+

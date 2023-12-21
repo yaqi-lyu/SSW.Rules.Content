@@ -20,10 +20,10 @@ When developing software, we implement a [dependency injection centric architect
 
 <!--endintro-->
 
-![Figure: A Dependency Injection based architecture gives us great maintainability](dependency-injection-structure.png)  
+![Figure: A Dependency Injection based architecture gives us great maintainability](/rules/do-you-have-a-consistent-net-solution-structure/dependency-injection-structure.png)  
 
 ::: good  
-![Figure: Good Example - The Solution and Projects are named consistently and the Solution Folders organize the projects so that they follow the Onion Architecture](solution-structure.png)  
+![Figure: Good Example - The Solution and Projects are named consistently and the Solution Folders organize the projects so that they follow the Onion Architecture](/rules/do-you-have-a-consistent-net-solution-structure/solution-structure.png)  
 :::
 
 Dependencies and the application core are clearly separated as per the [Onion Architecture](/do-you-use-a-dependency-injection-centric-architecture).
@@ -45,3 +45,4 @@ We have separated the unit tests, one for each project, for several reasons:
 
 * It provides a clear separation of concerns and allows each component to be individually tested
 * The different libraries can be used on other projects with confidence as there are a set of tests around them
+

@@ -20,9 +20,10 @@ Sometimes when a user asks a question that the bot doesn't know the answer to, t
 
 
 ::: bad
-![Figure: Bad example - Just answer I don't know](bad-response.png)
+![Figure: Bad example - Just answer I don't know](/rules/have-generic-answer/bad-response.png)
 :::
 
 ::: good
-![Figure: Good example - Using generic answer with extra information](use-generic-answer.png)
+![Figure: Good example - Using generic answer with extra information](/rules/have-generic-answer/use-generic-answer.png)
 :::
+

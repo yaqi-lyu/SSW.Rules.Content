@@ -37,9 +37,10 @@ Be aware that just sharing random or any images will not set your social media a
 * Following the business's branding
 
 ::: bad
-![Figure: Bad example - Social media post without an image - Less engagement](Screen Shot 2020-04-23 at 3.42.25 pm.png)
+![Figure: Bad example - Social media post without an image - Less engagement](/rules/posts-with-images-are-more-engaging/Screen Shot 2020-04-23 at 3.42.25 pm.png)
 :::
 
 ::: good
-![Figure: Good example - Social media post with a video - Better engagement](Screen Shot 2020-04-23 at 3.45.49 pm.png)
+![Figure: Good example - Social media post with a video - Better engagement](/rules/posts-with-images-are-more-engaging/Screen Shot 2020-04-23 at 3.45.49 pm.png)
 :::
+

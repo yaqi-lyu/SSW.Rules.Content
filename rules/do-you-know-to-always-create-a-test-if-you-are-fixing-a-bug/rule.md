@@ -23,4 +23,5 @@ redirects: []
 
 This field should not be null (Remove me when you edit this field). 
 <!--endintro-->
-![Test case ](TestCase.jpg) Figure: You can easily fix this by associating tests with a Test Case which in turn "Tests" a bug
+![Test case ](/rules/do-you-know-to-always-create-a-test-if-you-are-fixing-a-bug/TestCase.jpg) Figure: You can easily fix this by associating tests with a Test Case which in turn "Tests" a bug
+

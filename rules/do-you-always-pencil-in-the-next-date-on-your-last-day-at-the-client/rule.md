@@ -24,7 +24,7 @@ A better approach is to reduce the risk by:
 So try something like "My calendar fills up really quick, how about I pencil you in... How about we say 2 weeks' time? Don't forget you can cancel it anytime."
 
 ::: good  
-![Figure: Plan ahead at the end of your day. E.g. "How about we pencil in my next visit, say 2 weeks' time?"](mobile-calendar.jpg)  
+![Figure: Plan ahead at the end of your day. E.g. "How about we pencil in my next visit, say 2 weeks' time?"](/rules/do-you-always-pencil-in-the-next-date-on-your-last-day-at-the-client/mobile-calendar.jpg)  
 :::
 
 ::: greybox
@@ -32,3 +32,4 @@ So try something like "My calendar fills up really quick, how about I pencil you
 
 E.g. "As per our conversation, this work has not yet been tested and may still include bugs. At this stage, you would prefer if we did not continue to work tomorrow, but I do recommend that we come in and finish soon."
 :::
+

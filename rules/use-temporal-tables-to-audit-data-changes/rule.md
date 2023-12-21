@@ -64,7 +64,7 @@ CREATE TABLE dbo.Shippers
  **Figure: Shippers table from the Northwind schema converted to a temporal table.** 
  
  
-![Figure: New temporal table shown in SQL Management Studio.](Shippers_TemporalTable.PNG)
+![Figure: New temporal table shown in SQL Management Studio.](/rules/use-temporal-tables-to-audit-data-changes/Shippers_TemporalTable.PNG)
 
 
 ```sql
@@ -83,3 +83,4 @@ Some alternative solutions are:
 3. Using a logging utility to audit database changes
 
 This means that you can devote your development time to areas other than auditing. Also, unlike other utilities which use triggers (such as [ApexSQL Audit](https://www.ssw.com.au/ssw/Redirect/ApexSQL.htm)), there is no performance overhead because it relies upon log files already created by SQL Server. If required, you can export the log information to SQL Server, so you can perform advanced queries on it. It even allows you to recover previously deleted tables.
+

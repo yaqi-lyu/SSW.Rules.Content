@@ -45,14 +45,14 @@ Pull requests are the best way to ensure that two sets of eyes see every change 
 When Pull Requests are enabled, developers must create a branch and make their changes on that branch. Then they submit a Pull Request to merge their changes back into main. Each pull request must be approved by another reviewer.
 
 ::: bad  
-![Figure: Bad example - Leaving the responsibility to each person to write perfect code](i-will-not-write-bad-code.jpg)  
+![Figure: Bad example - Leaving the responsibility to each person to write perfect code](/rules/enable-pull-requests-to-ensure-code-is-reviewed/i-will-not-write-bad-code.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - Make Pull Requests required](pull-request-diagram.png)  
+![Figure: Good example - Make Pull Requests required](/rules/enable-pull-requests-to-ensure-code-is-reviewed/pull-request-diagram.png)  
 :::
 
-![Figure: Pull requests also give version history for rejected code!](github-pullrequest-2.png)  
+![Figure: Pull requests also give version history for rejected code!](/rules/enable-pull-requests-to-ensure-code-is-reviewed/github-pullrequest-2.png)  
 
 ### Useful resources - learn about Pull Requests
 
@@ -61,3 +61,4 @@ When Pull Requests are enabled, developers must create a branch and make their c
 
 `youtube: https://www.youtube.com/watch?v=2VX1ISk9XH8`
 **Video: What is a Pull Request? (3 min)**
+

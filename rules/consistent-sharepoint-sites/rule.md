@@ -30,19 +30,20 @@ Following these simple rules makes this really easy:
 ### Navigation consistency between pages
 
 ::: bad
-![Figure: Bad example - The page on the left has totally different navigation to the page on the right](inconsistent1.png)
+![Figure: Bad example - The page on the left has totally different navigation to the page on the right](/rules/consistent-sharepoint-sites/inconsistent1.png)
 :::
 
 ::: good
-![Figure: Good example - Both pages looking consistent - common navigation elements in the same spot](consistent.png)
+![Figure: Good example - Both pages looking consistent - common navigation elements in the same spot](/rules/consistent-sharepoint-sites/consistent.png)
 :::
 
 ### Headings and icons consistency within a page
 
 ::: bad
-![Figure: Bad example - There are no icons to help users on the left navigation + the headings are the different](inconsistent2.png)
+![Figure: Bad example - There are no icons to help users on the left navigation + the headings are the different](/rules/consistent-sharepoint-sites/inconsistent2.png)
 :::
 
 ::: good
-![Figure: Good example - Icons help users to know what files each link open on the left navigation + the headings are the same](navigation-with-webpart.png)
+![Figure: Good example - Icons help users to know what files each link open on the left navigation + the headings are the same](/rules/consistent-sharepoint-sites/navigation-with-webpart.png)
 :::
+

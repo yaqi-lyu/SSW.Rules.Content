@@ -20,12 +20,13 @@ Check "Always keep on this device" so you can access your files offline.
 
 
 ::: bad  
-![Figure: Bad example - By default you cannot open your files when you have no internet](onedrive-bad.jpg)  
+![Figure: Bad example - By default you cannot open your files when you have no internet](/rules/have-your-files-available-offline/onedrive-bad.jpg)  
 :::
 
-![Figure: So check "Always keep on this device"](onedrive-instructions.jpg)  
+![Figure: So check "Always keep on this device"](/rules/have-your-files-available-offline/onedrive-instructions.jpg)  
 
 
 ::: good  
-![Figure: Good example – you can now open offline](onedrive-good.jpg)  
+![Figure: Good example – you can now open offline](/rules/have-your-files-available-offline/onedrive-good.jpg)  
 :::
+

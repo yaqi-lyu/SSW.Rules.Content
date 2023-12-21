@@ -18,4 +18,5 @@ When creating an image (banner, logo, etc) for a campaign, it's important to hav
 <!--endintro-->
 
 Use the Photoshop Artboard to provide a visual guideline and allow for quick and consistent campaign creation.This way, you can see your new banner in the context of the other banners in the campaign, and check that your sizing and art style is consistent.
-![](Photoshop artboard.jpg) **Figure: Photoshop artboard**
+![](/rules/do-you-use-photoshop-artboards-to-create-campaign-images/Photoshop artboard.jpg) **Figure: Photoshop artboard**
+

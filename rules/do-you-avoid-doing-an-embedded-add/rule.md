@@ -15,11 +15,11 @@ For any case of 'Add New', choose to open a new window (popup) for entering data
 
 <!--endintro-->
 
-![Figure: The 'Add New' button changes from a view into a data entry form](../../assets/EmbeddedAdd.jpg)  
+![Figure: The 'Add New' button changes from a view into a data entry form](/rules/do-you-avoid-doing-an-embedded-add/EmbeddedAdd.jpg)  
 
 
 ::: bad  
-![Figure: Bad Example - The 'Add New' button, shown in Figure 1, opened the page in the same window](../../assets/BadEmbeddedAdd.jpg)  
+![Figure: Bad Example - The 'Add New' button, shown in Figure 1, opened the page in the same window](/rules/do-you-avoid-doing-an-embedded-add/BadEmbeddedAdd.jpg)  
 :::
 
 It is better to open in a new form, reasons being:
@@ -34,7 +34,8 @@ However, you do need to call back on save and requery it.
 
 
 ::: good  
-![Figure: Good Example - the 'New' button in Outlook opens a new form for you to construct your email](../../assets/GoodEmbeddedAdd.jpg)  
+![Figure: Good Example - the 'New' button in Outlook opens a new form for you to construct your email](/rules/do-you-avoid-doing-an-embedded-add/GoodEmbeddedAdd.jpg)  
 :::
 
-![Figure: Adding a table in SharePoint have a popup with dimmed background](../../assets/sharepoint-add-table.jpg)
+![Figure: Adding a table in SharePoint have a popup with dimmed background](/rules/do-you-avoid-doing-an-embedded-add/sharepoint-add-table.jpg)
+

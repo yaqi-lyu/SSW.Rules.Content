@@ -19,11 +19,12 @@ A good technique is to set a CSS style to images. This style will be consistent 
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - The image has no styles](imageWithoutStyles.jpg)  
+![Figure: Bad example - The image has no styles](/rules/do-you-use-image-styles-to-ensure-great-looking-content/imageWithoutStyles.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - The image has CSS driven margin, padding, borders](imageWithStyles.jpg)  
+![Figure: Good example - The image has CSS driven margin, padding, borders](/rules/do-you-use-image-styles-to-ensure-great-looking-content/imageWithStyles.jpg)  
 :::
 
 It's also important to choose the correct semantic formatting for images. Different HTML codes might give the same look and feel, but the [best way to add images to your site](/use-the-right-html-figure-caption) is using **&lt;dl&gt;**, **&lt;dt&gt;**, and **&lt;dd&gt;** tags.
+

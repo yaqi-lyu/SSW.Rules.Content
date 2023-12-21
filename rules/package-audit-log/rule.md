@@ -28,7 +28,7 @@ That's why it's crucial to maintain a package audit log.
 
 <!--endintro-->
 
-![](3rd-party-check-logos.png)
+![](/rules/package-audit-log/3rd-party-check-logos.png)
 
 A package audit log helps developers track why packages are added, who added, and who approved them.
 
@@ -126,7 +126,7 @@ Pros and Cons:
 ❌ Not as easy to read (have to hover over it to read)  
 
 :::ok
-![Figure: OK example - Using the VS Code extension GitLens, can see commits on hover within the code](screen-shot-2022-12-15-at-09.33.31.png)
+![Figure: OK example - Using the VS Code extension GitLens, can see commits on hover within the code](/rules/package-audit-log/screen-shot-2022-12-15-at-09.33.31.png)
 :::
 
 ### Option 3 - Leave comments in package.json
@@ -139,7 +139,7 @@ Pros and Cons:
 ❌ Can cause noise and clutter within package.json  
 
 :::ok
-![Figure: OK example - Packages documented within package.json ](screen-shot-2022-12-16-at-09.19.32.png)
+![Figure: OK example - Packages documented within package.json ](/rules/package-audit-log/screen-shot-2022-12-16-at-09.19.32.png)
 :::
 
 ### Option 4 - Option 2 and sometimes Option 3 (✅ Recommended)
@@ -155,5 +155,6 @@ Pros and Cons:
 ❌ Not as easy to read (sometimes required to read into the commits)  
 
 :::good
-![Figure: Both Git commits with GitLens and package.json comments](screen-shot-2022-12-16-at-09.21.30.png)
+![Figure: Both Git commits with GitLens and package.json comments](/rules/package-audit-log/screen-shot-2022-12-16-at-09.21.30.png)
 :::
+

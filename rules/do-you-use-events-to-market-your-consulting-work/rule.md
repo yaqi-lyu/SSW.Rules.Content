@@ -20,5 +20,6 @@ You should make sure you have some upcoming events in each main area that you ho
 
 
 ::: good  
-![Figure: Good Example – Upcoming events in the main areas you want to get consulting work](upcoming-events.png)  
+![Figure: Good Example – Upcoming events in the main areas you want to get consulting work](/rules/do-you-use-events-to-market-your-consulting-work/upcoming-events.png)  
 :::
+

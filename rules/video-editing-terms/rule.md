@@ -40,7 +40,7 @@ Primary footage is what tells the story by conveying a message. These are genera
 
 For example, the interview of Adam and Jakob talking is the "primary footage" which drives the story.
 
-![](primary-footage.png)
+![](/rules/video-editing-terms/primary-footage.png)
 
 **Video: Primary Footage - Talking head - [0:38 - 3:05](https://youtu.be/mQyzt4CV_Jw?t=38)**
 
@@ -62,7 +62,7 @@ The common types of overlays used by SSW TV are B-roll, lower third, and PIP.
 
 For example, when talking about what's needed to start a coding project in Visual Studio and displaying a checklist confirming all the components.
 
-![](overlay-example-terminology.png)
+![](/rules/video-editing-terms/overlay-example-terminology.png)
 
 **Video: Overlay - [2:10 - 2:15](https://youtu.be/Yhp37fPn6dQ?t=130)**
 
@@ -74,7 +74,7 @@ Lower third is a type of overlay. Lower third gives the audience information abo
 
 For example, the lower third here is the presenter's name and job title.
 
-![](Lower3rd-Example.png)
+![](/rules/video-editing-terms/Lower3rd-Example.png)
 
 **Video: Lower Third - [0:15 - 0:21](https://youtu.be/2Ff6NQrWMsY?t=15)**
 
@@ -86,7 +86,7 @@ B-Roll is a type of overlay. B-Roll is any supplemental footage used to visually
 
 The video here uses B-Roll footage of developers at work, to supplement the primary footage audio "our developers are working really hard".
 
-![](b-roll-example.png)
+![](/rules/video-editing-terms/b-roll-example.png)
 
 **Video: B-Roll - Developers at work - [1:01 - 1:04](https://youtu.be/BioFgITYAFY?t=61)**
 
@@ -98,7 +98,7 @@ PIP is a type of overlay. PIP is when one video source is placed over the primar
 
 For example, the screen share in this presentation uses a PIP effect of the presenter's video over the demonstration recording.
 
-![](PIP-Example.png)
+![](/rules/video-editing-terms/PIP-Example.png)
 **Video: PIP - [3:32 - 4:21](https://youtu.be/L94TEsTuLz4?t=212)**
 
 Feedback example: "At 2:22, show the PIP so we can see Jason talking."
@@ -119,7 +119,7 @@ Commonly, technical videos do not often use cutaways, the SSW TV channel prefers
 Sometimes people can say "cut away to this footage" and actually mean "cut to b-roll footage"
 :::
 
-![](Cutaway-Example.png)
+![](/rules/video-editing-terms/Cutaway-Example.png)
 
 **Video: Cutaway - Different types - [0:06-1:39](https://youtu.be/WrIwfImLXOA?t=6)**
 
@@ -129,7 +129,7 @@ For example, a cutaway can manipulate tension, convey humor or cast doubt or amb
 
 A sequence is a series of clips that are edited in a linear or non-linear order to deliver a story or message.
 
-![](sequence-all.png)
+![](/rules/video-editing-terms/sequence-all.png)
 
 **Video: Sequence - Give context a scene - [5:18 - 5:23](https://youtu.be/g4_MnAZJpxg?t=318)**
 
@@ -141,7 +141,7 @@ A montage is video editing together several video clips to form a new idea, mean
 
 For example, a montage can help reveal the connections between things and show the nature of what's happening over time.
 
-![](montage-all-2.png)
+![](/rules/video-editing-terms/montage-all-2.png)
 
 **Video: Montage - Hiking over memorial walk - [3:07 - 3:47](https://youtu.be/BIapqdy170k?t=188)**
 
@@ -151,7 +151,7 @@ Feedback example: "At 2:22, change add a shot in the montage of the SSW team wav
 
 An intro can include a title sequence, logo or a hook (short and catchy footage). Often a opening theme song with visuals are used. 
 
-![](Intro-Example.png)
+![](/rules/video-editing-terms/Intro-Example.png)
 
 **Video: Intro - NDC intro - [0:00 - 0:18](https://youtu.be/x2b-gw2W8b4)**
 
@@ -161,7 +161,7 @@ Feedback example: "At 2:22, let's remove the intro and just get into the primary
 
 An outro is the closing visual that appears at the end of a video. It can include a call to action message, contact details or social media links.
 
-![](Outro-Example.png)
+![](/rules/video-editing-terms/Outro-Example.png)
 
 **Video: Outro - [3:22 - 3:44](https://youtu.be/k7bQ320vOj0?t=202)**
 
@@ -173,7 +173,7 @@ Split screen is a type of primary footage and is used less often. Split screen i
 
 For example, Piers and Sam are shown on a split screen during the interview.
 
-![](split-screen.png)
+![](/rules/video-editing-terms/split-screen.png)
 
 **Video: Split Screen - [0:22 - 1:34](https://youtu.be/uUI6pllk6TA?t=22)**
 
@@ -185,9 +185,9 @@ In editing software, video scrubbing can be done by moving the cursor forwards o
 
 For example, just like skipping forward or back in YouTube by using the arrow keys, in Premiere Pro, you can do the same by moving the play head.
 
-![Figure: Scrubbing this YouTube video 10s](rules-video-terminologies-youtube-scubbing-v7.gif)
+![Figure: Scrubbing this YouTube video 10s](/rules/video-editing-terms/rules-video-terminologies-youtube-scubbing-v7.gif)
 
-![Figure: Scrubbing this Premiere Pro video in the timeline](rules-video-terminologies-premiere-scrubbing-v10.gif)
+![Figure: Scrubbing this Premiere Pro video in the timeline](/rules/video-editing-terms/rules-video-terminologies-premiere-scrubbing-v10.gif)
 
 Feedback example: "Hey Sam starting at 2:22, please scrub through the primary footage and see which take is my best to use. Thanks!"
 
@@ -201,7 +201,7 @@ For example, on the SSWTV channel, we often use 16:9 for online media platforms 
 
 See the image below for more aspect ratios.
 
-![Figure: Aspect ratio example](aspect-ratio-example.png)
+![Figure: Aspect ratio example](/rules/video-editing-terms/aspect-ratio-example.png)
 
 Feedback example: "This video export is the wrong size, it's not SSW TV standards. Can we check the aspect ratio?"
 
@@ -211,7 +211,7 @@ A proper white balance is characterized by the whites in an image truly being th
 
 For instance, in an improper white balance, the whites may have tints of yellow, green, red, or some other colour. White balance’s formal definition is the process of gathering accurate colours for the available light. Your camera may come with a white balance menu and an auto white balance feature.
 
-![Figure: The bad example and good example of white balance](white-balance-example-v3.gif)
+![Figure: The bad example and good example of white balance](/rules/video-editing-terms/white-balance-example-v3.gif)
 
 Feedback example: "At 2:22, Jason's shirt seems a little too yellow, can we check the white balance?"
 
@@ -219,7 +219,7 @@ Feedback example: "At 2:22, Jason's shirt seems a little too yellow, can we chec
 
 When the audio is recorded separately from the camera, you will need to sync the recording to the camera audio during the edit.
 
-![Figure: Clapping at the beginning of the recording can help synchronize the audio](audio-sync-example-v2.gif)
+![Figure: Clapping at the beginning of the recording can help synchronize the audio](/rules/video-editing-terms/audio-sync-example-v2.gif)
 
 Feedback example: "At 2:22, Adam's mouth moving at a different time than the recording audio, it has an audio sync error."
 
@@ -235,7 +235,7 @@ When video editing, it's important to have standard audio levelling.
 
 For example, if the presenter's voice is too quiet, it can be improved by increasing the gain of the audio clip. Vice versa if the dialogue/music is too loud, the audio levels would need to be lowered to reduce peaking.
 
-![Figure: The speaker's face was away from the microphone](audio-levels-example.png)
+![Figure: The speaker's face was away from the microphone](/rules/video-editing-terms/audio-levels-example.png)
 
 Feedback example: "At 2:22, Adam's audio sounds soft because he turns his head away from the microphone, please increase the levels."
 
@@ -245,7 +245,7 @@ Is when a piece of footage is removed to give the effect of jumping forward in t
 
 Some YouTube channels don't use jump cuts, the SSW TV channel is one of them.
 
-![](Jump-cut-Example.jpeg)
+![](/rules/video-editing-terms/Jump-cut-Example.jpeg)
 
 **Video: Jump Cut - [2:13 - 2:59](https://youtu.be/OAH0MoAv2CI?t=133)**
 
@@ -257,7 +257,7 @@ This is when the same video clip is used from one cut to another, but the scale 
 
 For example, you can punch in from a wide shot to a medium shot using the same clip to get a closer angle. 
 
-![](rules-video-terminologies-punch-in-v7.gif)
+![](/rules/video-editing-terms/rules-video-terminologies-punch-in-v7.gif)
 
 **Video: Punch In - [1:34 - 1:54](https://youtu.be/oN30JcV16ak?t=94)**
 
@@ -271,7 +271,7 @@ Is a transition effect in which one video clip (or picture) gradually fades out 
 
 For example, when transitioning from a full-screen share to the presenter on stage, using a cross dissolve makes the edit smoother.
 
-![Figure: Cross dissolution makes the video transition more natural](rules-video-terminologies-cross-dissolve-v6.gif)
+![Figure: Cross dissolution makes the video transition more natural](/rules/video-editing-terms/rules-video-terminologies-cross-dissolve-v6.gif)
 
 Feedback example: "At 2:22, add in a cross dissolve from the intro to the presenter."
 
@@ -281,7 +281,7 @@ Is a transition effect in which one video clip (or picture) fades out gradually 
 
 For example, "Fade to Black" is commonly used to visually signal the end of a scene or when changing from one subject to another.
 
-![Figure: Fade to black at the end of the scene](fade-to-black-example-v2.gif)
+![Figure: Fade to black at the end of the scene](/rules/video-editing-terms/fade-to-black-example-v2.gif)
 
 Feedback example: "At 2:22, fade to black at the end of the demo."
 
@@ -307,4 +307,5 @@ Feedback example: "Great work! Test Passed, I can't wait to share it once it's l
 
 Here is a sample email that you can use to provide feedback to the video editor.
 
-![Figure: Sample email when sending video feedback including timestamps](sample-feedback-email.jpg)
+![Figure: Sample email when sending video feedback including timestamps](/rules/video-editing-terms/sample-feedback-email.jpg)
+

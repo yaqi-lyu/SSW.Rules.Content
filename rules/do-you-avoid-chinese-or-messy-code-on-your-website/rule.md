@@ -20,8 +20,9 @@ When you edit an aspx page in TFS, follow the below steps to avoid having Chines
 <!--endintro-->
 
 1. Set the default language on your computer as English(Australia).
-![Set default language as English (Australia)](SetDefaultLanguage.jpg)
+![Set default language as English (Australia)](/rules/do-you-avoid-chinese-or-messy-code-on-your-website/SetDefaultLanguage.jpg)
 2. After you finish editing, but before check-in, make sure Code Auditor and Link Auditor 0.
 3. Check the whole page which you edited, and make sure no messy code or characters are there.
 4. Ask someone beside you to check the rule or page you just edited.
 5. Reply done in an email.
+

@@ -22,7 +22,7 @@ First things first. Check if your web page has been indexed by Google. Don't be 
 
 If you can't find it, go to [Google's Search Console](https://www.google.com/webmasters/tools/submit-url) and submit your URL.
 
-![Figure: Sending a website to Google](sending-url-to-google.jpg)  
+![Figure: Sending a website to Google](/rules/page-indexed-by-google/sending-url-to-google.jpg)  
 
 **Note:** Internal pages should be crawled automatically, so you only need to inform the root of the site.
 
@@ -32,4 +32,5 @@ If you can't find it, go to [Google's Search Console](https://www.google.com/web
 
 If your website is built on WordPress, make sure you have unselected the "Discourage search engines from indexing this site" option. This can be found under      **Reading Settings** :
 
-![Figure: WordPress has an out-of-the-box functionality to discourage search engines to show the site](wordpress-search-engines.jpg)
+![Figure: WordPress has an out-of-the-box functionality to discourage search engines to show the site](/rules/page-indexed-by-google/wordpress-search-engines.jpg)
+

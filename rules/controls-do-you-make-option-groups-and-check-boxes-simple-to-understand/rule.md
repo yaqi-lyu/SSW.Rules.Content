@@ -30,5 +30,6 @@ Do you like apples? <input type="radio">Yes <input type="radio">No <input type="
 
 
 ::: good  
-![Figure: Good Example - Action on the left, text on the right](../../assets/Interfaces_ActionThenText.gif)  
+![Figure: Good Example - Action on the left, text on the right](/rules/controls-do-you-make-option-groups-and-check-boxes-simple-to-understand/Interfaces_ActionThenText.gif)  
 :::
+

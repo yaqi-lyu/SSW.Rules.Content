@@ -30,12 +30,13 @@ As per:     [C# debug vs release performance](http://stackoverflow.com/questions
 
 
 ::: bad  
-![Figure: Bad Example](debug-bad.jpg)  
+![Figure: Bad Example](/rules/c-vb-net-configuration-do-you-know-not-to-use-debug-compilation-in-production-applications/debug-bad.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example](debug-good.jpg)  
+![Figure: Good Example](/rules/c-vb-net-configuration-do-you-know-not-to-use-debug-compilation-in-production-applications/debug-good.jpg)  
 :::
 
 We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor) to check for this rule.
+

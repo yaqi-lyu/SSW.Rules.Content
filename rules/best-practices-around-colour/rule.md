@@ -26,15 +26,15 @@ Remember that some colours have a shared understanding of their meaning:
 * Cold, Warm, Hot should have appropriate colours that make sense without having to look at the legend
 
 ::: bad
-![Figure: Bad example – Non-semantic colours cause confusion](colours-powerbi-bad.jpg)
+![Figure: Bad example – Non-semantic colours cause confusion](/rules/best-practices-around-colour/colours-powerbi-bad.jpg)
 :::
 
 ::: good
-![Figure: Good example – Obvious colours used for Cold, Warm, and Hot](colours-powerbi-good.jpg)
+![Figure: Good example – Obvious colours used for Cold, Warm, and Hot](/rules/best-practices-around-colour/colours-powerbi-good.jpg)
 :::
 
 ::: good
-![Figure: Good example – Using the correct state colours (e.g. In Australia: NSW = light blue, QLD = maroon, VIC = dark blue, etc)](state-colors.png)
+![Figure: Good example – Using the correct state colours (e.g. In Australia: NSW = light blue, QLD = maroon, VIC = dark blue, etc)](/rules/best-practices-around-colour/state-colors.png)
 :::
 
 ### Tufte minimalism
@@ -42,7 +42,7 @@ Remember that some colours have a shared understanding of their meaning:
 Edward Tufte is often quoted as saying that, on a report where you want to draw the eye to exceptions or out of bounds data, colour should only be used to highlight what you want the user to see.
 
 ::: good
-![Figure: Good example – The black stands out as everything else looks translucent](tufte-good.png)
+![Figure: Good example – The black stands out as everything else looks translucent](/rules/best-practices-around-colour/tufte-good.png)
 :::
 
 ### Consistent Palette
@@ -50,11 +50,11 @@ Edward Tufte is often quoted as saying that, on a report where you want to draw 
 Make sure you stick with one colour palette, so if you use one pastel colour, make them all pastel. If you have one bold colour, make them all bold
 
 ::: bad
-![Figure: Bad example – Inconsistent palette feel like the colours clash](pallete-bad.jpg)
+![Figure: Bad example – Inconsistent palette feel like the colours clash](/rules/best-practices-around-colour/pallete-bad.jpg)
 :::
 
 ::: good
-![Figure: Good example – Consistent colour palette](pallete-good.jpg)
+![Figure: Good example – Consistent colour palette](/rules/best-practices-around-colour/pallete-good.jpg)
 :::
 
 ### Colour Blind palette

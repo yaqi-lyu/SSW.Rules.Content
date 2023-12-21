@@ -28,8 +28,9 @@ Using a tool called "IIS Crypto 3.2" by [Nartac](https://www.nartac.com/Products
 3. Select the best practices button 
       
 ::: good  
-![Figure: Good example – TLS should be enabled and SSL should be disabled](iis-crypto-3-2.png)  
+![Figure: Good example – TLS should be enabled and SSL should be disabled](/rules/do-you-disable-insecure-protocols/iis-crypto-3-2.png)  
 :::
 
 4. Ensure that TLS 1.0 and TLS 1.1 is also disabled | hit apply 
 5. The server will need to be rebooted before the settings take effect
+

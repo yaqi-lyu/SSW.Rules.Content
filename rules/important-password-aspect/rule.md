@@ -25,8 +25,9 @@ The most important of these is **length**.
 
 Look at this graphic:
 
-![Figure: The Hive Systems password table shows how long it takes to crack passwords of various lengths](bruteforce-times.png)
+![Figure: The Hive Systems password table shows how long it takes to crack passwords of various lengths](/rules/important-password-aspect/bruteforce-times.png)
 
 This table clearly shows that adding complexity (mixing upper and lower case, adding numbers, adding symbols) **does** increase the time it takes an attacker to brute forces your password, but not by much, and **only** in conjunction with a password of sufficient length.
 
 In 2022, 10 characters should be the **absolute minimum** for a password. 12 characters is a better baseline, and 16 is what you should aim for.
+

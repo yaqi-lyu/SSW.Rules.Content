@@ -28,10 +28,11 @@ redirects:
 
 The customized process template is a very important asset for your team, you should use Source Control to store the work-in-progress template so you can track the changes and avoid mistakes.
 
-![Figure: customized process template in source control](CheckInTemplateIntoSourceControl.png)  
+![Figure: customized process template in source control](/rules/do-you-check-in-your-process-template-into-source-control/CheckInTemplateIntoSourceControl.png)  
 
 <!--endintro-->
 
 You should also keep a version history log in ProcessTemplate.xml so you can track the deployed version easily.
 
-![Figure: ProcessTemplate.xml with version history log](KeepHistoryForTemplate.png)
+![Figure: ProcessTemplate.xml with version history log](/rules/do-you-check-in-your-process-template-into-source-control/KeepHistoryForTemplate.png)
+

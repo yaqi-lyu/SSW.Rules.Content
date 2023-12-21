@@ -19,12 +19,12 @@ The user's last settings should be saved and should be selected as the Default t
       
 
 ::: bad  
-![Figure: Bad Example - Last Username is not saved](../../assets/BadFormLogin.jpg)  
+![Figure: Bad Example - Last Username is not saved](/rules/do-you-remember-the-users-last-settings/BadFormLogin.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Last Username is saved](../../assets/GoodFormLogin.jpg)  
+![Figure: Good Example - Last Username is saved](/rules/do-you-remember-the-users-last-settings/GoodFormLogin.jpg)  
 :::
 
 * Report criteria forms - e.g. date start and date end fields should be automatically populated
@@ -35,3 +35,4 @@ How do I store the settings?
 * .NET: Use the 
       [Configuration Block](/do-you-use-configuration-management-application-block) to store the settings.
 * Access: Use a local table called 'Control' with one record.
+

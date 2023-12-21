@@ -34,5 +34,6 @@ The tasks don't have to cost anything. Free tasks are more thoughtful and show t
 Tasks should be completed whilst on client work. Once client work is completed, the developer should move onto the [Post Client Work](/rules-to-better-software-consultants-dealing-with-clients) rule.
 
 Extra Reading: For some, the above comes naturally. For the rest of us, we highly recommend the book "How to Win Friends and Influence People" written by Dale Carnegie. It is an easy read, the principles are easy to implement and will not only change your client relationships but enhance all the relationships in your life for the better.
-![](LoveClientsImage.jpg) 
+![](/rules/do-you-build-the-client-relationship-by-completing-client-love-each-week-aka-customer-love/LoveClientsImage.jpg) 
 See [Rules to Successful Sales Account Management](/do-you-review-your-team-are-giving-＂client-love＂-to-your-customer-every-friday)
+

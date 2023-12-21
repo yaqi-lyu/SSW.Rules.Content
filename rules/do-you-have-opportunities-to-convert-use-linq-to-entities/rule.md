@@ -16,4 +16,5 @@ redirects: []
 Look for inline SQL to see whether you can replace it with Linq to Entities.
 
 <!--endintro-->
-![Speed camera](speed-camera.jpg)**Figure: SQL Injection for Speed Cameras :-)**
+![Speed camera](/rules/do-you-have-opportunities-to-convert-use-linq-to-entities/speed-camera.jpg)**Figure: SQL Injection for Speed Cameras :-)**
+

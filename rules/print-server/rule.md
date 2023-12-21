@@ -31,7 +31,7 @@ Steps to add a printer to Active Directory:
    or\
    Right click the 'Print Server' | Add printer | Choose the best option (e.g TCP/IP) | Put the IP address of the Printer | Finish
 
-![Figure: Add Print servers to AD ](46d5125c-b334-49f4-b1ee-45bc78b5dae1.png)
+![Figure: Add Print servers to AD ](/rules/print-server/46d5125c-b334-49f4-b1ee-45bc78b5dae1.png)
 
 4. Add DNS entry for your print server (e.g **\\printer**) to make it friendly for the users to find
 
@@ -45,12 +45,13 @@ Now your users can find the printers by doing the following:
 
 ::: bad
 
-![Figure: Bad example – Windows 11 | Printers & scanners - Users won’t see all the printers by default](primt.jpg)
+![Figure: Bad example – Windows 11 | Printers & scanners - Users won’t see all the printers by default](/rules/print-server/primt.jpg)
 
 :::
 
 ::: good
-![Figure: Good example - Printers listed in Printer Server](printers.jpg)
+![Figure: Good example - Printers listed in Printer Server](/rules/print-server/printers.jpg)
 :::
 
 2. Double click on your printer name to connect/add it. Follow prompt to finish the printer driver installation
+

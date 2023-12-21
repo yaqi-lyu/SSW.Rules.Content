@@ -18,12 +18,12 @@ When you have a denormalized field, use a computed column.  In SQL Server they c
 Use the suffix "Computed" to clearly distinguish that this field is a computed field.
 
 ::: bad
-![Figure: Bad Example - This field was manually updated from code in the middle tier.](NormalizedFields_Bad.jpg)
+![Figure: Bad Example - This field was manually updated from code in the middle tier.](/rules/use-computed-columns-rather-than-denormalized-fields/NormalizedFields_Bad.jpg)
 :::
 
 
 ::: good  
-![Figure: Good Example - There was no code in the middle tier to calculate this (and it has the correct name)](NormalizedFields_Good.jpg)  
+![Figure: Good Example - There was no code in the middle tier to calculate this (and it has the correct name)](/rules/use-computed-columns-rather-than-denormalized-fields/NormalizedFields_Good.jpg)  
 :::
 
 <!--endintro-->
@@ -50,4 +50,5 @@ RETURN (round(isnull(CONVERT([decimal](8,6),@TimeEnd - @TimeStart,(0))*(24),(0))
 ```
 **Figure: This is the user defined function** 
 
-![Figure: Setting up a computed column in the table designer](NormalizedFieldsDefine.jpg)
+![Figure: Setting up a computed column in the table designer](/rules/use-computed-columns-rather-than-denormalized-fields/NormalizedFieldsDefine.jpg)
+

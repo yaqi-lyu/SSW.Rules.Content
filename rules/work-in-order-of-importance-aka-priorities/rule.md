@@ -55,7 +55,7 @@ The word **"Urgent"** is more important than the word **"Important"**
 * You can use inbox subfolders to group and prioritize tasks  
 
   ::: good
-  ![Figure: Group by subfolders under your inbox](subfolders.png)
+  ![Figure: Group by subfolders under your inbox](/rules/work-in-order-of-importance-aka-priorities/subfolders.png)
   :::
 * Double check - it's common that priority orders change, but clients don't always mean to, so confirm before proceeding.
   E.g. When someone is asking you to do a new task while you are still working on another task, then ask:

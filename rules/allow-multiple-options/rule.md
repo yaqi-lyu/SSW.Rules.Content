@@ -19,11 +19,11 @@ As a developer, we don't always think of the importance of the reporting that th
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example - Able to select only one Project Type on Dynamics](storing-all-bad.png)
+![Figure: Bad example - Able to select only one Project Type on Dynamics](/rules/allow-multiple-options/storing-all-bad.png)
 :::
 
 ::: good
-![Figure: Good example - Able to select multiple Skills from combo box on Dynamics](storing-all-good.png)
+![Figure: Good example - Able to select multiple Skills from combo box on Dynamics](/rules/allow-multiple-options/storing-all-good.png)
 :::
 
 Case in point, a project form that has a field called "Skill” (that includes technologies). When a user is entering their project the technologies used may include some Angular, heaps of .NET, and a database like Cosmos DB. When you only have one choice, the obvious thing they can do, is pick the technology that they presume will take up the most development time. Maybe they choose .NET and never think of it again.
@@ -35,4 +35,5 @@ These bad decision have enormous impacts on the growth of the business! 🔥
 `youtube: https://www.youtube.com/watch?v=5eXx67EY_y4`
 
 `youtube: https://www.youtube.com/watch?v=wLR0e48gou0`
+
 

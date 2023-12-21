@@ -32,7 +32,7 @@ Another scenario is when you found something you should work on, but don't have 
 :::
 
 ::: bad
-![Figure: Bad example - Writing yourself a "Post-It Note" is not the best method](postit-screen.jpg)
+![Figure: Bad example - Writing yourself a "Post-It Note" is not the best method](/rules/send-to-myself-emails/postit-screen.jpg)
 :::
 
 ::: greybox
@@ -89,3 +89,4 @@ Done - This change has been made and can be found at {{ URL }}
 ::: good
 Figure: Good example - Replying to a 'To myself' email showing done evidence and correctly replying to the person who requested the task
 :::
+

@@ -20,7 +20,7 @@ Distinguishing visited links is very helpful to show where users have been befor
 **Tip:** Give visited links a less saturated colour to give that "used" look.
 
 ::: good
-![Figure: Good example - Visited links are marked different from unvisited](../../assets/VisitedLinks.gif)  
+![Figure: Good example - Visited links are marked different from unvisited](/rules/do-you-distinguish-visited-links/VisitedLinks.gif)  
 :::
 
 Specifying style for visited links is very simple. Just add the HEX color code to your CSS file as per:
@@ -30,3 +30,4 @@ a:visited { color: #xxxxxx; }
 ```
 
 **Warning:** Be careful not to overuse CSS attributes on visited links - a color change is enough.
+

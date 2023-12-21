@@ -20,15 +20,15 @@ If you need to build a binary app (rather than a web app) that will run on multi
 **Video: Mobile frameworks - Comparing the big guns: Ionic, Electron, React Native, Flutter and .NET MAUI (6 min)**
 
 ::: bad
-![Bad example - An app built in Swift can run on iOS and macOS (and Apple TV if you need it), but can't run on any other platforms](tutorial-develop-apps-ios_2x.png)
+![Bad example - An app built in Swift can run on iOS and macOS (and Apple TV if you need it), but can't run on any other platforms](/rules/maui-cross-platform/tutorial-develop-apps-ios_2x.png)
 :::
 
 ::: bad
-![Bad example - An app built with WinUI can run on Windows, but can't run on any other platforms](winui3-addnewitem.png)
+![Bad example - An app built with WinUI can run on Windows, but can't run on any other platforms](/rules/maui-cross-platform/winui3-addnewitem.png)
 :::
 
 ::: good
-![Good example - An app built with .NET MAUI can run on Windows, macOS, iOS, Android, and several others](single_project.png)
+![Good example - An app built with .NET MAUI can run on Windows, macOS, iOS, Android, and several others](/rules/maui-cross-platform/single_project.png)
 :::
 
 With many cross-platform frameworks available to suit every team and product, there is very little (or no) reason to build single-platform apps anymore. Even if you only initially intend to target a single platform, by using a cross-platform framework, you give yourself the opportunity of targeting additional platforms in the future.
@@ -75,24 +75,25 @@ Developers are spoiled for choice; we have the luxury of choosing from many cros
 
 Here is a nice graphic that gives a quick run-down of the pros and cons of different frameworks:
 
-![Figure: Mobile frameworks all have different strong suits](cross-platform-apps-pros-and-cons.png)
+![Figure: Mobile frameworks all have different strong suits](/rules/maui-cross-platform/cross-platform-apps-pros-and-cons.png)
 
 ### Summary
 
 ❌ Don't use a web wrapper. They might seem tempting as a quick option to start with, but you will cause yourself pain 👎🏻 down the line.
 
 ::: bad img-medium
-![Bad example - Web wrappers cause you pain in the long run](1200px-Ionic-logo-landscape.svg.png)
+![Bad example - Web wrappers cause you pain in the long run](/rules/maui-cross-platform/1200px-Ionic-logo-landscape.svg.png)
 :::
 
 ✅ Choose a native executable framework. They let you build the best apps in the long run.
 
 ::: good img-medium
-![Good example - Choosing a native executable cross-platform framework lets you build the best apps with minimal pain 👍🏻](xplat-native.png)
+![Good example - Choosing a native executable cross-platform framework lets you build the best apps with minimal pain 👍🏻](/rules/maui-cross-platform/xplat-native.png)
 :::
 
 ✅ Do choose .NET MAUI if your team and/or solution already use .NET.
 
 ::: good
-![Great example - .NET MAUI is the best choice for .NET developers](maui-sln.png)
+![Great example - .NET MAUI is the best choice for .NET developers](/rules/maui-cross-platform/maui-sln.png)
 :::
+

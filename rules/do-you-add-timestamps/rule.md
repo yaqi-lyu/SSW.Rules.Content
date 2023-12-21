@@ -15,4 +15,5 @@ Passing date times is good. Just as a note that it is vital that you send any da
 
 <!--endintro-->
 
-![Figure: Include date and time information](timestamps.jpg)
+![Figure: Include date and time information](/rules/do-you-add-timestamps/timestamps.jpg)
+

@@ -40,4 +40,4 @@ If you prefer working with Logic Apps, there's an example of how it can be done 
 
 You will also need an App Registration to authenticate your Logic App. Notifications can then be sent to email or a Teams channel.
 
-![Figure: Example email, listing app registration secrets that are expiring soon](app-reg-email.png)
+![Figure: Example email, listing app registration secrets that are expiring soon](/rules/expiring-app-secrets-certificates/app-reg-email.png)

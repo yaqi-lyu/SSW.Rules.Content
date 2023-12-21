@@ -20,10 +20,11 @@ Labels provide an easy way to show text in a form. It is recommended to consiste
 
 
 ::: bad  
-![Figure: Bad Example - Labels with ":" at the end](LabelBad.gif)  
+![Figure: Bad Example - Labels with ":" at the end](/rules/avoid-ending-labels-text-with-a-colon/LabelBad.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Clean labels without ":"](LabelGood.gif)  
+![Figure: Good Example - Clean labels without ":"](/rules/avoid-ending-labels-text-with-a-colon/LabelGood.gif)  
 :::
+

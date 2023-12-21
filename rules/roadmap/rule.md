@@ -74,20 +74,20 @@ The project wiki makes the concept much easier to understand and implement. Once
 Ideally, you want to make some progress on product roadmap items in every Sprint, so make sure to review your product roadmap during your regular Sprint Reviews.
 
 ::: good
-![Figure: Good example - A small team might have something like the SophieBot product roadmap](sophiebotroadmap.png)
+![Figure: Good example - A small team might have something like the SophieBot product roadmap](/rules/roadmap/sophiebotroadmap.png)
 :::
 
 See: [SophieBot product roadmap](https://github.com/SSWConsulting/SSW.SophieBot/wiki#roadmap)
 
 ::: good
-![Figure: Good example - A large team might have something like the Microsoft365 product roadmap](microsoft365roadmap.png)
+![Figure: Good example - A large team might have something like the Microsoft365 product roadmap](/rules/roadmap/microsoft365roadmap.png)
 :::
 
 See: [Microsoft365 product roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap)
 
 ::: good
 
-![Figure: Good example - GitHub maintains their product roadmap using GitHub Projects and GitHub Issues](githubroadmap.png)
+![Figure: Good example - GitHub maintains their product roadmap using GitHub Projects and GitHub Issues](/rules/roadmap/githubroadmap.png)
 :::
 
 See: [GitHub product roadmap](https://github.com/orgs/github/projects/4247/views/1)

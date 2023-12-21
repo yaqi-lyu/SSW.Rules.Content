@@ -52,7 +52,7 @@ Implement DevOps practices to streamline development and operations.
 :::
 
 ::: good
-![Figure: Good Example - DevOps practices enable faster, more reliable deployments.](DevOps_Collaboration.png)
+![Figure: Good Example - DevOps practices enable faster, more reliable deployments.](/rules/do-you-implement-DevOps-practices-for-continuous-delivery/DevOps_Collaboration.png)
 :::
 
 ## Why Should You Implement DevOps?
@@ -68,7 +68,7 @@ Adopt DevOps for a seamless integration between development and operations.
 :::
 
 ::: good
-![Figure: Good Example - DevOp\s practices reduce the time from code commit to deployment.](Agile_Development.png)
+![Figure: Good Example - DevOp\s practices reduce the time from code commit to deployment.](/rules/do-you-implement-DevOps-practices-for-continuous-delivery/Agile_Development.png)
 :::
 
 ### Risk Mitigation
@@ -82,7 +82,7 @@ Utilize DevOps for continuous testing and risk mitigation.
 :::
 
 ::: bad
-![Figure: Bad Example - Lack of DevOps practices can lead to risky deployments and frequent rollbacks.](Risky_deployments.png)
+![Figure: Bad Example - Lack of DevOps practices can lead to risky deployments and frequent rollbacks.](/rules/do-you-implement-DevOps-practices-for-continuous-delivery/Risky_deployments.png)
 :::
 
 ## Conclusion
@@ -92,3 +92,4 @@ Embracing DevOps practices for continuous delivery goes beyond mere technical ad
 The result? 
 
 Deployments that are not only swifter but also more reliable and secure. In this landscape, the entire software development life cycle is supercharged, paving the way for enhanced efficiency and, ultimately, a more agile and responsive business.
+

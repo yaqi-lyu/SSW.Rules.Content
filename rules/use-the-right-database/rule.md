@@ -18,7 +18,7 @@ Almost every piece of software requires a database - even the humble *to-do app*
 
 <!--endintro-->
 
-![Figure: Which database is the best fit for the job?](right-db.jpg)
+![Figure: Which database is the best fit for the job?](/rules/use-the-right-database/right-db.jpg)
 
 YouTube - **Alex The Analyst** gives a good summary of the differences between the main types of databases:
 
@@ -63,3 +63,4 @@ Some of the main flavours of NoSQL databases are:
 * **Limited Querying Capabilities:** NoSQL databases typically offer limited querying capabilities compared to relational databases. They may lack complex join operations or the ability to perform ad-hoc queries efficiently. This can be a drawback when dealing with complex data relationships or when a wide range of query types is required.
 * **Data Consistency:** NoSQL databases often prioritize scalability and performance over strict data consistency. In certain NoSQL models, such as eventual consistency, there might be a delay in propagating changes across all replicas, which can result in data inconsistencies in distributed systems. Ensuring data consistency in NoSQL databases may require additional application-level logic or trade-offs in terms of availability or performance.
 * **Learning Curve and Tooling:** NoSQL databases often have a learning curve associated with their specific data models and query languages. Developers and administrators may need to learn new concepts and tools to effectively work with NoSQL databases. Additionally, the tooling and ecosystem around NoSQL databases may not be as mature or widely adopted as those for relational databases, which can impact development and operational processes.
+

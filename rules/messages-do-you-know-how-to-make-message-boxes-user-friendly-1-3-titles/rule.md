@@ -22,14 +22,15 @@ The title should contain the application name, so the user knows what applicatio
 
 
 ::: bad  
-![Figure: Bad Example - Title contains brief description of error, which is already contained in the message box](../../assets/BadMsgTitle.jpg)  
+![Figure: Bad Example - Title contains brief description of error, which is already contained in the message box](/rules/messages-do-you-know-how-to-make-message-boxes-user-friendly-1-3-titles/BadMsgTitle.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Title contains Product Name ("SSW eXtreme Emails!") and Product Version ("12.56")](../../assets/GoodMsgTitle.jpg)  
+![Figure: Good Example - Title contains Product Name ("SSW eXtreme Emails!") and Product Version ("12.56")](/rules/messages-do-you-know-how-to-make-message-boxes-user-friendly-1-3-titles/GoodMsgTitle.jpg)  
 :::
 
 We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#TitleCS) to check for this rule.
 
  **Note** : The Version Number in the title should only contain the Major and the Minor version numbers (e.g. 11.28) and not the complete Major.Minor.Revision.Build Numbers (e.g. 11.28.92.1198)
+

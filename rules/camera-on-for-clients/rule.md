@@ -18,13 +18,13 @@ When working with clients, inevitably you'll find yourself in Teams calls, and i
 
 :::bad
 
-![Figure: Bad Example - The client feels like they are talking to a blank screen. Even with a profile picture, it feels impersonal](untitled2.png)
+![Figure: Bad Example - The client feels like they are talking to a blank screen. Even with a profile picture, it feels impersonal](/rules/camera-on-for-clients/untitled2.png)
 
 :::
 
 :::good
 
-![Figure: Good Example - The client can see your face, and the call feels much more relaxed and personal](untitled.png)
+![Figure: Good Example - The client can see your face, and the call feels much more relaxed and personal](/rules/camera-on-for-clients/untitled.png)
 
 :::
 

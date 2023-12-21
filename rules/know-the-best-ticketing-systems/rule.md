@@ -20,4 +20,5 @@ Zendesk has a larger market share, lower cost and better 'overall rating' as per
 
 <!--endintro-->
 
-![Figure: Zendesk vs Service Now](comparison.png)
+![Figure: Zendesk vs Service Now](/rules/know-the-best-ticketing-systems/comparison.png)
+

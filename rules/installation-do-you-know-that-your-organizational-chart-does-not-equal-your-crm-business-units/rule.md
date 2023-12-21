@@ -17,7 +17,7 @@ Usually there is not much point creating an over-complicated organizational stru
 
 <!--endintro-->
 
-![Figure: Microsoft CRM Default Security Roles are good enough to start with - this is not a thing to stuff with early on](CRM-Default-Role.jpg)  
+![Figure: Microsoft CRM Default Security Roles are good enough to start with - this is not a thing to stuff with early on](/rules/installation-do-you-know-that-your-organizational-chart-does-not-equal-your-crm-business-units/CRM-Default-Role.jpg)  
 
 First thing first...  **never** delete an Out of the Box (OOTB) role. Instead just disable... Period. The reason is it can cause system instability when the only solution can be to start from scratch with a New Organization.
 
@@ -38,3 +38,4 @@ In CRM 2011, two new features help in simplifying security design:
 
 1. Multiple forms per entity can be assigned to different security roles
 2. Field level security to add to the next level of security granularity
+

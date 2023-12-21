@@ -42,8 +42,9 @@ Let's learn a few reasons why a business should be on TikTok:
 5. Paid Ads – There are a few different types of ads that you can launch on TikTok, depending on your goals and audience. You can view a [guide to paid TikTok advertizing](https://viscapmedia.com/articles/guide-to-paid-tiktok-advertising/).
 6. Real-time analytics – Track your profile’s performance, understand your audience demographic, and measure your success.
 
-  ![Figure: TikTok is popular among teenagers, according to Fortune 55% (28%+26%) are 24 and under](fortune-magazine-survery-on-tiktok-users.png)
+  ![Figure: TikTok is popular among teenagers, according to Fortune 55% (28%+26%) are 24 and under](/rules/why-should-a-business-use-tiktok/fortune-magazine-survery-on-tiktok-users.png)
 
    **Source:** [TikTok to the moon? The app is outgrowing its Gen Z stereotype](https://fortune.com/2021/02/15/tiktok-gen-z-users-age-groups-survey/)
 
 Know more on [Adam Cogan Blog: Tech World on TikTok - Is it for you?](https://adamcogan.com/2022/05/10/tech-world-on-tiktok-is-it-for-you/)
+

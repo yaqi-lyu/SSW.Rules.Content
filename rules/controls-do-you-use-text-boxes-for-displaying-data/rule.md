@@ -26,12 +26,12 @@ PS: One reason web UI's are nice, is that the information is always selectable/c
 
 
 ::: bad  
-![Figure: Bad Example - Not only is the data cut off when you are using label, but you can't copy and paste the value](../../assets/BetterInterface\_LabelCutOff.jpg)  
+![Figure: Bad Example - Not only is the data cut off when you are using label, but you can't copy and paste the value](/rules/controls-do-you-use-text-boxes-for-displaying-data/BetterInterface_LabelCutOff.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Using Textbox controls makes the data obvious to users](../../assets/GoodTextbox.gif)  
+![Figure: Good Example - Using Textbox controls makes the data obvious to users](/rules/controls-do-you-use-text-boxes-for-displaying-data/GoodTextbox.gif)  
 :::
 
 As you can see you'll barely know the difference, so start using Textboxes for displaying data, that's good practice.
@@ -40,6 +40,8 @@ As you can see you'll barely know the difference, so start using Textboxes for d
 
 When using TextBox controls in Windows Forms, set them up like this:
 
-![Figure: Having the 'BorderStyle' Property set to Fixed3D is the best choice visually](../../assets/BorderStyle\_1.gif)  
+![Figure: Having the 'BorderStyle' Property set to Fixed3D is the best choice visually](/rules/controls-do-you-use-text-boxes-for-displaying-data/BorderStyle_1.gif)  
 
-![Figure: Make the text box Read-Only (users copying data is OK, changing is silly)](../../assets/ReadOnly\_1.gif)
+![Figure: Make the text box Read-Only (users copying data is OK, changing is silly)](/rules/controls-do-you-use-text-boxes-for-displaying-data/ReadOnly_1.gif)
+
+

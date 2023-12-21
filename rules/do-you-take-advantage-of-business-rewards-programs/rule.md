@@ -36,8 +36,9 @@ It's always worth doing some research to see what each airline offers and take a
 
 
 <!--endintro-->
-![Figure: Qantas Business Rewards Points Activity screen](qantas-business-rewards-points-activity.jpg)
+![Figure: Qantas Business Rewards Points Activity screen](/rules/do-you-take-advantage-of-business-rewards-programs/qantas-business-rewards-points-activity.jpg)
 
 ::: info
 Always remember to include the company ABN alongside the traveller’s frequent flyer number for rewards to benefit both the company and the individual.
 :::
+

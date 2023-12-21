@@ -34,8 +34,9 @@ Get started by clicking on top right: **Tools | Shared Library | Negative keywor
 
 You'll create the title and add all the negative keywords you think might generate non-targeted clicks. This will help you to improve your results on getting only the the right audience.
 
-![Figure: Include negative keywords lists to improve your results](google-ads-organize-negative-keywords.jpg)  
+![Figure: Include negative keywords lists to improve your results](/rules/how-to-create-a-negative-keyword-list/google-ads-organize-negative-keywords.jpg)  
 
 Once a week, check all Search Terms and review recommendations:
 
 Go to **Ads.google.com | Keywords | Search Terms**, and add junk terms to the negative keyword list. Then go through all other recommendations.
+

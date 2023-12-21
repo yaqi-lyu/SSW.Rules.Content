@@ -29,5 +29,6 @@ It's perfectly normal that a logo starts to look outdated in over decades, so it
 <!--endintro-->
 
 ::: good  
-![Figure: Good example - Although the SSW logo was completely redesigned, you can easily recognize it's the same company because the logo concept didn't change](sswlogo-comparison.jpg)  
+![Figure: Good example - Although the SSW logo was completely redesigned, you can easily recognize it's the same company because the logo concept didn't change](/rules/logo-redesign/sswlogo-comparison.jpg)  
 :::
+

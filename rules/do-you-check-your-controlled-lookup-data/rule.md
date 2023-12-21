@@ -33,7 +33,7 @@ With Frameworks like Entity Framework you can write unit tests to catch data iss
 
 With legacy applications, creating a stored procedure will have the same effect with a bit more effort. 
 
-![Figure: How do I make sure these 4 records never go missing?](TimeProDropDown.png)  
+![Figure: How do I make sure these 4 records never go missing?](/rules/do-you-check-your-controlled-lookup-data/TimeProDropDown.png)  
 
 ``` sql
 CREATE PROCEDURE procValidate_Region 
@@ -65,3 +65,4 @@ AS
 ::: greybox
 **Note**: As this procedure will be [executed many times, it must be Idempotent](/do-you-ignore-idempotency)
 :::
+

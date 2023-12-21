@@ -41,9 +41,10 @@ Once MFA is set up, you can see which method your users are using - go to **Azur
 * Under **Methods Registered**, you also want to see **Microsoft Passwordless phone sign-in**
 
 ::: bad  
-![Figure: Bad example - No Microsoft Passwordless phone sign-in registered](azure-mfa-bad.png)
+![Figure: Bad example - No Microsoft Passwordless phone sign-in registered](/rules/do-you-have-mfa-multi-factor-authentication-enabled/azure-mfa-bad.png)
 :::
 
 ::: good  
-![Figure: Good example - Microsoft Passwordless phone sign-in registered](azure-mfa-good.png)
+![Figure: Good example - Microsoft Passwordless phone sign-in registered](/rules/do-you-have-mfa-multi-factor-authentication-enabled/azure-mfa-good.png)
 :::
+

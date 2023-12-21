@@ -18,12 +18,13 @@ Finding a file with a BAK extension is a "call sign" that your folders need a ti
 
 
 ::: bad  
-![Figure: Bad example](bak-bad.jpg)  
+![Figure: Bad example](/rules/do-you-know-bak-files-must-not-exist/bak-bad.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example](bak-good.jpg)  
+![Figure: Good example](/rules/do-you-know-bak-files-must-not-exist/bak-good.jpg)  
 :::
 
 We have a program called     [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor) to check for this rule.
+

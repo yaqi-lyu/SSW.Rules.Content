@@ -19,12 +19,12 @@ Installing MS Lync client on Android devices. Employees should be contactable no
 <!--endintro-->
 
 1. Search for “Lync” in the [Play store](https://play.google.com/store)
-![Figure: Search for Lync in Playstore](241b2b_android_playstore.png)  
+![Figure: Search for Lync in Playstore](/rules/do-you-install-the-android-versions/241b2b_android_playstore.png)  
 
 2. Install the Lync client on device
 3. Set up Lync to sign into your account as follows:
 
-![Figure: Lync sign in process](lync-signin.png)  
+![Figure: Lync sign in process](/rules/do-you-install-the-android-versions/lync-signin.png)  
 
 You just need to enter 3 fields:
 
@@ -33,3 +33,4 @@ You just need to enter 3 fields:
 -m Username is domain\username. For example SSW2000\davidberkes
 
 Read more about [implementing Microsoft Lync](http://www.ssw.com.au/ssw/Consulting/Lync.aspx).
+

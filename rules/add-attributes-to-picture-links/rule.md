@@ -24,10 +24,11 @@ Hold the cursor over the image below and see what happens.
 
 
 ::: bad  
-![Figure: Bad example - No attributes to the image](../../assets/SSWLogo.png)  
+![Figure: Bad example - No attributes to the image](/rules/add-attributes-to-picture-links/SSWLogo.png)  
 :::
 
 
 ::: good  
-![Figure: Good example - Search engines will index this text. Scroll over](../../assets/SSWLogo.png)  
+![Figure: Good example - Search engines will index this text. Scroll over](/rules/add-attributes-to-picture-links/SSWLogo.png)  
 :::
+

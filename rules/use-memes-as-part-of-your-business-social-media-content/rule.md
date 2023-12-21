@@ -61,9 +61,10 @@ Be aware that some businesses and industries are too serious to create and post 
 Correlating it to [DevOps Culture](https://docs.microsoft.com/en-us/devops/what-is-devops), as a marketer, you should have a growth mindset on this. After testing a meme and posting it, you’ll learn from your experiments and gather insights on what’s the best way to implement this to your social media strategy.
 
 ::: bad  
-![Figure: Bad example - Doritos usually creates their own memes blending humour with their brand, but in this one, the comments were clearly showing it was a bad idea](doritos.jpg)  
+![Figure: Bad example - Doritos usually creates their own memes blending humour with their brand, but in this one, the comments were clearly showing it was a bad idea](/rules/use-memes-as-part-of-your-business-social-media-content/doritos.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - By using a light-hearted tone, the NSW Police manages to get across their point on controversial topics](nswpolice.jpg)  
+![Figure: Good example - By using a light-hearted tone, the NSW Police manages to get across their point on controversial topics](/rules/use-memes-as-part-of-your-business-social-media-content/nswpolice.jpg)  
 :::
+

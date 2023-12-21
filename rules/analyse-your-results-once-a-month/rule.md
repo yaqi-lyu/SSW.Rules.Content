@@ -38,9 +38,9 @@ This helps you further streamline your content and provides an insight into tren
 7. Keep this information in a report-style document stored on your Intranet so that you can look back to compare results.
 
 ::: bad
-![Figure: Bad example - Tracking just a few information won't help you see the big picture](marketing overview old.png)
+![Figure: Bad example - Tracking just a few information won't help you see the big picture](/rules/analyse-your-results-once-a-month/marketing overview old.png)
 :::
 
 ::: good
-![Figure: Good example - Tracking all your marketing efforts will help you see where you can improve and what you are already on the right track](ssw-marketing-analytics-improved.png)
+![Figure: Good example - Tracking all your marketing efforts will help you see where you can improve and what you are already on the right track](/rules/analyse-your-results-once-a-month/ssw-marketing-analytics-improved.png)
 :::

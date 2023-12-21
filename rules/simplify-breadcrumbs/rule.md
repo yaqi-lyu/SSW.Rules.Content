@@ -25,9 +25,10 @@ Shortening breadcrumbs helps prevent information overload, ensuring that users c
 * Replace the current page title with "This Page"
 
 ::: bad
-![Figure: Bad example - Long breadcrumb with repetead words](breadcrumb-long-bad.jpg)
+![Figure: Bad example - Long breadcrumb with repetead words](/rules/simplify-breadcrumbs/breadcrumb-long-bad.jpg)
 :::
 
 ::: good
-![Figure: Good example - Short breadcrumb makes it simple to read](breadcrumb-short-good.jpg)
+![Figure: Good example - Short breadcrumb makes it simple to read](/rules/simplify-breadcrumbs/breadcrumb-short-good.jpg)
 :::
+

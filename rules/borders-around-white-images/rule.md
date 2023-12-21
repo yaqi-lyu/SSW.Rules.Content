@@ -27,13 +27,14 @@ Making your images distinct is a key part of creating a user-friendly website. Y
 * **Professionalism**: Borders can add a sense of completeness to your site's design.
 
 ::: bad
-![Figure: Bad Example - Can't tell where the image begins and ends!](white-no-border.png)
+![Figure: Bad Example - Can't tell where the image begins and ends!](/rules/borders-around-white-images/white-no-border.png)
 :::
 
 ::: good
-![Figure: Good Example - This looks much better](white-border.png)
+![Figure: Good Example - This looks much better](/rules/borders-around-white-images/white-border.png)
 :::
 
 ::: greybox
 Note: You should also add a [useful caption to every image](/add-useful-and-concise-figure-captions/).
 :::
+

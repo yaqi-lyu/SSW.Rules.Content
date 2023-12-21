@@ -36,11 +36,11 @@ In order to be a PWA, your app should:
 Examples of Progressive Web Apps can be seen at [10 Best Progressive Web Apps](https://mofluid.com/blog/10-best-progressive-web-apps).
 
 ::: bad  
-![Figure: Bad example - Aliexpress get a mark of 6/12 (see tooltip) and cannot be used as a PWA](pwa-bad-example.jpg)  
+![Figure: Bad example - Aliexpress get a mark of 6/12 (see tooltip) and cannot be used as a PWA](/rules/progressive-web-app/pwa-bad-example.jpg)  
 :::
 
 ::: img-medium 
-![Figure: Accessing a PWA on your mobile will prompt adding it on your Home screen. E.g. https://blog.mikemjharris.com](pwa-example.png)  
+![Figure: Accessing a PWA on your mobile will prompt adding it on your Home screen. E.g. https://blog.mikemjharris.com](/rules/progressive-web-app/pwa-example.png)  
 :::
 
 You can check the Progressive Web App score of your application using Chrome's Developer tools.
@@ -48,5 +48,6 @@ You can check the Progressive Web App score of your application using Chrome's D
 **Note:** See how to generate a PWA report on [Run Lighthouse in Chrome DevTools](https://developers.google.com/web/tools/lighthouse/#devtools).
 
 ::: good  
-![Figure: Good example - Aim for a good Progressive Web App score](PWA-tools.png)  
+![Figure: Good example - Aim for a good Progressive Web App score](/rules/progressive-web-app/PWA-tools.png)  
 :::
+

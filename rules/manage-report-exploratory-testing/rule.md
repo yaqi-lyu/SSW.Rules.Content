@@ -30,7 +30,7 @@ The "session" is the basic unit of work in exploratory testing (and not, for exa
 A "session" is an uninterrupted and timeboxed period of reviewable, chartered test effort
 :::
 
-![Figure: Deep testing requires focus and focus doesn't survive interruption](dont-interrupt.jpg)
+![Figure: Deep testing requires focus and focus doesn't survive interruption](/rules/manage-report-exploratory-testing/dont-interrupt.jpg)
 
 Breaking this down:
 
@@ -95,13 +95,13 @@ Apart from the task breakdown metrics, there are three other major parts of the 
 
 This mindmap is an example of how session notes could be recorded:
 
-![Figure: Notetaking in a mindmap from a session of exploratory testing](mindmap-session.jpg)
+![Figure: Notetaking in a mindmap from a session of exploratory testing](/rules/manage-report-exploratory-testing/mindmap-session.jpg)
 
 ### Debriefing
 
 A very important - and often overlooked - aspect of SBTM is the idea of session debriefing. 
 
-![Figure: Debriefing is an opportunity to share your testing story](stories-matter.jpg)
+![Figure: Debriefing is an opportunity to share your testing story](/rules/manage-report-exploratory-testing/stories-matter.jpg)
 
 At the end of each session, the tester gets together with someone else (e.g. their manager or another stakeholder) to talk about the session. James Bach has a handy [debriefing checklist](https://www.satisfice.com/download/sbtm-session-report-checklist) to help you ask the right questions during debriefing.
 
@@ -136,3 +136,4 @@ A mindmap is also a handy way of reporting on coverage, by using a map of the pr
 * [Session-based Test Management](http://www.satisfice.com/sbtm/) by Jon & James Bach
 * [Exploratory Testing **IS** Accountable](http://www.developsense.com/blog/2010/01/exploratory-testing-is-accountable/) by Michael Bolton
 * [Mind map: What is SBTM and how is it applied?](http://qastuff.wordpress.com/2012/08/17/what-is-exploratory-testing-and-how-is-it-managed/) by Carl
+

@@ -17,6 +17,7 @@ There is no point of having a web page if it is too hard for       the user to a
 
 <!--endintro-->
 
-![Figure: Have a useful navigation system](../../assets/drop\_down\_menu.gif)  
+![Figure: Have a useful navigation system](/rules/do-you-make-your-pages-easy-to-access/drop_down_menu.gif)  
 
 It is important to remember that Menu links are intended as shortcuts to pages, while Breadcrumbs are "where am I?"
+

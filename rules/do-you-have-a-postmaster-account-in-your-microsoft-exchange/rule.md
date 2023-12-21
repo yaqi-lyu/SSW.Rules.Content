@@ -23,4 +23,5 @@ The email received at this address is sent to the mail server administrator, in 
 
 At SSW we have configured     postmaster@ssw.com.au as a distribution group, with mail server administrators as members of this distribution group.
 
-![Figure: Group members of postmaster@ssw.com.au](postmaster.png)
+![Figure: Group members of postmaster@ssw.com.au](/rules/do-you-have-a-postmaster-account-in-your-microsoft-exchange/postmaster.png)
+

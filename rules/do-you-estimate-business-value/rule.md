@@ -28,7 +28,7 @@ Once you have ROI a Product Owner can use the ROI field to sort priority. Awesom
 ROI (Return on Investment) is an unbelievably simply calculation.
 
 
-![Figure: Product Owners should be estimating the Business Value](business-value-field.png)
+![Figure: Product Owners should be estimating the Business Value](/rules/do-you-estimate-business-value/business-value-field.png)
 
 ::: greybox
 ROI = Business Value / Effort
@@ -74,3 +74,4 @@ For more on this see [Five Types Of Value | Scrum.org](https://www.scrum.org/res
 
 * [Adam's blog - Effective Product Owners use the "Business Value" Field](http://www.adamcogan.com/2013/05/08/the-business-value-field/)
 * [SSW TV - Estimating "Business Value" to order your Backlog](http://tv.ssw.com/3102/business-value)
+

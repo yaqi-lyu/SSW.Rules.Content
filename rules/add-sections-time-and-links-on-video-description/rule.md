@@ -35,9 +35,10 @@ Steps to do this:
 5. Save and YouTube will automatically add a link to that exact time of the video
 
 ::: good  
-![Figure: Timestamps are interactive - Users can easily go to each section of the video by clicking on these links or using the slider](youtube-video-time-link.jpg)  
+![Figure: Timestamps are interactive - Users can easily go to each section of the video by clicking on these links or using the slider](/rules/add-sections-time-and-links-on-video-description/youtube-video-time-link.jpg)  
 :::
 
 ::: good  
-![Figure: Chapter Markers are rendered over the video and not interactive - A visual table of content inside the video screen - If you watch from        2:38 you will see a new section highlighted with a dip to black, subtle sound effect, and strikethrough on the section that just finished](table-contents-in-video-screen.png)  
+![Figure: Chapter Markers are rendered over the video and not interactive - A visual table of content inside the video screen - If you watch from        2:38 you will see a new section highlighted with a dip to black, subtle sound effect, and strikethrough on the section that just finished](/rules/add-sections-time-and-links-on-video-description/table-contents-in-video-screen.png)  
 :::
+

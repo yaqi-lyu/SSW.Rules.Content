@@ -19,4 +19,5 @@ It is impossible to exactly remember every configuration setting in an MSCRM ins
 
 You will also need this because you are going to do this in a Dev, then Test and then Production environment aren't you :-)
 
-![Figure: This is the last dialog before it installs. So you want a screen capture of everything up to here - so you can replay it for the Test and Production servers](CRM-screen.jpg)
+![Figure: This is the last dialog before it installs. So you want a screen capture of everything up to here - so you can replay it for the Test and Production servers](/rules/installation-do-you-log-each-screen-which-is-different-to-the-default/CRM-screen.jpg)
+

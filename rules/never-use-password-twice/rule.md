@@ -23,4 +23,5 @@ Send a message to someone who needs to understand the importance of password saf
 
 Use a unique password for everything.
 
-![Figure: SugarLearning reinforces to never use the same password twice](sugarlearning-unique-passwords.png)
+![Figure: SugarLearning reinforces to never use the same password twice](/rules/never-use-password-twice/sugarlearning-unique-passwords.png)
+

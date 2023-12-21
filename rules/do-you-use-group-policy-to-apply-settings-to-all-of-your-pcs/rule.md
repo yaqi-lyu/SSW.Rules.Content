@@ -21,6 +21,7 @@ Group Policy is simply the easiest way to reach out and configure computer and u
 
 You can manage all aspects of Group Policy by using the Group Policy Management Console (GPMC). You start the GPMC from the Start menu: Click Start, All Programs, Administrative Tools, Group Policy Management. You can also click Start, type Group Policy Management, and then click Group Policy Management in the Programs section of the Start menu. Windows Server 2008 onwards include the GPMC when they are running the AD DS role.
 
-![](GPO.jpg)
+![](/rules/do-you-use-group-policy-to-apply-settings-to-all-of-your-pcs/GPO.jpg)
 
 Figure: Group Policy Management Console showing GPO
+

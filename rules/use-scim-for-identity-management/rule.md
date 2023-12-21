@@ -22,7 +22,7 @@ Relying solely on manual identity management processes in Azure Active Directory
 
 ::: bad
 
-![Bad Example - SysAdmins have to provision each user separately in 3rd party products](bad-example-no-scim.jpg)
+![Bad Example - SysAdmins have to provision each user separately in 3rd party products](/rules/use-scim-for-identity-management/bad-example-no-scim.jpg)
 
 :::
 
@@ -32,7 +32,8 @@ Implementing SCIM to automate user provisioning and deprovisioning across variou
 
 ::: good
 
-![Good Example: SysAdmins only provision into EntraId the SCIM provisioning does all the work](good-example-scim.jpg)
+![Good Example: SysAdmins only provision into EntraId the SCIM provisioning does all the work](/rules/use-scim-for-identity-management/good-example-scim.jpg)
 
 :::
 By integrating SCIM with Azure Active Directory, organizations can achieve a more streamlined, secure, and efficient approach to identity management across their cloud ecosystem.
+

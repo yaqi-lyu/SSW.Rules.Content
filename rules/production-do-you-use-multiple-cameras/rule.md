@@ -23,10 +23,12 @@ The benefit is that you can use the second camera to 'cut away' to (see rule on 
 
 If you are recording a long interview use two (identical) cameras, covering both the presenter and the interviewee.
 
-![Figure: Multi cam setup for single guest speaker interview](3cam\_basic\_setup.gif)  
+![Figure: Multi cam setup for single guest speaker interview](/rules/production-do-you-use-multiple-cameras/3cam_basic_setup.gif)  
 
 If you are recording an event with multiple people and want to maximize the coverage (and obtain cutaway shots) use a second/third camera, either placed on a tripod somewhere of interest or give to someone else to move around with and obtain interesting shots.
 
 Camera 3 should be identical to Camera 1 if available (it is still possible to use two different cameras but this may cause some quality compromise in the form of different colours for each). An iPhone can provide the necessary shots to make a video more interesting, but only use iPhone 7 or later footage if proper lighting, exposure & composition can be achieved (Please see rule about [the correct way to frame your subject](/production-do-you-know-the-correct-way-to-frame-your-subject).)
 
-![Figure: Flip camera mounted to a small table top tripod. Ideal for cutaway shots](flipcamontripod.jpg)
+![Figure: Flip camera mounted to a small table top tripod. Ideal for cutaway shots](/rules/production-do-you-use-multiple-cameras/flipcamontripod.jpg)
+
+

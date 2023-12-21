@@ -54,10 +54,10 @@ Using SQL Management Studio
 2. Navigate to  **Tasks | Import Data…** to open the wizard
 3. When selecting Source Tables and Views click on  **Edit Mappings…**
 
-  ![Figure: SQL Import Wizard - Edit Mappings](IdentityImportEditMappings.png)
+  ![Figure: SQL Import Wizard - Edit Mappings](/rules/use-identities-in-sql-server/IdentityImportEditMappings.png)
 
 4. Ensure the Enable identity insert is checked
-  ![Figure: SQL Import Wizard – Ensure Enable identity insert is checked](EnableIdentityInsert.png)
+  ![Figure: SQL Import Wizard – Ensure Enable identity insert is checked](/rules/use-identities-in-sql-server/EnableIdentityInsert.png)
 
 Alternatively, you can also enable and disable the identity insert through SQL with the following commands:
 
@@ -75,3 +75,4 @@ More information on [IDENTITY\_INSERT](https://docs.microsoft.com/en-us/sql/t-sq
 
 The simplest way of handling identity ranges across replicas is to allow SQL Server to manage identity range handling for you. To use automatic identity range handling, you must first enable the feature at the time the publication is created, assign a set of initial Publisher and Subscriber identity range values, and then assign a threshold value that determines when a new identity range is created.
 For example, assigning an identity range from 1000 through 2000 to a Publisher, and a range from 2001 through 3000 to an initial Subscriber a range from 3001 to 4000 to the next publisher etc.
+

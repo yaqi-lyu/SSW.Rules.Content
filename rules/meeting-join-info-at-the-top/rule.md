@@ -17,9 +17,9 @@ If the meeting URL is placed under the email body, there are more chances the re
 By doing this, you will make it clear it is a remote meeting held via the tool you decided to use. This gives the receiver more time to get prepared for the meeting (e.g. Download and test a software they are not familiar with).
 
 ::: bad
-![Figure: Bad example - The meeting link is under text body](join-info-bad.png)
+![Figure: Bad example - The meeting link is under text body](/rules/meeting-join-info-at-the-top/join-info-bad.png)
 :::
 
 ::: good
-![Figure: Good example - Always put meeting link on the top](join-info-good.png)
+![Figure: Good example - Always put meeting link on the top](/rules/meeting-join-info-at-the-top/join-info-good.png)
 :::

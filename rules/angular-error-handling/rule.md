@@ -70,7 +70,7 @@ For example, if we want to provide a global error handler as a fallback and a sp
 export class HomeModule { }
 ```
 
-![Figure: Scoping Error Handler in Angular](angular-scoping-error-handler.png)  
+![Figure: Scoping Error Handler in Angular](/rules/angular-error-handling/angular-scoping-error-handler.png)  
 **Figure: Scoping Error Handler in Angular**
 
 
@@ -186,3 +186,4 @@ this.http.get('/foo').subscribe({
   },
 });
 ```
+

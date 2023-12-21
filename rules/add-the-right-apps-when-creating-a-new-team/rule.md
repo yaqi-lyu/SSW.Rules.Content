@@ -31,6 +31,7 @@ Apps enhance your Teams experience in various ways e.g.:
 
 You can also read more about Apps at [Five things to know about apps in Microsoft Teams](https://support.microsoft.com/en-us/office/five-things-to-know-about-apps-in-microsoft-teams-747492ee-7cdd-4115-a993-8c7e7f98a3d0).
 
-![Figure: There are various apps you can add to channels](teams-apps.png)  
+![Figure: There are various apps you can add to channels](/rules/add-the-right-apps-when-creating-a-new-team/teams-apps.png)  
 
-![Figure: Apps for Google Analytics and GitHub in a channel](teams-analytics-app.png)
+![Figure: Apps for Google Analytics and GitHub in a channel](/rules/add-the-right-apps-when-creating-a-new-team/teams-analytics-app.png)
+

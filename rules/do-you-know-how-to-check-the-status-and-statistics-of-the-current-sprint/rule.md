@@ -28,7 +28,7 @@ Azure Test Plans provides two different ways to see testing status, a built-in [
 
 Select the "Progress Report" item in the Azure Test Plans sidebar:
 
-![Figure: Progress Report showing that this Sprint currently has 2 'Failed' tests (red) and 2 'Passed' tests (green)](progress-report.jpg)
+![Figure: Progress Report showing that this Sprint currently has 2 'Failed' tests (red) and 2 'Passed' tests (green)](/rules/do-you-know-how-to-check-the-status-and-statistics-of-the-current-sprint/progress-report.jpg)
 
 ### Test Status charts
 
@@ -36,12 +36,13 @@ You can visualise the status of testing for a Sprint in various ways, using diff
 
 From the appropriate Test Plan for the Sprint, select "Chart" and then "New test result chart" to add charts to the dashboard:
 
-![Figure: Adding a test result chart to visualise test status in Azure Test Plans](test-status-charts.jpg)
+![Figure: Adding a test result chart to visualise test status in Azure Test Plans](/rules/do-you-know-how-to-check-the-status-and-statistics-of-the-current-sprint/test-status-charts.jpg)
 
 ::: good
-![Figure: Good example - Different charts visualise test status in different ways](test-status-charts-more.jpg)
+![Figure: Good example - Different charts visualise test status in different ways](/rules/do-you-know-how-to-check-the-status-and-statistics-of-the-current-sprint/test-status-charts-more.jpg)
 :::
 
 :::greybox
 **Tip:** Think of the red (representing failed tests) as work remaining for the developers and the blue (representing unfinished tests) as working remaining for the testers.
 :::
+

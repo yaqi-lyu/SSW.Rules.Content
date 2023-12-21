@@ -19,16 +19,16 @@ Errors on reports should not occur but when they do it is best to make it clear 
 How evident are the error messages on the 1st report below?
 
 ::: bad  
-![Figure: Bad example - Using the default NoRows property of the table control - error message is not clear enough](RSErrorMessageT1.jpg)  
+![Figure: Bad example - Using the default NoRows property of the table control - error message is not clear enough](/rules/show-errors-in-red/RSErrorMessageT1.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - Use a customized textbox and icon to show the error message in red](RSErrorMessageT2.jpg)
+![Figure: Good example - Use a customized textbox and icon to show the error message in red](/rules/show-errors-in-red/RSErrorMessageT2.jpg)
 :::
 
 Reporting Services allows you to set the 'NoRows' property of a table control to warn your user when there is no data available. This is similar to handle the 'NoData event' in Access report but there is no advanced control on this message, not even a Color property - this has not been improved in RS2005, see our [Better Software Suggestions page](https://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSQLReportingServices.aspx#Subscription).
 
-![Figure: NoRow property of Table control only allow simple string](RSErrorMessageT3.jpg)
+![Figure: NoRow property of Table control only allow simple string](/rules/show-errors-in-red/RSErrorMessageT3.jpg)
 
 Here's how to add a custom "NoData" textbox with a red icon to your report:
 
@@ -38,7 +38,7 @@ Here's how to add a custom "NoData" textbox with a red icon to your report:
 
 3. Add an Image control next to it. Use [this error icon](https://www.ssw.com.au/ssw/Images/ErrorMessage/fatal_error_info.gif) This opens in a New Window as the Image (add it to your Images folder in your solution and reference it like **Images/fatal_error_info.gif**). Your report will now look similar to the one below.
 
-![Figure: Adding a custom error message to your report](RSErrorMessageT4.gif)
+![Figure: Adding a custom error message to your report](/rules/show-errors-in-red/RSErrorMessageT4.gif)
 
 4. In the **Hidden** property of the **Rectangle**, add an expression to show/hide it depending on whether any rows were returned. Use the following expression, substituting the bold for your own values (e.g. checking if the sum of all orders is < 0)
 
@@ -48,7 +48,7 @@ Here's how to add a custom "NoData" textbox with a red icon to your report:
 = iif( Sum(Fields!SaleTotal.Value, "MyDataSet")>0, True, False)
 ```
 
-![Figure: The Hidden property of the rectangle](RSErrorMessageT5.gif)
+![Figure: The Hidden property of the rectangle](/rules/show-errors-in-red/RSErrorMessageT5.gif)
 
 5. Group all other report items into a rectangle - you want to be able to show and hide them dynamically.
 
@@ -59,3 +59,4 @@ Here's how to add a custom "NoData" textbox with a red icon to your report:
 
 = iif( Sum(Fields!SaleTotal.Value, "MyDataSet")>0, **False**, **True**)
 ```
+

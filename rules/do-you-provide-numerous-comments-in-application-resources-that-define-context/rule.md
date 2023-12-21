@@ -23,4 +23,5 @@ Knowing the context and use of certain strings will help translators choose the 
 
 <!--endintro-->
 
-![Figure: Use the comment field in the resx to tell you where it is used](Localization\_Commonts.jpg)
+![Figure: Use the comment field in the resx to tell you where it is used](/rules/do-you-provide-numerous-comments-in-application-resources-that-define-context/Localization_Commonts.jpg)
+

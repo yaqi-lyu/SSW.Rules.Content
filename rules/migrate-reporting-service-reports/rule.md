@@ -30,13 +30,13 @@ There are 3 steps:
 * Find those reports are not-in-use, as per a rule: [Do you know which reports are being used?](/do-you-know-which-reports-are-being-used)
 * Find creators of those reports, by clicking “Detail Views” in reports folder
       
-  ![Figure: Find reports creators by clicking "Details View" inside report folder](detailsview.png)  
+  ![Figure: Find reports creators by clicking "Details View" inside report folder](/rules/migrate-reporting-service-reports/detailsview.png)  
 
 * Send an email to report creater ask for permission to delete 
 
-  ![Figure: Send an email to ask permission](sent.png)  
+  ![Figure: Send an email to ask permission](/rules/migrate-reporting-service-reports/sent.png)  
 
-  ![Figure: Email received with permission to delete from creator](receive.png)  
+  ![Figure: Email received with permission to delete from creator](/rules/migrate-reporting-service-reports/receive.png)  
 
 ### 2. Migrate those in-use reports from old server to new server
 
@@ -48,3 +48,4 @@ There are 3 steps:
 * Compare audit results. Note that even error and warning messages also need to be the same
 
 If audit results are exactly the same on old and new servers, it indicates that migration is successful.
+

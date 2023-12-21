@@ -24,10 +24,11 @@ The build name should have the following suffixes, depending on their purpose:
 * **.CD.[Environment]** - For continuous delivery builds. These are triggered automatically and deploy to an environment. You should specify which environment it deploys to as well.
 
 
-![](buildnames.png)
+![](/rules/do-you-know-how-to-name-your-builds/buildnames.png)
 
 
 
 ::: good
 Good Example: We have two continuous delivery builds to our staging environment.  
 :::
+

@@ -17,4 +17,5 @@ You shouldn't have to send emails on behalf of other people because people now h
 
 <!--endintro-->
 
-![Figure: Make it easy to identify when you are sending emails on behalf of someone else](SendingEmailsonBehalfofSomeOneElse.gif)
+![Figure: Make it easy to identify when you are sending emails on behalf of someone else](/rules/do-you-indicate-when-you-are-sending-an-email-on-behalf-of-someone-else/SendingEmailsonBehalfofSomeOneElse.gif)
+

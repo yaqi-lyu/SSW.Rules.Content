@@ -20,7 +20,7 @@ When your Hyper-V environment is spread across multiple hosts and contains many 
 <!--endintro-->
 
 ::: bad
-![Bad Example - How do you know what machine is what?](naming-badexample.jpg)
+![Bad Example - How do you know what machine is what?](/rules/do-you-name-your-virtual-machines-with-a-standadized-naming-convention/naming-badexample.jpg)
 :::
 
 The standard we use for Production Virtual Machine naming is as follows: **NetBIOSName-ServiceName**.  
@@ -30,5 +30,6 @@ The standard we use for Development Virtual Machine naming is as follows: **DEV-
 For example: **DEV-demo2010a-SP2010MSInfoWorker-JL**.
 
 ::: good
-![Good Example - It is easy to tell which VM is which when they are named to a standard](naming-goodexample.jpg)
+![Good Example - It is easy to tell which VM is which when they are named to a standard](/rules/do-you-name-your-virtual-machines-with-a-standadized-naming-convention/naming-goodexample.jpg)
 :::
+

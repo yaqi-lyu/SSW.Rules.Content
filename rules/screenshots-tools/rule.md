@@ -47,13 +47,14 @@ There are heaps of great tools that provide much more advanced functionality. Th
 ❌ [Snipping Tool](https://support.microsoft.com/en-AU/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b) (Windows only - built-in) 
 :::
 
-![Figure: Lightshot is the most popular screenshot tool](screen-shot-2022-06-09-at-16.38.10.png)
+![Figure: Lightshot is the most popular screenshot tool](/rules/screenshots-tools/screen-shot-2022-06-09-at-16.38.10.png)
 Source: [Google Trends](https://trends.google.com.au/trends/explore?q=screenshot%20snagit,screenshot%20lightshot,screenshot%20sharex,screenshot%20greenshot,screenshot%20fullshot)
 
 ::: bad
-![Figure: Bad example - The Windows Snipping Tool isn't powerful enough for most business use cases](applicationframehost_oa4wfguiqt.png)
+![Figure: Bad example - The Windows Snipping Tool isn't powerful enough for most business use cases](/rules/screenshots-tools/applicationframehost_oa4wfguiqt.png)
 :::
 
 ::: good
-![Figure: Good example - Snagit is the gold standard and provides tonnes of user friendly features](screen-shot-2022-07-28-at-11.18.57.png)
+![Figure: Good example - Snagit is the gold standard and provides tonnes of user friendly features](/rules/screenshots-tools/screen-shot-2022-07-28-at-11.18.57.png)
 :::
+

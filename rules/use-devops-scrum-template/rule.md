@@ -22,11 +22,11 @@ When initiating a new project in Azure DevOps, selecting the right template is c
 1. Click Create.
 
 ::: img-large
-![Figure: Create a new project](create_new_project.png)
+![Figure: Create a new project](/rules/use-devops-scrum-template/create_new_project.png)
 :::
 
 ::: img-large
-![Figure: Select the Scrum template](select_scrum_template.png)
+![Figure: Select the Scrum template](/rules/use-devops-scrum-template/select_scrum_template.png)
 :::
 
 Using the Scrum template has its fair share of cool perks:
@@ -39,11 +39,12 @@ Azure DevOps does have other templates like Agile and CMMI, but the Scrum templa
 
 
 ::: img-large
-![Figure: Product backlog has Product Backlog Items (PBIs)](scrum_template_backlog.jpg)
+![Figure: Product backlog has Product Backlog Items (PBIs)](/rules/use-devops-scrum-template/scrum_template_backlog.jpg)
 :::
 
 ::: img-large
-![Figure: PBI states are terms which are Scrum terms](scrum_template_states.jpg)
+![Figure: PBI states are terms which are Scrum terms](/rules/use-devops-scrum-template/scrum_template_states.jpg)
 :::
+
 
 

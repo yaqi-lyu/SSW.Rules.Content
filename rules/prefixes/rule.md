@@ -24,13 +24,14 @@ Prefixes provide several benefits including:
 * Grouping - Categorizing content together without the need for a complex bespoke solution
 
 ::: bad
-![Bad Example - There is no context provided in the title, it could be about subjects for Meetings, Conferences, Videos or something entirely different](badexamplenocontext.png)
+![Bad Example - There is no context provided in the title, it could be about subjects for Meetings, Conferences, Videos or something entirely different](/rules/prefixes/badexamplenocontext.png)
 :::
 
 ::: ok
-![OK Example - The context is included in the title](okayexamplehascontext.png)
+![OK Example - The context is included in the title](/rules/prefixes/okayexamplehascontext.png)
 :::
 
 ::: good
-![Good Example - The prefix very clearly identifies the subject in the title](goodexamplehascontextviaprefix.png)
+![Good Example - The prefix very clearly identifies the subject in the title](/rules/prefixes/goodexamplehascontextviaprefix.png)
 :::
+

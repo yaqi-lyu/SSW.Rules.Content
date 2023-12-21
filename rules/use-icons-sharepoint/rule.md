@@ -23,7 +23,7 @@ If that's not enough and you want to customize your own links somewhere else on 
 
 If you want to style your navigation, using emojis is the simplest way to achieve consistency.
 
-![Figure: Consistent look using emojis in the standard left-navigation](standard-left-nav.png)
+![Figure: Consistent look using emojis in the standard left-navigation](/rules/use-icons-sharepoint/standard-left-nav.png)
 
 ✅ UI - Consistent icons  
 ✅ No-code solution (configuration only)  
@@ -36,7 +36,7 @@ If you want to style your navigation, using emojis is the simplest way to achiev
 
 Using webparts is the best way to achieve a consistent look and feel. Webparts can be customized by admin users, and require no maintenance as far as styling is concerned. SharePoint uses Office UI Fabric icons under the hood.
 
-![Figure: Consistent look using out of the box "Quicklinks" webpart](navigation-with-webpart.png)
+![Figure: Consistent look using out of the box "Quicklinks" webpart](/rules/use-icons-sharepoint/navigation-with-webpart.png)
 
 ✅ UI - Consistent emojis  
 ✅ No-code solution (configuration only)  
@@ -44,3 +44,4 @@ Using webparts is the best way to achieve a consistent look and feel. Webparts c
 ✅ Free $ (Out of the box)  
 ✅ Can be used in any size  
 ✅ Large choice of icons
+

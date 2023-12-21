@@ -159,4 +159,5 @@ Integrated with Google Analytics
 
 :::
 
-![](gitbook.png)
+![](/rules/end-user-documentation/gitbook.png)
+

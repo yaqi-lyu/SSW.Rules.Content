@@ -22,6 +22,7 @@ Google crawls data-driven websites. There are a few considerations when it comes
 
 Take a look at how we tackle this issue. We have a knowledge base with hundreds of pages and we list them all here on our Knowledge Database index page. We know that Google has crawled them because it shows up on Google results. We applied a [sitemap](https://support.google.com/webmasters/answer/156184?hl=en).
 
-![Figure: It is hard for search engines to know which option from the drop down field they should go into. Here we add a link to our Knowledge Base Index](kbsearch.jpg)  
+![Figure: It is hard for search engines to know which option from the drop down field they should go into. Here we add a link to our Knowledge Base Index](/rules/make-your-data-driven-pages-easier-to-find/kbsearch.jpg)  
 
-![Figure: By default the dynamic pages behind this page would be invisible to Google. You need to provide a link that will make them visible to Google](KbIndex.jpg)
+![Figure: By default the dynamic pages behind this page would be invisible to Google. You need to provide a link that will make them visible to Google](/rules/make-your-data-driven-pages-easier-to-find/KbIndex.jpg)
+

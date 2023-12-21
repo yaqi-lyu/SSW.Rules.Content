@@ -22,8 +22,8 @@ The download includes a comprehensive operations guide, with step-by-step instal
 4. Configure permissions (i.e. make sure only the right people can view passwords)\
 5. Enable and configure LAPS by GPO (you can configure password complexity & duration, and more)
 
-![Figure: LAPS GPO settings](laps-gpo.png)
+![Figure: LAPS GPO settings](/rules/laps-local-admin-passwords/laps-gpo.png)
 
 To view the password you can use the LAPS UI tool (included with the standard installer), view it in AD Users and Computers, or with PowerShell. You can reset the password with the UI tool or with PowerShell.
 
-![Figure: LAPS UI](laps-ui.png)
+![Figure: LAPS UI](/rules/laps-local-admin-passwords/laps-ui.png)

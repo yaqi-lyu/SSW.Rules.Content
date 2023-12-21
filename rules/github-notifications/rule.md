@@ -21,13 +21,14 @@ Notifications from GitHub can be quite a pain, as they send a lot of emails. Thi
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example - lots of notifications](./notifications.png)
+![Figure: Bad example - lots of notifications](/rules/github-notifications/notifications.png)
 :::
 
 To reduce this spam and to make the notifications have value, make sure to configure your [GitHub Notifications](https://github.com/settings/notifications). 
 
 ::: good
-![Figure: Good example - disable workflow notifications](screen-shot-2022-03-03-at-2.20.33-pm.png)
+![Figure: Good example - disable workflow notifications](/rules/github-notifications/screen-shot-2022-03-03-at-2.20.33-pm.png)
 :::
 
 The important one here is to make sure the item marked **Send notifications for failed workflows only** is checked, so that you receive emails for failures in your deployments.
+

@@ -18,4 +18,5 @@ redirects:
 To make office documents with content preview available in search result, you need to setup an Office App server and link it to SharePoint: 
 <!--endintro-->
 
-![](preview-sharepoint.png)
+![](/rules/fix-search-with-office-app-preview/preview-sharepoint.png)
+

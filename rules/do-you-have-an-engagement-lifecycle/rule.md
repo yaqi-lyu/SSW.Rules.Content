@@ -20,7 +20,7 @@ Having a documented process for managing engagements provides clients with a con
 Our engagement lifecycle overlaps with our [sales pipeline](/do-you-know-the-6-stages-in-the-sales-pipeline), and maps to the [8 Steps to Scrum](/do-you-know-the-8-steps-to-scrum).
 
 ::: good
-![Figure: Good example - Engagement Lifecycle ](Engagement Lifecycle.png)
+![Figure: Good example - Engagement Lifecycle ](/rules/do-you-have-an-engagement-lifecycle/Engagement Lifecycle.png)
 :::
 
 1. **Initial Phone Call**
@@ -44,3 +44,4 @@ Our engagement lifecycle overlaps with our [sales pipeline](/do-you-know-the-6-s
 8. **Project Closure**
     * Project is completed, any handover or other transition that has been defined is completed with the client.
     * Just like a Sprint Retrospective is held at the end of each Sprint, a Project Retrospective is held to learn from the project that has just completed.
+

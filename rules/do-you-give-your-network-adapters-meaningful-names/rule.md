@@ -18,13 +18,14 @@ When you configure Hyper-V Clustering, each node will have upwards of 4 network 
 <!--endintro-->
 
 ::: bad
-![Figure: Bad Example - It makes it hard to know what network adapter does what if you don't have meaningful names](naming-bad.jpg)
+![Figure: Bad Example - It makes it hard to know what network adapter does what if you don't have meaningful names](/rules/do-you-give-your-network-adapters-meaningful-names/naming-bad.jpg)
 :::
 
 ::: good
-![Figure: Good example - As an example naming convention for network adapters on each node](naming-good.jpg)
+![Figure: Good example - As an example naming convention for network adapters on each node](/rules/do-you-give-your-network-adapters-meaningful-names/naming-good.jpg)
 :::
 
 ::: good
-![Figure: Good Example - It is easy to tell which network adapter does what when they have meaningful names](naming-good2.jpg)
+![Figure: Good Example - It is easy to tell which network adapter does what when they have meaningful names](/rules/do-you-give-your-network-adapters-meaningful-names/naming-good2.jpg)
 :::
+

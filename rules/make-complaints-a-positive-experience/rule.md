@@ -22,7 +22,7 @@ When you get the call/email, how you respond can make or break the relationship.
 <!--endintro-->
 
 ::: img-small no-border
-![](conversation-conflict.jpg)
+![](/rules/make-complaints-a-positive-experience/conversation-conflict.jpg)
 :::
 
 ### How to deal with complaints
@@ -46,7 +46,7 @@ When you get the call/email, how you respond can make or break the relationship.
    Figure: Good example - Bring in the people who can help resolve the problem right away.
    :::
 
-   ![Figure: Conference in another person to solve the problem - it's a lot easier than it used to be](old-phone-connection.jpg)
+   ![Figure: Conference in another person to solve the problem - it's a lot easier than it used to be](/rules/make-complaints-a-positive-experience/old-phone-connection.jpg)
 4. **Follow up the proposed solution**
 
    ::: greybox
@@ -79,3 +79,4 @@ Someone will complain about what you do no matter how 'perfect' you are. That do
 More on [50 Important Customer Experience Stats for Business Leaders](https://www.huffpost.com/entry/50-important-customer-exp_b_8295772).
 
 Thus, by resolving a complaint efficiently and fairly, you will retain the customer's loyalty and potentially gain 5 new customers.
+

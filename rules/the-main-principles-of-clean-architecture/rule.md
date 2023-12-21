@@ -22,7 +22,7 @@ This approach enables the development team to build a system in the same way tha
 
 This is the difference between a system that lasts 2 years, and a system that lasts 20 years.
 
-![Figure: Onion View of Clean Architecture](ca-diagram.png)
+![Figure: Onion View of Clean Architecture](/rules/the-main-principles-of-clean-architecture/ca-diagram.png)
 
 <!--endintro-->
 
@@ -111,3 +111,4 @@ While the design in the above figure only includes three circles, you may need m
 
 * [The Clean Architecture](http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [Clean architecture](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures#clean-architecture)
+

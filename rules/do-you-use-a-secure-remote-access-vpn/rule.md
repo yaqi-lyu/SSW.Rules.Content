@@ -24,19 +24,19 @@ It is also important to make sure that your VPN uses a secure protocol. Previous
 
 :::bad
 
-![Bad example: PPTP should not be used, it is old and no longer secure](vpn-pptp.png)
+![Bad example: PPTP should not be used, it is old and no longer secure](/rules/do-you-use-a-secure-remote-access-vpn/vpn-pptp.png)
 
 :::
 
 :::good
 
-![Good example: Cisco AnyConnect configured with Azure AD SSO and MFA](cisco-vpn.png)
+![Good example: Cisco AnyConnect configured with Azure AD SSO and MFA](/rules/do-you-use-a-secure-remote-access-vpn/cisco-vpn.png)
 
 :::
 
 :::good
 
-![Good example: Fortinet have their own MFA solution for VPN, FortiToken](fortitoken-vpn.png)
+![Good example: Fortinet have their own MFA solution for VPN, FortiToken](/rules/do-you-use-a-secure-remote-access-vpn/fortitoken-vpn.png)
 
 :::
 
@@ -50,6 +50,6 @@ The basic steps are:
 2. In Azure AD, add the users that you want to have VPN access
 3. Configure your Cisco ASA to use SAML for VPN authentication
 
-![Figure: Adding Cisco AnyConnect as an Enterprise Application in Azure AD](ciscosaml.jpg)
+![Figure: Adding Cisco AnyConnect as an Enterprise Application in Azure AD](/rules/do-you-use-a-secure-remote-access-vpn/ciscosaml.jpg)
 
 For more information, see Cisco's documentation [here](https://www.cisco.com/c/en/us/support/docs/security/anyconnect-secure-mobility-client/215935-configure-asa-anyconnect-vpn-with-micros.html).

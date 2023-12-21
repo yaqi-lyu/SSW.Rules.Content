@@ -18,7 +18,7 @@ Comparing and classifying text can be a very time consuming process. Did you kno
 Embeddings are way of grouping how similar certain pieces of text are to eachother, and take the form of a vector.  
 You can think of an embedding as similar to a point in 2D space with an X and Y coordinate.
 
-![Figure: SSW Rules embeddings plotted on a 2D graph](rules-2d-embeddings.png)
+![Figure: SSW Rules embeddings plotted on a 2D graph](/rules/use-embeddings/rules-2d-embeddings.png)
 
 The only difference is that they actually have far more dimensions. For example, embeddings generated using OpenAI's embedding models have 1536 dimensions per vector!
 
@@ -51,3 +51,4 @@ OpenAI provides specialised embedding models that are accessible via an API, sim
 You can find more information on these models and how to access them [here](https://platform.openai.com/docs/guides/embeddings/embedding-models).
 
 There are also open source and self hosted models available at [Hugging Face](https://huggingface.co/models?other=embeddings).
+

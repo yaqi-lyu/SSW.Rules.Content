@@ -23,7 +23,7 @@ You can run each project in a seperate terminal using `dotnet run`, but this wil
 
 ::: bad
 
-![Figure: Multiple Terminals](split-terminals.png)
+![Figure: Multiple Terminals](/rules/multiple-startup-projects/split-terminals.png)
 
 :::
 
@@ -33,7 +33,7 @@ It can also be error prone as you may forget to launch a project.
 
 ::: bad
 
-![Figure: Manually selecting and launching each project](manual-launch.png)
+![Figure: Manually selecting and launching each project](/rules/multiple-startup-projects/manual-launch.png)
 
 :::
 
@@ -51,3 +51,4 @@ You can set multiple startup projects in Visual Studio and Rider, this will allo
 ::: greybox  
 **Note:** Rider **will** save the launch profile you just created, you can switch between launch profiles without losing your configuration.  
 :::
+

@@ -97,6 +97,7 @@ Community engagement is hard to achieve but can provide invaluable insights into
 GitHub Discussions allow you to set up categories. Getting these going is important to help users sift through the different topics. Keep the categories simple and easy to follow so that anyone who jumps in will know where to begin.
 
 ::: good
-![Figure: Good example - TinaCMS use GitHub Discussions well](TinaCMSDiscussions.png)
+![Figure: Good example - TinaCMS use GitHub Discussions well](/rules/use-github-discussions/TinaCMSDiscussions.png)
 :::
 **Source:** [TinaCMS](https://github.com/tinacms/tinacms/discussions)
+

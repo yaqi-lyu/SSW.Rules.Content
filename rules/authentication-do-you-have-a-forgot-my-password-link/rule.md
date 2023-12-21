@@ -22,17 +22,17 @@ To cater for this instance, it is important to have a 'Forgot my password' link 
 
 
 ::: bad  
-![Figure: Bad example - what will happen for the poor user that forgot their password?](bad.png)  
+![Figure: Bad example - what will happen for the poor user that forgot their password?](/rules/authentication-do-you-have-a-forgot-my-password-link/bad.png)  
 :::
 
 
 ::: good  
-![Figure: Good example - users have an option if they forget their password](good.png)  
+![Figure: Good example - users have an option if they forget their password](/rules/authentication-do-you-have-a-forgot-my-password-link/good.png)  
 :::
 
 
 ::: good  
-![Figure: Good example - users can enter their email to get a new password](reset example.png)  
+![Figure: Good example - users can enter their email to get a new password](/rules/authentication-do-you-have-a-forgot-my-password-link/reset example.png)  
 :::
 
 ### Do you avoid a username enumeration attack?
@@ -44,10 +44,12 @@ You should always aim to not disclose if a user is registered with your site or 
 
 
 ::: bad  
-![Figure: Bad example - Displaying information that a user does not exist?](2016-01-05\_15-20-06.png)  
+![Figure: Bad example - Displaying information that a user does not exist?](/rules/authentication-do-you-have-a-forgot-my-password-link/2016-01-05_15-20-06.png)  
 :::
 
 
 ::: good  
-![Good example - You should always aim to not disclose if a user is registered with your site or not](demo.png)  
+![Good example - You should always aim to not disclose if a user is registered with your site or not](/rules/authentication-do-you-have-a-forgot-my-password-link/demo.png)  
 :::
+
+

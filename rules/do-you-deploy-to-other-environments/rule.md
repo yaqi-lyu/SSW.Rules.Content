@@ -23,4 +23,5 @@ This means that if you deploy version 37, and then want to roll back to version 
 TODO: AdamS – Write a rule on non-breaking Schema changes
 :::
 
-![Figure: To deploy to staging and production, open the appropriate drops folder and execute the correct batch file from the drops folder](deploy-other-environments.jpg)
+![Figure: To deploy to staging and production, open the appropriate drops folder and execute the correct batch file from the drops folder](/rules/do-you-deploy-to-other-environments/deploy-other-environments.jpg)
+

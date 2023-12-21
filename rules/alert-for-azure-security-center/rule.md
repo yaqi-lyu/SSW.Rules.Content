@@ -13,7 +13,7 @@ This will ensure that any changes either due to changes in your Azure deployment
 
 <!--endintro-->
 
-![Figure: To configure alerting try this](azure-security-center-alert.png)
+![Figure: To configure alerting try this](/rules/alert-for-azure-security-center/azure-security-center-alert.png)
 
 You can then set up the Action to notify you. There're all sorts of filtering functionality as well. 
 

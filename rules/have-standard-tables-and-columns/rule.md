@@ -28,7 +28,7 @@ Follow the below standards for tables and columns.
 
 <!--endintro-->
 
-![Figure: The first three are examples of bad table records. The last one is an example of how this table structure should be entered](imgGoodBadPracticesExampleSQLFields.png)  
+![Figure: The first three are examples of bad table records. The last one is an example of how this table structure should be entered](/rules/have-standard-tables-and-columns/imgGoodBadPracticesExampleSQLFields.png)  
 
 **Note #1:** Never set the CreatedUtc field - instead use a default GETUTCDATE()
 
@@ -49,3 +49,4 @@ The benefit is that a generic lookup form can be used. You will just need the ge
 **Note #3:** The problem with the naming is the primary keys don't match.
 
 **Note #4:** The benefit with the character primary key columns is that queries and query strings have meaning Eg. ssw.com.au/ssw/Download/Download.aspx?GroupCategoryID=5BUS from this URL I can guess that it is in the business category.
+

@@ -27,4 +27,5 @@ Watch this video for a simple explanation:
 `youtube: https://www.youtube.com/watch?v=F06MV1qm51Y`
 **Video: Youtube Hashtags included in description** 
 
-![Figure: When hashtags are added to the description, they appear at the top of it](hashtag-on-youtube-video-descriptions.png)
+![Figure: When hashtags are added to the description, they appear at the top of it](/rules/hashtags-in-video-description/hashtag-on-youtube-video-descriptions.png)
+

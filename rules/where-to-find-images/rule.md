@@ -21,7 +21,7 @@ You will need to ensure that you have the rights to use these featured images. A
 2. Using a royalty-free stock image site. E.g. [unsplash.com](https://unsplash.com/) or [pxhere.com](https://pxhere.com/)
 3. Using Google Images that are labeled for reuse: 
 
-![Figure: Finding Images Labelled for Reuse within Google Images](google-image-labeled-reuse.jpg)  
+![Figure: Finding Images Labelled for Reuse within Google Images](/rules/where-to-find-images/google-image-labeled-reuse.jpg)  
 
 4. Use [Canva](https://www.canva.com/) to create a featured image with overlaid text
 
@@ -29,3 +29,4 @@ You will need to ensure that you have the rights to use these featured images. A
 
 
 Ensuring you are not breaching copyright will save you from any trouble in the future.
+

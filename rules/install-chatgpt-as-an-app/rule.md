@@ -26,10 +26,11 @@ Furthermore, ChatGPT is constantly learning and improving its abilities, which m
 
 ### How to add ChatGPT as an Edge app:
 
-![Figure: Go to ... | Apps | Install this site as an app](chatgpt-app-1.png)
+![Figure: Go to ... | Apps | Install this site as an app](/rules/install-chatgpt-as-an-app/chatgpt-app-1.png)
 
-![Figure: See it in the taskbar](chatgpt-app-2.png)
+![Figure: See it in the taskbar](/rules/install-chatgpt-as-an-app/chatgpt-app-2.png)
 
-![Figure: You can run it from Start](chatgpt-app-3.png)
+![Figure: You can run it from Start](/rules/install-chatgpt-as-an-app/chatgpt-app-3.png)
 
-![Figure: It looks and feels like an app](chatgpt-app-4.png)
+![Figure: It looks and feels like an app](/rules/install-chatgpt-as-an-app/chatgpt-app-4.png)
+

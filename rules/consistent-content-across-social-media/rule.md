@@ -36,11 +36,11 @@ Across all platforms, you will find that they have some limitations and recomme
 Also, Sprout Social has an interesting [social media character counter](https://sproutsocial.com/insights/social-media-character-counter/) that you can test your content before putting your post out.
 
 ::: bad
-![Figure: Posting inconsistent content across social media accounts can lead to brand confusion and loss of audience engagement](Inconsistent.png)
+![Figure: Posting inconsistent content across social media accounts can lead to brand confusion and loss of audience engagement](/rules/consistent-content-across-social-media/In/rules/consistent-content-across-social-media/Consistent.png)
 :::
 
 ::: good
-![Figure: Posting consistent content reinforces a consistent brand presence](Consistent.png)
+![Figure: Posting consistent content reinforces a consistent brand presence](/rules/consistent-content-across-social-media/Consistent.png)
 :::
 
 Some tips:
@@ -48,3 +48,4 @@ Some tips:
 * Hashtags are really popular on Instagram and Twitter, but not as much on Facebook.\
   **Note:** This does not apply to social media ads. If you run campaigns with repetitive ad copy, you will fail in every single campaign. To be able to prove that you have good ad copywriting on a certain campaign, you will need a variety of text to see which ad is performing better and driving more conversions.
 * LinkedIn is a professional platform, so it is good sense to avoid using too many emojis or sharing memes if it's not the right fit for your industry. For more information on this topic, check out our Rule [Do you know why you should use memes as part of your business social media content?](/do-you-know-why-you-should-use-memes-as-part-of-your-business-social-media-content)
+

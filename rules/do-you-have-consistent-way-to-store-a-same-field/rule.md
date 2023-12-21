@@ -17,12 +17,12 @@ In Outlook the Street Address is stored as 1 Multi-Line field (with an  intellig
 
 
 ::: good  
-![Figure: Street Address in Outlook.](../../assets/GoodExample.jpg)  
+![Figure: Street Address in Outlook.](/rules/do-you-have-consistent-way-to-store-a-same-field/GoodExample.jpg)  
 :::
 
 
 ::: bad  
-![Figure: Street Address in CRM.](../../assets/BadExample.jpg)  
+![Figure: Street Address in CRM.](/rules/do-you-have-consistent-way-to-store-a-same-field/BadExample.jpg)  
 :::
 
 We consider Outlook is friendlier, because:
@@ -41,3 +41,4 @@ Of course, we might be wrong, because:
 
 
 We have a suggestion for CRM about this at     [CRM and Outlook should be consistent with regards to Addresses.](http://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/CRM.aspx#AddressConsistent)
+

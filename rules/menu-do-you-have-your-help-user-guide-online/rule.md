@@ -25,10 +25,11 @@ There are benefits of having your user guide online:
 
 
 ::: good  
-![Figure: Good Example - "User Guide" link in the "Help" menu](../../assets/RulesT3.gif)  
+![Figure: Good Example - "User Guide" link in the "Help" menu](/rules/menu-do-you-have-your-help-user-guide-online/RulesT3.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Telerik keeps their "User Guide" online](../../assets/TelerikUserGuide.png)  
+![Figure: Good Example - Telerik keeps their "User Guide" online](/rules/menu-do-you-have-your-help-user-guide-online/TelerikUserGuide.png)  
 :::
+

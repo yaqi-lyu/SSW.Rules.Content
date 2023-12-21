@@ -72,7 +72,7 @@ Attendees: *(Optional as they may be in the to and CC)*
 
 1. Sprint Burndown (a quick overview of the Sprint)
 
-![Figure: Sprint Burndown](burndown.JPG)
+![Figure: Sprint Burndown](/rules/sprint-review-retro-email/burndown.JPG)
 
 2. Code Coverage (hopefully tests are increasing each Sprint)
    XXX
@@ -80,17 +80,17 @@ Attendees: *(Optional as they may be in the to and CC)*
    XXX
 4. Burnup (for the release - the whole project, how are we tracking for the big picture?)
 
-![Figure: Release Burnup](ReleaseBurnup.jpg)
+![Figure: Release Burnup](/rules/sprint-review-retro-email/ReleaseBurnup.jpg)
 
 5. Build Pipeline Health & Production Deployments (How many times did we deploy to Production?)
 
-   ![Figure: Build Pipeline Health from DevOps](thumbnail_image.png)
+   ![Figure: Build Pipeline Health from DevOps](/rules/sprint-review-retro-email/thumbnail_image.png)
 
-![Figure: Deployments from {{ DEPLOYMENT SERVICE }}](production-deploy.png)
+![Figure: Deployments from {{ DEPLOYMENT SERVICE }}](/rules/sprint-review-retro-email/production-deploy.png)
 
 6. Application Health Overview Timeline (For the entire Sprint)
 
-![Application Health Overview Timeline.png](ApplicationInsights.jpg)
+![Application Health Overview Timeline.png](/rules/sprint-review-retro-email/ApplicationInsights.jpg)
 
 7. Product Roadmap
 Source: {{ ROADMAP LINK }}
@@ -156,3 +156,4 @@ As part of our commitment to inspect and adapt as a team we conduct a Sprint Ret
 ::: good
 Figure: Good example - Template for Sprint Review/Retro email
 :::
+

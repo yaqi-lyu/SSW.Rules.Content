@@ -27,5 +27,6 @@ Bad Example - "Try calling him."
 :::
 
 :::good
-![Good Example - "Sure, I'll just look up Adam's calendar and see when he's free. Obviously, it's not a good idea to call Adam now as he is on a plane."](adams-calendar.jpg)
+![Good Example - "Sure, I'll just look up Adam's calendar and see when he's free. Obviously, it's not a good idea to call Adam now as he is on a plane."](/rules/calendar-do-you-check-someones-calendar-before-booking-an-appointment/adams-calendar.jpg)
 :::
+

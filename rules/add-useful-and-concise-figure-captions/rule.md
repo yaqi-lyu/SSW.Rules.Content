@@ -31,7 +31,7 @@ It's the best way of ensuring you catch users' attention to the content of your 
 Users read websites in a similar fashion. Catch their attention with an image, and then keep it with a useful description. Don't just describe what the image is; say what it's used for in the context of the document.
 
 ::: good  
-![Figure: Good example - Some nice useful and concise text describing the image](good-caption.jpg)  
+![Figure: Good example - Some nice useful and concise text describing the image](/rules/add-useful-and-concise-figure-captions/good-caption.jpg)  
 :::
 
 It is especially important that images and captions serve a purpose, as opposed to graphics which are there solely for design.
@@ -130,3 +130,4 @@ Figure: Bad example - Using "Figure:" for a video caption + a vague text + no li
 ::: good
 Figure: Good example - Using "Video: \[Title\]" as the video caption + link + video length at the end
 :::
+

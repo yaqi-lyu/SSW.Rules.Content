@@ -20,13 +20,13 @@ Hubdoc is great for tracking and accounting for receipts, but if you don't use i
 
 To avoid confusion, add as much detail as possible about the purchase and who authorized it. To make this easier, your company can set some required fields to ensure that you have all of the relevant data entered for each claim. This will make your claims a lot more unified and easier to process. 
 
-![Figure: Users to accept invite to use Hubdoc](ac.png) 
+![Figure: Users to accept invite to use Hubdoc](/rules/do-you-know-how-to-enter-a-hubdoc-receipt/ac.png) 
 
-![Figure: Take a photo with the Mobile Hubdoc app](de.png)
+![Figure: Take a photo with the Mobile Hubdoc app](/rules/do-you-know-how-to-enter-a-hubdoc-receipt/de.png)
 
-![Figure: Photo of Receipt and submitting basic invoice details - generally is read by OCR of the software](wer.png)
+![Figure: Photo of Receipt and submitting basic invoice details - generally is read by OCR of the software](/rules/do-you-know-how-to-enter-a-hubdoc-receipt/wer.png)
 
-![Figure: Details that can be automated for Accounting reconciliation purposes](che.png)
+![Figure: Details that can be automated for Accounting reconciliation purposes](/rules/do-you-know-how-to-enter-a-hubdoc-receipt/che.png)
 
 The user or the administrator of the account can set up rules for each invoice in regards to their publication status and reconciliation details on the first instance. Going forward, any repeat of the invoice or the supplier will be filled in based on those rules set up. 
 
@@ -36,4 +36,5 @@ Depending on the permissions of the User, they can also publish the invoice to X
 
 **Tip:** Hubdoc will automatically create folders to categorise the invoices and store for the user. These folders can be reorganised or renamed with ease. We recommend updating the folders early on so the invoices are collated in a useful manner for your business. 
 
-![Figure: Email link](1.png)
+![Figure: Email link](/rules/do-you-know-how-to-enter-a-hubdoc-receipt/1.png)
+

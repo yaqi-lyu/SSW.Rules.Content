@@ -21,8 +21,10 @@ This is by far the most simple method to achieve continuous deployment of your w
 But, if your application is more complicated, or you need to run UI tests as part of your deployment, you should be using Octopus Deploy instead according to the [Do you use the best deployment tool](/do-you-use-the-best-deployment-tool) rule.
 <!--endintro-->
 
-![Figure: Setting up deployment from source control is simple from within the Azure portal](integrate-source-control.jpg)  
+![Figure: Setting up deployment from source control is simple from within the Azure portal](/rules/do-you-publish-simple-websites-directly-to-windows-azure-from-visual-studio-online/integrate-source-control.jpg)  
 
-![Figure: Deployment is available from a number of different source control repositories](TFS\_Deployment.png)  
+![Figure: Deployment is available from a number of different source control repositories](/rules/do-you-publish-simple-websites-directly-to-windows-azure-from-visual-studio-online/TFS_Deployment.png)  
 
 Suggestion to Microsoft: We hope this functionality comes to on-premise TFS and IIS configurations in the next version.
+
+

@@ -61,7 +61,7 @@ Project details:
 
 Total: {{AUD$}} per month
 
-![Figure: I generated the price from https://azure.microsoft.com/en-au/pricing/calculator](azurecalcexample.jpg)
+![Figure: I generated the price from https://azure.microsoft.com/en-au/pricing/calculator](/rules/manage-costs-azure/azurecalcexample.jpg)
 
 1. Please approve
 
@@ -74,4 +74,5 @@ David
 
 3. Add a tag of cost-category to each of your resources. This will allow you to see the daily costs of your Azure resources based on whether they are Core, Value adding or Dev/Test. Then you can quickly turn off resources to save money if you require. It also helps you to see where money is disappearing.
 
-![Figure: Daily costs by category](azurecostsbycategory.png)
+![Figure: Daily costs by category](/rules/manage-costs-azure/azurecostsbycategory.png)
+

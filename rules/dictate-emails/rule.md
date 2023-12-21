@@ -14,7 +14,7 @@ Everyone knows that you can use Google Assistant or Siri to talk to your phone, 
 
 <!--endintro-->
 
-![Figure: Press this button in the ribbon to dictate, or use the keyboard shortcut of Alt+`](dictate.png)
+![Figure: Press this button in the ribbon to dictate, or use the keyboard shortcut of Alt+`](/rules/dictate-emails/dictate.png)
 
 You can choose whether you want automatic punctuation or not, and it's quite good at figuring out what the correct punctuation should be, most of the time.
 
@@ -32,10 +32,11 @@ Key commands that you will likely need include:
 * Bold/italicise/underline \<word or phrase you want formatted\>
 * Exit dictation
 
-![Figure: For a full list of available commands, click here (the box that pops up at the bottom of the screen while you dictate)](dictate-more-commands.png)
+![Figure: For a full list of available commands, click here (the box that pops up at the bottom of the screen while you dictate)](/rules/dictate-emails/dictate-more-commands.png)
 
 `youtube: https://www.youtube.com/embed/7-soraKpUcY`
 
 ### Hot Tip - Windows Dictation
 
 If you really get into using dictation, you can press windows key + H to dictate directly through the operating system. This is particularly useful if, for instance, you want to dictate a message in Teams, or something else that doesn't have its own dictation function built in.
+

@@ -19,9 +19,10 @@ redirects: []
 We believe the word 'Report' is redundant in a report, so we avoid using this word in our reports.
 
 ::: bad  
-![Figure: Bad example - Redundant use of the word 'report' in a report](BadWordinReport.jpg)  
+![Figure: Bad example - Redundant use of the word 'report' in a report](/rules/avoid-using-word-report/BadWordinReport.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - Avoidance of the word 'report' in a report](NoBadWordinReport.jpg)
+![Figure: Good example - Avoidance of the word 'report' in a report](No/rules/avoid-using-word-report/BadWordinReport.jpg)
 :::
+

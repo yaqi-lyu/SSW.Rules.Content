@@ -27,7 +27,8 @@ If you are an Australian or British this rule is controversial, but it is worth 
 
 
 ::: good  
-![Figure: Good example - the US English is the selected language](SetLanguageUS.png)  
+![Figure: Good example - the US English is the selected language](/rules/spelling-do-you-use-us-english/SetLanguageUS.png)  
 :::
 
 Don't forget to check your pages for spelling errors after making edits.
+

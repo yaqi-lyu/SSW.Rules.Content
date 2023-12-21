@@ -20,11 +20,11 @@ Have you ever stumbled upon a useful chart, diagram, or infographic with embedde
 Using OneNote is simple. All you do is paste your image into OneNote, right click on it, and click **Copy Text from Picture**.
 
 ::: large
-![Figure: Paste image into OneNote and right click on it](one-note-1.png)
+![Figure: Paste image into OneNote and right click on it](/rules/copy-text-from-image/one-note-1.png)
 :::
 
 ::: good
-![Figure: Good example - The text pastes below the image. Easy!](one-note-2.png)
+![Figure: Good example - The text pastes below the image. Easy!](/rules/copy-text-from-image/one-note-2.png)
 :::
 
 ### Method 2: Using Google Drive
@@ -32,13 +32,14 @@ Using OneNote is simple. All you do is paste your image into OneNote, right clic
 In Google Drive you need to upload your image as a new file. Then you need to right click on the image file and select ** Open with | Google Docs**.
 
 ::: large
-![Figure: Upload your image first](drive-1.png)
+![Figure: Upload your image first](/rules/copy-text-from-image/drive-1.png)
 :::
 
 ::: large
-![Figure: Open your image with Google Docs](drive-2.png)
+![Figure: Open your image with Google Docs](/rules/copy-text-from-image/drive-2.png)
 :::
 
 ::: good
-![Figure: Good example - The text is added to the new document!](drive-3.png)
+![Figure: Good example - The text is added to the new document!](/rules/copy-text-from-image/drive-3.png)
 :::
+

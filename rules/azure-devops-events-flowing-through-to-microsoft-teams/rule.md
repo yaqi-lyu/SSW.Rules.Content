@@ -33,6 +33,7 @@ For more info, follow this link: https://docs.microsoft.com/en-us/azure/devops/s
 
 <!--endintro-->
 
-![Figure: How to setup Azure DevOps Events on Microsoft Teams](tfs-teams-1.jpg)  
+![Figure: How to setup Azure DevOps Events on Microsoft Teams](/rules/azure-devops-events-flowing-through-to-microsoft-teams/tfs-teams-1.jpg)  
 
-![Figure: It's nice to be able to converse about the project and see notifications such as PR coming through](tfs-teams-2.jpg)
+![Figure: It's nice to be able to converse about the project and see notifications such as PR coming through](/rules/azure-devops-events-flowing-through-to-microsoft-teams/tfs-teams-2.jpg)
+

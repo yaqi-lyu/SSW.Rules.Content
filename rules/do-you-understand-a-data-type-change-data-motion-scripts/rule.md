@@ -32,11 +32,11 @@ Let's look at an example:
 
 We have a 'Gender' column (that is a Boolean) storing 0's and 1's. All works well for a while.
 
-![Figure: Anything wrong this Gender column?](TableBit.jpg)
+![Figure: Anything wrong this Gender column?](/rules/do-you-understand-a-data-type-change-data-motion-scripts/TableBit.jpg)
 
 Later you learn you need to change the data type to char(2) to support 'MA', 'FE', 'NB' and 'NA' 
 
-![Figure: Caster Semenya was the first to teach us a thing or two about the right data type for Gender](CasterSemenya.jpg)
+![Figure: Caster Semenya was the first to teach us a thing or two about the right data type for Gender](/rules/do-you-understand-a-data-type-change-data-motion-scripts/CasterSemenya.jpg)
 
 The data then must be migrated to the new data type this way:
 
@@ -45,7 +45,7 @@ Rename 'Gender' to 'ztGender'
 Insert the existing data from 'ztGender' to 'Gender' (map 0 to 'F' and 1 to 'M')
 Delete the column ztGender*
 
-![Figure: Changing the data type and data required a "Data Motion Script"](TableChar.jpg)  
+![Figure: Changing the data type and data required a "Data Motion Script"](/rules/do-you-understand-a-data-type-change-data-motion-scripts/TableChar.jpg)  
 
 ::: greybox
 **Note:** zt stands for Temporary.
@@ -53,7 +53,7 @@ Delete the column ztGender*
 
 Visual Studio does not automatically support this scenario, as data type changes are not part of the refactoring tools. However, if you add pre and post scripting events to handle the data type change the rest of the changes are automatically handled for you.
 
-![Figure: Don't use Visual Studio Schema Compare Tool (aka Data Dude)](microsoft-schema-compare.png)
+![Figure: Don't use Visual Studio Schema Compare Tool (aka Data Dude)](/rules/do-you-understand-a-data-type-change-data-motion-scripts/microsoft-schema-compare.png)
 
 ::: greybox 
 **Note:** In order to achieve this you **must** use the built in Refactor tools as it create a log of all the refactors in order. This helps Visual Studio generate the schema compare and make sure no data is lost.
@@ -113,3 +113,4 @@ public partial class GenderToString : DbMigration
 ::: good
 Good Example - Data motion with EF Migrations
 :::
+

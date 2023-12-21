@@ -20,6 +20,7 @@ Most companies keep all their customers' (and prospects') contact information in
 
 <!--endintro-->
 
-![Figure: Stephen Koop needs to be put into the database](StephenKoopIsNotInTheDatabase.jpg)
+![Figure: Stephen Koop needs to be put into the database](/rules/do-you-make-sure-every-customers-and-prospects-email-is-in-your-company-database/StephenKoopIsNotInTheDatabase.jpg)
 
-![Figure: SSW Lookout! Can also check the emails that you are sending and tell you if the email address is not in your database](NotInDatabase.gif)
+![Figure: SSW Lookout! Can also check the emails that you are sending and tell you if the email address is not in your database](/rules/do-you-make-sure-every-customers-and-prospects-email-is-in-your-company-database/NotInDatabase.gif)
+

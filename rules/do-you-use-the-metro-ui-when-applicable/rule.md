@@ -26,9 +26,10 @@ From [Adam Cogan's blog - Microsoft is onto something here
 
 
 ::: good  
-![Figure: Good example – TFSPreview.com adopts the Metro style](../../assets/Metro-Good.jpg)  
+![Figure: Good example – TFSPreview.com adopts the Metro style](/rules/do-you-use-the-metro-ui-when-applicable/Metro-Good.jpg)  
 :::
 
 ::: good  
-![Figure: Good example – SSW TIMEPRO has been Metro influenced](../../assets/Metro-Good2.jpg)  
+![Figure: Good example – SSW TIMEPRO has been Metro influenced](/rules/do-you-use-the-metro-ui-when-applicable/Metro-Good2.jpg)  
 :::
+

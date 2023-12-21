@@ -30,7 +30,7 @@ The ongoing resources planned to work on this product must also be evaluated.
 
 To help in these decisions,  the .NET Core team has released a roadmap for upcoming releases over the next few years. All even-numbered releases will be LTS.
 
-![Figure: The .NET Schedule – from Introducing .NET 5](net-schedule.jpg)  
+![Figure: The .NET Schedule – from Introducing .NET 5](/rules/when-to-target-lts-versions/net-schedule.jpg)  
 
 Important questions to consider include:
 
@@ -79,3 +79,4 @@ The plan to reach “feature complete and done” followed by no planned subsequ
 But if you look at the planned launch date, it’s 1 month before the next LTS release (.NET 6).
 In this scenario, I would strongly advocate Developing against .NET 5, but leave some spare capacity to perform an update to  .NET 6 LTS soon after launch. 
 Then the final, "stable" version will have a much longer support window.
+

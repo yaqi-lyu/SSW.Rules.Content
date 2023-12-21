@@ -52,7 +52,7 @@ That means if any external resource is unavailable, the tests will fail.
 **Tests.Functional.SilverlightUI:** Tests the Silverlight UI from an end-user perspective by clicking around in the application
 
 ::: good  
-![Figure: Good example - Naming for a Unit Test Project](UnitTestsProject.jpg)  
+![Figure: Good example - Naming for a Unit Test Project](/rules/the-standard-naming-conventions-for-tests/UnitTestsProject.jpg)  
 :::
 
 #### Samples Naming of test methods
@@ -132,10 +132,11 @@ namespace SSW.NETToolkit.IntegrationTests
   }
 ```
 
-![Figure: This rule is consistent with the Visual Studio default](TestGenerationSettings.gif)  
+![Figure: This rule is consistent with the Visual Studio default](/rules/the-standard-naming-conventions-for-tests/TestGenerationSettings.gif)  
 
 **Tip:** You can create a test project using the Unit Test Wizard: Test &gt; Add New Test
 
-![Figure: Unit Test Wizard 1](AddNewTest.gif)  
+![Figure: Unit Test Wizard 1](/rules/the-standard-naming-conventions-for-tests/AddNewTest.gif)  
 
-![Figure: Unit Test Wizard 2](CreateUnitTests.gif)
+![Figure: Unit Test Wizard 2](/rules/the-standard-naming-conventions-for-tests/CreateUnitTests.gif)
+

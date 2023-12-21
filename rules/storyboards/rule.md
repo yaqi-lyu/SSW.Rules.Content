@@ -31,20 +31,20 @@ Crafting a UX storyboard does not require artistic skill, it only needs to be a 
 
 Storyboarding first became popular as a tool in motion picture production.
 
-![Figure: FYI animators use storyboards to roughly outline a visual storyline before they start creating](movie-storyboard.jpg)
+![Figure: FYI animators use storyboards to roughly outline a visual storyline before they start creating](/rules/storyboards/movie-storyboard.jpg)
 
 ### Why isn't UML sufficient?
 
 Many people use UML (Unified Modeling Language) to specify, construct, and document the various aspects of software systems. UML serves a purpose for helping developers understand what to do technically. However, for clients a UML diagram is hard to digest. If a developer understands something during a requirement stage, but a client does not, they are not much value as the client wont give feedback.
 
 ::: bad
-![Figure: Bad example – using UML makes software specifications hard to understand for clients](bad-uml.jpg)
+![Figure: Bad example – using UML makes software specifications hard to understand for clients](/rules/storyboards/bad-uml.jpg)
 :::
 
 On the other hand, Storyboarding is an effective way to capture, convey, and explore different user experiences.
 
 ::: good
-![Figure: Good example – A simple storyboard makes software requirements easy to digest](basic-storyboard.png)
+![Figure: Good example – A simple storyboard makes software requirements easy to digest](/rules/storyboards/basic-storyboard.png)
 :::
 
 ### What are the best tools?

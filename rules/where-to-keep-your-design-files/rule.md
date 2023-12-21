@@ -26,15 +26,15 @@ Design files should never be stored in Azure DevOps (was VSTS/TFS) or any other 
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example – Azure DevOps (was VSTS/TFS) takes too long to set up and too slow to use](Designer-Source-Control-TFS.png)  
+![Figure: Bad example – Azure DevOps (was VSTS/TFS) takes too long to set up and too slow to use](/rules/where-to-keep-your-design-files/Designer-Source-Control-TFS.png)  
 :::
 
 ::: good  
-![Figure: Good Example – Dropbox or OneDrive](Designer-Source-Control-DropBox.png)  
+![Figure: Good Example – Dropbox or OneDrive](/rules/where-to-keep-your-design-files/Designer-Source-Control-DropBox.png)  
 :::
 
 ::: good  
-![Figure: Good Example – OneDrive and Teams](Teamsfiles.png)  
+![Figure: Good Example – OneDrive and Teams](/rules/where-to-keep-your-design-files/Teamsfiles.png)  
 :::
 
 ::: china
@@ -42,3 +42,4 @@ Google Drive and Dropbox don’t work in China, so SSW prefers to use OneDrive.
 :::
 
 For developers, see [Do you know where to keep your files?](/do-you-know-where-to-keep-your-files)
+

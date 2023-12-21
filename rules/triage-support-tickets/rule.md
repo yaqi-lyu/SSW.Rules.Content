@@ -17,7 +17,7 @@ As a SysAdmin, triaging support tickets efficiently is crucial for streamlining 
 
 In Zendesk, you can create a view for triaging tickets - for example, create a view showing all unsolved tickets that have not been assigned to anyone.
 
-![Figure: Zendesk triage view configuration](zendesk-view.png)
+![Figure: Zendesk triage view configuration](/rules/triage-support-tickets/zendesk-view.png)
 
 ### To triage tickets
 
@@ -51,4 +51,4 @@ It's OK to reassign the ticket if needed - but have a conversation first, and do
 
 You may choose to add other fields that are relevant to your environment.
 
-![Figure: Triaged tickets should have an assignee, category, product and priority.](zendesk-fields.png)
+![Figure: Triaged tickets should have an assignee, category, product and priority.](/rules/triage-support-tickets/zendesk-fields.png)

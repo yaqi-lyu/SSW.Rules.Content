@@ -34,7 +34,8 @@ class CreateShoppingListHandler : SPItemEventReceiver
 **Bad example: using custom code – creating a custom event receiver on the item (the item adding event or item updating event)**
 
 ::: good
-![Good example: using no code – just using the field validation on a list. A demo of this from Andrew Connell on http://channel9.msdn.com/learn/courses/SharePoint2010Developer/ListsAndSchemas/FieldandListItemValidation/](ListValidation.jpg)
+![Good example: using no code – just using the field validation on a list. A demo of this from Andrew Connell on http://channel9.msdn.com/learn/courses/SharePoint2010Developer/ListsAndSchemas/FieldandListItemValidation/](/rules/do-you-use-field-and-list-item-validation-in-2010/ListValidation.jpg)
 :::
 
 <!--endintro-->
+

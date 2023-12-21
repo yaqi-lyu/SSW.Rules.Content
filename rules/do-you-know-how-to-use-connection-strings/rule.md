@@ -103,7 +103,7 @@ In order to access the secrets in Key Vault, you (as User) or an Application mus
 
 Applications require at least the LIST and GET permissions, otherwise the Key Vault integration will fail to retrieve secrets.
 
-![Figure: Key Vault Access Policies - Setting permissions for Applications and/or Users](access_policies.png)
+![Figure: Key Vault Access Policies - Setting permissions for Applications and/or Users](/rules/do-you-know-how-to-use-connection-strings/access_policies.png)
 
 Azure Key Vault and App Services can easily trust each other by making use of System assigned Managed Identities. Azure takes care of all the complicated logic behind the scenes for these two services to communicate with each other - reducing the complexity for application developers.
 
@@ -111,7 +111,7 @@ So, make sure that your Azure App Service has the **System assigned identity** e
 
 Once enabled, you can create a Key Vault Access policy to give your App Service permission to retrieve secrets from the Key Vault.
 
-![Figure: Enabling the System assigned identity for your App Service - this is required for adding it to Key Vault via Access Policies](identity.png)
+![Figure: Enabling the System assigned identity for your App Service - this is required for adding it to Key Vault via Access Policies](/rules/do-you-know-how-to-use-connection-strings/identity.png)
 
 Adding secrets into Key Vault is easy.
 
@@ -120,15 +120,15 @@ Adding secrets into Key Vault is easy.
 3. Provide the secret **value**
 4. Click **Create**
 
-![Figure: Creating the SqlConnectionString secret in Key Vault.](add-a-secret.png)
+![Figure: Creating the SqlConnectionString secret in Key Vault.](/rules/do-you-know-how-to-use-connection-strings/add-a-secret.png)
 
-![Figure: SqlConnectionString stored in Key Vault](secrets.png)
+![Figure: SqlConnectionString stored in Key Vault](/rules/do-you-know-how-to-use-connection-strings/secrets.png)
 
 **Note:** The ApplicationSecrets section is indicated by "ApplicationSecrets--" instead of "ApplicationSecrets:".
 
 As a result of storing secrets in Key Vault, your Azure App Service configuration (app settings) will be nice and clean. You should not see any fields that contain passwords or keys. Only basic configuration values.
 
-![Figure: Your WebApp Configuration - No passwords or secrets, just a name of the Key vault that it needs to access](configuration.png)
+![Figure: Your WebApp Configuration - No passwords or secrets, just a name of the Key vault that it needs to access](/rules/do-you-know-how-to-use-connection-strings/configuration.png)
 
 `youtube: https://www.youtube.com/embed/ZG7IykWdlng`
 
@@ -163,7 +163,7 @@ In .NET 2.0 we used strongly typed settings classes:
 
 **Step 1:** Setup your settings in your common project. E.g. Northwind.Common
 
-![Figure: Settings in Project Properties](ConnStringNET2\_Settings.jpg)
+![Figure: Settings in Project Properties](/rules/do-you-know-how-to-use-connection-strings/ConnStringNET2_Settings.jpg)
 
 **Step 2:** Open up the generated App.config under your common project. E.g. Northwind.Common/App.config
 
@@ -190,3 +190,5 @@ SqlConnection sqlConn =
 ::: bad
 Historical example - Access our connection string by strongly typed generated settings class...this is no longer the best way to do it
 :::
+
+

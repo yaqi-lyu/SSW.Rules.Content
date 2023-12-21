@@ -27,7 +27,7 @@ The levels of protection are:
 
 <!--endintro-->
 
-![Figure: You wouldn't play cricket without protective gear and you shouldn't code without protective tools](CricketHelmet.jpg)  
+![Figure: You wouldn't play cricket without protective gear and you shouldn't code without protective tools](/rules/do-you-use-the-best-code-analysis-tools/CricketHelmet.jpg)  
 
 ### Level 1
 
@@ -39,15 +39,15 @@ Get ReSharper to green on each file you touch. You want the files you work on to
 * Alt + Enter: Smart refactoring suggestions
 
 
-![Figure: ReSharper will show Orange when it detects that there is code that could be improved](48bc81\_image001.png)  
+![Figure: ReSharper will show Orange when it detects that there is code that could be improved](/rules/do-you-use-the-best-code-analysis-tools/48bc81_image001.png)  
 
-![Figure: ReSharper will show green when all code is tidy](image002.png)  
+![Figure: ReSharper will show green when all code is tidy](/rules/do-you-use-the-best-code-analysis-tools/image002.png)  
 
 ### Level 2
 
 Is to use     [Code Auditor.](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx)
 
-![Figure: Code Auditor shows a lot of warnings in this test project](CodeAuditor.png)  
+![Figure: Code Auditor shows a lot of warnings in this test project](/rules/do-you-use-the-best-code-analysis-tools/CodeAuditor.png)  
 
 **Note:** Document any rules you've turned off.
 
@@ -61,21 +61,21 @@ Is to use     [Link Auditor](http://www.ssw.com.au/ssw/LinkAuditor/).
 
 Is to use StyleCop to check that your code has consistent style and formatting.
 
-![Figure: StyleCop shows a lot of warnings in this test project](StyleCopInVS2010.png)  
+![Figure: StyleCop shows a lot of warnings in this test project](/rules/do-you-use-the-best-code-analysis-tools/StyleCopInVS2010.png)  
 
 ### Level 5
 
 Run Code Analysis (was FxCop) with the default settings or ReSharper with Code Analysis turned on
 
-![Figure: Run Code Analysis in Visual Studio](CodeAnalysisVS11.png)  
+![Figure: Run Code Analysis in Visual Studio](/rules/do-you-use-the-best-code-analysis-tools/CodeAnalysisVS11.png)  
 
-![Figure: The Code Analysis results indicate there are 17 items that need fixing](codeanalysis.png)  
+![Figure: The Code Analysis results indicate there are 17 items that need fixing](/rules/do-you-use-the-best-code-analysis-tools/codeanalysis.png)  
 
 ### Level 6
 
 Ratchet up your Code Analysis Rules until you get to 'Microsoft All Rules'
 
-![Figure: Start with the Minimum Recommended Rules, and then ratched up.](image003.png)  
+![Figure: Start with the Minimum Recommended Rules, and then ratched up.](/rules/do-you-use-the-best-code-analysis-tools/image003.png)  
 
 ### Level 7
 
@@ -85,7 +85,7 @@ All of these rules allow you to disable rules that you're not concerned about.  
 
 Create a      **GlobalSuppressions.cs** file in your project with the rules that have been turned off and why.
 
-![Figure: The suppressions file tells Code Analysis which rules it should disable for specific code blocks](suppressions-file.png)  
+![Figure: The suppressions file tells Code Analysis which rules it should disable for specific code blocks](/rules/do-you-use-the-best-code-analysis-tools/suppressions-file.png)  
 
 **More Information:** [Do you make instructions at the beginning of a project and improve them gradually?](/do-you-make-instructions-at-the-beginning-of-a-project-and-improve-them-gradually) and     https://docs.microsoft.com/en-us/visualstudio/code-quality/in-source-suppression-overview
 
@@ -94,6 +94,8 @@ Create a      **GlobalSuppressions.cs** file in your project with the rules that
 The gold standard is to use 
    [SonarQube](https://www.sonarqube.org/), which gives you the code analysis that the previous levels give you as wells as the ability to analyze technical debt and to see which code changes had the most impact to technical debt
 
-![Figure:  SonarQube workflow with Visual Studio and Azure DevOps](2016-06-08\_12-59-38.png)  
+![Figure:  SonarQube workflow with Visual Studio and Azure DevOps](/rules/do-you-use-the-best-code-analysis-tools/2016-06-08_12-59-38.png)  
 
-![Figure: SonarQube gives you the changes in code analysis results between each check-in](2016-06-08\_12-59-53.png)
+![Figure: SonarQube gives you the changes in code analysis results between each check-in](/rules/do-you-use-the-best-code-analysis-tools/2016-06-08_12-59-53.png)
+
+

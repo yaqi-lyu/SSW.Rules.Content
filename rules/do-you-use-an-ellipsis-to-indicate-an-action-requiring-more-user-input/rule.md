@@ -24,20 +24,21 @@ Microsoft applications use this technique to indicate whether or not the action 
 
 
 ::: good  
-![Figure: Good Example - Options menu in Outlook, with ellipsis](../../assets/Elipsis.gif)  
+![Figure: Good Example - Options menu in Outlook, with ellipsis](/rules/do-you-use-an-ellipsis-to-indicate-an-action-requiring-more-user-input/Elipsis.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Ellipsis on buttons that require further input](../../assets/RunDialog.gif)  
+![Figure: Good Example - Ellipsis on buttons that require further input](/rules/do-you-use-an-ellipsis-to-indicate-an-action-requiring-more-user-input/RunDialog.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Different ways of using the elipsis](../../assets/GoodElipsis3.png)  
+![Figure: Good Example - Different ways of using the elipsis](/rules/do-you-use-an-ellipsis-to-indicate-an-action-requiring-more-user-input/GoodElipsis3.png)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Elipsis being used on a button requiring user input](../../assets/GoodElipsis4.png)  
+![Figure: Good Example - Elipsis being used on a button requiring user input](/rules/do-you-use-an-ellipsis-to-indicate-an-action-requiring-more-user-input/GoodElipsis4.png)  
 :::
+

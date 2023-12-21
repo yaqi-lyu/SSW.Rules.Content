@@ -31,7 +31,7 @@ However, if you monitor the packages you have installed, and a vulnerability is 
 List all installed packages in a file and cross-check with the [advisory board](https://github.com/advisories) and Google it, and change each lines regularly. Not recommended because this consumes time.
 
 ::: bad
-![Figure: Bad example - Tracking list of packages manually](screen-shot-2022-05-20-at-12.11.25.png)
+![Figure: Bad example - Tracking list of packages manually](/rules/monitor-packages-for-vulnerabilities/screen-shot-2022-05-20-at-12.11.25.png)
 :::
 
 ### Level 1 - Using tools to scan for vulnerabilities
@@ -47,11 +47,11 @@ Regularly running this command can give a summarised report on known vulnerabili
 This is an improvement over manual tracking but still requires a developer to check out the latest code and then run the command.
 
 ::: ok
-![Figure: OK example - This npm audit command informs that there is 1 package with a high severity vulnerability](npm-audit-report.png)
+![Figure: OK example - This npm audit command informs that there is 1 package with a high severity vulnerability](/rules/monitor-packages-for-vulnerabilities/npm-audit-report.png)
 :::
 
 ::: ok
-![Figure: OK example - This dotnet command informs that there is 1 package with a high severity vulnerability](dotnet-audit-report.png)
+![Figure: OK example - This dotnet command informs that there is 1 package with a high severity vulnerability](/rules/monitor-packages-for-vulnerabilities/dotnet-audit-report.png)
 :::
 
 ### Level 2 - Automate vulnerability scanning (recommended)
@@ -68,9 +68,10 @@ Some of the available tools in the market:
 * [Sonatype](https://www.sonatype.com/) - $
 
 ::: good
-![Figure: Good example - Dependabot produces a vulnerability report periodically (and can raise a PR for you)](screen-shot-2022-05-20-at-12.48.33.png)
+![Figure: Good example - Dependabot produces a vulnerability report periodically (and can raise a PR for you)](/rules/monitor-packages-for-vulnerabilities/screen-shot-2022-05-20-at-12.48.33.png)
 :::
 
 ::: good
-![Figure: Good example - Snyk produces a vulnerability detection alert email](screen-shot-2022-05-20-at-12.38.26.png)
+![Figure: Good example - Snyk produces a vulnerability detection alert email](/rules/monitor-packages-for-vulnerabilities/screen-shot-2022-05-20-at-12.38.26.png)
 :::
+

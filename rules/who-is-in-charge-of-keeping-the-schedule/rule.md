@@ -27,7 +27,7 @@ On the day of your event, chat to the speaker and give them the Speaker Checklis
 * Tell the audience the agenda, so they know the break times
 * We recommend the following breaks:
 
-  ![Figure: A schedule to give to your speakers to help with time keeping](Schedule.jpg)
+  ![Figure: A schedule to give to your speakers to help with time keeping](/rules/who-is-in-charge-of-keeping-the-schedule/Schedule.jpg)
 
 ### 2. Breaks
 
@@ -52,3 +52,4 @@ Draw yourself a rough diagram of the room, start with intros an then go around t
 ### 5. Evaluations
 
 * Please give your evaluation forms out around 4pm to give people time to complete them
+

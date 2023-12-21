@@ -19,24 +19,25 @@ Follow these steps to check your website in WhatsUp:
 <!--endintro-->
 
 1. Add your website as a new device. 
-![Figure: New device](running1.gif)  
+![Figure: New device](/rules/check-your-website-is-running/running1.gif)  
 
 2. Ping monitor is added automatically. 
-![Figure: Ping monitor](running2.gif)  
+![Figure: Ping monitor](/rules/check-your-website-is-running/running2.gif)  
 
 3. Add an HTTP Content Scan monitor. 
-![Figure: HTTP Content Scan](running3.gif)  
+![Figure: HTTP Content Scan](/rules/check-your-website-is-running/running3.gif)  
 
 4. Edit the scan script. In the script, you can see 2 keywords "Send" and "Expect".
 "Send" expression is an  HTTP request to your website.
 "Expect" expression is a regular expression to check the key word in response from your website.
  
-![Figure: Edit scan script](running4.gif)  
+![Figure: Edit scan script](/rules/check-your-website-is-running/running4.gif)  
 
 5. Add the monitor to your device. 
-![Figure: Add monitor](running5.gif)  
+![Figure: Add monitor](/rules/check-your-website-is-running/running5.gif)  
  Once a device is down or up, a WhatsUp action will tell SQL Reporting Services to send out a notification report. 
 Our report looks like this: 
-![Figure: Website doesn't work](running6.gif)  
+![Figure: Website doesn't work](/rules/check-your-website-is-running/running6.gif)  
 
-![Figure: Website works](running7.gif)
+![Figure: Website works](/rules/check-your-website-is-running/running7.gif)
+

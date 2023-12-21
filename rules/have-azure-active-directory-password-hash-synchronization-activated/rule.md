@@ -27,7 +27,8 @@ The web requests don't even come to your server, they are server by Microsoft's 
 
 
 ::: good  
-![Figure: Good Example – AAD PHS infrastructure workflow](aad-phs.png)  
+![Figure: Good Example – AAD PHS infrastructure workflow](/rules/have-azure-active-directory-password-hash-synchronization-activated/aad-phs.png)  
 :::
 
 You can check out a deep dive of AAD PHS in official Microsoft documentation at [What is password hash synchronization with Azure AD?](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-phs)
+

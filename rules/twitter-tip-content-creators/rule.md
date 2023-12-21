@@ -20,4 +20,4 @@ You can use 'Tip' to anyone you follow that has enabled this feature in their Tw
 
 Tips is only available for users on iOS and Android for now. To tip someone, just check first if they have a little money icon on their Twitter profile pages. For Android users, you can also find it on their profile while in [Twitter Spaces.](https://help.twitter.com/en/using-twitter/spaces)
 
-![Figure: A money icon on someone's Twitter profile page means you can tip their account through Tips ✅](twitter-tips.png)
+![Figure: A money icon on someone's Twitter profile page means you can tip their account through Tips ✅](/rules/twitter-tip-content-creators/twitter-tips.png)

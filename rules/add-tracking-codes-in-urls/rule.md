@@ -30,7 +30,7 @@ What is the difference in these 2 URLs?
 
 With the second URL you will get reports like this:
 
-![Figure: UTM codes let you track campaigns and referrers in Google Analytics](UTM-codes-in-google-analytics.jpg)
+![Figure: UTM codes let you track campaigns and referrers in Google Analytics](/rules/add-tracking-codes-in-urls/UTM-codes-in-google-analytics.jpg)
 
 This enables the page owner to find out how visitors are finding the page. For example, if they're advertising ProductX on Google, and on Facebook, and in email blasts, all linking to the same page, they can customise the links from each of these pages with a unique tracking code. This code will identify the traffic that comes from that source, along with other useful information like which advertising campaign the traffic came from.
 
@@ -47,3 +47,4 @@ With the long URL, there's a lot of additional information that can be taken fro
 - **campaign** - The medium is how it's delivered, like a postcard, PPC, email or social media. The campaign is typically what you're promoting, or the special way you're promoting it (like a holiday sale).
 
 - **referrer** – this relates to the "expid" code earlier in the URL – it shows which variant of the a/b testing you were referred from (in this case, it is the "b" version of the experiment)
+

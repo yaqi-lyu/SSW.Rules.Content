@@ -27,4 +27,5 @@ There are five things that the story owner is responsible for:
 
 The objective of the Review meeting is to have the story accepted quickly.
 
-![Figure: Out of the box the Microsoft Scrum Template supports a ‘Story Owner’ via the ‘Owned By’ field*](NewProductBacklog.jpg)
+![Figure: Out of the box the Microsoft Scrum Template supports a ‘Story Owner’ via the ‘Owned By’ field*](/rules/do-you-know-what-a-story-owner-is-responsible-for/NewProductBacklog.jpg)
+

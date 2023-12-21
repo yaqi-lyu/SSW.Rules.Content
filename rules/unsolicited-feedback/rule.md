@@ -104,6 +104,7 @@ Phrasing things correctly is important too. For example, let's say you watched a
 
 Sometimes the feedback you might want to give addresses an aspect of someone’s self rather than their work. For example, someone might be eating with their mouth open in a meeting and it looks unprofessional. If the feedback is personal like this, it's best to use a private chat or wait for a private setting to address it. This way, the recipient can accept the feedback without external pressure or judgment.
 
-![Figure: Example of criticism in a private Teams chat](private-criticism.png)
+![Figure: Example of criticism in a private Teams chat](/rules/unsolicited-feedback/private-criticism.png)
 
 For more information, see our rule [Do you know the nice way to correct someone?](/do-you-know-the-nice-way-to-correct-someone)
+

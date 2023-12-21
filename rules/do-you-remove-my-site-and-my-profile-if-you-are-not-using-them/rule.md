@@ -22,7 +22,7 @@ redirects:
 
 <!--endintro-->
 
-![Figure: Links need to be hidden](LinksNeedToBeRemove.png) 
+![Figure: Links need to be hidden](/rules/do-you-remove-my-site-and-my-profile-if-you-are-not-using-them/LinksNeedToBeRemove.png) 
 
 You can follow below steps to hide “My Site” and “My Profile”. There are a few options, based on what you need to do:
 
@@ -31,13 +31,13 @@ You can follow below steps to hide “My Site” and “My Profile”. There are
 1. Going to **Central Admin | Application Management | Service Applications | Configure service application associations**, and choose “default” link:
   
 ::: bad    
-![Figure: Bad example - Choose “default” link](RemoveAssociation.png) 
+![Figure: Bad example - Choose “default” link](/rules/do-you-remove-my-site-and-my-profile-if-you-are-not-using-them/RemoveAssociation.png) 
 :::
 
 2. Uncheck the “User Profile Service Application”  in the opened page, then click “OK”:
     
 ::: bad
-![Figure: Bad example - Uncheck the association for "User Profile Service"](RemoveAssociation2.png) 
+![Figure: Bad example - Uncheck the association for "User Profile Service"](/rules/do-you-remove-my-site-and-my-profile-if-you-are-not-using-them/RemoveAssociation2.png) 
 :::
 
 
@@ -48,13 +48,13 @@ You can remove it for most people - but leave it for only some users.
 1. Go to **Central Admin | Application Management | Service Applications | Manage service applications**, and click the link of “User Profile Service Application”, navigate to its manage page:
   
 ::: ok
-![Figure: OK example - “User Profile Service Application” manage page](UserProfileServiceManagePage.png) 
+![Figure: OK example - “User Profile Service Application” manage page](/rules/do-you-remove-my-site-and-my-profile-if-you-are-not-using-them/UserProfileServiceManagePage.png) 
 :::
 
 2. Click **People | Manage User Permissions**, you can customize the user profile permission for specific users: 
 
 ::: ok
-![Figure: OK example - Customize "User Profile Permissions"](CustomUserProfileServicePermission.png) 
+![Figure: OK example - Customize "User Profile Permissions"](/rules/do-you-remove-my-site-and-my-profile-if-you-are-not-using-them/CustomUserProfileServicePermission.png) 
 :::
   
 ### Delete the service (recommended if you don't need the service at all in your farm)
@@ -64,7 +64,7 @@ You can remove it for most people - but leave it for only some users.
 1. Go to **Central Admin | Application Management | Service Applications | Manage service applications**, and select “User Profile Service Application”, then click the “Delete” button on the ribbon:
 
 ::: good
-![Figure: Good example - Delete "User Profile Service"](DeleteUserProfileService.png) 
+![Figure: Good example - Delete "User Profile Service"](/rules/do-you-remove-my-site-and-my-profile-if-you-are-not-using-them/DeleteUserProfileService.png) 
 :::
 
 ::: greybox
@@ -73,3 +73,4 @@ You can remove it for most people - but leave it for only some users.
 - [“Stuck on Starting”: Common Issues with SharePoint Server 2010 User Profile Synchronization](http://www.harbar.net/articles/sp2010ups2.aspx)
 - [Rational Guide to implementing SharePoint Server 2010 User Profile Synchronization](http://www.harbar.net/articles/sp2010ups.aspx)
 :::
+

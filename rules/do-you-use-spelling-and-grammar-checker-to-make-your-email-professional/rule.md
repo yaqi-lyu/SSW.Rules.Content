@@ -19,4 +19,5 @@ Improper spelling, grammar, and punctuation on your emails give a bad impression
 
 <!--endintro-->
 
-![Figure: You should also check “Always check spelling before sending” to ensure your message doesn't have mistakes](outlook-spelling.png)
+![Figure: You should also check “Always check spelling before sending” to ensure your message doesn't have mistakes](/rules/do-you-use-spelling-and-grammar-checker-to-make-your-email-professional/outlook-spelling.png)
+

@@ -19,7 +19,7 @@ To RDP, enable Remote desktop in settings [How to enable Remote Desktop](https:/
 
 
 ::: bad
-![Figure: Bad example - Default Remote Desktop Connection](rdp_bad.jpg)
+![Figure: Bad example - Default Remote Desktop Connection](/rules/remote-desktop-manager/rdp_bad.jpg)
 :::
 
 ### Solution
@@ -29,7 +29,7 @@ Devolution is a secure website that offers a free Remote Connection Management c
 Multiple computers can be remotely accessed at the same time and have a good GUI interface 
 
 ::: good
-![Figure: Good example - Remote Desktop Manager (Devolutions)](rdp_good.jpg)
+![Figure: Good example - Remote Desktop Manager (Devolutions)](/rules/remote-desktop-manager/rdp_good.jpg)
 :::
 
 To install the application, check [devolutions.net](https://devolutions.net/)

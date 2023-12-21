@@ -26,5 +26,6 @@ Avoid curt emails when correcting people. The sandwich rule approach is an effec
 This optimistic approach makes the receiver digest the feedback in a better way, allowing you to maintain a healthy relationship with your team members and clients.
 
 ::: bad
-![Figure: Bad example - Doing the opposite of the Sandwich rule](criticize-behavior-not-person.gif)
+![Figure: Bad example - Doing the opposite of the Sandwich rule](/rules/do-you-follow-the-sandwich-rule/criticize-behavior-not-person.gif)
 :::
+

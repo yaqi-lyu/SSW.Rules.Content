@@ -14,7 +14,7 @@ redirects: []
 
 ---
 
-![](expense-reimbursement.png)
+![](/rules/do-you-know-how-to-claim-expense-reimbursements/expense-reimbursement.png)
 
 You should be reimbursed for all reasonable expenses incurred in carrying out your duties, which are above your normal costs, to and from the office.
 
@@ -44,3 +44,4 @@ All expense claims must:
 * Be made within a month
 * Be authorized by the relevant Manager
 :::
+

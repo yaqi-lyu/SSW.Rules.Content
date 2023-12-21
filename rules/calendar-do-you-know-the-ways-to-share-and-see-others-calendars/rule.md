@@ -30,7 +30,7 @@ You can share your Outlook calendar with another person or a group in Outlook. T
 
 See [Calendar Permissions - Do you share your calendars?](/calendar-do-you-allow-full-access-to-calendar-admins) [](/calendar-do-you-allow-full-access-to-calendar-admins) for step-by-step instructions on how to share your calendar or see another person's shared calendar.
 
-![Figure: The Outlook calendar](outlook-calendar-example.png)
+![Figure: The Outlook calendar](/rules/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook-calendar-example.png)
 
 ### Option 2: Using Dynamics 365 CRM Appointments - See everyone's tracked appointments
 
@@ -38,6 +38,6 @@ If you do not have access to someone’s calendar, you can see their tracked app
 
 This can keep track of important things like client work and leave. See [Scheduling - Do you know how to book developers for a project?](/scheduling-do-you-know-how-to-book-developers-for-a-project) on how to add a booking to CRM Service Calendar.
 
-![Figure: Appointments in Dynamics 365](dynamics-appointments.png)
+![Figure: Appointments in Dynamics 365](/rules/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/dynamics-appointments.png)
 
 **Note:** This will only show appointments that have been tracked in CRM.

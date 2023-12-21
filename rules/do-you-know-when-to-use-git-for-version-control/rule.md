@@ -21,7 +21,7 @@ Team Foundation Server Update 2 and Team Foundation Server 2013 comes with built
 
 <!--endintro-->
 
-![Figure: How you start using Git on TFS](git-screen.jpg)  
+![Figure: How you start using Git on TFS](/rules/do-you-know-when-to-use-git-for-version-control/git-screen.jpg)  
 
 You should use Git if you:
 
@@ -40,3 +40,4 @@ There are also several disadvantages:
 
 
 At this point, SSW still recommends Team Foundation Version Control (TFVC) as the version control system of choice.
+

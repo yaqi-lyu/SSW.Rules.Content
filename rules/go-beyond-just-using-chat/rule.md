@@ -22,7 +22,7 @@ guid: fb00d344-18f4-4154-8ea9-865bfbbb3f56
 Communication can be difficult (even if English is your first language!). It might be tempting to only communicate via text in IM, but this will not improve your skills or build a relationship as well as communicating verbally.
 
 ::: good
-![Figure: Good example - Asking ‘Can I call you?’ (Especially for complicated conversations)](skype-conference.jpg)
+![Figure: Good example - Asking ‘Can I call you?’ (Especially for complicated conversations)](/rules/go-beyond-just-using-chat/skype-conference.jpg)
 :::
 
 ### Tips to have a better call
@@ -41,7 +41,7 @@ Try to always answer the call with video (if weak bandwidth, use it for the firs
 * Check the image quality of the camera. 
 * Beware of the angle of the camera - laptops with thin bezels now put the camera at the base, looking up your nose. Avoid them. Frame your head and shoulders in the shot, and keep the camera lens at or above **eye level** - [use a stand if necessary](https://www.dicksmith.com.au/da/buy/kogan-height-adjustable-laptop-monitor-stand-kogan)
 
-![Figure: Height-adjustable monitor and laptop stand](screen-stands.png)
+![Figure: Height-adjustable monitor and laptop stand](/rules/go-beyond-just-using-chat/screen-stands.png)
 
 * Consider what is in the background.
 * Keep a light source on your face, and try to avoid sitting with a window behind you.
@@ -49,11 +49,11 @@ Try to always answer the call with video (if weak bandwidth, use it for the firs
 * Get your video background right. Read [Rules to Better Branding](/rules-to-better-branding)  
 
 ::: bad
-![Figure: Bad Example - Ugly background showing an air conditioner](Bad-Video-Background-orgn.png)
+![Figure: Bad Example - Ugly background showing an air conditioner](/rules/go-beyond-just-using-chat/Bad-Video-Background-orgn.png)
 :::
 
 ::: good
-![Figure: Good Example - Nice background](Good-Video-Background-orgn.png)
+![Figure: Good Example - Nice background](/rules/go-beyond-just-using-chat/Good-Video-Background-orgn.png)
 :::
 
 **Text** 
@@ -65,3 +65,4 @@ For more info see [How to look and sound great online](https://www.cnet.com/how-
 ::: greybox
 **Tip:** Help the other person with following this rule by taking a screenshot and giving them a mark /10 with good and bad feedback on the call quality and background.
 :::
+

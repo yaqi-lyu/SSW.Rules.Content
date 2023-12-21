@@ -42,9 +42,10 @@ Any opportunity that has not yet been converted to a sale will be at one of the 
 The old Sales Pipeline was 9 steps, whereas this new one is 6 steps.
 
 ::: bad
-![Figure: Bad example – The old sales pipeline](old-sales-pipeline.jpg)
+![Figure: Bad example – The old sales pipeline](/rules/do-you-know-the-6-stages-in-the-sales-pipeline/old-sales-pipeline.jpg)
 :::
 
 ::: good
-![Figure: Good example – The new sales pipeline](new-sales-pipeline.jpg)
+![Figure: Good example – The new sales pipeline](/rules/do-you-know-the-6-stages-in-the-sales-pipeline/new-sales-pipeline.jpg)
 :::
+

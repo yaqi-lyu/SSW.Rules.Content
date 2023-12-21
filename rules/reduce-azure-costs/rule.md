@@ -59,7 +59,7 @@ Key questions to ask:
 
 The cumulative costs of a selected area over a given time period e.g. the cost of a subscription charted over the last year showing the period of higher or sudden growth during that time. 
 
-![Figure: Azure Portal | Cost Analysis | Scoped Area Chart e.g. in February it was deployed and in August a marketing campaign caused more traffic](/area-chart.jpg)
+![Figure: Azure Portal | Cost Analysis | Scoped Area Chart e.g. in February it was deployed and in August a marketing campaign caused more traffic](/rules/reduce-azure-costs/area-chart.jpg)
 
 ### Resource Group
 
@@ -67,7 +67,7 @@ The cost of each resource group in the scoped area e.g the cost of the Northwind
 
 Look at the most expensive resource group and try to reduce it. Ignore the tiny ones.
 
-![Figure: Azure Portal | Cost Analysis | Resource Group Breakdown](/resource-groups.jpg)
+![Figure: Azure Portal | Cost Analysis | Resource Group Breakdown](/rules/reduce-azure-costs/resource-groups.jpg)
 
 ### Location
 
@@ -75,7 +75,7 @@ The cost of each location e.g. Australia East.
 
 If you have your applications spread across multiple locations, this chart can help figure out if one of those locations is costing more than others. Consider scaling each location to the scale of usage in that location ⚖️.
 
-![Figure: Azure Portal | Cost Analysis | Location breakdown ](/locations.jpg)
+![Figure: Azure Portal | Cost Analysis | Location breakdown ](/rules/reduce-azure-costs/locations.jpg)
 
 ### Service type
 
@@ -83,10 +83,11 @@ The cost of each service used e.g. Azure App Service.
 
 If a specific service is costing a lot of money, consider if there is a service that might be better suited, or if that service can have its consumption model adapted to better fit the usage levels.
 
-![Figure: Azure Portal | Cost Analysis | Service type breakdown](/services.jpg)
+![Figure: Azure Portal | Cost Analysis | Service type breakdown](/rules/reduce-azure-costs/services.jpg)
 
 ## What if you suspect a specific resource is a problem?
 
 The Azure Cost Analysis tool also allows for different views to be selected. If you think a specific resource is causing a problem, then select the "CostByResource" view and then you can view each aspect of a resource which is costing money. That way you can identify an area which can be improved 🎯.
 
-![Figure: Azure Portal | Cost Analysis | View | CostByResource | Resource breakdown](/service-breakdown.jpg)
+![Figure: Azure Portal | Cost Analysis | View | CostByResource | Resource breakdown](/rules/reduce-azure-costs/service-breakdown.jpg)
+

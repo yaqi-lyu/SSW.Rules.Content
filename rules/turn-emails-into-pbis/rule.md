@@ -128,11 +128,11 @@ When there is a new update in emails do the following ASAP:
 2. Mention that it was updated as per the email thread in the discussion
 
 ::: bad
-![Figure: Bad example - Don't work from your email inbox!](EmailExample.png)
+![Figure: Bad example - Don't work from your email inbox!](/rules/turn-emails-into-pbis/EmailExample.png)
 :::
 
 ::: good
-![Figure: Good example - Put it in a PBI!](PbiExample.png)
+![Figure: Good example - Put it in a PBI!](/rules/turn-emails-into-pbis/PbiExample.png)
 :::
 
 ### Turn emails into Tickets
@@ -166,3 +166,4 @@ Thanks for sending this through. Please remember to send tasks to our Zendesk ad
 ::: good
 Figure: Good example - send it to Zendesk!
 :::
+

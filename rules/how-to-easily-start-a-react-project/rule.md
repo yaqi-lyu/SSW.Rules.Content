@@ -23,11 +23,11 @@ Vite is a reliable frontend build tool for building fast and optimised frontend 
 Vite is much faster than using create-react-app, mainly because Vite does not use Webpack for bundling assets. It instead uses esbuild and Rollup, which are much faster and more modern tools for building great frontend web apps. 
 
 ::: bad
-![Bad example: Using the create-react-app npm package](new-create-react-app.png)
+![Bad example: Using the create-react-app npm package](/rules/how-to-easily-start-a-react-project/new-create-react-app.png)
 :::
 
 ::: good
-![Good example: Use Vite to generate a react-ts project](vite.png)
+![Good example: Use Vite to generate a react-ts project](/rules/how-to-easily-start-a-react-project/vite.png)
 :::
 **Note:** Vite requires Node version 14.18+ or 16+. 
 
@@ -40,11 +40,11 @@ npm create vite@latest
 2. Enter the name of your project
 3. Select "React" from the list of frameworks
 
-![Figure: The framework options with Vite](vite-pick.png)
+![Figure: The framework options with Vite](/rules/how-to-easily-start-a-react-project/vite-pick.png)
 
 4. Then, select the "TypeScript" variant from the list
 
-![Figure: The variant options with Vite](vite-pick-typescript.png)
+![Figure: The variant options with Vite](/rules/how-to-easily-start-a-react-project/vite-pick-typescript.png)
 
 5. All done! Now navigate into the directory and run the app with the following commands:
 
@@ -71,3 +71,4 @@ As per the Gatsby docs (https://www.gatsbyjs.com/docs/quick-start/), the most ef
 npm init gatsby
 ```
 Through the provided prompts, you can also select your preferred language (JavaScript or TypeScript), CMS, and styling system that you intend to use.
+

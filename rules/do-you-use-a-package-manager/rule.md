@@ -21,7 +21,7 @@ A package manager is a collection of software tools that automate the process of
 
 Chocolatey is a great package manager, easy to use way to manage software on Windows. 
 
-![](chocolatey.png)
+![](/rules/do-you-use-a-package-manager/chocolatey.png)
 
 To get started with Chocolatey open up Command Prompt in Administrative mode, type in:
 
@@ -58,3 +58,4 @@ For more information see [MS Learn](https://learn.microsoft.com/en-us/windows/pa
 ## Option 3: Homebrew
 
 Homebrew is the preferred option when on a Mac
+

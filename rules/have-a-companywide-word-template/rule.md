@@ -28,11 +28,11 @@ A company-wide Word template brings many benefits e.g.:
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - Creating an email/document does not have the company templates](word-template-bad.jpg)  
+![Figure: Bad example - Creating an email/document does not have the company templates](/rules/have-a-companywide-word-template/word-template-bad.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - Creating an email/document with the company templates](word-template-good.jpg)  
+![Figure: Good example - Creating an email/document with the company templates](/rules/have-a-companywide-word-template/word-template-good.jpg)  
 :::
 
 How to have a company-wide Word template:
@@ -69,3 +69,4 @@ Good example - New Login script on Github
 **Note #1:** We don't want people using .RTF emails.
 
 **Note #2:** If you use a Mac computer, a login script will not work. In order to use a Word template, you must open the template on Word locally, hit "Save as Template", and then upload that document to Teams.
+

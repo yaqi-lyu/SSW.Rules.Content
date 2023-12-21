@@ -19,11 +19,11 @@ By default, only your files will be copied back to LIVE. You can move content by
 
 After logging into your live site's /wp-admin click the WP Engine button on the top left-hand side. Then, click the "Staging" tab.
 
-![Figure: Staging tab in WordPress](staging-tab.jpg)  
+![Figure: Staging tab in WordPress](/rules/do-you-know-how-to-deploy-changes-from-staging-to-live/staging-tab.jpg)  
 
 Then, choose from the following options:
 
-![](wp-tables.png)  
+![](/rules/do-you-know-how-to-deploy-changes-from-staging-to-live/wp-tables.png)  
  
 When pushing changes from staging to live the file system from staging does not overwrite the live file system but instead, merges with the live file system.
 
@@ -38,5 +38,6 @@ This means any updated files in staging will be updated on live after a push, bu
 **If you push no database tables,** only changes to theme files, core WordPress files and plugin files will be pushed to the live site.
 
 **If you select all tables, any new posts, pages or users changes made to the live site during your work in the staging area will be overwritten.**
+
 
 

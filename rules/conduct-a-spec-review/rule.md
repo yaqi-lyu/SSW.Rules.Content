@@ -31,7 +31,7 @@ E.g. Mr. Northwind learns that the idea he presented at the initial meeting will
 
 <!--endintro-->
 
-![Figure: A ballpark or proposal should start small and not be a big commitment](proposal.jpg)
+![Figure: A ballpark or proposal should start small and not be a big commitment](/rules/conduct-a-spec-review/proposal.jpg)
 
 ::: greybox
 *"From this initial meeting, the ballpark is 6 months and $200k+GST"*
@@ -133,4 +133,4 @@ Always track timesheets against a separate Spec Review project.
 
 It makes project cost reporting difficult later if you don't, since the cost we're looking for is always the "post-Spec Review cost" that clients can compare to the estimate you gave in your Spec Review.
 
-![Figure: You wouldn't want these numbers combined, as it may look like a budget overrun](project-costs.png)
+![Figure: You wouldn't want these numbers combined, as it may look like a budget overrun](/rules/conduct-a-spec-review/project-costs.png)

@@ -22,10 +22,11 @@ redirects: []
 
 
 ::: bad  
-![Figure: Bad Example - Click New, enter relevant contact information, and click "Save and Close"](NewContact.jpg)  
+![Figure: Bad Example - Click New, enter relevant contact information, and click "Save and Close"](/rules/data-entry-do-you-know-how-to-create-new-contacts/NewContact.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example - open the Account and create the contact from there](Sales-COntacts.jpg)  
+![Figure: Good Example - open the Account and create the contact from there](/rules/data-entry-do-you-know-how-to-create-new-contacts/Sales-COntacts.jpg)  
 :::
+

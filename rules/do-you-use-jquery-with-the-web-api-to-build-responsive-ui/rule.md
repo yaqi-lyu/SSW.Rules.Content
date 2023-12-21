@@ -16,4 +16,5 @@ redirects: []
 You should build a responsive UI using jQuery and a Web API.
 
 <!--endintro-->
-![build responsive bad example](build-responsive-bad.jpg) Bad Example – Posting the whole form in a submit requires the whole page to be posted to the server ![build responsive](build-responsive-good.jpg) Figure: Good Example - Using jQuery to call the Web API provides a great user experience. The whole page does not need to be posted to the server
+![build responsive bad example](/rules/do-you-use-jquery-with-the-web-api-to-build-responsive-ui/build-responsive-bad.jpg) Bad Example – Posting the whole form in a submit requires the whole page to be posted to the server ![build responsive](/rules/do-you-use-jquery-with-the-web-api-to-build-responsive-ui/build-responsive-good.jpg) Figure: Good Example - Using jQuery to call the Web API provides a great user experience. The whole page does not need to be posted to the server
+

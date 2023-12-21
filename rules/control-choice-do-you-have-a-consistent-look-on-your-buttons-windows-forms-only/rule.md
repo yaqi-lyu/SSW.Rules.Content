@@ -16,7 +16,7 @@ redirects:
 
 **Question:** What is wrong with this Picture?
 
-![Figure: What is wrong?](../../assets/InconsistentButtonStyles.jpg)  
+![Figure: What is wrong?](/rules/control-choice-do-you-have-a-consistent-look-on-your-buttons-windows-forms-only/InconsistentButtonStyles.jpg)  
 
 <!--endintro-->
 
@@ -27,6 +27,7 @@ redirects:
 * *Cancel* - Window XP Style
 
 
-![Figure: Even labels need to use FlatStyle.System. Can you spot the wrong label?](../../assets/BadDivider.gif)  
+![Figure: Even labels need to use FlatStyle.System. Can you spot the wrong label?](/rules/control-choice-do-you-have-a-consistent-look-on-your-buttons-windows-forms-only/BadDivider.gif)  
 
 See our [Rules to Better Windows Forms to implement XP Themes in .NET](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#XPThemes).
+

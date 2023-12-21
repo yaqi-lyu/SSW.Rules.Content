@@ -19,11 +19,11 @@ To avoid this hassle and boost productivity, each desk should have a dock setup 
 <!-- endintro -->
 
 ::: bad
-![Figure: Bad Example - Plug predators leave messy desks](bad-messy-desks.png)
+![Figure: Bad Example - Plug predators leave messy desks](/rules/desk-setups/bad-messy-desks.png)
 :::
 
 ::: good
-![Figure: Good Example - Clean desk with a dock](good-clean-desks.png)
+![Figure: Good Example - Clean desk with a dock](/rules/desk-setups/good-clean-desks.png)
 :::
 
 If you have a Thinkpad dock, MacOS users will need to install a driver to use it. 
@@ -36,4 +36,5 @@ If you are having issues with the docks, try these steps
 1. Update OS
 2. Update/install drivers
 3. Restart your computer
+
 

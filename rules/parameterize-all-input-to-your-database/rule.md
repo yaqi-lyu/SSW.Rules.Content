@@ -17,7 +17,7 @@ redirects:
 It is important to parameterize all input to your database and it’s easy to implement.
 Doing so will also reduce a lot of headaches down the track.
 
- ![](ParameterizeSqlInputsXKCD.png) **Figure: What can happen if you don’t parameterize your inputs
+ ![](/rules/parameterize-all-input-to-your-database/ParameterizeSqlInputsXKCD.png) **Figure: What can happen if you don’t parameterize your inputs
 Source: [xkcd.com](https://xkcd.com/327/)
 ** 
 
@@ -96,3 +96,4 @@ $SqlCmd.Parameters.Add("@dateTimeValue", [System.Data.SqlDbType]::DateTime2).Val
 Figure: Good Example - PowerShell SQL DateTime Parameter
 
 :::
+

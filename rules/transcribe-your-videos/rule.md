@@ -22,7 +22,7 @@ One of the few disadvantages of videos over written content is that Google can'
 
 It also helps people to copy and paste important parts of what's said on the video.
 
-![Figure: How to improve the Google juice for this video?](screen-shot-2021-11-02-at-2.42.34-pm.png)
+![Figure: How to improve the Google juice for this video?](/rules/transcribe-your-videos/screen-shot-2021-11-02-at-2.42.34-pm.png)
 
 The keywords for the video above are:
 
@@ -45,7 +45,7 @@ How to capture all of these missing keywords? You can't just overload your conte
 
 The answer is to have your video content transcribed. As it provides drastically benefits for the discoverability of your video content, while the organic nature of the written material ensures it is not flagged as spam.
 
-![Figure: Include a transcript in your content](screen-shot-2021-11-02-at-2.44.17-pm.png)
+![Figure: Include a transcript in your content](/rules/transcribe-your-videos/screen-shot-2021-11-02-at-2.44.17-pm.png)
 
 Check the whole transcription on Chris Briggs' blog post: [VIDEO – The Internet of Things - Ilija Injac on all things IoT and .NET](http://blog.chrisbriggsy.com/Ilija-Injac-on-IoT).
 

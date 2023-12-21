@@ -25,7 +25,7 @@ Your automated tests require periodic attention and review — or else they're l
 
 <!--endintro-->
 
-![Figure: Keep your valuable tests and don't be afraid to throw away irrelevant tests of no value](keep-throw-away.jpg)
+![Figure: Keep your valuable tests and don't be afraid to throw away irrelevant tests of no value](/rules/review-automated-tests/keep-throw-away.jpg)
 
 ## Tips for reviewing tests
 
@@ -82,3 +82,4 @@ This is where regular review can help us, as Michael notes in his blog post, [On
 When we have unjustified trust in our checks, we have the opposite problem that we have with the smoke detector: we're unlikely to notice that the alarm doesn’t go off when it should.
 
 > We can choose to hold on to the possibility that something might be wrong with our checks, and to identify the absence of red checks as meta-information; a suspicious silence, instead of a comforting one. The responsible homeowner checks the batteries on the smoke alarm."
+

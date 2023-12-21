@@ -32,11 +32,11 @@ Only receptionists should have SkypePOP installed.
 
 2. The CRM contact pops up (or a "new contact" form if the number is not already in your CRM):
 
-![Figure: Example contact popup on our CRM from incoming caller with the number +61420241201](1.png)
+![Figure: Example contact popup on our CRM from incoming caller with the number +61420241201](/rules/how-to-install-skypepop/1.png)
 
 3. Send Email
 
-![Figure: This email will be created – send it to the person you are forwarding the call to](2.png)
+![Figure: This email will be created – send it to the person you are forwarding the call to](/rules/how-to-install-skypepop/2.png)
 
 
 4. Inform the person the call is being transferred to that you have sent him an email with the CRM Contact
@@ -51,33 +51,33 @@ Only receptionists should have SkypePOP installed.
 
 2. Open the **Connections** settings
 
-![Figure: Right click on the SkypePOP icon in the taskbar](2016-11-18_16-35-15.jpg)
+![Figure: Right click on the SkypePOP icon in the taskbar](/rules/how-to-install-skypepop/2016-11-18_16-35-15.jpg)
 
 3. Add your CRM connection details
 
 **Tip:** Go to Main | Settings | Customizations | Developer Resources in order to find the address for your CRM 
 
-![Figure: Copy the Endpoint Address for your Organization Service](CRM_Endpoint_Address_SkypePOP.jpg)
+![Figure: Copy the Endpoint Address for your Organization Service](/rules/how-to-install-skypepop/CRM_Endpoint_Address_SkypePOP.jpg)
 
-![Figure: Enter your CRM Connection Details](2016-12-02_15-14-23.jpg)
+![Figure: Enter your CRM Connection Details](/rules/how-to-install-skypepop/2016-12-02_15-14-23.jpg)
 
 4. Change the SkypePOP  **Preferences**
 
-![Figure: Right-click on the icon in the taskbar and select 'Preferences'](2016-12-22_9-13-03.jpg)
+![Figure: Right-click on the icon in the taskbar and select 'Preferences'](/rules/how-to-install-skypepop/2016-12-22_9-13-03.jpg)
 
 5. Configure the **Dynamics CRM** settings to something similar to this: 
       
-![Figure: These are the default SkypePOP settings](50.jpg)
+![Figure: These are the default SkypePOP settings](/rules/how-to-install-skypepop/50.jpg)
 
 6. Open Skype for Business
 
 7. Review the **SkypePOP - Skype for Business** settings
       
-![Figure: These are the default Skype for Business settings](2016-11-18_16-44-59.jpg)
+![Figure: These are the default Skype for Business settings](/rules/how-to-install-skypepop/2016-11-18_16-44-59.jpg)
 
 8. Ensure both Dynamics CRM and Skype for Business are connected by clicking on the tray icon
 
-![Figure: Check that you are properly connected - blue is success](2016-11-18_16-47-00.jpg)
+![Figure: Check that you are properly connected - blue is success](/rules/how-to-install-skypepop/2016-11-18_16-47-00.jpg)
 
 
 The SkypePOP demo license will stop working after 5 hours or 5 calls
@@ -87,3 +87,4 @@ The SkypePOP demo license will stop working after 5 hours or 5 calls
 9. Restart your PC
 
 10. Test with SNOM phone to verify SkypePOP is working correctly
+

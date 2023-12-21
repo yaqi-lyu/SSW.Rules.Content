@@ -18,11 +18,11 @@ One side effect of having busy forms is that it doesn't scale down.
 Each user prefers to have their own resolution. You must check if your controls will fit on the user's screen. Think about on which computers your application will run, and what devices will display it. To be on the safe side, it is advisable to fit your controls on a 1024 x 768px screen. Our projector has that resolution and it may well be used for presenting your application to the client.
 
 ::: bad  
-![Figure: Bad example - Form is too large to fit inside 1024x768px resolution](../../assets/InterfaceResBadExample.jpg)  
+![Figure: Bad example - Form is too large to fit inside 1024x768px resolution](/rules/does-your-applications-interface-fit-in-a-small-screen-resolution/InterfaceResBadExample.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - Form fits inside any screen resolution](../../assets/InterfaceResGoodExample.jpg)  
+![Figure: Good example - Form fits inside any screen resolution](/rules/does-your-applications-interface-fit-in-a-small-screen-resolution/InterfaceResGoodExample.jpg)  
 :::
 
 The potential solutions for this problem are:
@@ -42,5 +42,6 @@ See [Adam Cogan - Microsoft is onto something here](http://www.adamcogan.com/201
  The great thing for developers is the way you test. With Visual Studio 2012, the emulator simulates the Surface perfectly.
 
 ::: good
-![Figure: The Surface screen allows you to place two apps side by side](SurfaceScreen.jpg)
+![Figure: The Surface screen allows you to place two apps side by side](/rules/does-your-applications-interface-fit-in-a-small-screen-resolution/SurfaceScreen.jpg)
 :::
+

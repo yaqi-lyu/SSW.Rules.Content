@@ -33,5 +33,6 @@ If you have many products, keep them consistent.
 
 
 ::: good  
-![Figure: Good Example - Consistent product logos](ssw-products.jpg)  
+![Figure: Good Example - Consistent product logos](/rules/products-branding/ssw-products.jpg)  
 :::
+

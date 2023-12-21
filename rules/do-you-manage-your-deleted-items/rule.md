@@ -27,11 +27,12 @@ Here's a couple of solutions:
 
 
 ::: good  
-![Figure: Good Example - Deleted Items ordered into time periods](OulookDeletedItemsSubFolders.gif)  
+![Figure: Good Example - Deleted Items ordered into time periods](/rules/do-you-manage-your-deleted-items/OulookDeletedItemsSubFolders.gif)  
 :::
 
 **Note:** A hot tip for making it easy to search for an accidentally deleted item is to add the "Modified" field into your Deleted Items view and sort by "Modified". The item from two months ago which you just accidentally deleted will be sitting at the top.
 
 
 
-![Figure: Sort by "Modified"](OutlookModifiedByDate.gif)
+![Figure: Sort by "Modified"](/rules/do-you-manage-your-deleted-items/OutlookModifiedByDate.gif)
+

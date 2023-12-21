@@ -44,7 +44,7 @@ A better way is:
 
 
 ::: good  
-![Figure: Good example – Add some code to check the timing, before fixing any performance issues (An example from SSW Code Auditor)](Code-Auditor-performance.jpg)  
+![Figure: Good example – Add some code to check the timing, before fixing any performance issues (An example from SSW Code Auditor)](/rules/do-you-avoid-reviewing-performance-without-metrics/Code-Auditor-performance.jpg)  
 :::
 
 Also, never forget to do incremental changes in your tests!
@@ -53,14 +53,14 @@ For example, if you are trying to measure the optimal number of processors for a
 
 
 ::: bad  
-![Figure: Bad Example - Going from 1 to 4 all at once gives you incomplete measurements and data](1to4.png)  
+![Figure: Bad Example - Going from 1 to 4 all at once gives you incomplete measurements and data](/rules/do-you-avoid-reviewing-performance-without-metrics/1to4.png)  
 :::
 
 Do it incrementally, adding 1 processor each time, measuring the results, and then adding more:
 
 
 ::: good  
-![Figure: Good Example - Going from 1 to 2, then measuring, then incrementally adding one more, measuring...](1234.png)  
+![Figure: Good Example - Going from 1 to 2, then measuring, then incrementally adding one more, measuring...](/rules/do-you-avoid-reviewing-performance-without-metrics/1234.png)  
 :::
 
 This gives you the most complete set of data to work from.
@@ -76,3 +76,4 @@ For sample code on how to measure performance for Windows application form, plea
 
 * [Do you keep your website loading time acceptable?](/do-you-keep-your-website-loading-time-acceptable)
 * [Do you know the steps required to implement a performance improvement?](/steps-required-to-implement-a-performance-improvement)
+

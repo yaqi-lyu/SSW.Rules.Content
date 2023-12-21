@@ -25,10 +25,11 @@ As part of the checklist, it is also important to test the equipment beforehand.
 
 
 ::: bad  
-![Figure: Bad Example - Be specific about what equipment you need as generic lists make it easy to forget things](SSWTV\_EquipmentChecklist\_BAD.png)  
+![Figure: Bad Example - Be specific about what equipment you need as generic lists make it easy to forget things](/rules/production-do-you-perform-an-equipment-checklist/SSWTV_EquipmentChecklist_BAD.png)  
 :::
 
 
 ::: good  
-![Figure: Good example. It's ideal to have two columns so you can check off items when leaving multiple locations, also extra rows might come in useful if there's extra equipment](SSWTV\_EquipmentChecklist.png)  
+![Figure: Good example. It's ideal to have two columns so you can check off items when leaving multiple locations, also extra rows might come in useful if there's extra equipment](/rules/production-do-you-perform-an-equipment-checklist/SSWTV_EquipmentChecklist.png)  
 :::
+

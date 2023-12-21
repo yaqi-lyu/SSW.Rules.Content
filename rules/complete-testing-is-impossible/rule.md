@@ -16,11 +16,11 @@ Without a good understanding of testing and its limitations, it's easy for clien
 
 <!--endintro-->
 
-![Figure: Bill Lumbergh might well ask someone to "test everything" (from the movie Office Space)](test-everything.jpg)
+![Figure: Bill Lumbergh might well ask someone to "test everything" (from the movie Office Space)](/rules/complete-testing-is-impossible/test-everything.jpg)
 
 ### Why is it impossible?
 
-![Figure: Don't take on impossible missions!](100-is-impossible.jpg)
+![Figure: Don't take on impossible missions!](/rules/complete-testing-is-impossible/100-is-impossible.jpg)
 Complete testing is impossible for several reasons:
 
 * We can’t test **all** the inputs to the program.
@@ -56,7 +56,7 @@ Since complete testing is impossible, choosing the tests to perform is essential
 
 The focus should be on doing "good enough testing". You can say you’re done when you have a testing story adequately covering the risks agreed with your stakeholders and you can make the case that additional tests will probably not significantly change your story. Depending on the situation, this might require months of testing, sometimes only hours.
 
-![Figure: Aim for "good enough" testing over complete testing](good-enough.jpg)
+![Figure: Aim for "good enough" testing over complete testing](/rules/complete-testing-is-impossible/good-enough.jpg)
 
 Watch the <a href="https://vimeo.com/451827063">BBST&reg; Foundations Lecture 5 - The Impossibility of Complete Testing</a> by Dr Cem Kaner on <a href="https://vimeo.com">Vimeo</a>.   
 

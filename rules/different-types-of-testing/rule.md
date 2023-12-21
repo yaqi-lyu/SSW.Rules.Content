@@ -20,7 +20,7 @@ How much does it cost to fix a bug? It depends when it is discovered. If the dev
 
 A good test strategy employs a combination of different types of testing, performed using an appropriate mix of human testing and automation. Each type of testing is designed to help mitigate different types of risk.
 
-![Figure: Testing Pyramid - You should have more unit tests than manual tests](testing-pyramid.png)
+![Figure: Testing Pyramid - You should have more unit tests than manual tests](/rules/different-types-of-testing/testing-pyramid.png)
 
 ## Goals of Testing
 The testing pyramid shows the *types* of tests you will typically use in the Software Development Lifecycle, but it's important to understand how **testing types** differ from **testing goals**.
@@ -135,7 +135,7 @@ Why perform acceptance testing? To mitigate the risk of failing to meet the busi
 
 ### 8. Performance testing 
 
-![You don't want to make headline news, so don't forget about performance testing! (www.hulldailymail.co.uk)](performance-testing.jpg)
+![You don't want to make headline news, so don't forget about performance testing! (www.hulldailymail.co.uk)](/rules/different-types-of-testing/performance-testing.jpg)
 
 Performance testing is designed to evaluate how a system performs under a particular workload. These tests help to measure the reliability, speed, scalability and responsiveness of an application. For example, a performance test can observe response times when executing a high number of requests or determine how a system behaves with a significant amount of data. It can determine if an application meets performance requirements, locate bottlenecks, measure stability during peak traffic, etc. 
 
@@ -144,3 +144,4 @@ Within performance testing, **load testing** helps you to understand how the sys
 ::: greybox
 Why bother with performance testing? To mitigate the risk of surprises when the software is under load.
 :::
+

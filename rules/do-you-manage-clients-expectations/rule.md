@@ -24,7 +24,7 @@ But what is so interesting is that at least **7 of the 10 most common signs of p
 
 Projects often fail because clients think suppliers under-deliver and over-charge. The client and the supplier have different expectations about the goals of the project. This difference of opinion often leads to a project's absolute failure.
 
-![](fail-image.png)
+![](/rules/do-you-manage-clients-expectations/fail-image.png)
 
 ### Tip #1: Don't give ranges
 
@@ -61,3 +61,4 @@ Defining the hourly rates and resources that will be available to clients ensure
 * You've already committed to work for this Sprint, so [don't take on more than you can do](/triaging-do-you-correctly-triage-additional-item-requests)
 * [Update the client before you hit the deadline](/inform-clients-about-estimates-overrun)  
 * [Never make people chase you for a deliverable](/professional-integrity)
+

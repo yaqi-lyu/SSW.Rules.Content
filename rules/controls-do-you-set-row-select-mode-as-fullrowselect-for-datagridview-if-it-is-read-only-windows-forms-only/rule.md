@@ -19,14 +19,15 @@ If you use the DataGridView control which is read only, you had better set row s
 
 
 ::: bad  
-![Figure: Bad Example - Row select mode is not "FullRowSelect".](../../assets/NoneFullRowSelect.gif)  
+![Figure: Bad Example - Row select mode is not "FullRowSelect".](/rules/controls-do-you-set-row-select-mode-as-fullrowselect-for-datagridview-if-it-is-read-only-windows-forms-only/NoneFullRowSelect.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Row select mode is "FullRowSelect".](../../assets/FullRowSelect.gif)  
+![Figure: Good Example - Row select mode is "FullRowSelect".](/rules/controls-do-you-set-row-select-mode-as-fullrowselect-for-datagridview-if-it-is-read-only-windows-forms-only/FullRowSelect.gif)  
 :::
 
-![Figure: Changed row select mode to FullRowSelect.](../../assets/setselectmodefull.gif)  
+![Figure: Changed row select mode to FullRowSelect.](/rules/controls-do-you-set-row-select-mode-as-fullrowselect-for-datagridview-if-it-is-read-only-windows-forms-only/setselectmodefull.gif)  
 
 What's the next step? It's even better if you enable multiple row selection and copying, see [Do your List Views support multiple selection and copying](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#ListView) on [Rules to Better Windows Forms Applications](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx).
+

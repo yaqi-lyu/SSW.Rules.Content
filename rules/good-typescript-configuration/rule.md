@@ -22,7 +22,7 @@ TypeScript is a powerful language that transpiles to JavaScript, and provides mu
 
 Putting a “tsconfig.json” file in your project tells the typescript compiler where the root of your project is, and provides a centralized place to configure the compiler.  This config is read by IDEs and the compiler and can be utilised by the build scripts to ensure configuration is consistent.
 
-![Figure: A tsconfig.json file with great configuration](goodtypescriptconfig1.png)  
+![Figure: A tsconfig.json file with great configuration](/rules/good-typescript-configuration/goodtypescriptconfig1.png)  
 
 ### Disable implicit “any”
 
@@ -41,4 +41,5 @@ TypeScript should compile in-place, and a single file input should produce a sin
 Files generated from typescript get in the way – you don’t want to scroll through .d.ts, .js and .js.map files all the time.  So hide them in the IDE.
 In VSCode this can be done via the “files.exclude” key in the settings.json file.  For a shared experience across the team, check this file into source control.
 
-![Figure: VSCode settings.json file that hides generated files](goodtypescriptconfig2.png)
+![Figure: VSCode settings.json file that hides generated files](/rules/good-typescript-configuration/goodtypescriptconfig2.png)
+

@@ -19,17 +19,18 @@ Most developers seem to validate a URL and tell the user what they have done wro
 
 
 ::: bad  
-![Figure: Bad example - Using a validation message to tell the user to enter a correct                         URL](url-field-bad.jpg)  
+![Figure: Bad example - Using a validation message to tell the user to enter a correct                         URL](/rules/do-you-help-the-user-to-enter-a-url-field/url-field-bad.jpg)  
 :::
 
 The better way is to have the user avoid the error with a good default.
 
 
 ::: bad  
-![Figure: Bad example - The user has a good chance of entering the URL in the incorrect format](url-field-bad2.jpg)  
+![Figure: Bad example - The user has a good chance of entering the URL in the incorrect format](/rules/do-you-help-the-user-to-enter-a-url-field/url-field-bad2.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good example - User immediately knows the format expected](url-field-good.jpg)  
+![Figure: Good example - User immediately knows the format expected](/rules/do-you-help-the-user-to-enter-a-url-field/url-field-good.jpg)  
 :::
+

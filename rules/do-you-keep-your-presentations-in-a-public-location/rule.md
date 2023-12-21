@@ -37,5 +37,5 @@ There are a few ways to do this:
 * **Option 6:** [Tencent Doc](https://docs.qq.com/home/product#ppt) is a famous free online document platform that allows for multi-person collaboration of Word, Excel, and PPT documents. Recommended for user from China️!🇨🇳
 
 ::: good
-![Figure: Good example - Storing your presentations on GitHub](github-presentation.jpg)
+![Figure: Good example - Storing your presentations on GitHub](/rules/do-you-keep-your-presentations-in-a-public-location/github-presentation.jpg)
 :::

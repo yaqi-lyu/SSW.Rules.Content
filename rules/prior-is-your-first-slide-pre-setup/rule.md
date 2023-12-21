@@ -17,4 +17,4 @@ You may be a natural-born public speaker, but you will not be able to 'wing' a p
 
 So document the steps to undertake before starting and you will present in a snappier fashion and not need to say the lame statement "hope the demo gods are kind to me today".
 
-![Figure: Use a Pre-setup slide prior to the presentation and your pace will be snappier](presetup.jpg)
+![Figure: Use a Pre-setup slide prior to the presentation and your pace will be snappier](/rules/prior-is-your-first-slide-pre-setup/presetup.jpg)

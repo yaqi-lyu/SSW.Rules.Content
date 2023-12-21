@@ -30,7 +30,7 @@ NgRx is the redux pattern implemented for Angular.        [View on GitHub](https
 
 <!--endintro-->
 
-![Figure: NgRx supercharges the redux pattern with RxJS](ngrx.png)  
+![Figure: NgRx supercharges the redux pattern with RxJS](/rules/use-ngrx-on-complex-applications/ngrx.png)  
 
 Benefits:
 
@@ -41,9 +41,9 @@ Benefits:
 * Code that is easy to test
 
 
-![Figure: NgRx supercharges the redux pattern with RxJS](img1.png)  
+![Figure: NgRx supercharges the redux pattern with RxJS](/rules/use-ngrx-on-complex-applications/img1.png)  
 
-![Figure: The redux pattern is a way to implement a predictable state container](img2.png)  
+![Figure: The redux pattern is a way to implement a predictable state container](/rules/use-ngrx-on-complex-applications/img2.png)  
 
 The three principles of the redux pattern:
 
@@ -204,3 +204,4 @@ loadProducts$ = createEffect(() =>
 **Check out [NGRX Documentations](https://ngrx.io/docs) to see more details on how you can set up NGRX in your Angular application**
 
 This type of complexity is perfect for ngrx! The state of your shopping cart can be in kept the Store an both the main Checkout Component and the Cart widget can be kept in sync by selecting this state from the store and raising actions to mutate that state in controlled and predictable ways.
+

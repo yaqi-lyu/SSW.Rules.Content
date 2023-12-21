@@ -26,7 +26,7 @@ A Favicon is an image file included on professionally developed sites. The favic
 :::
 
 ::: good  
-![Figure: Good example - Using the favicon gives your website professional look and feel](favicon-good.jpg)  
+![Figure: Good example - Using the favicon gives your website professional look and feel](/rules/favicon/favicon-good.jpg)  
 :::
 
 ### Which formats and sizes to use?
@@ -47,3 +47,4 @@ The format of the image must be one of PNG (a W3C standard), GIF, or ICO. You ca
 **Figure: One line of HTML lets you add your company's icon to your web page** 
 
 This works for most websites, including ASPX WebForms, MVC and WordPress.
+

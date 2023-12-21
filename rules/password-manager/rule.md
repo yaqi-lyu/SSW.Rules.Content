@@ -55,15 +55,15 @@ In an Enterprise you should use an Enterprise password manager
 
 The best enterprise password managers provide a security score for all your enterprise passwords - fix them if your score is low.
 
-![Figure: In Keeper you can see at a glance if insecure passwords are being used](screenshot_20221025_093417.png)
+![Figure: In Keeper you can see at a glance if insecure passwords are being used](/rules/password-manager/screenshot_20221025_093417.png)
 
 They monitor your accounts, regularly checking if they have been released in a breach and notifying you of any problems.
 
-![Figure: Keeper quickly shows you if any of your passwords have been released in a breach](keeper2.png)
+![Figure: Keeper quickly shows you if any of your passwords have been released in a breach](/rules/password-manager/keeper2.png)
 
 They also allow administrative control of your accounts.  In an enterprise you should be able to transfer any non-shared passwords if a staff member leaves (in case they forgot to share them).  Lock their account and expire their master passwords.  This is great when a staff member leaves but also super important if they lose a device.
 
-![Figure: In Keeper you can lock an account expire a master password or even transfer their passwords](keeper3.png)
+![Figure: In Keeper you can lock an account expire a master password or even transfer their passwords](/rules/password-manager/keeper3.png)
 
 - - -
 
@@ -76,3 +76,4 @@ You should use them for your personal security as well:
 * **[Lastpass](https://www.lastpass.com/)** - Matches the capabilities of other top paid password managers and is easy to use. Platform syncing limitations for the free version make it significantly less useful than it was
 * **[BitWarden](https://bitwarden.com/products/)** - Take control of your online password security and manage private data safely from any location or device
 * **[Dashlane](https://www.dashlane.com/lp/search)** - Put passwords in their place, we'll take care of them for you.
+

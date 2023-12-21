@@ -23,7 +23,7 @@ We recommend that you should always use a code profiling tool to measure perform
 
 1. Profile the application with Jetbrains dotTrace using the "Hot Spot" tab to identify the slowest areas of your application
             
-![Figure: Identify which parts of your code take the longest (Hot Spots)](JetBrainsProfilerHotSpots.jpg)  
+![Figure: Identify which parts of your code take the longest (Hot Spots)](/rules/do-you-profile-your-code-when-optimising-performance/JetBrainsProfilerHotSpots.jpg)  
 
         
     
@@ -31,3 +31,4 @@ We recommend that you should always use a code profiling tool to measure perform
 3. Determine the cause of the poor performance and optimise (e.g. improve the WHERE clause or the number of columns returned, reduce the number of loops or use a StringBuilder instead of string concatenation)
 4. Re-run the profile to confirm that performance has improved
 5. Repeat from Step 1 until the application is optimised
+

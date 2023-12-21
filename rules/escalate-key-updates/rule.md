@@ -19,11 +19,11 @@ Key updates on projects may include Done Videos, critical text additions, or spe
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad Example - Automated notifications from project management tools can be easily missed or overlooked amidst other notifications](critical-update-bad-example.jpg)
+![Figure: Bad Example - Automated notifications from project management tools can be easily missed or overlooked amidst other notifications](/rules/escalate-key-updates/critical-update-bad-example.jpg)
 :::
 
 ::: good  
-![Figure: Good example - For visibility and to ensure all stakeholders are in the loop, you should also send an email to the relevant people](critical-update-good-example.jpg)  
+![Figure: Good example - For visibility and to ensure all stakeholders are in the loop, you should also send an email to the relevant people](/rules/escalate-key-updates/critical-update-good-example.jpg)  
 :::
 
 Not every PBI will require an email, but if it is a key update or deliverable, it should be escalated. The developers would make this judgement call, although this could also be added upfront by the Product Owner in the Acceptance Criteria for the PBI. Here are the 3 scenarios:
@@ -62,3 +62,4 @@ Sometimes the PBI work originated from an email, in which case you should reply 
 ::: info
 **Note:** You should be able to easily tell if a PBI was created from email, see [Do you turn an email into a PBI before starting work?](/turn-emails-into-pbis/)
 :::
+

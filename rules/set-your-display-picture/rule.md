@@ -26,13 +26,14 @@ In person conversations are much better than chats over the phone. Skype or Team
 - An actual photo of yourself. Not a cartoon, objects or family member(s)
 
 ::: bad
-![Bad profile image  - using default image](Bad-Skype-profile-image-default.jpg)
+![Bad profile image  - using default image](/rules/set-your-display-picture/Bad-Skype-profile-image-default.jpg)
 :::
 
 ::: bad
-![Bad profile image - picture taken from too far away](Bad-Skype-profile-image-too-far-away.jpg)
+![Bad profile image - picture taken from too far away](/rules/set-your-display-picture/Bad-Skype-profile-image-too-far-away.jpg)
 :::
 
 ::: good
-![Good profile image](Good-Skype-profile-image.jpg)
+![Good profile image](/rules/set-your-display-picture/Good-Skype-profile-image.jpg)
 :::
+

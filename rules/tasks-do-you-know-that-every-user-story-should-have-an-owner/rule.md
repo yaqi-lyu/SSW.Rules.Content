@@ -47,13 +47,14 @@ During a Sprint it is useful for:
 * Accountability belongs to the development team as a whole
 
 ::: bad
-![Figure: Bad example - The Product Owner is not sure who to speak to](UserStoryOwner_Bad.png)
+![Figure: Bad example - The Product Owner is not sure who to speak to](/rules/tasks-do-you-know-that-every-user-story-should-have-an-owner/UserStoryOwner_Bad.png)
 :::
 
 ::: good
-![Figure: Good example - The Product Owner can now see who he should speak to and developers know where to send done emails](UserStoryOwner_Good.png)
+![Figure: Good example - The Product Owner can now see who he should speak to and developers know where to send done emails](/rules/tasks-do-you-know-that-every-user-story-should-have-an-owner/UserStoryOwner_Good.png)
 :::
 
 ::: good
-![Figure: Assignees in GitHub](screen-shot-2021-11-02-at-9.20.07-am.png)
+![Figure: Assignees in GitHub](/rules/tasks-do-you-know-that-every-user-story-should-have-an-owner/screen-shot-2021-11-02-at-9.20.07-am.png)
 :::
+

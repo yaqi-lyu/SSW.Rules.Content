@@ -40,11 +40,12 @@ A common solution many business owners used to solve the issues of tracking is b
 5. Has the owner of each subscription provided their initials or confirmation each review period, that the subscription is accurate and as expected?
 
 ::: bad
-![Figure: Bad example - Too simple and no helpful information](2020-05-29_17-40-48.png)
+![Figure: Bad example - Too simple and no helpful information](/rules/do-you-track-your-recurring-expenses/2020-05-29_17-40-48.png)
 :::
 
 ::: good
-![Figure: Good example - All useful information is maintained and conditional formatting is used to identify significant changes](2020-05-29_17-50-10.png)
+![Figure: Good example - All useful information is maintained and conditional formatting is used to identify significant changes](/rules/do-you-track-your-recurring-expenses/2020-05-29_17-50-10.png)
 :::
 
 There is no foolproof process that will avoid every unwanted situation, however, by following proper expense tracking will ensure these situations are discovered before it becomes a major issue and it may provide more reporting layers in order to make better financial decisions.
+

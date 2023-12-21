@@ -20,6 +20,7 @@ If someone asks you to do something you believe is unethical, please ring them u
 
 <!--endintro-->
 
-![Figure: Don't do everything you are asked. Have a frank discussion if you feel strongly about something](Dilbert-Analysis.gif)
+![Figure: Don't do everything you are asked. Have a frank discussion if you feel strongly about something](/rules/do-you-only-do-what-you-think-is-right/Dilbert-Analysis.gif)
 
 It can also be a good idea to [document your objections in an email](/do-you-send-a-for-the-record-email-when-you-disagree).
+

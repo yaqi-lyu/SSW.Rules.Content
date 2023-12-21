@@ -18,4 +18,5 @@ Unless we're currently working on the last Sprint of the development, you should
 
 This is done during the [Planning meeting](/do-you-know-what-happens-at-a-sprint-planning-meeting) and will ensure the availability of the developers who are up to speed on your project and stop them from being booked onto something else.
 
-![Figure: If you have booked the guys in, you will have an appointment like this in your Outlook](Scheduled_Appointment.jpg)
+![Figure: If you have booked the guys in, you will have an appointment like this in your Outlook](/rules/agreements-do-you-book-the-next-sprint-ahead-of-time/Scheduled_Appointment.jpg)
+

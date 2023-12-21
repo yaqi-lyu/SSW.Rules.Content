@@ -21,15 +21,15 @@ Here is an image for your war room wall...
 <!--endintro-->
 
 ::: bad  
-![Figure: Bad example - This image doesn't include the review and the retro](SCRUMImage-bad02.jpg)  
+![Figure: Bad example - This image doesn't include the review and the retro](/rules/the-war-room-does-your-scrum-room-have-the-best-scrum-image/SCRUMImage-bad02.jpg)  
 :::
 
 ::: ok  
-![Figure: OK example - This Scrum image is OK because it includes all the important steps including the Review and the Retro](SCRUMImage-good.jpg)  
+![Figure: OK example - This Scrum image is OK because it includes all the important steps including the Review and the Retro](/rules/the-war-room-does-your-scrum-room-have-the-best-scrum-image/SCRUMImage-good.jpg)  
 :::
 
 ::: bad
-![Figure: Good example - This Scrum image includes all the important steps from the initial meeting to the Review and Retro](8Steps_preview.jpg)
+![Figure: Good example - This Scrum image includes all the important steps from the initial meeting to the Review and Retro](/rules/the-war-room-does-your-scrum-room-have-the-best-scrum-image/8Steps_preview.jpg)
 :::
 
 Find and print the PDF on the ["SSW 8 Steps to Scrum" rule](/8-steps-to-scrum), then put it on your 'War Room' wall.
@@ -37,3 +37,4 @@ Find and print the PDF on the ["SSW 8 Steps to Scrum" rule](/8-steps-to-scrum), 
 If you like this, retweet:  
 
 `oembed: https://twitter.com/AdamCogan/status/94109372908711936`
+

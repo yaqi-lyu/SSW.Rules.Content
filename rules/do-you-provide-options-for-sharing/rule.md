@@ -28,5 +28,6 @@ Some common avenues for sharing are:
 - Copy to clipboard
 
 ::: good  
-![Figure: Good example – Users can easily share media via 6 common avenues and more.](social-networks.png)  
+![Figure: Good example – Users can easily share media via 6 common avenues and more.](/rules/do-you-provide-options-for-sharing/social-networks.png)  
 :::
+

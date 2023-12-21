@@ -19,4 +19,5 @@ E.g. During the meeting you can call out *“Off topic. I think that topic shoul
 
 <!--endintro-->
 
-![Figure: Video - See the Parking Lot in action: www.youtube.com/watch?v=-UUrLxNBK_g](parking-lot.jpg)
+![Figure: Video - See the Parking Lot in action: www.youtube.com/watch?v=-UUrLxNBK_g](/rules/keep-track-of-a-parking-lot-for-topics/parking-lot.jpg)
+

@@ -49,9 +49,10 @@ When building a web application, you may eventually need icons somewhere in the 
 If you _absolutely_ must use images for icons (e.g. complex custom icons) use svg files. These vector-based images function closer to an icon font, being similar in scalability, adaptability, and customization.
 
 ::: bad  
-![Figure: Bad example - Using images as icons generates a lot of pain](23-06-2014 11-20-02 AM.png)  
+![Figure: Bad example - Using images as icons generates a lot of pain](/rules/best-libraries-for-icons/23-06-2014 11-20-02 AM.png)  
 :::
 
 ::: good  
-![Figure: Good example - A 5x scaled paper plane icon on the web](18-06-2014 2-33-45 PM.png)  
+![Figure: Good example - A 5x scaled paper plane icon on the web](/rules/best-libraries-for-icons/18-06-2014 2-33-45 PM.png)  
 :::
+

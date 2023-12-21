@@ -18,12 +18,12 @@ The following guidelines can help system administrators maintain the separation 
 
 Assigning different VLANs for different client types and services provides a logical division of the network. This will help ensure that each network is independent, even if they share the same physical infrastructure.
 
-![Figure: Separate VLANs on an Aruba switch](vlan.png)
+![Figure: Separate VLANs on an Aruba switch](/rules/separate-networks/vlan.png)
 
 ### Implement Security Measures
 
 VLANs should be separated using access control lists and firewalls. Ensure that there are no unauthorized access points between VLANs and that the only devices that can communicate between VLANs are those that are authorized.
 
-![Figure: Cisco ASA | Access Rules](configure-access-rules.jpg)
+![Figure: Cisco ASA | Access Rules](/rules/separate-networks/configure-access-rules.jpg)
 
 By following these guidelines, system administrators can keep networks and VLANs separated while enacting security measures that will prevent unauthorized access to every part of the network. Thus, creating a safer and more secure network environment.

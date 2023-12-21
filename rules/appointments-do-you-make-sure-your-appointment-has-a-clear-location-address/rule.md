@@ -22,11 +22,11 @@ Make sure appointments have address details unless it's obvious for all attendee
 <!--endintro-->
 
 ::: bad
-![Figure: Bad Example - Appointment field should have addresses in location when appropriate](appointment-location-bad-example.jpg)
+![Figure: Bad Example - Appointment field should have addresses in location when appropriate](/rules/appointments-do-you-make-sure-your-appointment-has-a-clear-location-address/appointment-location-bad-example.jpg)
 :::
 
 ::: good
-![Figure: Good example - Address is clearly identified in the location field, meaning it can be mapped using applications on smartphones](map example.png)
+![Figure: Good example - Address is clearly identified in the location field, meaning it can be mapped using applications on smartphones](/rules/appointments-do-you-make-sure-your-appointment-has-a-clear-location-address/map example.png)
 :::
 
 It's important to always add the address information in appointments when a third party is included. Example:
@@ -41,3 +41,4 @@ In internal, you should invite a co-worker to work with you in the specific room
 * SSW Boardroom Sydney
 * SSW Boardroom Brisbane
 * SSW Chapel Sydney
+

@@ -27,9 +27,10 @@ The developer console lets a user manipulate a web page to fit their requirement
 ✅ Pinpoint the page area you want to screenshot by either capturing the entire page or zooming in on an area of interest
 
 ::: bad
-![Figure: Bad example – Original elements at low res](bad-screenshot-piers.png)
+![Figure: Bad example – Original elements at low res](/rules/developer-console-screenshots/bad-screenshot-piers.png)
 :::
 
 ::: good
-![Figure: Good example – Edited heading, hidden client, then captured at high res](good-screenshot-piers.png)
+![Figure: Good example – Edited heading, hidden client, then captured at high res](/rules/developer-console-screenshots/good-screenshot-piers.png)
 :::
+

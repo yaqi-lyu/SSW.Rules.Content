@@ -54,7 +54,7 @@ Rely on data-driven insights for effective decision-making.
 :::
 
 ::: good
-![Figure: Good Example - Data-driven decisions are more likely to yield positive outcomes.](Data-Driven-Decisions.png)
+![Figure: Good Example - Data-driven decisions are more likely to yield positive outcomes.](/rules/do-you-measure-success-using-lean-agile-metrics/Data-Driven-Decisions.png)
 :::
 
 ### Alignment with Business Goals
@@ -72,3 +72,4 @@ Bad Example - Metrics that are not aligned with business goals can lead to misgu
 ## Conclusion
 
 Adopting Lean-Agile metrics for measuring success transcends the conventional practice of mere number tracking. It's a strategic approach to gauge the real impact of your Agile initiatives on the business. These metrics do more than just fill spreadsheets; they offer a window into the effectiveness of your processes, shining a light on areas of strength and opportunities for improvement. By providing critical visibility and insights, Lean-Agile metrics are instrumental in driving continuous advancement and ensuring that every effort is in harmony with your business objectives. In essence, they are not just indicators of progress; they are the guiding stars towards a more efficient, effective, and aligned Agile practice.
+

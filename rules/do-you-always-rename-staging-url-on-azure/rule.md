@@ -44,8 +44,9 @@ Figure: Good example - Staging URL with "staging&#46;" prefix
 
 1. Add a CName to the default URL to your DNS server
 
-![Figure: CName being added to DNS for the default URL](2015-03-10_17-13-55.png) 
+![Figure: CName being added to DNS for the default URL](/rules/do-you-always-rename-staging-url-on-azure/2015-03-10_17-13-55.png) 
 
 2. Instruct Azure to accept the custom URL
 
-![Figure: Azure being configured to accept the CName](custom-domains.png)
+![Figure: Azure being configured to accept the CName](/rules/do-you-always-rename-staging-url-on-azure/custom-domains.png)
+

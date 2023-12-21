@@ -28,9 +28,9 @@ Before recording your screen reduce visual noise by:
    * Mac shortcut: Cmd + Shift + b
 
 ::: bad
-![Figure: Bad example - This video will be cluttered and unprofessional](screen-recording-bad.png)
+![Figure: Bad example - This video will be cluttered and unprofessional](/rules/easy-to-view-screen-recordings/screen-recording-bad.png)
 :::
 
 ::: good
-![Figure: Good example - This is easy to read, and doesn’t look cluttered](screen-recording-good.png)
+![Figure: Good example - This is easy to read, and doesn’t look cluttered](/rules/easy-to-view-screen-recordings/screen-recording-good.png)
 :::

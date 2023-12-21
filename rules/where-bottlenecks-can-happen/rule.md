@@ -20,7 +20,7 @@ For modern applications, there are many layers and moving parts that need to sea
 
 <!--endintro-->
 
-![Figure: Bottlenecks can happen anywhere! Call out diagrammatically where you think the bottlenecks are happenning](bottleneck.png)  
+![Figure: Bottlenecks can happen anywhere! Call out diagrammatically where you think the bottlenecks are happenning](/rules/where-bottlenecks-can-happen/bottleneck.png)  
 
 The issues can be in:
 
@@ -71,3 +71,4 @@ The issues can be in:
 
 * Misconfiguration
 * Resource contention
+

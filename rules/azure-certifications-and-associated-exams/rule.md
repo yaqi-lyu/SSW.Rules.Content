@@ -27,7 +27,7 @@ Microsoft provides numerous certifications and training options to help you:
 
 <!--endintro-->
 
-![Figure: Microsoft Certification RoadMap](azure-certification-branch.png)
+![Figure: Microsoft Certification RoadMap](/rules/azure-certifications-and-associated-exams/azure-certification-branch.png)
 
 - - -
 
@@ -119,7 +119,7 @@ You will need to pass: [Exam AZ-400: Designing and Implementing Microsoft DevOps
 
 - - -
 
-![Figure: Get the poster to see Microsoft's certifications](screen-shot-2022-01-06-at-10.17.14-pm.png)
+![Figure: Get the poster to see Microsoft's certifications](/rules/azure-certifications-and-associated-exams/screen-shot-2022-01-06-at-10.17.14-pm.png)
 
 Check the [Become Microsoft Certified poster](https://aka.ms/traincertposter) for details of exams required for each of the certifications.
 

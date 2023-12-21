@@ -39,7 +39,7 @@ Here are the 8 tips:
 * [Tip #7: Separate PBIs](#tip-7-separate-pbis)  
 * [Tip #8: Use emojis and prefixes for PBI/Issues titles, or email subjects](#tip-8-use-emojis-and-prefixes-for-pbiissues-titles-or-email-subjects)  
 
-![Figure: Making the Product Backlog the main source of tasks](report-bugs-and-suggestions.png)
+![Figure: Making the Product Backlog the main source of tasks](/rules/report-bugs-and-suggestions/report-bugs-and-suggestions.png)
 
 ### Tip #1: Draft your bug with enough details
 
@@ -84,7 +84,7 @@ I'm having a problem with your PerformancePro software. When I run it, this is w
 2. Access opens
 3. I get this error:
 
-   ![](error-software-bur-report.jpg)
+   ![](/rules/report-bugs-and-suggestions/error-software-bur-report.jpg)
 
 I have the latest version of all my software. I am running Windows 10 and Office365.
 
@@ -178,7 +178,7 @@ Recording a stepped user flow of actions that walk through through an issue is a
 See our rules for setting up and using these tools at [Do you use Problem Steps Recorder?](/do-you-use-problem-steps-recorder/) and [Do you do exploratory testing?](/do-you-do-exploratory-testing/)
 
 ::: good
-![Figure: Good example - Using a tool to record steps replicating an issue is a great and simple way to report a problem that's easy for a developer to understand and reproduce](psr3.png)
+![Figure: Good example - Using a tool to record steps replicating an issue is a great and simple way to report a problem that's easy for a developer to understand and reproduce](/rules/report-bugs-and-suggestions/psr3.png)
 :::
 
 ### Tip #2: Draft your suggestion with the complaint and what you expect to see
@@ -215,7 +215,7 @@ Always go for backlog if you have access to a backlog management system otherwis
 
 ### Tip #5: Do you make it easy to find all the backlog in your company?
 
-![Figure: An intranet page with links to projects’ backlog to make it easy for everyone to find. Note some projects have more than 1 backlog.](do-you-know-how-to-report-bugs-and-give-suggestions.png)
+![Figure: An intranet page with links to projects’ backlog to make it easy for everyone to find. Note some projects have more than 1 backlog.](/rules/report-bugs-and-suggestions/do-you-know-how-to-report-bugs-and-give-suggestions.png)
 
 ### Tip #6: Make sure when using backlog, the Product Owner will still get an email
 
@@ -244,3 +244,4 @@ Vote here - <https://github.com/carloscuesta/gitmoji/issues/1265>
 Check out the rule on [Do you know which emojis to use in Scrum?](/which-emojis-to-use-in-scrum)
 
 **Tip:** [GitHub Issue Templates](/github-issue-templates) can help you with that.
+

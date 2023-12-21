@@ -17,16 +17,17 @@ Timesheets have always been the bane of developers, with them trying every excus
 
 <!--endintro-->
 
-![Figure: Our Office Manager chasing up timesheets](chase-up-timesheets.jpg)  
+![Figure: Our Office Manager chasing up timesheets](/rules/do-you-know-the-easiest-way-to-enter-timesheets-with-tfs/chase-up-timesheets.jpg)  
 
 The main problem is timesheet entry is often difficult, time consuming and requires double entry (e.g. into different systems TFS and invoicing system).
 
 Project Server 2013 offers a solution that integrates with TFS work items.
 
 ::: good  
-![Figure: Project Server 2013 pulls work items from TFS and updates the actual and remaining hours](tfs-timesheets.jpg)  
+![Figure: Project Server 2013 pulls work items from TFS and updates the actual and remaining hours](/rules/do-you-know-the-easiest-way-to-enter-timesheets-with-tfs/tfs-timesheets.jpg)  
 :::
 
 ::: greybox
 If you want a timesheeting solution built on top of Microsoft CRM and Azure DevOps, See [www.SSWTimepro.com](https://sswtimepro.com/)
 :::
+

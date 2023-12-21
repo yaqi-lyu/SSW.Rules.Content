@@ -31,7 +31,7 @@ bcdedit /copy {default} /d “Demo-NameOfDemo”
 ```
 
 
-![Creating the entry using BCDEdit shows your GUID](fig1-creatingentry.png)
+![Creating the entry using BCDEdit shows your GUID](/rules/do-you-know-how-to-setup-a-boot-to-vhd-image/fig1-creatingentry.png)
 **Figure - Creating the entry using BCDEdit shows your GUID**
 4. Type:
 
@@ -55,6 +55,7 @@ bcdedit /set <GUID> detecthal on
 ```
 
 
-![Each time you run a BCDEdit command it should return ](fig2-addguids.png)
+![Each time you run a BCDEdit command it should return ](/rules/do-you-know-how-to-setup-a-boot-to-vhd-image/fig2-addguids.png)
 **Figure - Each time you run a BCDEdit command it should return "The operation completed successfully"**
 7. Reboot the computer and now you will have the option to choose between Windows 7 and the new Boot to VHD image.
+

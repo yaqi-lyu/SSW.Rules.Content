@@ -29,7 +29,7 @@ Here are some examples:
 
 
 
-![](OctopusDeploy.png)
+![](/rules/quality-do-you-only-deploy-after-a-test-please/OctopusDeploy.png)
 
 
 
@@ -43,3 +43,4 @@ Figure: Giving clients sole access to the deploy button, allows them to take own
 <!--endintro-->
 
 For more information on this, see [Rules to Successful Projects](/do-you-conduct-a-test-please-internally-and-then-with-the-client).
+

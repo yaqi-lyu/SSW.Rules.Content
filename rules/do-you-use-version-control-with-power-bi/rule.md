@@ -47,7 +47,7 @@ Committing a report to the repo in this manner saves it as a Power BI Desktop Pr
 * [A Reports folder](https://learn.microsoft.com/en-us/power-bi/developer/projects/projects-report), which contains the report settings, metadata for custom visuals, etc.
 
 ::: img-medium
-![Figure: PBIP artifacts](ProjectFolders.png)
+![Figure: PBIP artifacts](/rules/do-you-use-version-control-with-power-bi/ProjectFolders.png)
 :::
 
 You now have two options to edit the report and commit changes. 
@@ -58,9 +58,10 @@ You now have two options to edit the report and commit changes.
    * **Note:** PBIP folders do not by default contain any underlying data. So when you open a definition.pbir file the visuals may show as empty. Once you refresh the report Power BI Desktop will download a copy of the data into a file called [cache.abf](https://learn.microsoft.com/en-us/power-bi/developer/projects/projects-dataset#pbicacheabf) which gets stored in a ".pbi" folder inside the Dataset folder. This file should not be saved in version control. You can create a .gitignore file to prevent Git from committing it to the repository.
 
 ::: img-large
-![Figure: cache.abf](PBICache.png)
+![Figure: cache.abf](/rules/do-you-use-version-control-with-power-bi/PBICache.png)
 :::
 
 ::: img-large
-![Figure: The .gitignore file](Gitignore.png)
+![Figure: The .gitignore file](/rules/do-you-use-version-control-with-power-bi/Gitignore.png)
 :::
+

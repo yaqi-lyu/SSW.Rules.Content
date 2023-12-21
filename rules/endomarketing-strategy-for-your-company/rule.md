@@ -59,5 +59,6 @@ Some examples of how to implement Endomarketing are:
 * Any effort that shows how you care about your employee and their opinion   
 
 ::: good
-![Figure: Good example – Celebrate special dates with your team!](bunny.jpg)
+![Figure: Good example – Celebrate special dates with your team!](/rules/endomarketing-strategy-for-your-company/bunny.jpg)
 :::
+

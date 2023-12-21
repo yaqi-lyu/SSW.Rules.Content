@@ -18,9 +18,9 @@ It highlights the areas of the image that are in sharp focus with a distinct and
 Focus peaking is included in most professional video cameras and external video monitors.
 
 :::bad
-![Figure: Bad example - Subject out of focus](peaking-outoffocus.jpg)
+![Figure: Bad example - Subject out of focus](/rules/focus-peaking/peaking-outoffocus.jpg)
 :::
 
 :::good
-![ Figure: Good example - Focus peaking highlighting areas in focus ](focus-peaking-church.jpg)
+![ Figure: Good example - Focus peaking highlighting areas in focus ](/rules/focus-peaking/focus-peaking-church.jpg)
 :::

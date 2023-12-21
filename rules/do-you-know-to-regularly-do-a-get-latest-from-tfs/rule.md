@@ -21,4 +21,5 @@ As part of your team process, you should make sure all developers are doing a Ge
 
 **Tip:** To find out when you or another developer last did a Get from TFS, you can use the Workspace Sidekick in [Team Foundation Sidekicks](http://www.attrice.info/cm/tfs/index.htm). If you're the TFS Master, you should do this every couple of weeks to make sure your team is regularly retrieving files from TFS.
 
-![Figure: This report shows the last time each user did a Get from TFS](SidekicksWorkspaceLastGet.png)
+![Figure: This report shows the last time each user did a Get from TFS](/rules/do-you-know-to-regularly-do-a-get-latest-from-tfs/SidekicksWorkspaceLastGet.png)
+

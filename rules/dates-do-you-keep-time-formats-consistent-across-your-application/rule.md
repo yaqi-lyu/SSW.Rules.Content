@@ -17,10 +17,11 @@ Time formats should be consistent across your application, to give the          
 
 
 ::: bad  
-![Figure: Bad Example - Three screens with inconsistent time formats](../../assets/BadExampleTP.gif)  
+![Figure: Bad Example - Three screens with inconsistent time formats](/rules/dates-do-you-keep-time-formats-consistent-across-your-application/BadExampleTP.gif)  
 :::
 
 
 ::: good  
-![Figure: Good Example - Three screens with consistent formats](../../assets/GoodExampleTP.gif)  
+![Figure: Good Example - Three screens with consistent formats](/rules/dates-do-you-keep-time-formats-consistent-across-your-application/GoodExampleTP.gif)  
 :::
+

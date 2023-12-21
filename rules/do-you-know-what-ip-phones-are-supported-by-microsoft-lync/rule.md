@@ -49,20 +49,21 @@ Read more about     [implementing Microsoft Lync](http://www.ssw.com.au/ssw/Cons
 
 1. Log on to SNOM Phone, press a key to continue
 
-![](step-1.png)  
+![](/rules/do-you-know-what-ip-phones-are-supported-by-microsoft-lync/step-1.png)  
 
 2. Enter in your SIP-URI, that is emailaddress@ssw.com.au and press the green tick
 
-![](step-2.jpg)  
+![](/rules/do-you-know-what-ip-phones-are-supported-by-microsoft-lync/step-2.jpg)  
 
 3. Enter in your Domain\Username, that is ssw2000\username and press the green tick
 
-![](step-3.jpg)  
+![](/rules/do-you-know-what-ip-phones-are-supported-by-microsoft-lync/step-3.jpg)  
 
 4. Enter in your AD password and press the green tick
 
-![](step-4.jpg)  
+![](/rules/do-you-know-what-ip-phones-are-supported-by-microsoft-lync/step-4.jpg)  
 
 
 
 Congratulations, you are now able to make and receive phone calls.
+

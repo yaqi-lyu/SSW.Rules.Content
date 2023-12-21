@@ -31,7 +31,7 @@ These three options are:
 
 
 
-![](2014-11-27_11-45-25-compressor.png)
+![](/rules/do-you-know-to-use-save-save-and-close-on-a-webpage/2014-11-27_11-45-25-compressor.png)
 
 
  **Figure: Bad example - only provided *Save*button and *Cancel*link** 
@@ -39,7 +39,7 @@ These three options are:
 
 
 
-![](2014-11-27_13-58-48-compressor.png)
+![](/rules/do-you-know-to-use-save-save-and-close-on-a-webpage/2014-11-27_13-58-48-compressor.png)
 
 
  **Figure: Good example - CRM 2013 provides a** ***Save*** **button a** **nd a *Save and Close* button** 
@@ -47,7 +47,7 @@ These three options are:
 
 
 
-![](2014-11-27_11-47-40-compressor.png)
+![](/rules/do-you-know-to-use-save-save-and-close-on-a-webpage/2014-11-27_11-47-40-compressor.png)
 
 
  **Figure: Better example - SugarLearning provides a *Save*button, a *Save and Close* button and a *Cancel*link** 
@@ -59,3 +59,4 @@ These three options are:
 
 
 * **[SSW Rule - Do you make your cancel button less obvious?](/do-you-make-your-cancel-button-less-obvious)**
+

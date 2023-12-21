@@ -21,8 +21,9 @@ In Scrum there is only one report that the team needs to track their progress.
 
 <!--endintro-->
 
-![Figure: The burndown has all of the information you need to know if you are going to hit your mark](burndown_good_example.png)
+![Figure: The burndown has all of the information you need to know if you are going to hit your mark](/rules/reports-do-you-know-which-reports-are-the-most-important-ones-to-track-your-progress/burndown_good_example.png)
 
 There are however other reports that matter for management and putting together the bigger picture.
 
 See [Do you get regular updates on costs and progress?](/reports-do-you-schedule-the-burndown-and-stories-overview-reports-to-be-emailed-to-the-team-every-day)
+

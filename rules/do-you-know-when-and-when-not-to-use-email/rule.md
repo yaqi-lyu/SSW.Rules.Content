@@ -23,7 +23,7 @@ As all these rules indicate, email can either be a blessing or a curse. One of t
 1. When you want to discuss an issue and **make a decision**
 2. When you are **dealing with a 'delicate' problem**
 
-![Figures: a Meta Group survey found that 81% of respondents preferred the phone above email to build relationships, but 80% preferred email generally](MetaGroupPhoneOverEmail.gif)  
+![Figures: a Meta Group survey found that 81% of respondents preferred the phone above email to build relationships, but 80% preferred email generally](/rules/do-you-know-when-and-when-not-to-use-email/MetaGroupPhoneOverEmail.gif)  
 
 ### Making a Decision 
 
@@ -46,4 +46,5 @@ Similarly, never bring up a tricky topic with someone by email. It's very easy t
 
 This way you can review issues together, and, importantly, decisions are confirmed in writing. 
  
-![Figure: Are you in the right frame of mind?](pic38-KeepDrasticThingsForImportantThings.gif)
+![Figure: Are you in the right frame of mind?](/rules/do-you-know-when-and-when-not-to-use-email/pic38-KeepDrasticThingsForImportantThings.gif)
+

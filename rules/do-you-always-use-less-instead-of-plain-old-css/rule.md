@@ -26,14 +26,15 @@ The key advantage of using CSS pre-processors is nested selectors. Instead line 
 
 
 ::: bad  
-![Bad Example: Using regular CSS, you repeat yourself a lot](RulesLESS - css.png)  
+![Bad Example: Using regular CSS, you repeat yourself a lot](/rules/do-you-always-use-less-instead-of-plain-old-css/RulesLESS - css.png)  
 :::
 
 
 ::: good  
-![Good Example: Using LESS, we can structure our CSS better](RulesLESS - less.png)  
+![Good Example: Using LESS, we can structure our CSS better](/rules/do-you-always-use-less-instead-of-plain-old-css/RulesLESS - less.png)  
 :::
 
 The pre-processed CSS then compiles to the regular CSS shown above.
 
 We recommend using SCSS for its slightly more robust language scripting, however, the [differences between LESS and SCSS are minor](https://css-tricks.com/sass-vs-less/).
+

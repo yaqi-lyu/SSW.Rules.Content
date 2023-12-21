@@ -23,7 +23,7 @@ redirects: []
 
 
 ::: good  
-![](CodeAuditorProjectFile.gif)  
+![](/rules/do-you-add-ssw-code-auditor-nunit-and-microsoft-fxcop-project-files-to-your-solution/CodeAuditorProjectFile.gif)  
 :::
 
 To add a [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx) file to your solution:
@@ -41,7 +41,7 @@ To add a [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx) 
  
 
 ::: good  
-![](OpenWith.gif)  
+![](/rules/do-you-add-ssw-code-auditor-nunit-and-microsoft-fxcop-project-files-to-your-solution/OpenWith.gif)  
 :::
  
 11. Point it to the SSW Code Auditor executable
@@ -82,3 +82,4 @@ Now you can simply double click these project files to run the corresponding app
 
 | We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx) that implements this rule. |
 | --- |
+

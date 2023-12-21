@@ -25,12 +25,12 @@ In order to get better clarity on what work is done, it's a good idea to connect
 
 
 ::: bad  
-![Bad Example: No linked commit's, branches or pull requests](no-linked-commit.png)  
+![Bad Example: No linked commit's, branches or pull requests](/rules/do-you-link-your-commits-to-a-pbi/no-linked-commit.png)  
 :::
 
 
 ::: good  
-![Good Example: Git branch linked to PBI in TFS](link-branch-to-pbi.png)  
+![Good Example: Git branch linked to PBI in TFS](/rules/do-you-link-your-commits-to-a-pbi/link-branch-to-pbi.png)  
 :::
 
 <!--endintro-->
@@ -39,7 +39,7 @@ Note: If you create your branches through Azure DevOps then you can link them du
 
 
 ::: good  
-![Good Example: Using Azure DevOps to link PBI during creation](link-pbi-during-creation.png)  
+![Good Example: Using Azure DevOps to link PBI during creation](/rules/do-you-link-your-commits-to-a-pbi/link-pbi-during-creation.png)  
 :::
 
 Here is a handy resource for linking work items:
@@ -50,5 +50,6 @@ Note: You can setup Branch Policies on your main branches to enforce this behavi
 
 
 ::: good  
-![Good Example: Branch Policy on the master branch to enforce linked work items on pull requests](add-branch-policy-for-linked-items.png)  
+![Good Example: Branch Policy on the master branch to enforce linked work items on pull requests](/rules/do-you-link-your-commits-to-a-pbi/add-branch-policy-for-linked-items.png)  
 :::
+

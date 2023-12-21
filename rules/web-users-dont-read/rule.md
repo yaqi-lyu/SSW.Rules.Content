@@ -25,9 +25,10 @@ Keep it simple! It is important to break up information, not show it all at once
 3. Importance and relevance of elements
 
 ::: bad
-![Figure: Bad example - Can you find how to check in?](../../assets/bad_informationscan.png)
+![Figure: Bad example - Can you find how to check in?](/rules/web-users-dont-read/bad_informationscan.png)
 :::
 
 ::: good
-![Figure: Good example - What about here? Can you find how to check in?](delta-airline.png)
+![Figure: Good example - What about here? Can you find how to check in?](/rules/web-users-dont-read/delta-airline.png)
 :::
+

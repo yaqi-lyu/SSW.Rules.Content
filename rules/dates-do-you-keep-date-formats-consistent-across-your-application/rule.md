@@ -18,14 +18,14 @@ Date formats should always be kept consistent across your application, more impo
 
 <!--endintro-->
 
-![Figure: Operating System's Regional Settings](../../assets/BetterInterface\_RegionalSettings.jpg)  
+![Figure: Operating System's Regional Settings](/rules/dates-do-you-keep-date-formats-consistent-across-your-application/BetterInterface_RegionalSettings.jpg)  
 
 ::: bad  
-![Figure: Bad example - Screens with inconsistent date formats](../../assets/BadExampleDP.gif)  
+![Figure: Bad example - Screens with inconsistent date formats](/rules/dates-do-you-keep-date-formats-consistent-across-your-application/BadExampleDP.gif)  
 :::
 
 ::: good  
-![Figure: Good example - Screens with consistent date formats](../../assets/GoodExampleDP.gif)  
+![Figure: Good example - Screens with consistent date formats](/rules/dates-do-you-keep-date-formats-consistent-across-your-application/GoodExampleDP.gif)  
 :::
 
 The best way to do this in your code is to grab the culture information from the application thread and use it to automatically format your Datetime data type. Do not use hard coded datetime formatting strings unless it's absolutely necessary.
@@ -48,3 +48,5 @@ txtDateCreate.Text = CType(txtDateCreate.Tag, System.DateTime).ToString(initialC
 ::: good
 Figure: Good Example - Using culture info to format datetime
 :::
+
+

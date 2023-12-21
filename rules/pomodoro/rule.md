@@ -46,4 +46,5 @@ A great application that encourages the use of the Pomodoro Technique is **Fores
 * [Download - Google Play](https://play.google.com/store/apps/details?id=cc.forestapp&hl=en_AU&gl=US)
 
 For those running Windows, you can [use focus sessions in Clock app](https://support.microsoft.com/en-us/windows/how-to-use-focus-in-windows-11-cbcc9ddb-8164-43fa-8919-b9a2af072382):
-![Figure: Using Focus session in Windows](Microsoft-Windows-Focus-session.png)
+![Figure: Using Focus session in Windows](/rules/pomodoro/Microsoft-Windows-Focus-session.png)
+

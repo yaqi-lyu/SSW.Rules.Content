@@ -48,7 +48,7 @@ Given the rapid evolution of the digital sphere, it's crucial to acknowledge the
 Encourage employees to engage actively on GitHub, not just by contributing to projects but also by starring and appreciating others' work. This fosters a sense of community and boosts their digital presence.
 
 ::: good
-![Figure: Good example - Lots of starred repos!](github-stars.png)
+![Figure: Good example - Lots of starred repos!](/rules/give-thanks/github-stars.png)
 :::
 
 ## Tracking and Valuing Digital Engagements

@@ -17,7 +17,7 @@ Although most of these don't do anything on desktop, on mobile devices they brin
 
 <!--endintro-->
 
-![](fieldtype-text.PNG)
+![](/rules/do-you-use-the-correct-input-type/fieldtype-text.PNG)
 
 ```html
 <label for="phone">Phone</label>: 
@@ -29,7 +29,7 @@ Figure: Bad example – This field is using a text type and shows a standard key
 :::
 
 
-![](fieldtype-tel.PNG)
+![](/rules/do-you-use-the-correct-input-type/fieldtype-tel.PNG)
 
 
 ```html
@@ -59,3 +59,4 @@ Here is a table of some useful input types and what they do:
 | Tel | This brings up the number pad on mobile |
 | Time | This brings up the time picker on mobile |
 | URL | This adds ".com" to the keyboard on mobile |
+

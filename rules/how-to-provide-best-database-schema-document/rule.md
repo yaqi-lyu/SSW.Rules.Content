@@ -30,10 +30,10 @@ Alternatively, you can use SQL Management Studio to generate a Database diagram.
  **<img src="SqlDiagramNew.png" alt="" style="margin:5px;">Figure: New Database Diagram
 ** 
 3.	A popup will appear. Shift-Click to select all the tables then click  **Add**
-![](SqlDiagramSelectingTables.png) **Figure: Selecting tables for diagram
+![](/rules/how-to-provide-best-database-schema-document/SqlDiagramSelectingTables.png) **Figure: Selecting tables for diagram
 ** 
 4.	You will see tables populate behind the dialogue box, once complete click  **Close**
-![](SqlDiagramTablesPopulated.png) **Figure: Tables populated
+![](/rules/how-to-provide-best-database-schema-document/SqlDiagramTablesPopulated.png) **Figure: Tables populated
 ** 
 5.	Click off the tables in the diagram and  **Ctrl+A** to Select all
 6.	Right-Click one of the tables in the diagram and perform the following
@@ -47,10 +47,11 @@ Alternatively, you can use SQL Management Studio to generate a Database diagram.
 
 
 7.	Right-click the diagram background and select  **Show Relationship Labels**
-![](SqlDiagramShowRelationshipLabels.png) **Figure: Show Relationship Labels
+![](/rules/how-to-provide-best-database-schema-document/SqlDiagramShowRelationshipLabels.png) **Figure: Show Relationship Labels
 ** 
 8.	Move the tables around so that the Relationship Labels are clearly visible.
 
 **Note:** You will need to screenshot the diagram as using the copy to clipboard function removes the “Allow Nulls” checkmarks.
-![](SqlDiagramNorthwindSchema.png) **Figure: Northwind Database Schema
+![](/rules/how-to-provide-best-database-schema-document/SqlDiagramNorthwindSchema.png) **Figure: Northwind Database Schema
 **
+

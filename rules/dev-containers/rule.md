@@ -66,11 +66,12 @@ The following tools are not supported yet
 * [Visual Studio](https://containers.dev/supporting)
 
 ::: bad
-![Figure: Bad example - Before using Dev Containers you would be missing a lot of pre-requisites!](NervousDevs.png)
+![Figure: Bad example - Before using Dev Containers you would be missing a lot of pre-requisites!](/rules/dev-containers/NervousDevs.png)
 :::
 
 ::: good
-![Figure: Good example - After using Dev Containers you would be as happy as Larry!](HappyDevs.png)
+![Figure: Good example - After using Dev Containers you would be as happy as Larry!](/rules/dev-containers/HappyDevs.png)
 :::
 
 If you have a reason for not doing all of this, you should at least [containerize your SQL Server environment](/containerize-sql-server).
+

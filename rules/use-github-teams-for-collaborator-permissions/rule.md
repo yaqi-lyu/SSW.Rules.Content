@@ -22,13 +22,13 @@ You can use teams within a repository to manage a whole group's permissions inst
 See [Organizing members into teams](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/organizing-members-into-teams).
 
 ::: good
-![Figure: Good example - Using a good teams structure to organize access](GoodExampleUsingTeams.png)
+![Figure: Good example - Using a good teams structure to organize access](/rules/use-github-teams-for-collaborator-permissions/GoodExampleUsingTeams.png)
 :::
 
 Correctly configuring your organisation's teams structure will make it easy to give members the permissions level that they need. You can add teams to repositories to manage their roles.
 
 ::: good
-![Figure: Good example - Using teams to assign roles in a repository](TeamsOnRepo.png)
+![Figure: Good example - Using teams to assign roles in a repository](/rules/use-github-teams-for-collaborator-permissions/TeamsOnRepo.png)
 :::
 
 <!--endintro-->
@@ -40,10 +40,11 @@ Another benefit of using teams is that you can mention a whole team in a discuss
 When you add a team to a repository, you can give the team a role that determines their access level to the repository. You can also add teams to issues and pull requests to manage their access to those resources. Often individuals are added to repositories as administrators, but this is not a good idea as it gives them destructive access to the repository. Instead, add a team to the repository and give the team the maintainer role.
 
 ::: bad
-![Figure: Bad example - Individuals should not have Admin access to a repository](individuals-added-as-admins.png)
+![Figure: Bad example - Individuals should not have Admin access to a repository](/rules/use-github-teams-for-collaborator-permissions/individuals-added-as-admins.png)
 :::
 
 
 ::: good
-![Figure: Good example - Teams should have Maintainer access to a repository](teams-added-as-maintainers.png)
+![Figure: Good example - Teams should have Maintainer access to a repository](/rules/use-github-teams-for-collaborator-permissions/teams-added-as-maintainers.png)
 :::
+

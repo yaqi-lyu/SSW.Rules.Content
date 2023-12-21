@@ -24,13 +24,14 @@ If you are looking to get the most out of your Twitter experience, you will need
 Recently the Twitter website has been updated to enrich the Twitter experience, but you still can’t easily be notified about topics that you are interested in. 
 
 ::: bad
-![Bad Example: Using the Twitter webpage is not the best way to use Twitter](twitter-webpage.png)
+![Bad Example: Using the Twitter webpage is not the best way to use Twitter](/rules/do-you-use-tweetdeck-to-read-twitter/twitter-webpage.png)
 :::
 
 The best way to use Twitter is to use the TweetDeck client. This allows alerts you when your are mentioned or direct messaged, and allows you to keep an eye on certain things you are interested in, like **#hyperv** or **#ssw** .
 
 ::: good
-![Good Example : Using TweetDeck gives you a dashboard to follow topics you are interested in](twitter-tweetdeck.png)
+![Good Example : Using TweetDeck gives you a dashboard to follow topics you are interested in](/rules/do-you-use-tweetdeck-to-read-twitter/twitter-tweetdeck.png)
 :::
 
 You can learn more about TweetDeck here: https://tweetdeck.twitter.com/
+

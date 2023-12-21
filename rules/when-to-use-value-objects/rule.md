@@ -21,26 +21,26 @@ When defining a domain, entities are created and consist of properties and metho
 As an example, consider an AD account. An AD Account consists of a domain name and username, e.g. SSW\Jason. It is a string so using the **string** type makes sense. Or does it?
 
 ::: bad  
-![Figure: Bad Example - Storing an AD Account as a String (AD Account is a complex type)](when-use-value-bad.png)  
+![Figure: Bad Example - Storing an AD Account as a String (AD Account is a complex type)](/rules/when-to-use-value-objects/when-use-value-bad.png)  
 :::
 
 An AD Account is a complex type. Only certain strings are valid AD accounts. Sometimes you will want the string representation (SSW\Jason), sometimes you will need the domain name (SSW), and sometimes just the username (Jason). All of this requires logic and validation, and the logic and validation cannot be provided by the string primitive type. Clearly, what is required is a more complex type such as a value object.
 
 ::: good  
-![Figure: Good Example - Storing an AD Account as a Value Object to Support Logic and Validation](when-use-value-good.png)  
+![Figure: Good Example - Storing an AD Account as a Value Object to Support Logic and Validation](/rules/when-to-use-value-objects/when-use-value-good.png)  
 :::
 
 The underlying implementation for the **AdAccount** class is as follows:
 
 ::: good  
-![Figure: Good Example - Implementation of the AdAccount Value Object Supports Logic and Validation](when-use-value-good-2.png)  
+![Figure: Good Example - Implementation of the AdAccount Value Object Supports Logic and Validation](/rules/when-to-use-value-objects/when-use-value-good-2.png)  
 :::
 
 The **AdAccount** type is based on the **ValueObject** type.
 
 Working with the AD accounts will now be easy. You can construct a new **AdAccount** with the factory method **For** as follows:
 
-![Figure: When use value](when-use-value-eg-1.png)  
+![Figure: When use value](/rules/when-to-use-value-objects/when-use-value-eg-1.png)  
 
 The factory method **For** ensures only valid AD accounts can be constructed and for invalid AD account strings, exceptions are meaningful, i.e.      **AdAccountInvalidException** rather than **IndexOutOfRangeException** .
 
@@ -66,8 +66,9 @@ The value object also supports implicit and explicit conversion operators. You c
 
 If you're using Entity Framework Core, you should also configure the type as follows:
 
-![Figure: Using Entity Framework Core to Configure Value Objects as Owned Entity Types](when-use-value-eg-2.png)  
+![Figure: Using Entity Framework Core to Configure Value Objects as Owned Entity Types](/rules/when-to-use-value-objects/when-use-value-eg-2.png)  
 
 With the above configuration in place, EF Core will name the database columns for the properties of the owned entity type as **AdAccount\_Domain** and **AdAccount\_Name**. You can learn more about [Owned Entity Types](https://docs.microsoft.com/en-us/ef/core/modeling/owned-entities) by reviewing the EF Core documentation.
 
 Next time you are building an entity, consider carefully if the type you are defining is a primitive type or a complex type. Primitive types work well for storing simple state such as first name or order count, complex types work best when defining types that include complex logic or validation such as postal or email addresses. Using a value object to encapsulate logic and validation will simplify your overall design.
+

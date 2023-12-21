@@ -25,7 +25,7 @@ You could send yourself a "[To Myself](/dones-do-you-send-yourself-emails)" emai
 
 
 ::: bad  
-![Figure: Bad Example – don't use emails to update tasks](bad-mention-pbi.jpg)  
+![Figure: Bad Example – don't use emails to update tasks](/rules/when-you-use-mentions-in-a-pbi/bad-mention-pbi.jpg)  
 :::
 
 Instead, what you should do is use the discussions feature in the PBI and mention the user using "@&lt;username&gt;". 
@@ -66,18 +66,18 @@ To create a new PBI in your Azure DevOps project:
 3. @ mention your desired user in the description
 
 ::: good  
-![Figure: Good Example – Using @ mentions in Azure DevOps discussion](good-mention-pbi.jpg)  
+![Figure: Good Example – Using @ mentions in Azure DevOps discussion](/rules/when-you-use-mentions-in-a-pbi/good-mention-pbi.jpg)  
 :::
 
 
 ::: good  
-![Figure: Good Example – Email still gets sent to the users who are mentioned in the discussion, so they can still chime in if any details are incorrect](good-mention-pbi-2.jpg)  
+![Figure: Good Example – Email still gets sent to the users who are mentioned in the discussion, so they can still chime in if any details are incorrect](/rules/when-you-use-mentions-in-a-pbi/good-mention-pbi-2.jpg)  
 :::
 
 It is also good practise to use @ mention in the discussion to track changes and request test pleases. Try formatting your mentions like an email to clarify both accountability and responsiblity and identify the current status of the project.
 
 ::: good  
-![Figure: Good Example – Using "CC" and Greetings as you would in an email. Emojis are helpful too! 😊](pbi-formatting-mentions.png)  
+![Figure: Good Example – Using "CC" and Greetings as you would in an email. Emojis are helpful too! 😊](/rules/when-you-use-mentions-in-a-pbi/pbi-formatting-mentions.png)  
 :::
 
 ### GitHub Issues
@@ -85,7 +85,7 @@ It is also good practise to use @ mention in the discussion to track changes and
 
 
 ::: good  
-![Figure: Good Example – Using @ mentions in GitHub](MicrosoftTeams-image.png)  
+![Figure: Good Example – Using @ mentions in GitHub](/rules/when-you-use-mentions-in-a-pbi/MicrosoftTeams-image.png)  
 :::
 
 
@@ -100,3 +100,4 @@ It is also good practise to use @ mention in the discussion to track changes and
 * [Interruptions - Do you know that IM interrupts?](/know-that-im-interrupts)
 * [Suggestion to Microsoft Azure DevOps - Help me know there is an image in the Work Item](https://bettersoftwaresuggestions.com/microsoft/azure-devops/help-me-know-there-is-an-image-in-the-work-item/)
 * [Zendesk - Do you reply to the correct Zendesk email?](/do-you-reply-to-the-correct-zendesk-email)
+

@@ -20,7 +20,7 @@ redirects:
 Logo design is an extremely important part of establishing a strong brand for a product or service. An effective product logo should have a unique design that incorporates a brand's core visual language and colors, and makes a lasting positive impression on users or customers.
 
 <!--endintro-->
-![](SSW products logos.png) 
+![](/rules/create-a-recognisable-product-logo/SSW products logos.png) 
 
 ::: good
 Figure: Good Example - Some of the current SSW Product Logos
@@ -48,18 +48,19 @@ The font used on an SSW product logo is **Helvetica Neue LT Pro**, the font weig
 
 Creating a template for product logos is an easy way to save time during the design process while enforcing consistent branding. For example, an SSW product logo always has three parts: a pair of angle brackets, a unique icon, and the product name.  
 
-![Figure: Main elements of an SSW product logo](logoparts.png)
+![Figure: Main elements of an SSW product logo](/rules/create-a-recognisable-product-logo/logoparts.png)
 
 ### 4. Logo variations
 
 An ideal logo design should take into account the different environments or formats they might be placed in. SSW product logos can all be found in 4 different color variations: Two-Colored, SSW charcoal, true black, or all white. 
 
 ::: good
-![Figure: Good Example - Colour variations of the SSW TimePro logo](4 color logo.png)
+![Figure: Good Example - Colour variations of the SSW TimePro logo](/rules/create-a-recognisable-product-logo/4 color logo.png)
 :::
 
 Logos should also have variations that allow the logo to fit different shapes or layouts. If needed, we can stack our icons and product name vertically, make the product name 80% of the original size (e.g. 30pt for original, 24pt for vertical) and then center align the elements to create a vertical version of a product logo.
 
 ::: good
-![Figure: Good Example - Vertical version of TimePro logo](vertical logo.png)
+![Figure: Good Example - Vertical version of TimePro logo](/rules/create-a-recognisable-product-logo/vertical logo.png)
 :::
+

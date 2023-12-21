@@ -25,11 +25,11 @@ Using force push is dangerous and should be used with extreme caution, as it wil
 4. Save changes
 
 ::: bad
-![Bad example: Main branch not protected](image001.jpg)
+![Bad example: Main branch not protected](/rules/use-branch-protection/image001.jpg)
 :::
 
 ::: good
-![Good Example: Main branch is protected](branchProtection.png)
+![Good Example: Main branch is protected](/rules/use-branch-protection/branchProtection.png)
 :::
 
 See the GitHub docs [Managing a branch protection rule](https://docs.github.com/en/github/administering-a-repository/managing-a-branch-protection-rule)
@@ -37,7 +37,7 @@ See the GitHub docs [Managing a branch protection rule](https://docs.github.com/
 You can use required status checks if you need to check that your code changes will build. Status checks are GitHub Actions that are required to succeed before the PR can be merged, so developers can't merge failing code. You can enable required status checks in the same location as **Allow force pushes** and **Allow Deletions**.
 
 ::: good
-![Figure: Developers can't merge until all checks have passed](requiredChecks.png)
+![Figure: Developers can't merge until all checks have passed](/rules/use-branch-protection/requiredChecks.png)
 :::
 
 See the GitHub docs [Require status checks before merging](https://docs.github.com/en/github/administering-a-repository/defining-the-mergeability-of-pull-requests/about-protected-branches#require-status-checks-before-merging)

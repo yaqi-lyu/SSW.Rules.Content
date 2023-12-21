@@ -26,7 +26,7 @@ Here are some tips that should help focus in on a feature.
 
 Look at how they perform the task manually and listen to them  explain the process.  
 
-![Figure: Look at the manual process in this complicated Excel. If the process has never been done before, do it in Excel first](ComplexSpreadsheet.png)
+![Figure: Look at the manual process in this complicated Excel. If the process has never been done before, do it in Excel first](/rules/get-accurate-information/ComplexSpreadsheet.png)
 
 ### Tip #2: Draw a Mock-up or process flow diagram as you listen to the requirements
 
@@ -49,7 +49,7 @@ E.g. On this Journey Map observe the experience for the Producer and the Loan Of
 > The map highlights the emotional journey as described by these customers, including their points of pain and delight. In addition, you’ll find the technologies, systems, and touchpoint types used through the process.\
 >   From [USDA Direct Farm Loans Journey](https://coe.gsa.gov/coe/farm-loans/index.html#journeymap)
 
-![Figure: A Journey Map for 2 stakeholders](usda-journey-map.jpg)
+![Figure: A Journey Map for 2 stakeholders](/rules/get-accurate-information/usda-journey-map.jpg)
 
 See the [high-res version PDF](Direct-Farm-Loans-Journey-Map.pdf).
 
@@ -59,4 +59,5 @@ See the [high-res version PDF](Direct-Farm-Loans-Journey-Map.pdf).
 > \
 >  From [Bryan Finster](https://www.linkedin.com/posts/reneschulte_developer-softwareengineering-engineering-activity-6922838921693294592-pNRg/)
 
-![Source: Bryan Finster on LinkedIn](1650533417256.jpeg)
+![Source: Bryan Finster on LinkedIn](/rules/get-accurate-information/1650533417256.jpeg)
+

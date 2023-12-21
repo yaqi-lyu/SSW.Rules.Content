@@ -22,4 +22,5 @@ For those out of date data, you can use an archive page and change the filtering
 
 For more SharePoint SEO, check from this           [article](http://spmatt.wordpress.com/2012/03/12/search-engine-optimisation-seo-for-sharepoint-sites-part-2/).
 
-![Figure: Use content query web part](contentquerywebpart.png)
+![Figure: Use content query web part](/rules/do-you-use-content-query-web-part/contentquerywebpart.png)
+

@@ -20,7 +20,7 @@ The critical distance between the mindset of a developer and a tester is importa
 
 <!--endintro-->
 
-![Figure: Taking advantage of critical distance reduces the chances of being fooled](fool-yourself-feynman.jpg)
+![Figure: Taking advantage of critical distance reduces the chances of being fooled](/rules/importance-critical-distance/fool-yourself-feynman.jpg)
 
 ### Diverse teams foster increased critical distance
 
@@ -48,7 +48,7 @@ While shallow testing is plausible at a close critical distance, deeper testing 
 
 Testers are always responding to something that has been created by someone else. This is actually a good thing: the tester must develop an independent mental model of the product that was **not** developed in parallel with the building of it. In doing so, they create valuable critical distance.
 
-![Figure: Testers bring skepticism to what we've built](skepticism.jpg)
+![Figure: Testers bring skepticism to what we've built](/rules/importance-critical-distance/skepticism.jpg)
 
 Testers act as agents between the world of technological solutions and the world of skepticism and doubt. Testers must remain professionally and responsibly uncertain that there are no problems, even when everyone around us is sure there are no problems.
 

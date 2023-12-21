@@ -23,9 +23,10 @@ Structuring your repositories consistently makes your project feel professional,
 <!--endintro-->
 
 ::: bad
-![Figure: Bad example – The folder containing the source code is called ‘trunk’ rather than ‘src’ + there is no 'docs' folder containing the important documents](structure-github-bad.jpg)
+![Figure: Bad example – The folder containing the source code is called ‘trunk’ rather than ‘src’ + there is no 'docs' folder containing the important documents](/rules/do-you-know-how-to-structure-a-project-for-github/structure-github-bad.jpg)
 :::
 
 ::: good
-![Figure: Good example - All documentation is in the ‘docs’ folder, samples are in the ‘samples’ folder, and all the source code is under ‘src’](structure-github-good.jpg)
+![Figure: Good example - All documentation is in the ‘docs’ folder, samples are in the ‘samples’ folder, and all the source code is under ‘src’](/rules/do-you-know-how-to-structure-a-project-for-github/structure-github-good.jpg)
 :::
+

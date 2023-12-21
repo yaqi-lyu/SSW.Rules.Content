@@ -23,7 +23,7 @@ redirects:
 
 Each client project should have a nice place to keep files. In the old days, things were simple but limited, we simply used Windows Explorer and file shares. Today there are so many places that teams can store documents. E.g Dropbox, OneDrive, SharePoint, Microsoft Teams and Azure DevOps (was TFS).
 
-![](Screen Shot 2020-10-29 at 11.02.48 AM.png)  
+![](/rules/where-to-keep-your-files/Screen Shot 2020-10-29 at 11.02.48 AM.png)  
 
 <!--endintro-->
 
@@ -31,7 +31,7 @@ Each client project should have a nice place to keep files. In the old days, thi
 
 The solution that allows the best collaboration with Developers, Project Managers, and other stakeholders is SharePoint and Microsoft Teams. It is super easy to create, upload, and share documents with others.
 
-![Figure: Teams | Team | Files](Microsoft-Teams-Files.png)  
+![Figure: Teams | Team | Files](/rules/where-to-keep-your-files/Microsoft-Teams-Files.png)  
 
 More at [Files - Do you store project documents in Teams?](/track-project-documents)
 
@@ -49,19 +49,19 @@ For most projects, you need to quickly store and locate important details and do
 * General documents e.g. Requirements/Specifications (Note: it is possible to share documents from Microsoft Teams externally, but not from Teams directly... just open it in Office Online or a specific Office app first)
 
 ::: bad  
-![Figure: Bad example – It might be easy to use File Shares, your Local C:, or emails – but don’t. They don’t work in a team environment as they aren’t easy for others to access](Dont-keep-files.jpg)  
+![Figure: Bad example – It might be easy to use File Shares, your Local C:, or emails – but don’t. They don’t work in a team environment as they aren’t easy for others to access](/rules/where-to-keep-your-files/Dont-keep-files.jpg)  
 :::
 
 ::: bad  
-![Figure: Bad example – SharePoint integrated into Azure DevOps (was VSTS/TFS) is not supported via Visual Studio anymore](keep-files-TFS.jpg)  
+![Figure: Bad example – SharePoint integrated into Azure DevOps (was VSTS/TFS) is not supported via Visual Studio anymore](/rules/where-to-keep-your-files/keep-files-TFS.jpg)  
 :::
 
 ::: bad  
-![Figure: Bad example – Even though this is using SharePoint - this is using a Team Site with a Document Library - it is better to use Microsoft Teams which uses SharePoint under the covers](keep-files-SP.jpg)  
+![Figure: Bad example – Even though this is using SharePoint - this is using a Team Site with a Document Library - it is better to use Microsoft Teams which uses SharePoint under the covers](/rules/where-to-keep-your-files/keep-files-SP.jpg)  
 :::
 
 ::: good  
-![Figure: Good example - Use Microsoft Teams and it will automatically create a Site for the Team (and that includes a document library which you can connect to with OneDrive)](keep-files-sp-teams.jpg)  
+![Figure: Good example - Use Microsoft Teams and it will automatically create a Site for the Team (and that includes a document library which you can connect to with OneDrive)](/rules/where-to-keep-your-files/keep-files-sp-teams.jpg)  
 :::
 
 ### What does *not* get stored in Microsoft Teams? 
@@ -78,3 +78,4 @@ For most projects, you need to quickly store and locate important details and do
 ### What about usernames and passwords?
 
 Documents with usernames and passwords should not be stored in Microsoft Teams. Security is very important for everyone and every company. [Use a password manager](/password-manager) to store usernames and passwords. 
+
