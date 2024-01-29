@@ -19,6 +19,7 @@ index:
 - rules-to-running-better-user-groups
 - rules-to-better-video-recording
 - rules-to-better-youtube
+- rules-to-ai-tools-voice-translations
 
 ---
 
