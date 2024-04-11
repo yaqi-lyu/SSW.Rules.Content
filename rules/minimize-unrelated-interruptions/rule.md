@@ -10,7 +10,7 @@ authors:
     url: https://ssw.com.au/people/jonty-gardner
 related:
   - do-you-have-successful-remote-meetings
-
+redirects: []
 ---
 
 Group calls are made for important discussions to be had, and distractions can derail them. Ever been in a group call where someone just vanishes? It's confusing and can mess up the flow of conversation.

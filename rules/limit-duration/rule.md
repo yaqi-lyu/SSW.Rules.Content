@@ -8,6 +8,8 @@ authors:
 created: 2024-02-28T22:58:09.052Z
 guid: b33dbb23-15e6-4dfc-b0f0-66d23c095ce4
 archivedreason: null
+related: []
+redirects: []
 ---
 Limiting the duration of board meetings encourages efficiency and ensures that members remain engaged and focused throughout the session.
 

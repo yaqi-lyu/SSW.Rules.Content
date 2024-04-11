@@ -1,6 +1,7 @@
 ---
 type: rule
-title: Do you have a brainstorming "Idea Champion"?
+title: | 
+  Do you have a brainstorming "Idea Champion"?
 uri: brainstorming-idea-champion
 authors:
   - title: Seth Daily
