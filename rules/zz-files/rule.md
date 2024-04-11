@@ -1,6 +1,7 @@
 ---
 type: rule
-title: Do you 'zz' old files rather than deleting them?
+title: | 
+  Do you 'zz' old files rather than deleting them?
 uri: zz-files
 authors:
   - title: Adam Cogan
