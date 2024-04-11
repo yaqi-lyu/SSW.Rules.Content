@@ -19,6 +19,7 @@ created: 2009-03-02T02:45:33.000Z
 archivedreason: null
 guid: 89900a3a-2e3d-4d72-b935-0949bd1cd8ed
 ---
+
 When you are regularly creating new releases of a cool .NET application or simply producing new proposals in Microsoft Word, files will inevitably become **outdated**. Rather than deleting them, put a 'zz' at the front of the filename. These old versions should not be deleted straight away - it is just an unnecessary risk! The zz'd files can remain there until you need more space, then you should delete them.
 
 <!--endintro-->
@@ -27,7 +28,7 @@ When you are regularly creating new releases of a cool .NET application or simpl
 
 ::: info
 
-**Warning:** You should not zz [if you are using source control](/do-you-know-zz-ed-files-must-not-exist-in-source-control).
+**Warning:** You should not zz [if you are using source control](/do-you-know-zz-ed-files-must-not-exist-in-source-control)
 
 :::
 
@@ -55,9 +56,7 @@ On YouTube click the ‘New Version’ link in the description.
 ![Figure: How to access the latest video in the subject section](https://github.com/SSWConsulting/SSW.Rules.Content/assets/147477898/748b40ce-792b-4400-84ca-5c759aa72148)
 
 ::: info
-
 If you are deleting something that uses resources and/or cost money, it is a good idea to 'zz' it first - and use a follow up to remind yourself to delete it after a reasonable amount of time, as per: [https://www.ssw.com.au/rules/follow-up-effectively/](/follow-up-effectively/)
-
 :::
 
 ### Not ready to 'zz'? Use 'yy'
