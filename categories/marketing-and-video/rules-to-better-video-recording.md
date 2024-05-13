@@ -39,7 +39,6 @@ index:
 - ticks-crosses
 - post-production-do-you-add-captions-to-your-video
 - post-production-do-you-add-content-to-youtube-to-feed-traffic-to-your-other-sites
-- review-videos-collaboratively
 - post-production-do-you-know-how-to-create-the-swing-in-text-effect
 - production-do-you-know-to-subtitle-your-videos
 - avoid-dates-text-in-graphics-for-events
@@ -57,6 +56,7 @@ index:
 - do-you-have-a-dog-aka-digital-on-screen-graphic-on-your-videos
 - add-a-sweet-audio-indication-when-text-arrives-on-the-screen
 - record-better-audio
+- summary-recording-sprint-reviews
 - how-to-find-the-best-audio-track-for-your-video
 - use-a-hardware-device-to-capture-laptop-video-output
 - organize-the-audience-when-numbers-are-low
