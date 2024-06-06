@@ -18,6 +18,7 @@ Entity Framework Code First Migrations allow you to update a database schema rat
 <!--endintro-->
 
 ## Database Schema Management Options
+
 Managing database schemas effectively is crucial for the smooth operation and evolution of software applications. For more options to manage database schemas, see [Do you know the best tools for updating database schemas?](https://rules.ssw.com.au/tools-database-schema-changes).
 
 Managing database schemas effectively is crucial for the smooth operation and evolution of software applications. For more options to manage database schemas, see [the best tools for updating database schemas](/tools-database-schema-changes/).
