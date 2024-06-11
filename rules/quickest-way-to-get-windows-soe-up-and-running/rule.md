@@ -72,7 +72,6 @@ Your new computer is ready ⭐️
 * Model: Surface Pro 9
 * Operating System: Windows 11 Enterprise
 
-
 I have followed an SSW Rule: [ssw.com.au/rules/do-you-know-the-quickest-way-to-get-your-windows-soe-up-and-running](/do-you-know-the-quickest-way-to-get-your-windows-soe-up-and-running) and this included:
 
 * Data - I have checked that your files are in OneDrive so that they will sync to your new computer
