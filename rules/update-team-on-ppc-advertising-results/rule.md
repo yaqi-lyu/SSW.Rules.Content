@@ -25,11 +25,11 @@ Every month, you should send out a Google Ads report to the relevant stakeholder
 
 Make sure to include:
 
-- Number of opportunities vs. number of conversions that came through our Google Ads
-- Compare results for the month in the current and previous year: clicks, impressions, the average cost per click, and cost
-  - Explain why it increased or dropped
-- Add information about best campaigns and keywords, if any of them had a special improvement or was on 'the spotlight' during that month
-- Mention in percentage where sessions on our website came from. They could come from: Direct, organic, referral, paid ads, social media, and emails (newsletter). Findm this at **Google Analytics | Acquisition | Overview**
-- Add graphics to illustrate your report. Use Google Ads or Power BI for cool screenshots
+* Number of opportunities vs. number of conversions that came through our Google Ads
+* Compare results for the month in the current and previous year: clicks, impressions, the average cost per click, and cost
+  * Explain why it increased or dropped
+* Add information about best campaigns and keywords, if any of them had a special improvement or was on 'the spotlight' during that month
+* Mention in percentage where sessions on our website came from. They could come from: Direct, organic, referral, paid ads, social media, and emails (newsletter). Findm this at **Google Analytics | Acquisition | Overview**
+* Add graphics to illustrate your report. Use Google Ads or Power BI for cool screenshots
 
 If you have any further relevant information, make sure to include it in the montly reports as well.
