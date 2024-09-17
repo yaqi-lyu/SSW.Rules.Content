@@ -22,6 +22,9 @@ It can be very expensive to write large blocks of data into databases. What can 
 
 <!--endintro-->
 
+`youtube: https://www.youtube.com/embed/0ugMkda9IBw`  
+**Video: Minimise large writes for SQL performance | Bryden Oliver (3 min)**
+
 When data is written into a database table, any records being modified have to be locked. The more records being modified the more locks that are reuired. If there are enough locks going on, the server may choose to escalate the row locks into page or even table locks. This means that other queries are prevented from touching those records/pages/tables while the write query transaction is not complete.
 
 Most databases have custom Bulk Update libraries which optimise these operations as much as possible, so using these will alleviate these issues somewhat.
