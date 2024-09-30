@@ -61,8 +61,8 @@ index:
 - the-team-do-you-have-a-scrum-master-outside-the-dev-team
 - the-war-room-does-your-scrum-room-have-the-best-scrum-image
 - do-you-know-how-devops-fits-in-with-scrum
-- printed-story-cards
+- printed-story-cards  
 
 ---
-
+  
 Learn more about Scrum with [Azure DevOps](/rules-to-better-scrum-using-azure-devops) and [GitHub](/rules-to-better-scrum-using-github).
