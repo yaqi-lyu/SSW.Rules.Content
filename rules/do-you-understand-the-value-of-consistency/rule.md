@@ -67,3 +67,15 @@ What you do in your model is not nearly as important as doing what you do the sa
 **Figure: The Barber gave an inconsistent experience. Excerpt from "The E Myth" page 10** 
 
 Standards don't need to come at the expense of creativity. Following standards means less time doing the administrative stuff and more time for the creative. Of course, standards are works in progress, and so we are always on the lookout for improvements. That's why standards should be shared with everyone.
+
+::: greybox
+Join us for {{ TEAM NAME }}'s Sprint {{ OLD NUMBER }} Review + Retro and Sprint {{ NEW NUMBER }} Planning
+
+{{ MIN }}:{{ SEC }} Intro  
+{{ MIN }}:{{ SEC }} Sprint Review  
+{{ MIN }}:{{ SEC }} Sprint Retro  
+{{ MIN }}:{{ SEC }} Sprint Planning  
+{{ MIN }}:{{ SEC }} Outro  
+
+🔗 Link: {{ PRODUCT WEBSITE URL }}
+:::
