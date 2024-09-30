@@ -12,7 +12,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 - title: Ken Shi
   url: https://ssw.com.au/people/ken-shi
-related:
+related: 
 - software-for-product-design
 - hand-over-mockups-to-developers
 - version-control-software-for-designers
