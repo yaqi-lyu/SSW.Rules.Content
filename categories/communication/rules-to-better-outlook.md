@@ -21,4 +21,3 @@ index:
 - do-you-use-word-as-your-editor
 
 ---
-  
