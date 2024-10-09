@@ -9,7 +9,7 @@ dashsed_lines = "Dashed lines"
 quoted_lists_key = "lists embedded in quotes"
 open_braces_key = "Open parenthesis" 
 close_braces_key = "Closing parenthesis"
-figure_text_key = "Figure text"
+image_embed_key = "Image embeds"
 rule_title_key = "Relevant rule"
 unaffected_rules = 0
 
@@ -73,14 +73,13 @@ def summarize_invalid_chars(rule_contents:str, rule_title: str) -> dict:
 
 
     dashed_lines = re.findall(r'-{2,}[^-]', rule_contents)
-
     
     invalid_char_summary[dashsed_lines] = len(dashed_lines)
     invalid_char_summary[quoted_lists_key] = len(re.findall(r'> \*', rule_contents)) + len(re.findall(r'>  -', rule_contents))
     invalid_char_summary[open_braces_key] = len(re.findall(r'\{', rule_contents))
     invalid_char_summary[close_braces_key] = len(re.findall(r'\}', rule_contents))
-    invalid_char_summary[figure_text_key] = rule_contents.count("![Figure")
-
+    invalid_char_summary[image_embed_key] = len(re.findall(r'!\[[\s\S]*?\]\([\s\S]*?\)', rule_contents))
+    
     return invalid_char_summary
 
 
