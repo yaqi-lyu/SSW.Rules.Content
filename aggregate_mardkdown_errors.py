@@ -11,11 +11,12 @@ open_braces_key = "Open parenthesis"
 close_braces_key = "Closing parenthesis"
 figure_text_key = "Figure text"
 rule_title_key = "Relevant rule"
-
+unaffected_rules = 0
 
 rules_problem_summary: List[dict] = []
 
 def main():
+    global unaffected_rules
     for root, dirs, files in os.walk(".\\rules"):
         for file in files:
             file_path = os.path.join(root,file)
@@ -32,15 +33,20 @@ def main():
                     rule_contents = strip_endintro(rule_contents)
                     
                     invalid_char_summary :dict = summarize_invalid_chars(rule_contents, rule_title)
-
+                    if all(isinstance(value, str) or value == 0 for value in invalid_char_summary.values()):
+                        unaffected_rules += 1
+                        continue
                     print("=====================================")
                     print("file path:", file_path)
                     print(rule_title)
+
+                    
                     rules_problem_summary.append(invalid_char_summary)
                     for key, val in invalid_char_summary.items():
                         print(f"{key}: {val}")
     issues_by_rule(rules_problem_summary)
     rules_affected_by_issue(rules_problem_summary)
+    percentage_rules_affected(unaffected_rules, rules_problem_summary.__len__())
                                 
 def extract_title(rule_contents:str) -> str:
     title_match = re.search(r'title: (.*)', rule_contents)
@@ -77,6 +83,13 @@ def summarize_invalid_chars(rule_contents:str, rule_title: str) -> dict:
 
     return invalid_char_summary
 
+
+def percentage_rules_affected(unaffected_rules: int, total_rules: int):
+    workbook = Workbook()
+    workbook_writer = workbook.active
+    workbook_writer.append(["Unaffected rules", "Total rules",])
+    workbook_writer.append([unaffected_rules, total_rules])
+    workbook.save("percentage_rules_affected.xlsx")
 
 def rules_affected_by_issue(rules_problem_summary: List[dict]):
     rules_affected_by_issue = {}
