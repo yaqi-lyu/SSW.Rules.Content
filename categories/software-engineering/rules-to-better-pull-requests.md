@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Pull Requests
 guid: 1e8416b6-0178-4296-ba5f-145f7575119a
 uri: rules-to-better-pull-requests

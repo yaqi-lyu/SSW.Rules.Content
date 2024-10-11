@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better WordPress
 guid: 86a9fc2c-b6e8-466e-9234-8dbbcbb6fb70
 uri: rules-to-better-wordpress

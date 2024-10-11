@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better DevOps using GitHub (Actions)
 guid: 1faa7c53-b750-43e3-a604-e532f139b0f0
 uri: rules-to-better-devops-using-github

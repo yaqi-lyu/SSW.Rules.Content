@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Unit Tests
 guid: 481d547d-481e-4184-90ea-d88adfee8f83
 uri: rules-to-better-unit-tests

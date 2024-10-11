@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Board Meetings
 guid: f57099fc-ff50-43d7-aed7-92c9fc9e056e
 uri: rules-to-better-board-meetings

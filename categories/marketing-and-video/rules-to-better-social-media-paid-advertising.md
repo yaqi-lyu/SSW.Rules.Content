@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Social Media - Paid Advertising
 guid: 95845767-3186-4c8f-833d-02d46afacb26
 uri: rules-to-better-social-media-paid-advertising

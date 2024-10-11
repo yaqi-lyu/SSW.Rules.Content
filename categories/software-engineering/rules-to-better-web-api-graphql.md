@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Web API - GraphQL
 guid: ca8ae117-78b1-4e42-8619-4d54db1ab586
 uri: rules-to-better-web-api-graphql

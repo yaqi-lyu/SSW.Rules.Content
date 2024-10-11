@@ -1,5 +1,6 @@
 ---
 type: top-category
+_template: top-category
 title: Artificial Intelligence (AI) 🔥
 uri: artificial-intelligence
 index:

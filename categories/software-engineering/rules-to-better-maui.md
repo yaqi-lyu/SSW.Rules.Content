@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better .NET MAUI (was Xamarin)
 guid: f00bdf61-a2f5-4c52-ab38-b1e2120e77b6
 uri: rules-to-better-maui

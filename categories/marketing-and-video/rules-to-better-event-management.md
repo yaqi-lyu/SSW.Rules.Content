@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Event Management
 guid: 30628d5f-cd60-4421-a993-8b13e4817342
 uri: rules-to-better-event-management

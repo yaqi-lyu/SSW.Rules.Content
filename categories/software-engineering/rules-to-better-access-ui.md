@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Access UI
 guid: 1798e8e0-0f80-4128-9fcc-35ee6b7f6385
 uri: rules-to-better-access-ui

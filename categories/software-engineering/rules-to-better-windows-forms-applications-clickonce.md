@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Windows Forms Applications - ClickOnce
 guid: 157fde1f-d58f-4f2c-b3b2-fdce866c7cfc
 uri: rules-to-better-windows-forms-applications-clickonce

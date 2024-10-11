@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Continuous Deployment
 guid: 291d0ed1-a02d-4f22-b0f8-64f51a93d80d
 uri: rules-to-better-continuous-deployment-with-tfs

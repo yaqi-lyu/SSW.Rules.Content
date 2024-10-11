@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Giving and Taking Feedback
 guid: e9246d26-b808-44ac-9747-7bcf9b0f1675
 uri: rules-to-better-giving-and-taking-feedback

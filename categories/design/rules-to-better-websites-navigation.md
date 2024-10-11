@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Websites - Navigation
 guid: e59c536d-ed09-46ab-8a7d-eeea93caa6c6
 uri: rules-to-better-websites-navigation

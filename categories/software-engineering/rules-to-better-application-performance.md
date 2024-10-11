@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Application Performance
 guid: 11ecd576-7615-4492-93f8-20ec4d658e36
 uri: rules-to-better-application-performance

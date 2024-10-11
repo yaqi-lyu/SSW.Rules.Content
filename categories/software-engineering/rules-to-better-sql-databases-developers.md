@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better SQL Databases - Developers
 guid: c66da635-3483-4287-9d19-013152b12d0f
 uri: rules-to-better-sql-databases-developers

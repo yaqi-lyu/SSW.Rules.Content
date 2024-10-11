@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Offices
 guid: 44d608eb-cbd6-4391-b8ef-f91160e751c4
 uri: rules-to-better-offices

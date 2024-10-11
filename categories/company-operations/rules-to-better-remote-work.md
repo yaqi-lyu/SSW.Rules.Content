@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Remote Work
 guid: 261adb6e-7903-4008-a8bb-eca6b6115607
 uri: rules-to-better-remote-work

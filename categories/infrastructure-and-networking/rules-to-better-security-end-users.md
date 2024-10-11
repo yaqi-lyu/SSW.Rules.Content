@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Security - End Users
 guid: bcfd0c99-da62-465f-9bd6-aa437f80486b
 uri: rules-to-better-security-end-users

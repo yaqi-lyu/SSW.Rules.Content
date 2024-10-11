@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better SQL Databases - Admin
 guid: 213cde57-b9b7-45ee-b22a-1219e19e29b7
 uri: rules-to-better-sql-databases-admin

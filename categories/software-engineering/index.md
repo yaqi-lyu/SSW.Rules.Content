@@ -1,5 +1,6 @@
 ---
 type: top-category
+_template: top-category
 title: Software Engineering
 uri: software-engineering
 index:

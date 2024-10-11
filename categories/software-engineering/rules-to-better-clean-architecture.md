@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Clean Architecture
 guid: bc3e235c-9e79-4405-b998-5725b46b91dd
 uri: rules-to-better-clean-architecture

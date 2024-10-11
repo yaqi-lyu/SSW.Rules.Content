@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better User Acceptance Tests (UAT) for Bug Management
 guid: 846f937c-37cf-4a7f-a1fc-b8a87dc9931e
 uri: rules-to-better-user-acceptance-tests-uat-for-bug-management

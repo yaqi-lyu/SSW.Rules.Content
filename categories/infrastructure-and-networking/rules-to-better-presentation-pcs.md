@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Presentation PC's
 guid: 6c20f742-3900-49e2-b374-f61fc7ba6a19
 uri: rules-to-better-presentation-pcs

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Cars
 guid: facb2d37-5257-4192-8962-f58801bc1b9e
 uri: rules-to-better-cars

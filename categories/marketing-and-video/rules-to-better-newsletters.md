@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Newsletters
 guid: 0dae71ba-6d72-499c-a3ef-14dff6c928f0
 uri: rules-to-better-newsletters

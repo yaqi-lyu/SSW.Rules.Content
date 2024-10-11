@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better .NET Core
 guid: 948973d9-f2a6-40d1-8e4d-90edb5e85416
 uri: rules-to-better-net-core

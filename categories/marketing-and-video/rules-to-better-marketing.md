@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Marketing
 guid: 55cb77cb-3581-4e36-924a-08ea0245d1d7
 uri: rules-to-better-marketing

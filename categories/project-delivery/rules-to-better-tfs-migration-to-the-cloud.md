@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better TFS Migration to the Cloud
 guid: 82b56412-15f3-49fb-8d08-486b2a3cb9cf
 uri: rules-to-better-tfs-migration-to-the-cloud

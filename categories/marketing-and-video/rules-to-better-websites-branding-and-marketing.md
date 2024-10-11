@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Websites - Branding and Marketing
 guid: ffbf2ca6-b442-45d7-99ca-5b28ebe48f19
 uri: rules-to-better-websites-branding-and-marketing

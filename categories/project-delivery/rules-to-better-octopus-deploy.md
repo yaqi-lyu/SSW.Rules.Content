@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Octopus Deploy
 guid: 30c9c0ae-ca43-4827-b507-75ee88379432
 uri: rules-to-better-octopus-deploy

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Interfaces (Windows Applications)
 guid: dca8e9b8-6b39-4daa-ab46-3c6aaba92e2b
 uri: rules-to-better-interfaces-windows-applications

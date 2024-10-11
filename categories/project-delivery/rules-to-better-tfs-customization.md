@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better TFS Customization
 guid: beac833e-04e9-4557-9e86-4c9bb7bd8d36
 uri: rules-to-better-tfs-customization

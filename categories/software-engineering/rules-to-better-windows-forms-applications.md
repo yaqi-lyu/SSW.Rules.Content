@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Windows Forms Applications
 guid: 9a4d7830-67b8-48d7-982a-58f6ede0ed72
 uri: rules-to-better-windows-forms-applications

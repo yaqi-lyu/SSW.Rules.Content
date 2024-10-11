@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better MVC
 guid: 129e50dc-6e94-4dcf-a690-1ea111f4aef1
 uri: rules-to-better-mvc

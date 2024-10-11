@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Microsoft Dynamics Marketing (MDM)
 guid: 6a207ebe-6af4-4deb-9ab7-eecaac62f818
 uri: rules-to-better-microsoft-dynamics-marketing-mdm

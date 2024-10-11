@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Error Handling
 guid: 3691ee12-ee85-40dc-9236-ced69d3930ba
 uri: rules-for-error-handling

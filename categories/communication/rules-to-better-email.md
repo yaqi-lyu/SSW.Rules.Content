@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Email
 guid: cf375412-5e47-4101-9171-1ba7323424f3
 uri: rules-to-better-email

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Version Control with Git
 guid: 55d679d7-adbe-4f37-bac5-22d0c28632c2
 uri: rules-to-better-version-control-with-git

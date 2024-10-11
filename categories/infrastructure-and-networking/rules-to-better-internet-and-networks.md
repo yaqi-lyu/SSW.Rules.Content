@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Internet and Networks
 guid: b9f62960-eaa3-4cd5-8a4d-104ee5640a4b
 uri: rules-to-better-internet-and-networks

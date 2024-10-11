@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Security
 guid: b665f88f-f71c-4fa9-8c8b-570d62fce515
 uri: rules-to-better-security

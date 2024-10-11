@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Naming Conventions
 guid: 5e9a6545-bca8-4178-b807-a11900b03149
 uri: rules-to-better-naming-conventions

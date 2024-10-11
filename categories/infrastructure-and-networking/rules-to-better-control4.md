@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Control4
 guid: bf36d1b3-7139-4a48-9338-859890ce431f
 uri: rules-to-better-control4

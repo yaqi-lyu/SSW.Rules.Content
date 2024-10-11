@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better YouTube
 guid: 9ba86c33-8a44-424c-b31d-0273b0cd7633
 uri: rules-to-better-youtube

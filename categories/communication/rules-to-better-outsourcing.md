@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Outsourcing
 guid: 74d28480-e030-44c3-94a5-c3d164cc7f65
 uri: rules-to-better-outsourcing

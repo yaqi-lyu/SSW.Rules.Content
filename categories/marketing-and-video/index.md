@@ -1,5 +1,6 @@
 ---
 type: top-category
+_template: top-category
 title: Marketing and Video
 uri: marketing-and-video
 index:

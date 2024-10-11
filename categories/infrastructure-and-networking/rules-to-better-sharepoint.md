@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better SharePoint
 guid: 341c64f3-0d65-4a56-b0bf-b461fabb90a8
 uri: rules-to-better-sharepoint

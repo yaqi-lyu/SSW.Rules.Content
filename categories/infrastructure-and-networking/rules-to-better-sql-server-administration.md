@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better SQL Server Administration
 guid: 2b410c97-0d75-4e97-b0c4-4c6c35752ac2
 uri: rules-to-better-sql-server-administration

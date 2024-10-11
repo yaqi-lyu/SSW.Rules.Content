@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Installers
 guid: 9a4d6f08-b66d-4a12-aa51-fb854d010c60
 uri: rules-to-better-installers

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Sales
 guid: ea16deab-82a6-4e3d-b2fd-641db8a26112
 uri: rules-to-better-sales

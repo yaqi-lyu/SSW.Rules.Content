@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Domain Driven Design
 guid: E893B1B8-A383-470C-A72E-149F95E5B6F0
 uri: rules-to-better-domain-driven-design

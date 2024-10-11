@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Microsoft Surface
 guid: f5d12ed1-3e6e-4dac-985e-49d18c114307
 uri: rules-to-better-microsoft-surface

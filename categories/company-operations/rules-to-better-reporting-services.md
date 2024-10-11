@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Reporting Services
 guid: 29ec5a9d-0176-4160-bb11-81e8b3a94707
 uri: rules-to-better-reporting-services

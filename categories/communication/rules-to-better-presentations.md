@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Presentations
 guid: c0d90212-c55a-42eb-b35d-d4947a4edf35
 uri: rules-to-better-presentations

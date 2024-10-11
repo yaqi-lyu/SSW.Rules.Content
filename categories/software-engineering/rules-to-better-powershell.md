@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Powershell
 guid: 12496c44-3d4f-42c0-a804-caa59ce91111
 uri: rules-to-better-powershell

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Scrum using Azure DevOps (Work Items)
 guid: f4bb7157-d368-4592-a7f9-49d92fb774d3
 uri: rules-to-better-scrum-using-azure-devops

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better .NET Projects
 guid: 92329e86-0a26-4041-ab4d-c40c7e88fef8
 uri: rules-to-better-net-projects

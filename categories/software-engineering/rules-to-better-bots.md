@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Bots
 guid: bddc57f7-5d19-4abe-b76a-598386945c49
 uri: rules-to-better-bots

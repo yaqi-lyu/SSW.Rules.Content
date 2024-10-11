@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better SharePoint Migration from 2013 to 2016
 guid: f3d9a6cc-2bf1-4bef-9b8e-86e8a7c9e051
 uri: rules-to-better-sharepoint-migration-from-2013-to-2016

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Slack
 guid: baaf1f30-3cd5-41a5-8b02-84e451294f02
 uri: rules-to-better-slack

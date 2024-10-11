@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better ChatGPT Prompt Engineering
 guid: 91b60efc-2b8e-4ff1-a373-ac4cab576483
 uri: rules-to-better-chatgpt-prompt-engineering

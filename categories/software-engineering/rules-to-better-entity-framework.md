@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Entity Framework
 guid: 41ab6233-da17-4beb-8a07-30fb0edcdcbe
 uri: rules-to-better-entity-framework

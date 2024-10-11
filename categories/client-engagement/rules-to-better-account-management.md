@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Account Management
 guid: 99c48dc0-aefb-4ba7-b4a4-dc1783173a4a
 uri: rules-to-better-account-management

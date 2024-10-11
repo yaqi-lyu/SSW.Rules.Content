@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Software Consultants - Dealing with Clients
 guid: 7f6e0ba7-b269-4090-85f6-bc413733026c
 uri: rules-to-better-software-consultants-dealing-with-clients

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Power BI
 guid: a4624ee3-5ae1-492e-bb44-d467bd576b2f
 uri: rules-to-better-power-bi

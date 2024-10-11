@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Exchange Server
 guid: 39836cca-aa39-4fb3-9238-4ccdbcde025c
 uri: rules-to-better-exchange-server

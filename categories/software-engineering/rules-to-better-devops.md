@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better DevOps
 guid: 0f29f4b8-61ae-4c6a-ac40-f3084086d817
 uri: rules-to-better-devops

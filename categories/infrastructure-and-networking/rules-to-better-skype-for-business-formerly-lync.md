@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Skype for Business (formerly Lync)
 guid: f32a272f-303a-490a-8bbe-7d79bf95e2a2
 uri: rules-to-better-skype-for-business-formerly-lync

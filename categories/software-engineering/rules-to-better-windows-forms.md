@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 archivedreason: Category contains outdated references to windows forms
 title: Rules to Better Windows Forms
 guid: 50d80bbb-d025-4361-bcaf-bc73ae788201

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Travel
 uri: rules-to-better-travel
 guid: 543a6819-f114-46a9-8e3c-7988c9e81820

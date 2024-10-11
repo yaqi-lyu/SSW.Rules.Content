@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Social Media for Business
 guid: cfafc0a2-0bcd-4df6-83ca-c6fde43e7f55
 uri: rules-to-better-social-media-for-business

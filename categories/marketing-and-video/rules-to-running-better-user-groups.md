@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Running Better User Groups
 guid: dc76a158-91d1-42af-a182-49a2fc30c2a1
 uri: rules-to-running-better-user-groups

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Interfaces (Wizards)
 guid: fae34265-2b20-4081-b9a2-0ab7a6175737
 uri: rules-to-better-interfaces-wizards

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Code Commenting
 guid: 1c07cfbf-ffe2-41fc-a115-ccd0d6b26f37
 uri: rules-to-better-code-commenting

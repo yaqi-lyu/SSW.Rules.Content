@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Outlook
 guid: 4484570f-c674-4bdc-947a-24831d2b8499
 uri: rules-to-better-outlook

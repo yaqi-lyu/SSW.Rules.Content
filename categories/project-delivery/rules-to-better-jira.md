@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Jira
 guid: 9a2ca8b1-e1d6-4258-9752-9d0cc48464bc
 uri: rules-to-better-jira

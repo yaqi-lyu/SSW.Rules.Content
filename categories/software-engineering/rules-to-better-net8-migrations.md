@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better .NET 8 Migrations
 experts: https://www.ssw.com.au/people/?skill=.NET-8-Migration
 consulting: https://www.ssw.com.au/consulting/net-8

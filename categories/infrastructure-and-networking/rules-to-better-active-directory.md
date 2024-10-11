@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Active Directory
 guid: a21d03ec-d230-46de-8fa8-beecf84059ca
 uri: rules-to-better-active-directory

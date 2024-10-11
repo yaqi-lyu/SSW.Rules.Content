@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Interfaces (General Usability Practices)
 guid: 42bb8843-7a37-4727-b51e-4d168242b1bb
 uri: rules-to-better-interfaces-general-usability-practices

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Angular
 guid: a9ab57be-1999-412c-89a5-f76aa92d369b
 uri: rules-to-better-angular

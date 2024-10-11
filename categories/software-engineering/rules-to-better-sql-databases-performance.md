@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better SQL Databases - Performance
 guid: c83706c7-b89e-480f-9cb8-346ffd4a87cf
 uri: rules-to-better-sql-databases-performance

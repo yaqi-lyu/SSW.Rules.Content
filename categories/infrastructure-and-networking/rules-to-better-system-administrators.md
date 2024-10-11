@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better System Administrators
 guid: 9343671b-9ca9-4085-b307-f7aa2f26d66c
 uri: rules-to-better-system-administrators

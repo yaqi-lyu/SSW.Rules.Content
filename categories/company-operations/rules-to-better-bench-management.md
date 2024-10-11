@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Bench Management
 guid: dac838a8-e841-4fba-a62b-a448e9709195
 uri: rules-to-better-bench-management

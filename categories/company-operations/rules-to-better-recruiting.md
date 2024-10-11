@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Recruiting
 guid: 460e0413-a029-426b-b5e3-0ac68d7031f2
 uri: rules-to-better-recruiting

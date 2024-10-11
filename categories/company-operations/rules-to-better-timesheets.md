@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Timesheets
 guid: fb5afcf8-f782-4679-bb86-d91342b1610c
 uri: rules-to-better-timesheets

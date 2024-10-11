@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Web API - REST
 guid: 2a13b7e0-6fba-44ff-991c-7d2caca7e29d
 uri: rules-to-better-web-api-rest

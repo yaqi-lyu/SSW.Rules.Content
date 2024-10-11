@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Search
 guid: f985c89e-34ae-47ad-97a8-12fb429ebffc
 uri: rules-to-better-search

@@ -1,5 +1,6 @@
 ---
 type: top-category
+_template: top-category
 title: Company Operations
 uri: company-operations
 index:

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Microsoft Teams
 guid: 8d4f1557-16a2-4e77-aee7-95c8d3c5123d
 uri: rules-to-better-microsoft-teams

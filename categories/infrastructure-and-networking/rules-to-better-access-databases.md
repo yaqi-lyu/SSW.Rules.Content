@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Access Databases
 guid: 68d79aec-15f2-4e6d-9ed5-84eb6747dfb3
 uri: rules-to-better-access-databases

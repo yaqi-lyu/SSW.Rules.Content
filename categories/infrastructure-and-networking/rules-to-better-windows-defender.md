@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Windows Defender
 guid: 5992a5c1-de23-4601-aa2b-2282c3004cc3
 uri: rules-to-better-windows-defender

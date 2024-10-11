@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Nuget
 guid: 1d5f8435-5e69-4542-98ff-2befb94440be
 uri: rules-to-better-nuget

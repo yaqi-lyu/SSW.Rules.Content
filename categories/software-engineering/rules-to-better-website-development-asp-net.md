@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Website Development - ASP.NET
 guid: e3e75b67-96d8-43fe-859d-ce05f447f9ae
 uri: rules-to-better-website-development-asp-net

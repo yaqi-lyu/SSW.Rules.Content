@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better JavaScript and jQuery
 guid: 682c0e76-3b0b-4278-b314-2b62a46e7178
 uri: rules-to-better-javascript-and-jquery

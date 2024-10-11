@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better DotNetNuke
 guid: 5fe12361-ad75-48f4-8630-58a0b489717d
 uri: rules-to-better-dotnetnuke

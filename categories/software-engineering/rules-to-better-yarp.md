@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better YARP
 guid: f64f11a4-3e87-4e73-916d-f14298b15729
 uri: rules-to-better-yarp

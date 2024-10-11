@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Outbound Calls
 guid: 7b785973-edcd-44ec-b098-0a978f49d052
 uri: rules-to-better-outbound-calls

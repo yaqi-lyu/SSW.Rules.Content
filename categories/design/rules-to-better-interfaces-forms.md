@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Interfaces (Forms)
 guid: f46457d7-6684-440e-9a68-b18202963dc4
 uri: rules-to-better-interfaces-forms

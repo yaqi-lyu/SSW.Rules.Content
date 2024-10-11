@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better GitHub
 guid: bf0a4771-9bbc-4720-bd51-64143051e57c
 uri: rules-to-better-github

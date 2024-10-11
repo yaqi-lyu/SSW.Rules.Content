@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better SQL Server Schema Deployment
 guid: e10caebe-e008-4e44-b594-b39c244d6c8d
 uri: rules-to-better-sql-server-schema-deployment

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Azure
 guid: f816a7f4-473a-4cff-ae39-50f414641409
 uri: rules-to-better-azure

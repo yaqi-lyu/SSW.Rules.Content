@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Interfaces (Mobile)
 guid: 073cbcd8-c942-4a96-a54d-4682c4fc885e
 uri: rules-to-better-interfaces-mobile

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Scrum
 guid: e7bd429d-10df-4d73-b479-cd20afcc8091
 uri: rules-to-better-scrum

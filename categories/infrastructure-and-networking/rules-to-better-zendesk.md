@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Zendesk
 guid: 3154e455-9f6f-406d-8aaf-43b0a84bdfc4
 uri: rules-to-better-zendesk

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better CRM Migration from 2015 to 2016
 guid: e5b77c36-4f4d-49fb-8bc1-5a83857547af
 uri: rules-to-better-crm-migration-from-2015-to-2016

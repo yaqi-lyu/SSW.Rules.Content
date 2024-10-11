@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Bug Management and Product Feedback
 guid: 4b407c09-f06d-47d0-94ff-2ea14e982d8b
 uri: rules-to-better-bug-management-and-product-feedback

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Application Insights
 guid: 637d94ab-1ce2-4f3b-af50-3486460624b5
 uri: rules-to-better-application-insights

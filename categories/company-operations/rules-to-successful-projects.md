@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Successful Projects
 guid: 1ee334eb-2539-4df2-bdae-51c3b6ed3d43
 uri: rules-to-successful-projects

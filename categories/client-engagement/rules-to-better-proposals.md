@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Proposals
 guid: 7fb824ed-22ff-4da5-bd91-2bf3bbd1c47d
 uri: rules-to-better-proposals

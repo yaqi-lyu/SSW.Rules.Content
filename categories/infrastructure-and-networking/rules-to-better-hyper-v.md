@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Hyper-V
 guid: feb86d86-d18b-425d-b717-010d49bec2ee
 uri: rules-to-better-hyper-v

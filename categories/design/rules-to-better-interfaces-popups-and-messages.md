@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Interfaces (Popups and Messages)
 guid: ffd39156-3df1-41c3-9a3d-8441c03d8caa
 uri: rules-to-better-interfaces-popups-and-messages

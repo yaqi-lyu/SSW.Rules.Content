@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Vue
 guid: 30b621b8-7581-444e-81b9-e5a9253d887d
 uri: rules-to-better-vue

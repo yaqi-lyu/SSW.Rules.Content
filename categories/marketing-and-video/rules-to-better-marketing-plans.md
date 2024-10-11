@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Marketing Plans
 guid: ea614e57-020d-4663-b724-4c39313fd2b4
 uri: rules-to-better-marketing-plans

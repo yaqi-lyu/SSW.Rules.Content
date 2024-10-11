@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better CRM – Mail Merge
 guid: 6f1ddbe6-e0b9-4898-930e-a77f7cc7a2a0
 uri: rules-to-better-crm-mail-merge

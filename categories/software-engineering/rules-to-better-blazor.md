@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Blazor
 guid: 45d72b40-f429-44b1-b37f-ecfd5858e46a
 uri: rules-to-better-blazor

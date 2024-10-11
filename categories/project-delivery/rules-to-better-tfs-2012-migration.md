@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better TFS 2012 Migration
 guid: bd79fd7b-5edf-43f7-bd38-07e2315b899a
 uri: rules-to-better-tfs-2012-migration

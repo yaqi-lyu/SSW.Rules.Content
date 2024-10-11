@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Software Consultants - Working in a Team
 guid: 99fb319c-14d5-482f-bf74-b851a56cebb0
 uri: rules-to-better-software-consultants-working-in-a-team

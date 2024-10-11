@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Internationalization
 guid: 4c1776cd-7726-4c6f-b62b-56f57cdead44
 uri: rules-to-better-internationalization

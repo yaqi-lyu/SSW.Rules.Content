@@ -1,5 +1,6 @@
 ---
 type: top-category
+_template: top-category
 title: Project Delivery
 uri: project-delivery
 index:

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Power Apps
 guid: c408e208-8108-47cf-9e03-277f21343bee
 uri: rules-to-better-power-apps

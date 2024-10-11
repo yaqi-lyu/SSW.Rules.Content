@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Powerpoint Presentations
 guid: 793e8f74-478b-4d5d-a5d4-8fb750cffa1c
 uri: rules-to-better-powerpoint-presentations

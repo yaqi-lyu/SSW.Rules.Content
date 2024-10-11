@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Sitefinity
 guid: 749ddebe-a981-4f21-8cf8-44acbbda4165
 uri: rules-to-better-sitefinity

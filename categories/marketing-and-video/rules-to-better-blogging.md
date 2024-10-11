@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Blogging
 guid: 8a9f4f20-dccf-493a-bea3-d1c441c42a22
 uri: rules-to-better-blogging

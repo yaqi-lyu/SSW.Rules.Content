@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better RayGun
 guid: e26fb656-4688-424b-9885-990029f28a40
 uri: rules-to-better-raygun

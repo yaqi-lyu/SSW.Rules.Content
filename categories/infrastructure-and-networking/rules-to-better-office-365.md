@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Office 365
 guid: 00b67ff9-593d-40e1-8d43-fadb9918b961
 uri: rules-to-better-office-365

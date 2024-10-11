@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better IM
 guid: 67f8e978-2aa1-4bc9-96b6-a54cefc3d159
 uri: rules-to-better-im

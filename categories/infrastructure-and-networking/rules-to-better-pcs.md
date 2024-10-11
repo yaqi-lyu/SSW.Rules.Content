@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better PCs
 guid: 34c61381-16ef-4dee-a1c9-ee0bcec8d56c
 uri: rules-to-better-pcs

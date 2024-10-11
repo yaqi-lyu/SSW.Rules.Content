@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Websites - Development
 guid: 9c19bee6-5906-4978-a864-249ebb7307f6
 uri: rules-to-better-websites-development

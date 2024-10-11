@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Calendars
 guid: 2615641b-d1b0-4e08-ac7d-3ed8d5e8d64e
 uri: rules-to-better-calendars

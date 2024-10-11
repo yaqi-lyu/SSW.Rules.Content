@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Microsoft Project Server
 guid: 2ecdd584-893f-4c48-90b4-1cd0cd20be12
 uri: rules-to-better-microsoft-project-server

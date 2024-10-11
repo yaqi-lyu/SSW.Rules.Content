@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better IIS
 guid: 14f7253b-668b-4dbf-ab32-cfb6b9dff134
 uri: rules-to-better-iis

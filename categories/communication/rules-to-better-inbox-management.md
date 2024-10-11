@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Inbox Management
 guid: 11a99a6a-bfd5-49e0-bd02-c109a32e784d
 uri: rules-to-better-inbox-management

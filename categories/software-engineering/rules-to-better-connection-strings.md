@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Connection Strings
 guid: dd3a1ae7-f155-434a-8d56-e32ea1a5cc82
 uri: rules-to-better-connection-strings

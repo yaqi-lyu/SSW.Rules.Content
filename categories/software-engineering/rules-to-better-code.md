@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Code
 guid: 26e2a21d-75a3-4002-8970-a6709436baa8
 uri: rules-to-better-code

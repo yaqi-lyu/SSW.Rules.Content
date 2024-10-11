@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Websites - Tuning and Maintenance
 guid: b25822f3-2793-4f14-85fb-35f099c2d095
 uri: rules-to-better-websites-tuning-and-maintenance

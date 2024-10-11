@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better CRM for Developers
 guid: 0f529183-db33-47b0-8f53-1c03347edf91
 uri: rules-to-better-crm-for-developers

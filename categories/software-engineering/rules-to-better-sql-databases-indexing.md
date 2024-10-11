@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better SQL Databases - Indexing
 guid: 8cc85714-7833-42e2-a837-1d66d9d9fb2c
 uri: rules-to-better-sql-databases-indexing

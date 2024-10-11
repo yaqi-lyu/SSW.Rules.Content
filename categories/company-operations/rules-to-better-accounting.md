@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Accounting
 guid: 31ac668b-6826-461f-ba34-964e46984c6d
 uri: rules-to-better-accounting

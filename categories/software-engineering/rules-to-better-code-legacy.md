@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Code (legacy)
 guid: dc4e3c28-6318-4040-b57e-23a128e0ac66
 uri: rules-to-better-code-legacy

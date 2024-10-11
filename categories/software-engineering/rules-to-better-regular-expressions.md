@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Regular Expressions
 guid: 0b0d891f-4c04-488d-8ff4-fe8733a153ed
 uri: rules-to-better-regular-expressions

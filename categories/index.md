@@ -1,5 +1,6 @@
 ---
 type: main
+_template: main
 index:
 - artificial-intelligence
 - communication

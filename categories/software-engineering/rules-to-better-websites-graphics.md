@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Websites - Graphics
 guid: 7381df49-9745-4ab1-a1db-d86223ca2899
 uri: rules-to-better-websites-graphics

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Video Recording
 guid: 60485409-d17d-4be3-b2a0-1ab5cdd4d82d
 uri: rules-to-better-video-recording

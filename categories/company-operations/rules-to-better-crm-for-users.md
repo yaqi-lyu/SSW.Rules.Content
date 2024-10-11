@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better CRM for Users
 guid: f2c8545d-028b-45ec-b16c-41406d009b01
 uri: rules-to-better-crm-for-users

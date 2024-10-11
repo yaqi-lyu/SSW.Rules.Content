@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better CRM Migration from 3 to 4
 guid: 594a4113-0f8d-4c9d-9cd2-77bb017134ee
 uri: rules-to-better-crm-migration-from-3-to-4

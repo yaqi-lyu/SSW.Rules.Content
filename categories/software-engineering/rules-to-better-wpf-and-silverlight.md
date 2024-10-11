@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better WPF and Silverlight
 guid: aa835ac8-bfab-469a-aaa8-49814a0a60ce
 uri: rules-to-better-wpf-and-silverlight

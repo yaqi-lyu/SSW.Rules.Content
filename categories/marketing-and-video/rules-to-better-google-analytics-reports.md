@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Google Analytics Reports
 guid: 7d782c56-75b8-4443-879e-6a238befaaf1
 uri: rules-to-better-google-analytics-reports

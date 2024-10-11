@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Version Control (aka Source Control)
 guid: 432efbab-9580-4b84-afef-16f6bf505e6d
 uri: rules-to-better-version-control-with-tfs-aka-source-control

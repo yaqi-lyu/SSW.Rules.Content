@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Software Consultants - Happy Clients
 guid: f0a8b41c-21c9-41e2-a46c-f1bef29651fa
 uri: rules-to-better-software-consultants-happy-clients

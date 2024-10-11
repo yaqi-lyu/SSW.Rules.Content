@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better AI Development
 guid: f4727885-bcb3-4117-8df6-23c7809d6bce
 uri: rules-to-better-ai-development

@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Inbound Calls
 guid: e80a2756-1f57-427b-8a20-4a886b125e59
 uri: rules-to-better-inbound-calls

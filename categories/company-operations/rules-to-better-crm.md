@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better CRM
 experts: https://www.ssw.com.au/people/?skill=Dynamics-365-CRM
 consulting: https://www.ssw.com.au/consulting/dynamics-365

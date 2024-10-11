@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Backups
 guid: a942204e-b4b5-4bee-a942-520bc01d3991
 uri: rules-to-better-backups

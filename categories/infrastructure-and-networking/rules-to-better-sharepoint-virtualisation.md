@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better SharePoint Virtualisation
 guid: 17781785-2c7f-4e46-be7e-4fb07f9b4553
 uri: rules-to-better-sharepoint-virtualisation

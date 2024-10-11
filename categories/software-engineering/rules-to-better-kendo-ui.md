@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Kendo UI
 guid: 4c6f5687-8b70-4684-aefd-b3751ddbc2f6
 uri: rules-to-better-kendo-ui

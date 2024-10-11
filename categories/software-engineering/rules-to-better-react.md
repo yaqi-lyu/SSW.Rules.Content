@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better React
 guid: eb2f4d2b-d715-4480-857d-c78862d8e3f3
 uri: rules-to-better-react

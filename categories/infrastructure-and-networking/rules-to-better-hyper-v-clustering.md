@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Hyper-V Clustering
 guid: 5010b8c0-29c0-4786-8af8-8342a2d97520
 uri: rules-to-better-hyper-v-clustering

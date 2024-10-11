@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Data Protection Manager (DPM)
 guid: 5bb18b42-1943-42ed-a318-b6197963450a
 uri: rules-to-better-data-protection-manager-dpm

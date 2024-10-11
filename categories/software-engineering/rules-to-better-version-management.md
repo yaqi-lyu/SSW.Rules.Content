@@ -1,5 +1,6 @@
 ---
 type: category
+_template: category
 title: Rules to Better Version Management
 guid: 990cd245-266d-47f2-97fe-f1b8f31e10f9
 uri: rules-to-better-version-management
