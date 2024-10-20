@@ -30,7 +30,6 @@ index:
   - tofu
   - attention-to-detail
   - collaborate-across-timezones
-  
 ---
 
 > What we've got here is failure to communicate!  
