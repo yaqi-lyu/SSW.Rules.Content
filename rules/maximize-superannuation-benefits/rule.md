@@ -22,8 +22,8 @@ Superannuation isn’t just a passive savings account — it’s an investment v
 
 Let’s break it down by exploring 3 key aspects you need to understand:  
 
-* How compounding and interest rates turn into your investment return 
-* How to grow Super through salary sacrifice (going beyond mandatory) 
+* How compounding and interest rates turn into your investment return
+* How to grow Super through salary sacrifice (going beyond mandatory)
 * How to check your Super fund is giving you strong returns
 
 ## 1. The power of compound interest
@@ -60,7 +60,7 @@ Learn more about the [benefits of salary sacrificing](/salary-sacrifice-electron
 
 Super Salary Sacrifice offers 2 key benefits:
 
-✅ **Tax Savings** - Your salary sacrifice contributions are taxed at 15%, which can be up to 30% lower than your marginal [income tax rate](https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents)     
+✅ **Tax Savings** - Your salary sacrifice contributions are taxed at 15%, which can be up to 30% lower than your marginal [income tax rate](https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents)
 ✅ **Super Boost** - Extra contributions into Super lead to faster compounding growth
 
 The important thing to remember with Super is that your contributions are subject to the Superannuation Contributions Cap. The Cap is $30,000 per year in FY2025, but it changes over time.
