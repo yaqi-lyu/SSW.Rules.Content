@@ -7,6 +7,7 @@ index:
 - software-for-ux-design
 - figma-prototypes
 - figma-uses
+- figma-dev-mode
 
 ---
 
