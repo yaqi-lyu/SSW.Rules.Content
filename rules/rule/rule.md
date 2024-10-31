@@ -21,7 +21,7 @@ created: 2021-01-20T05:06:33.000Z
 archivedreason: null
 guid: 55db32aa-0718-4868-995c-673d8dd69f62
 ---
-
+ 
 This is an example rule + Markdown cheatsheet to give you some guidance around how to write rules and show you the things you can use to format an SSW rule.
 
 <!--endintro-->
