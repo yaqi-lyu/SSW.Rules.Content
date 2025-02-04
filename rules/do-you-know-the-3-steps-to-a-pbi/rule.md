@@ -10,6 +10,8 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 - title: Eric Phan
   url: https://ssw.com.au/people/eric-phan
+- title: Baba Kamyljanov
+  url: https://www.ssw.com.au/people/baba-kamyljanov
 related: []
 redirects:
 - do-you-know-the-3-steps-to-completing-a-pbi
