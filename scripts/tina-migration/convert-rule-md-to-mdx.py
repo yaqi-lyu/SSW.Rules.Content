@@ -3,7 +3,7 @@ import re
 from pathlib import Path
 
 # ----------------------------- #
-# Regex patterns for replacement
+# Regex patterns
 # ----------------------------- #
 
 YOUTUBE_BLOCK_REGEX = r'`youtube:\s*(https?://[^\s]+)`\s*\n\*\*(.*?)\*\*'
@@ -15,122 +15,119 @@ EMAIL_BLOCK_REGEX = (
     r':::\s+:::\s+'
     r'(:::\s*(good|bad|ok).*?:::)'
 )
-
-BOX_WITH_FIGURE_LINE_REGEX = (
-    r':::\s*(greybox|highlight|china|info|todo|codeauditor)\s*\n' 
-    r'([^\n]*?(?:\n(?!:::).*)*?)' 
-    r'\n:::\s*\n'                        
-    r'\*\*Figure:\s*(.*?)\*\*(?=\n|$)'
-)
-BOX_WITH_CAPTIONS_BLOCK_REGEX = (
-    r':::\s*(greybox|highlight|china|info|todo|codeauditor)\s+(.+?)\s+:::\s*'
-    r':::\s*(ok|good|bad)\s+Figure:\s*(.+?)\s+:::'
-)
-BOX_WITHOUT_FIGURE_REGEX = (
-    r':::\s*(greybox|highlight|china|info|todo|codeauditor)\s*\n'
-    r'([^\n]*?(?:\n(?!:::).*)*?)'
-    r'\n:::\s*(?=\n|$)'
-)
-SIMPLE_FIGURE_BLOCK_REGEX = (
-    r':::\s*(good|bad|ok)\s*\n'
-    r'([^\n]*?(?:\n(?!:::).*)*?)'
-    r'\n:::\s*'
-)
+SIMPLE_FIGURE_BLOCK_REGEX = r':::\s*(good|bad|ok)\s*\n(.*?)\n:::' 
+CUSTOM_SIZE_IMAGE_BLOCK_REGEX = r':::\s*(img-small|img-medium|img-large|no-border)\s*\n\s*!\[Figure:\s*(.*?)\]\((.*?)\)\s*:::'
 
 # ----------------------------- #
-# Utility Functions
+# Utilities
 # ----------------------------- #
+
+def escape_single_quotes(text):
+    return text.replace("'", "\\'")
+
+def mdx_safe_template_vars(text):
+    return text.replace("{{", "&#123;&#123;").replace("}}", "&#125;&#125;")
 
 def parse_email_table(table_text):
-    """Extract email fields from a markdown-style table."""
     result = {'to': '', 'cc': '', 'bcc': '', 'subject': ''}
     for line in table_text.splitlines():
         parts = line.split('|')
         if len(parts) < 3:
             continue
         key = parts[1].replace(":", "").strip().lower()
-        value = parts[2].strip()
-        value = mdx_safe_template_vars(value)
+        value = mdx_safe_template_vars(parts[2].strip())
         if key in result:
             result[key] = value
-    # print(f"Parsed email table header: {result}")
     return result
 
 def clean_email_body(body_text):
-    """Prepare the email content block."""
-    body_cleaned = mdx_safe_template_vars(body_text)
-    return re.sub(r'^###', '##', body_cleaned, flags=re.MULTILINE)
-
-def mdx_safe_template_vars(text):
-    # return re.sub(r'{{(.*?)}}', r'`{{\1}}`', text)
-    return text.replace("{{", "&#123;&#123;").replace("}}", "&#125;&#125;")
+    cleaned = mdx_safe_template_vars(body_text)
+    return re.sub(r'^###', '##', cleaned, flags=re.MULTILINE)
 
 # ----------------------------- #
-# Replacement Functions
+# Replacements
 # ----------------------------- #
 
-def replace_youtube_block(match):
-    url = match.group(1).strip()
-    description = match.group(2).strip()
-    return f'<youtubeEmbed url="{url}" description="{description}" />'
+def replace_youtube_block(m):
+    url = m.group(1).strip()
+    desc = m.group(2).strip()
+    return f'<youtubeEmbed url="{url}" description="{desc}" />'
 
-def replace_image_block(match):
-    preset = match.group(1).strip()
-    image_line = match.group(2).strip()
+def replace_image_block(m):
+    preset = m.group(1).strip()
+    image_line = m.group(2).strip()
     alt_match = re.match(r'!\[Figure:\s*(.*?)\]\((.*?)\)', image_line)
-
     if not alt_match:
-        return match.group(0)
-
+        return m.group(0)
     figure = alt_match.group(1).strip()
-    raw_src = alt_match.group(2).strip()
-
-    src_match = re.match(r'^([^"\s]+?\.(?:png|jpg|jpeg|gif|webp|svg))', raw_src, re.IGNORECASE)
-    src = src_match.group(1) if src_match else raw_src
-
+    src = alt_match.group(2).strip()
     return f'''<imageEmbed
   alt="Image"
   size="large"
   showBorder={{false}}
   figureEmbed={{{{
     preset: "{preset}Example",
-    figure: "{figure}",
+    figure: '{escape_single_quotes(figure)}',
     shouldDisplay: true
   }}}}
   src="{src}"
 />'''
 
-def replace_standalone_image(match):
-    figure = match.group(1).strip()
-    src = match.group(2).strip()
+def replace_custom_size_image_block(m):
+    variant = m.group(1).strip()
+    figure = escape_single_quotes(m.group(2).strip())
+    src = m.group(3).strip()
 
+    size = {
+        "img-small": "small",
+        "img-medium": "medium",
+        "img-large": "large",
+        "no-border": "large"
+    }.get(variant, "large")
+
+    show_border = "false" if variant == "no-border" else "true"
+
+    return f'''<imageEmbed
+  alt="Image"
+  size="{size}"
+  showBorder={{{show_border}}}
+  figureEmbed={{{{
+    preset: "default",
+    figure: '{figure}',
+    shouldDisplay: true
+  }}}}
+  src="{src}"
+/>'''
+
+def replace_standalone_image(m):
+    figure = m.group(1).strip()
+    src = m.group(2).strip()
     return f'''<imageEmbed
   alt="Image"
   size="large"
   showBorder={{false}}
   figureEmbed={{{{
     preset: "default",
-    figure: "{figure}",
+    figure: '{escape_single_quotes(figure)}',
     shouldDisplay: true
   }}}}
   src="{src}"
 />'''
 
-def replace_email_block(match):
-    email_table = match.group(1)
-    email_body = match.group(2).strip()
-    figure_block = match.group(3)
+def replace_email_block(m):
+    table = m.group(1)
+    body = m.group(2).strip()
+    figure_block = m.group(3)
 
-    email_data = parse_email_table(email_table)
-    body_cleaned = clean_email_body(email_body)
+    email_data = parse_email_table(table)
+    cleaned_body = clean_email_body(body)
 
-    # Parse figure block info
-    should_display = 'Figure:' in figure_block
     preset_match = re.match(r'::: (good|bad|ok)', figure_block.strip())
-    preset = f"{preset_match.group(1)}Example" if preset_match else "goodExample"
-
-    figure_text_match = re.search(r'Figure:\s*(.*?)\n', figure_block)
-    figure_text = figure_text_match.group(1).strip() if figure_text_match else "Email Example"
+    preset = f"{preset_match.group(1)}Example" if preset_match else "default"
+    # figure_match = re.search(r'Figure:\s*(.*?)\n?', figure_block)
+    figure_match = re.search(r'Figure:\s*(.*)', figure_block)
+    figure = figure_match.group(1).strip() if figure_match else "Example"
+    should_display = 'Figure:' in figure_block
 
     return f'''<emailEmbed
   to="{email_data['to']}"
@@ -138,81 +135,104 @@ def replace_email_block(match):
   bcc="{email_data['bcc']}"
   subject="{email_data['subject']}"
   body={{<>
-    {body_cleaned}
+    {cleaned_body}
   </>}}
   figureEmbed={{{{
     preset: "{preset}",
-    figure: "{figure_text}",
+    figure: "{figure}",
     shouldDisplay: {"true" if should_display else "false"}
   }}}}
 />'''
 
-def replace_box_with_figure_line(match):
-    variant = match.group(1).strip()
-    body_text = match.group(2).strip()
-    figure = match.group(3).strip()
-
-    print(f"Replacing box with figure line with variant: {variant}, figure: {figure}")
-
-    return f'''<asideEmbed
-  variant="{variant}"
-  body={{<>
-    {body_text}
-  </>}}
-  figureEmbed={{ {{
-    preset: "default",
-    figure: "{figure}",
-    shouldDisplay: true
-  }} }}
-/>'''
-
-def replace_box_block(match):
-    variant = match.group(1).strip()
-    body_text = match.group(2).strip()
-    preset = match.group(3).strip() + "Example"
-    figure = match.group(4).strip()
-
-    print(f"Replacing box block with variant: {variant}, preset: {preset}, figure: {figure}")
-
-    return f'''<asideEmbed
-  variant="{variant}"
-  body={{<>
-    {body_text}
-  </>}}
-  figureEmbed={{ {{
-    preset: "{preset}",
-    figure: "{figure}",
-    shouldDisplay: true
-  }} }}
-/>'''
-
-def replace_box_without_figure(match):
-    variant = match.group(1).strip()
-    body_text = match.group(2).strip()
-
-    print(f"Replacing box without figure: variant={variant}")
-
-    return f'''<asideEmbed
-  variant="{variant}"
-  body={{<>
-    {body_text}
-  </>}}
-  figureEmbed={{ {{
-    preset: "default",
-    figure: "XXX",
-    shouldDisplay: false
-  }} }}
-/>'''
-
-def replace_simple_figure_block(match):
-    preset = match.group(1).strip()
-    figure = match.group(2).strip()
-
-    return f'''<figureEmbed figureEmbed={{ {{
+def replace_simple_figure_block(m):
+    preset = m.group(1).strip()
+    figure = m.group(2).strip()
+    return f'''<figureEmbed figureEmbed={{{{
   preset: "{preset}Example",
-  figure: "{figure}",
+  figure: '{escape_single_quotes(figure)}',
   shouldDisplay: true
 }} }} />\n'''
+
+# ----------------------------- #
+# State machine for ::: blocks
+# ----------------------------- #
+
+def process_custom_aside_blocks(content):
+    lines = content.splitlines()
+    output = []
+    i = 0
+    in_box = False
+    box_type = ""
+    buffer = []
+
+    while i < len(lines):
+        line = lines[i].rstrip()
+
+        match_start = re.match(r":::\s*(greybox|highlight|china|info|todo|codeauditor)\s*$", line)
+        if match_start and not in_box:
+            in_box = True
+            box_type = match_start.group(1)
+            buffer = []
+            i += 1
+            continue
+
+        if in_box and line.strip() == ":::":
+
+            preset = "default"
+            figure = "XXX"
+            show = False
+
+            if i + 1 < len(lines):
+                next_line = lines[i + 1].strip()
+                single_line = re.match(r"^:::\s*(good|bad|ok)\s+Figure:\s*(.*?)\s+:::", next_line)
+                if single_line:
+                    preset = f"{single_line.group(1)}Example"
+                    figure = single_line.group(2)
+                    show = True
+                    i += 1
+                else:
+                    alt_caption = re.match(r"^\*\*Figure:\s*(.*?)\*\*", next_line)
+                    if alt_caption:
+                        figure = alt_caption.group(1)
+                        show = True
+                        i += 1
+                    elif (
+                        i + 3 < len(lines)
+                        and (match_l1 := re.match(r"^:::\s*(good|bad|ok)\s*$", lines[i + 1].strip()))
+                        and (match_l2 := re.match(r"^Figure:\s*(.*?)\s*$", lines[i + 2].strip()))
+                        and lines[i + 3].strip() == ":::"
+                    ):
+                        preset = f"{match_l1.group(1)}Example"
+                        figure = match_l2.group(1).strip()
+                        show = True
+                        i += 3
+
+            body = '\n'.join(buffer).replace("`<", "&lt;").replace(">`", "&gt;")
+            print("Processing box type:", figure)
+            embed = f'''<asideEmbed
+  variant="{box_type}"
+  body={{<>
+    {body}
+  </>}}
+  figureEmbed={{{{
+    preset: "{preset}",
+    figure: "{figure}",
+    shouldDisplay: {"true" if show else "false"}
+  }}}}
+/>'''
+            output.append(embed)
+            in_box = False
+            i += 1
+            continue
+
+        if in_box:
+            buffer.append(line)
+        else:
+            output.append(line)
+
+        i += 1
+
+    return '\n'.join(output)
 
 # ----------------------------- #
 # Main Transform Function
@@ -224,34 +244,27 @@ def transform_rule_md_to_mdx(file_path='../../rules/rule/rule.md'):
         print(f"File not found: {file_path}")
         return
 
-    with open(path, 'r', encoding='utf-8') as f:
-        content = f.read()
+    content = path.read_text(encoding='utf-8')
 
-    # Remove <!--endintro--> line
+    content = process_custom_aside_blocks(content)
+
     content = re.sub(r'^\s*<!--endintro-->\s*\n?', '', content, flags=re.MULTILINE)
 
-    # Apply replacements
     content = re.sub(YOUTUBE_BLOCK_REGEX, replace_youtube_block, content, flags=re.MULTILINE)
     content = re.sub(IMAGE_BLOCK_REGEX, replace_image_block, content, flags=re.DOTALL)
+    content = re.sub(CUSTOM_SIZE_IMAGE_BLOCK_REGEX, replace_custom_size_image_block, content, flags=re.DOTALL)
     content = re.sub(STANDALONE_IMAGE_REGEX, replace_standalone_image, content)
     content = re.sub(EMAIL_BLOCK_REGEX, replace_email_block, content, flags=re.DOTALL)
     content = re.sub(SIMPLE_FIGURE_BLOCK_REGEX, replace_simple_figure_block, content, flags=re.DOTALL)
 
-    content = re.sub(BOX_WITH_FIGURE_LINE_REGEX, replace_box_with_figure_line, content, flags=re.DOTALL)
-    content = re.sub(BOX_WITH_CAPTIONS_BLOCK_REGEX, replace_box_block, content, flags=re.DOTALL)
-    print("Before BOX_WITH_FIGURE_LINE_REGEX replacement")
-    content = re.sub(BOX_WITHOUT_FIGURE_REGEX, replace_box_without_figure, content, flags=re.DOTALL)
-    print("After BOX_WITH_FIGURE_LINE_REGEX replacement")
 
-    # Write output as .mdx
     output_path = path.with_suffix('.mdx')
-    with open(output_path, 'w', encoding='utf-8') as f:
-        f.write(content)
+    output_path.write_text(content, encoding='utf-8')
 
     print(f"Transformed content saved to: {output_path}")
 
 # ----------------------------- #
-# Entry point
+# Entry Point
 # ----------------------------- #
 
 if __name__ == '__main__':
