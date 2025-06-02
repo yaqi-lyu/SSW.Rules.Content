@@ -1,6 +1,7 @@
 import os
 import re
 from pathlib import Path
+import time
 
 # ----------------------------- #
 # Regex patterns
@@ -124,7 +125,6 @@ def replace_email_block(m):
 
     preset_match = re.match(r'::: (good|bad|ok)', figure_block.strip())
     preset = f"{preset_match.group(1)}Example" if preset_match else "default"
-    # figure_match = re.search(r'Figure:\s*(.*?)\n?', figure_block)
     figure_match = re.search(r'Figure:\s*(.*)', figure_block)
     figure = figure_match.group(1).strip() if figure_match else "Example"
     should_display = 'Figure:' in figure_block
@@ -152,10 +152,6 @@ def replace_simple_figure_block(m):
   figure: '{escape_single_quotes(figure)}',
   shouldDisplay: true
 }} }} />\n'''
-
-# ----------------------------- #
-# State machine for ::: blocks
-# ----------------------------- #
 
 def process_custom_aside_blocks(content):
     lines = content.splitlines()
@@ -208,7 +204,6 @@ def process_custom_aside_blocks(content):
                         i += 3
 
             body = '\n'.join(buffer).replace("`<", "&lt;").replace(">`", "&gt;")
-            print("Processing box type:", figure)
             embed = f'''<asideEmbed
   variant="{box_type}"
   body={{<>
@@ -263,9 +258,52 @@ def transform_rule_md_to_mdx(file_path='../../rules/rule/rule.md'):
 
     print(f"Transformed content saved to: {output_path}")
 
+def transform_all_rules(base_dir='../../rules'):
+    start_time = time.time()
+
+    base_path = Path(base_dir)
+    if not base_path.exists():
+        print(f"Base path not found: {base_dir}")
+        return
+
+    count = 0
+
+    for rule_dir in base_path.iterdir():
+        if rule_dir.is_dir():
+            rule_md = rule_dir / 'rule.md'
+            if rule_md.exists():
+                print(f"[INFO] Processing: {rule_md}")
+                try:
+                    content = rule_md.read_text(encoding='utf-8')
+
+                    # === TRANSFORM PIPELINE ===
+                    content = process_custom_aside_blocks(content)
+                    content = re.sub(r'^\s*<!--endintro-->\s*\n?', '', content, flags=re.MULTILINE)
+                    content = re.sub(YOUTUBE_BLOCK_REGEX, replace_youtube_block, content, flags=re.MULTILINE)
+                    content = re.sub(IMAGE_BLOCK_REGEX, replace_image_block, content, flags=re.DOTALL)
+                    content = re.sub(CUSTOM_SIZE_IMAGE_BLOCK_REGEX, replace_custom_size_image_block, content, flags=re.DOTALL)
+                    content = re.sub(STANDALONE_IMAGE_REGEX, replace_standalone_image, content)
+                    content = re.sub(EMAIL_BLOCK_REGEX, replace_email_block, content, flags=re.DOTALL)
+                    content = re.sub(SIMPLE_FIGURE_BLOCK_REGEX, replace_simple_figure_block, content, flags=re.DOTALL)
+
+                    # === SAVE AS rule.mdx ===
+                    output_path = rule_md.with_suffix('.mdx')
+                    output_path.write_text(content, encoding='utf-8')
+                    rule_md.unlink()  # delete original .md file
+
+                    print(f"[SUCCESS] Converted and replaced: {output_path}")
+                    count += 1
+
+                except Exception as e:
+                    print(f"[ERROR] Failed to process {rule_md}: {e}")
+
+    end_time = time.time()
+    elapsed = end_time - start_time
+    print(f"\n✅ Finished processing {count} rule.md files in {elapsed:.2f} seconds.")
+
 # ----------------------------- #
 # Entry Point
 # ----------------------------- #
 
 if __name__ == '__main__':
-    transform_rule_md_to_mdx()
+    transform_all_rules()
