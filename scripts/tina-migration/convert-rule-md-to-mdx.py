@@ -314,4 +314,5 @@ def transform_all_rules(base_dir='../../rules'):
 # ----------------------------- #
 
 if __name__ == '__main__':
-    transform_all_rules()
+    # transform_all_rules()
+    transform_rule_md_to_mdx()
