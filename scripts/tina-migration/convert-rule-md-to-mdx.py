@@ -111,7 +111,7 @@ def replace_standalone_image(m):
     raw_src = m.group(2).strip()
     src = clean_image_src(raw_src)
 
-    return f'''<imageEmbed
+    return '\n' + f'''<imageEmbed
   alt="Image"
   size="large"
   showBorder={{false}}
@@ -314,5 +314,4 @@ def transform_all_rules(base_dir='../../rules'):
 # ----------------------------- #
 
 if __name__ == '__main__':
-    # transform_all_rules()
-    transform_rule_md_to_mdx()
+    transform_all_rules()
