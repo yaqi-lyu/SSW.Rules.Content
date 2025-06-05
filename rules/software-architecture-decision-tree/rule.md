@@ -97,6 +97,7 @@ Also, from a pragmatic point of view a combination of Modular Monolith and Micro
 Here are some practical scenarios to illustrate the decision-making process:
 
 ::: greybox
+
 ### Scenario 1: Startup with uncertain requirements
 
 You are building an MVP with a small team and expect the requirements to evolve rapidly.
@@ -105,6 +106,7 @@ You are building an MVP with a small team and expect the requirements to evolve 
 :::
 
 ::: greybox
+
 ### Scenario 2: Medium-sized business with limited DevOps maturity
 
 You have a mid-sized team, and your organization is still developing its DevOps practices.
@@ -113,6 +115,7 @@ You have a mid-sized team, and your organization is still developing its DevOps 
 :::
 
 ::: greybox
+
 ### Scenario 3: Large enterprise with multiple domains and teams
 
 You are developing a large-scale application with multiple business domains and have several teams working in parallel.
