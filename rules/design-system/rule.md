@@ -65,10 +65,10 @@ A solid design system should include:
 
 ## Design System maturity: From Library to Ecosystem
 
-Design systems don’t need to be fully built from day one. There are different levels of implementation depending on the maturity of the team/product. 
+Design systems don’t need to be fully built from day one. There are different levels of implementation depending on the maturity of the team/product.
 
 ::: info
-Most teams don't start with a full design system — they start small with just a few shared components and evolve over time. 
+Most teams don't start with a full design system — they start small with just a few shared components and evolve over time.
 :::
 
 Since “design system” is often used loosely, this table helps clarify where your team sits and what to aim for next:
