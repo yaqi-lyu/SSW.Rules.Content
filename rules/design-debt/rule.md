@@ -63,46 +63,38 @@ We’ve all done it. But enough of these add up fast. Before you know it, the pr
 
 ## How to prevent design debt
 
-### 1. Before you code
+### What to do before you code
 
-First check if what you want to change is already in the design system. If yes, you just need to follow it. If not, then ask yourself:
+Check if the change is already in the design system.  
+✅ **If yes**: use it.  
+❌ **If no**: ask yourself:
 
-* Will users see this change?
-* Does it affect layout, spacing, interaction, or visuals?
+- Will users see this change?  
+- Does it affect layout, spacing, interaction, or visuals?  
 
-If the answer is "yes" or you're not sure; **it involves design**. So ask for a "Test Please" and tag a designer on the PBI before making changes.
+If the answer is **yes** (or you’re unsure), it involves design.  
+👉 Ask for a **"Test Please"** and tag a designer on the PBI.
+📌 *If it's a bigger change, create a PBI.*
+If no designer is available or you're under time pressure, **log the Design Debt** and tag a designer for visibility.
 
-### 2. Track it properly
 
-Even small tweaks need visibility:
-
-* Create a PBI for every UI change
-* Tag it "needs-design" or "minor-UI" depending on the impact
-* Let the PO and designer review and prioritize
-
-### 3. Use the design system
-
-Design systems are like component libraries — but for UI.
-
-* If the component exists, use it
-* If it doesn’t, ask if a new pattern is needed
-
-Always check with design — no exceptions.
 
 ## Example – The SSW Mega Menu
 
 ::: greybox
-This Menu has had small tweaks added over time: new icons, padding changes, label tweaks — all without a design review.
+A stakeholder requested these dotted underlines, and they were implemented without design review.
 :::
+
 ::: bad
-![Figure: Bad example – The Mega Menu has evolved and accumulated inconsistencies that breaks the original design](design-debt-bad-ex.png)
+![Figure: Bad example – Dotted lines added without design approval or alignment with the design system](https://github.com/user-attachments/assets/42b35115-99cc-4d31-9726-07c20ca36ae2)
 :::
 
 ::: greybox
-This is the original Menu design — consistent, aligned with the design system, and reviewed by design before implementation.
+In this version, the developer tagged a designer for review before implementation.
 :::
+
 ::: good
-![Figure: Good example – The Mega Menu is clean and consistent as originally designed](design-debt-good-ex.png)
+![Figure: Good example – A designer was tagged, reviewed the proposed dotted line, and flagged it as inconsistent with the product and design standards](https://github.com/user-attachments/assets/4c6eb728-084d-4b4f-874b-96a70255762b)
 :::
 
 ## More ways to prevent design debt
