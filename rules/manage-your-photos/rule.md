@@ -16,11 +16,11 @@ guid: 51bc0f77-deab-436e-be51-ebc00b076009
 ---
 Have you ever wasted time searching through disorganized photo folders or lost images when a team member leaves? Managing images poorly can be costly and frustrating.
 
-Google Photos offers a practical way to organize and find your images with ease. Using features like automatic sorting, facial recognition, and powerful search tools, it helps you quickly locate specific photos from your collection. 
+Google Photos offers a practical way to organize and find your images with ease. Using features like automatic sorting, facial recognition, and powerful search tools, it helps you quickly locate specific photos from your collection.
 
 <!--endintro-->
 
-Whether you're looking for a picture of a specific person, place, or event, Google Photos makes the process straightforward and efficient. 
+Whether you're looking for a picture of a specific person, place, or event, Google Photos makes the process straightforward and efficient.
 
 ::: bad
 ![Figure: Bad example - Collecting the photos and storing them in a repository. It isn't clear at this stage, what the photos are of, or who is in them](bad-example-managing-photos.png)
